@@ -8,7 +8,7 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 import numpy as np
 
-# nltk.download('all')
+# nltk.download('all') #first time only
 
 # For use with Financial Modeling prep but couldn't get earning call transcripts with free subscription.
 # base_url = 'https://financialmodelingprep.com/api'
@@ -33,7 +33,7 @@ def preprocess_text(text):
     lemmatized_tokens = [lemmatizer.lemmatize(token) for token in filtered_tokens]
     # Join the tokens back into a string
     processed_text = ' '.join(lemmatized_tokens)
-    print(processed_text)
+    # print(processed_text)
     return processed_text
 
 # initialize NLTK sentiment analyzer
@@ -42,28 +42,47 @@ analyzer = SentimentIntensityAnalyzer()
 def get_sentiment(text):
     scores = analyzer.polarity_scores(text)
     sentiment = 1 if scores['pos'] > 0 else 0
+    print(scores)
     print(sentiment)
-    return sentiment
+    return scores, sentiment
 
 
 ## Using https://discountingcashflows.com/documentation/api-guide/
+
+df = pd.read_csv('companies.csv')
+tickerlist = df['Symbol']
+scoreslist = []
 base_url = 'https://discountingcashflows.com'
-ticker = 'TSLA'
-quarter = 'Q4' #Q2, Q3, Q4
-year = 2022
-ect_endpoint = f'{base_url}/api/transcript/{ticker}/{quarter}/{year}'
+quarter = 'Q1' #Q2, Q3, Q4
+year = 2024
 
-response = requests.get(ect_endpoint)
-data = response.json()
-# print(data)
-# print(data[0]['content']) #access just the transcript under 'content' *this is a list with dictionary in it
+for index, row in df.iterrows():
+    try:
+        ticker = row['Symbol']
+        company = row ['Security']
+        sector = row['GICS Sector']
+        subsector = row['GICS Sub-Industry']
+        # ticker = 'AMC'
+        ect_endpoint = f'{base_url}/api/transcript/{ticker}/{quarter}/{year}'
 
-symbol = data[0]['symbol']
-quarter = data[0]['quarter']
-year = data[0]['year']
-date = data[0]['date']
-transcript = data[0]['content']
+        response = requests.get(ect_endpoint)
+        data = response.json()
+        # print(data[0]['content']) #access just the transcript under 'content' *this is a list with dictionary in it
 
-proc_transcript = preprocess_text(transcript)
-get_sentiment(proc_transcript)
+        print(f'company: {company}; ticker:{ticker}; sector: {sector}')
+        
+        # symbol = data[0]['symbol']
+        # quarter = data[0]['quarter']
+        # year = data[0]['year']
+        date = data[0]['date']
+        transcript = data[0]['content']
 
+        proc_transcript = preprocess_text(transcript)
+        scores, sentiment = get_sentiment(proc_transcript)
+
+        scoreslist.append([ticker,company,sector,subsector,f'Q{quarter}',year,date,scores,sentiment])
+    except:
+        print('There was an issue or something')
+
+compiledscores_df = pd.DataFrame(scoreslist)
+compiledscores_df.to_csv('compiled_sentiment.csv')
