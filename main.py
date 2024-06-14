@@ -46,43 +46,57 @@ def get_sentiment(text):
     print(sentiment)
     return scores, sentiment
 
+def get_sentiment_allsp500(quarter='1', year=2024):
+    ## Using https://discountingcashflows.com/documentation/api-guide/
+    # df = pd.read_csv('companies.csv')
+    df = pd.read_csv('companies.csv')
+    tickerlist = df['Symbol']
+    scoreslist = []
+    base_url = 'https://discountingcashflows.com'
+    # quarter = 'Q1' #Q2, Q3, Q4
+    # year = 2024
 
-## Using https://discountingcashflows.com/documentation/api-guide/
+    for index, row in df.iterrows():
+        try:
+            ticker = row['Symbol']
+            company = row ['Security']
+            sector = row['GICS Sector']
+            subsector = row['GICS Sub-Industry']
+            # ticker = 'AMC'
+            ect_endpoint = f'{base_url}/api/transcript/{ticker}/{quarter}/{year}'
 
-df = pd.read_csv('companies.csv')
-tickerlist = df['Symbol']
-scoreslist = []
-base_url = 'https://discountingcashflows.com'
-quarter = 'Q1' #Q2, Q3, Q4
-year = 2024
+            response = requests.get(ect_endpoint)
+            data = response.json()
+            # print(data[0]['content']) #access just the transcript under 'content' *this is a list with dictionary in it
 
-for index, row in df.iterrows():
-    try:
-        ticker = row['Symbol']
-        company = row ['Security']
-        sector = row['GICS Sector']
-        subsector = row['GICS Sub-Industry']
-        # ticker = 'AMC'
-        ect_endpoint = f'{base_url}/api/transcript/{ticker}/{quarter}/{year}'
+            print(f'company: {company}; ticker:{ticker}; sector: {sector}')
+            
+            date = data[0]['date']
+            transcript = data[0]['content']
 
-        response = requests.get(ect_endpoint)
-        data = response.json()
-        # print(data[0]['content']) #access just the transcript under 'content' *this is a list with dictionary in it
+            proc_transcript = preprocess_text(transcript)
+            scores, sentiment = get_sentiment(proc_transcript)
 
-        print(f'company: {company}; ticker:{ticker}; sector: {sector}')
-        
-        # symbol = data[0]['symbol']
-        # quarter = data[0]['quarter']
-        # year = data[0]['year']
-        date = data[0]['date']
-        transcript = data[0]['content']
+            
+            scoreslist.append([ticker,company,sector,subsector,f'Q{quarter}',year,date,scores['neg'],scores['neu'],scores['pos'],scores['compound']])
+        except:
+            print('There was an issue or something')
 
-        proc_transcript = preprocess_text(transcript)
-        scores, sentiment = get_sentiment(proc_transcript)
+    compiledscores_df = pd.DataFrame(scoreslist)
+    compiledscores_df.columns = ['ticker','company','sector','sub-sector','quarter','year','date','score-neg','score-neu','score-pos','score-compound']
+    compiledscores_df.to_csv(f'compiled_sentiment_Q{quarter}-{year}.csv', index=False)
+    return compiledscores_df
 
-        scoreslist.append([ticker,company,sector,subsector,f'Q{quarter}',year,date,scores,sentiment])
-    except:
-        print('There was an issue or something')
+def average_sentiments(quarter='1', year=2024):
+    df = pd.read_csv(f'compiled_sentiment_Q{quarter}-{year}.csv') #change to MySQL db later
 
-compiledscores_df = pd.DataFrame(scoreslist)
-compiledscores_df.to_csv('compiled_sentiment.csv')
+    neg_av = df['score-neg'].mean()
+    neu_av = df['score-neu'].mean()
+    pos_av = df['score-pos'].mean()
+
+    print(f'neg av: {neg_av}; neu av: {neu_av}; pos_av: {pos_av}')
+    return
+
+
+average_sentiments()
+# get_sentiment_allsp500()

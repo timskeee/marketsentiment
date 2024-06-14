@@ -1,0 +1,493 @@
+ticker,company,sector,sub-sector,quarter,year,date,sentiment scores,compiled sentiment
+MMM,3M,Industrials,Industrial Conglomerates,QQ1,2024,4/30/2024 0:00,"{'neg': 0.022, 'neu': 0.724, 'pos': 0.253, 'compound': 1.0}",1
+AOS,A. O. Smith,Industrials,Building Products,QQ1,2024,4/25/2024 0:00,"{'neg': 0.029, 'neu': 0.752, 'pos': 0.22, 'compound': 1.0}",1
+ABT,Abbott,Health Care,Health Care Equipment,QQ1,2024,4/17/2024 12:05,"{'neg': 0.029, 'neu': 0.71, 'pos': 0.261, 'compound': 1.0}",1
+ABBV,AbbVie,Health Care,Biotechnology,QQ1,2024,4/26/2024 13:25,"{'neg': 0.034, 'neu': 0.743, 'pos': 0.223, 'compound': 1.0}",1
+ACN,Accenture,Information Technology,IT Consulting & Other Services,QQ1,2024,12/19/2023 11:51,"{'neg': 0.019, 'neu': 0.73, 'pos': 0.251, 'compound': 1.0}",1
+ADBE,Adobe Inc.,Information Technology,Application Software,QQ1,2024,3/14/2024 21:44,"{'neg': 0.012, 'neu': 0.738, 'pos': 0.249, 'compound': 1.0}",1
+AMD,Advanced Micro Devices,Information Technology,Semiconductors,QQ1,2024,4/30/2024 0:00,"{'neg': 0.03, 'neu': 0.748, 'pos': 0.222, 'compound': 1.0}",1
+AES,AES Corporation,Utilities,Independent Power Producers & Energy Traders,QQ1,2024,5/3/2024 13:25,"{'neg': 0.026, 'neu': 0.76, 'pos': 0.214, 'compound': 1.0}",1
+AFL,Aflac,Financials,Life & Health Insurance,QQ1,2024,5/2/2024 0:00,"{'neg': 0.047, 'neu': 0.728, 'pos': 0.224, 'compound': 1.0}",1
+A,Agilent Technologies,Health Care,Life Sciences Tools & Services,QQ1,2024,2/27/2024 21:36,"{'neg': 0.019, 'neu': 0.732, 'pos': 0.249, 'compound': 1.0}",1
+APD,Air Products and Chemicals,Materials,Industrial Gases,QQ1,2024,2/5/2024 12:34,"{'neg': 0.041, 'neu': 0.71, 'pos': 0.249, 'compound': 1.0}",1
+ABNB,Airbnb,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",QQ1,2024,5/8/2024 18:48,"{'neg': 0.024, 'neu': 0.743, 'pos': 0.234, 'compound': 1.0}",1
+AKAM,Akamai,Information Technology,Internet Services & Infrastructure,QQ1,2024,5/9/2024 19:52,"{'neg': 0.035, 'neu': 0.728, 'pos': 0.238, 'compound': 1.0}",1
+ALB,Albemarle Corporation,Materials,Specialty Chemicals,QQ1,2024,5/2/2024 13:19,"{'neg': 0.029, 'neu': 0.777, 'pos': 0.194, 'compound': 1.0}",1
+ARE,Alexandria Real Estate Equities,Real Estate,Office REITs,QQ1,2024,4/23/2024 19:45,"{'neg': 0.034, 'neu': 0.738, 'pos': 0.229, 'compound': 1.0}",1
+ALGN,Align Technology,Health Care,Health Care Supplies,QQ1,2024,4/24/2024 0:00,"{'neg': 0.017, 'neu': 0.758, 'pos': 0.225, 'compound': 1.0}",1
+ALLE,Allegion,Industrials,Building Products,QQ1,2024,4/25/2024 0:00,"{'neg': 0.027, 'neu': 0.738, 'pos': 0.235, 'compound': 0.9999}",1
+LNT,Alliant Energy,Utilities,Electric Utilities,QQ1,2024,5/3/2024 0:00,"{'neg': 0.015, 'neu': 0.699, 'pos': 0.286, 'compound': 1.0}",1
+ALL,Allstate,Financials,Property & Casualty Insurance,QQ1,2024,5/2/2024 0:00,"{'neg': 0.044, 'neu': 0.713, 'pos': 0.243, 'compound': 1.0}",1
+GOOGL,Alphabet Inc. (Class A),Communication Services,Interactive Media & Services,QQ1,2024,4/25/2024 0:00,"{'neg': 0.011, 'neu': 0.754, 'pos': 0.234, 'compound': 1.0}",1
+GOOG,Alphabet Inc. (Class C),Communication Services,Interactive Media & Services,QQ1,2024,4/25/2024 0:00,"{'neg': 0.011, 'neu': 0.754, 'pos': 0.234, 'compound': 1.0}",1
+MO,Altria,Consumer Staples,Tobacco,QQ1,2024,4/25/2024 0:00,"{'neg': 0.041, 'neu': 0.761, 'pos': 0.198, 'compound': 1.0}",1
+AMZN,Amazon,Consumer Discretionary,Broadline Retail,QQ1,2024,4/30/2024 0:00,"{'neg': 0.023, 'neu': 0.749, 'pos': 0.228, 'compound': 1.0}",1
+AMCR,Amcor,Materials,Paper & Plastic Packaging Products & Materials,QQ1,2024,10/31/2023 23:09,"{'neg': 0.035, 'neu': 0.747, 'pos': 0.218, 'compound': 1.0}",1
+AEE,Ameren,Utilities,Multi-Utilities,QQ1,2024,5/3/2024 13:43,"{'neg': 0.014, 'neu': 0.755, 'pos': 0.231, 'compound': 1.0}",1
+AAL,American Airlines Group,Industrials,Passenger Airlines,QQ1,2024,4/25/2024 0:00,"{'neg': 0.029, 'neu': 0.726, 'pos': 0.245, 'compound': 1.0}",1
+AEP,American Electric Power,Utilities,Electric Utilities,QQ1,2024,4/30/2024 0:00,"{'neg': 0.019, 'neu': 0.754, 'pos': 0.227, 'compound': 1.0}",1
+AXP,American Express,Financials,Consumer Finance,QQ1,2024,4/19/2024 11:58,"{'neg': 0.017, 'neu': 0.723, 'pos': 0.26, 'compound': 1.0}",1
+AIG,American International Group,Financials,Multi-line Insurance,QQ1,2024,5/2/2024 0:00,"{'neg': 0.074, 'neu': 0.728, 'pos': 0.198, 'compound': 1.0}",1
+AMT,American Tower,Real Estate,Telecom Tower REITs,QQ1,2024,4/30/2024 0:00,"{'neg': 0.024, 'neu': 0.754, 'pos': 0.221, 'compound': 1.0}",1
+AWK,American Water Works,Utilities,Water Utilities,QQ1,2024,5/2/2024 0:00,"{'neg': 0.023, 'neu': 0.754, 'pos': 0.223, 'compound': 1.0}",1
+AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks,QQ1,2024,4/23/2024 13:11,"{'neg': 0.013, 'neu': 0.687, 'pos': 0.299, 'compound': 1.0}",1
+AME,Ametek,Industrials,Electrical Components & Equipment,QQ1,2024,5/2/2024 0:00,"{'neg': 0.022, 'neu': 0.705, 'pos': 0.273, 'compound': 1.0}",1
+AMGN,Amgen,Health Care,Biotechnology,QQ1,2024,5/2/2024 0:00,"{'neg': 0.041, 'neu': 0.737, 'pos': 0.223, 'compound': 1.0}",1
+APH,Amphenol,Information Technology,Electronic Components,QQ1,2024,4/24/2024 0:00,"{'neg': 0.022, 'neu': 0.72, 'pos': 0.259, 'compound': 1.0}",1
+ADI,Analog Devices,Information Technology,Semiconductors,QQ1,2024,2/21/2024 13:54,"{'neg': 0.047, 'neu': 0.712, 'pos': 0.242, 'compound': 1.0}",1
+AON,Aon,Financials,Insurance Brokers,QQ1,2024,4/26/2024 0:00,"{'neg': 0.034, 'neu': 0.687, 'pos': 0.279, 'compound': 1.0}",1
+APA,APA Corporation,Energy,Oil & Gas Exploration & Production,QQ1,2024,5/2/2024 0:00,"{'neg': 0.04, 'neu': 0.757, 'pos': 0.202, 'compound': 1.0}",1
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",QQ1,2024,2/1/2024 20:17,"{'neg': 0.025, 'neu': 0.741, 'pos': 0.234, 'compound': 1.0}",1
+AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,QQ1,2024,2/15/2024 19:55,"{'neg': 0.018, 'neu': 0.715, 'pos': 0.266, 'compound': 1.0}",1
+APTV,Aptiv,Consumer Discretionary,Automotive Parts & Equipment,QQ1,2024,5/2/2024 0:00,"{'neg': 0.023, 'neu': 0.757, 'pos': 0.22, 'compound': 1.0}",1
+ACGL,Arch Capital Group,Financials,Property & Casualty Insurance,QQ1,2024,4/30/2024 17:45,"{'neg': 0.057, 'neu': 0.722, 'pos': 0.221, 'compound': 1.0}",1
+ADM,Archer-Daniels-Midland,Consumer Staples,Agricultural Products & Services,QQ1,2024,4/30/2024 13:49,"{'neg': 0.047, 'neu': 0.729, 'pos': 0.224, 'compound': 1.0}",1
+ANET,Arista Networks,Information Technology,Communications Equipment,QQ1,2024,5/7/2024 0:00,"{'neg': 0.019, 'neu': 0.8, 'pos': 0.182, 'compound': 1.0}",1
+AJG,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,QQ1,2024,4/25/2024 0:00,"{'neg': 0.036, 'neu': 0.738, 'pos': 0.226, 'compound': 1.0}",1
+AIZ,Assurant,Financials,Multi-line Insurance,QQ1,2024,5/8/2024 11:36,"{'neg': 0.037, 'neu': 0.732, 'pos': 0.23, 'compound': 1.0}",1
+T,AT&T,Communication Services,Integrated Telecommunication Services,QQ1,2024,4/24/2024 12:40,"{'neg': 0.027, 'neu': 0.738, 'pos': 0.235, 'compound': 1.0}",1
+ATO,Atmos Energy,Utilities,Gas Utilities,QQ1,2024,2/7/2024 11:29,"{'neg': 0.029, 'neu': 0.743, 'pos': 0.227, 'compound': 0.9999}",1
+ADSK,Autodesk,Information Technology,Application Software,QQ1,2024,5/25/2023 20:04,"{'neg': 0.018, 'neu': 0.735, 'pos': 0.247, 'compound': 1.0}",1
+ADP,Automatic Data Processing,Industrials,Human Resource & Employment Services,QQ1,2024,10/25/2023 12:48,"{'neg': 0.021, 'neu': 0.729, 'pos': 0.25, 'compound': 1.0}",1
+AZO,AutoZone,Consumer Discretionary,Automotive Retail,QQ1,2024,12/5/2023 12:41,"{'neg': 0.048, 'neu': 0.715, 'pos': 0.237, 'compound': 1.0}",1
+AVB,AvalonBay Communities,Real Estate,Multi-Family Residential REITs,QQ1,2024,4/26/2024 0:00,"{'neg': 0.041, 'neu': 0.738, 'pos': 0.22, 'compound': 1.0}",1
+AVY,Avery Dennison,Materials,Paper & Plastic Packaging Products & Materials,QQ1,2024,4/24/2024 0:00,"{'neg': 0.023, 'neu': 0.75, 'pos': 0.227, 'compound': 1.0}",1
+AXON,Axon Enterprise,Industrials,Aerospace & Defense,QQ1,2024,5/6/2024 0:00,"{'neg': 0.037, 'neu': 0.699, 'pos': 0.263, 'compound': 1.0}",1
+BKR,Baker Hughes,Energy,Oil & Gas Equipment & Services,QQ1,2024,4/24/2024 0:00,"{'neg': 0.016, 'neu': 0.735, 'pos': 0.249, 'compound': 1.0}",1
+BALL,Ball Corporation,Materials,"Metal, Glass & Plastic Containers",QQ1,2024,4/26/2024 0:00,"{'neg': 0.028, 'neu': 0.728, 'pos': 0.243, 'compound': 1.0}",1
+BAC,Bank of America,Financials,Diversified Banks,QQ1,2024,4/16/2024 12:40,"{'neg': 0.028, 'neu': 0.722, 'pos': 0.25, 'compound': 1.0}",1
+BK,Bank of New York Mellon,Financials,Asset Management & Custody Banks,QQ1,2024,4/16/2024 15:37,"{'neg': 0.019, 'neu': 0.725, 'pos': 0.256, 'compound': 1.0}",1
+BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,Other Specialty Retail,QQ1,2024,5/18/2023 0:00,"{'neg': 0.02, 'neu': 0.715, 'pos': 0.265, 'compound': 1.0}",1
+BAX,Baxter International,Health Care,Health Care Equipment,QQ1,2024,5/2/2024 0:00,"{'neg': 0.023, 'neu': 0.732, 'pos': 0.245, 'compound': 1.0}",1
+BDX,Becton Dickinson,Health Care,Health Care Equipment,QQ1,2024,2/1/2024 11:41,"{'neg': 0.013, 'neu': 0.686, 'pos': 0.301, 'compound': 1.0}",1
+BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,QQ1,2024,5/25/2023 11:34,"{'neg': 0.03, 'neu': 0.726, 'pos': 0.243, 'compound': 1.0}",1
+BIO,Bio-Rad,Health Care,Life Sciences Tools & Services,QQ1,2024,5/7/2024 0:00,"{'neg': 0.035, 'neu': 0.755, 'pos': 0.21, 'compound': 0.9999}",1
+TECH,Bio-Techne,Health Care,Life Sciences Tools & Services,QQ1,2024,10/31/2023 16:08,"{'neg': 0.03, 'neu': 0.728, 'pos': 0.242, 'compound': 1.0}",1
+BIIB,Biogen,Health Care,Biotechnology,QQ1,2024,6/5/2024 22:54,"{'neg': 0.025, 'neu': 0.758, 'pos': 0.217, 'compound': 1.0}",1
+BLK,BlackRock,Financials,Asset Management & Custody Banks,QQ1,2024,4/12/2024 11:16,"{'neg': 0.022, 'neu': 0.753, 'pos': 0.225, 'compound': 1.0}",1
+BX,Blackstone,Financials,Asset Management & Custody Banks,QQ1,2024,4/18/2024 12:58,"{'neg': 0.031, 'neu': 0.75, 'pos': 0.219, 'compound': 1.0}",1
+BA,Boeing,Industrials,Aerospace & Defense,QQ1,2024,4/24/2024 0:00,"{'neg': 0.028, 'neu': 0.755, 'pos': 0.216, 'compound': 1.0}",1
+BKNG,Booking Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",QQ1,2024,5/2/2024 0:00,"{'neg': 0.033, 'neu': 0.723, 'pos': 0.244, 'compound': 1.0}",1
+BWA,BorgWarner,Consumer Discretionary,Automotive Parts & Equipment,QQ1,2024,5/2/2024 0:00,"{'neg': 0.013, 'neu': 0.759, 'pos': 0.228, 'compound': 1.0}",1
+BXP,Boston Properties,Real Estate,Office REITs,QQ1,2024,5/1/2024 0:00,"{'neg': 0.035, 'neu': 0.795, 'pos': 0.17, 'compound': 1.0}",1
+BSX,Boston Scientific,Health Care,Health Care Equipment,QQ1,2024,4/24/2024 0:00,"{'neg': 0.025, 'neu': 0.752, 'pos': 0.224, 'compound': 1.0}",1
+BMY,Bristol Myers Squibb,Health Care,Pharmaceuticals,QQ1,2024,4/25/2024 0:00,"{'neg': 0.027, 'neu': 0.728, 'pos': 0.245, 'compound': 1.0}",1
+AVGO,Broadcom Inc.,Information Technology,Semiconductors,QQ1,2024,3/7/2024 22:18,"{'neg': 0.029, 'neu': 0.778, 'pos': 0.192, 'compound': 1.0}",1
+BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,QQ1,2024,11/2/2023 14:28,"{'neg': 0.016, 'neu': 0.704, 'pos': 0.28, 'compound': 1.0}",1
+BRO,Brown & Brown,Financials,Insurance Brokers,QQ1,2024,4/23/2024 13:09,"{'neg': 0.038, 'neu': 0.74, 'pos': 0.221, 'compound': 1.0}",1
+BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,QQ1,2024,8/30/2023 16:51,"{'neg': 0.028, 'neu': 0.737, 'pos': 0.234, 'compound': 1.0}",1
+BLDR,Builders FirstSource,Industrials,Building Products,QQ1,2024,5/7/2024 0:00,"{'neg': 0.036, 'neu': 0.732, 'pos': 0.232, 'compound': 1.0}",1
+BG,Bunge Global SA,Consumer Staples,Agricultural Products & Services,QQ1,2024,4/24/2024 0:00,"{'neg': 0.037, 'neu': 0.76, 'pos': 0.203, 'compound': 1.0}",1
+CDNS,Cadence Design Systems,Information Technology,Application Software,QQ1,2024,4/22/2024 20:54,"{'neg': 0.013, 'neu': 0.754, 'pos': 0.232, 'compound': 1.0}",1
+CZR,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming,QQ1,2024,4/30/2024 0:00,"{'neg': 0.04, 'neu': 0.754, 'pos': 0.206, 'compound': 1.0}",1
+CPT,Camden Property Trust,Real Estate,Multi-Family Residential REITs,QQ1,2024,5/3/2024 0:00,"{'neg': 0.069, 'neu': 0.741, 'pos': 0.19, 'compound': 1.0}",1
+CPB,Campbell Soup Company,Consumer Staples,Packaged Foods & Meats,QQ1,2024,12/6/2023 10:40,"{'neg': 0.029, 'neu': 0.718, 'pos': 0.253, 'compound': 1.0}",1
+COF,Capital One,Financials,Consumer Finance,QQ1,2024,4/25/2024 0:00,"{'neg': 0.031, 'neu': 0.754, 'pos': 0.215, 'compound': 1.0}",1
+CAH,Cardinal Health,Health Care,Health Care Distributors,QQ1,2024,11/3/2023 11:39,"{'neg': 0.019, 'neu': 0.71, 'pos': 0.271, 'compound': 1.0}",1
+KMX,CarMax,Consumer Discretionary,Automotive Retail,QQ1,2024,6/23/2023 12:09,"{'neg': 0.033, 'neu': 0.738, 'pos': 0.229, 'compound': 1.0}",1
+CCL,Carnival,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",QQ1,2024,3/27/2024 14:07,"{'neg': 0.026, 'neu': 0.725, 'pos': 0.249, 'compound': 1.0}",1
+CARR,Carrier Global,Industrials,Building Products,QQ1,2024,4/25/2024 0:00,"{'neg': 0.032, 'neu': 0.741, 'pos': 0.226, 'compound': 1.0}",1
+CTLT,Catalent,Health Care,Pharmaceuticals,QQ1,2024,11/15/2023 16:39,"{'neg': 0.024, 'neu': 0.752, 'pos': 0.224, 'compound': 1.0}",1
+CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,QQ1,2024,4/25/2024 11:36,"{'neg': 0.035, 'neu': 0.717, 'pos': 0.248, 'compound': 1.0}",1
+CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data,QQ1,2024,5/3/2024 16:13,"{'neg': 0.014, 'neu': 0.757, 'pos': 0.229, 'compound': 1.0}",1
+CBRE,CBRE Group,Real Estate,Real Estate Services,QQ1,2024,5/3/2024 0:00,"{'neg': 0.037, 'neu': 0.756, 'pos': 0.207, 'compound': 1.0}",1
+CDW,CDW,Information Technology,Technology Distributors,QQ1,2024,5/1/2024 0:00,"{'neg': 0.052, 'neu': 0.719, 'pos': 0.229, 'compound': 1.0}",1
+CE,Celanese,Materials,Specialty Chemicals,QQ1,2024,5/9/2024 0:00,"{'neg': 0.043, 'neu': 0.772, 'pos': 0.185, 'compound': 1.0}",1
+COR,Cencora,Health Care,Health Care Distributors,QQ1,2024,1/31/2024 12:12,"{'neg': 0.017, 'neu': 0.705, 'pos': 0.277, 'compound': 1.0}",1
+CNC,Centene Corporation,Health Care,Managed Health Care,QQ1,2024,4/26/2024 0:00,"{'neg': 0.025, 'neu': 0.77, 'pos': 0.205, 'compound': 1.0}",1
+CNP,CenterPoint Energy,Utilities,Multi-Utilities,QQ1,2024,4/30/2024 0:00,"{'neg': 0.026, 'neu': 0.735, 'pos': 0.239, 'compound': 1.0}",1
+CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals,QQ1,2024,5/2/2024 0:00,"{'neg': 0.046, 'neu': 0.788, 'pos': 0.167, 'compound': 0.9999}",1
+CHRW,CH Robinson,Industrials,Air Freight & Logistics,QQ1,2024,5/1/2024 0:00,"{'neg': 0.04, 'neu': 0.725, 'pos': 0.235, 'compound': 1.0}",1
+CRL,Charles River Laboratories,Health Care,Life Sciences Tools & Services,QQ1,2024,5/9/2024 0:00,"{'neg': 0.034, 'neu': 0.745, 'pos': 0.221, 'compound': 1.0}",1
+CHTR,Charter Communications,Communication Services,Cable & Satellite,QQ1,2024,4/26/2024 0:00,"{'neg': 0.038, 'neu': 0.774, 'pos': 0.188, 'compound': 1.0}",1
+CVX,Chevron Corporation,Energy,Integrated Oil & Gas,QQ1,2024,4/26/2024 0:00,"{'neg': 0.024, 'neu': 0.755, 'pos': 0.221, 'compound': 1.0}",1
+CMG,Chipotle Mexican Grill,Consumer Discretionary,Restaurants,QQ1,2024,4/24/2024 0:00,"{'neg': 0.018, 'neu': 0.7, 'pos': 0.283, 'compound': 1.0}",1
+CB,Chubb Limited,Financials,Property & Casualty Insurance,QQ1,2024,4/24/2024 0:00,"{'neg': 0.08, 'neu': 0.731, 'pos': 0.188, 'compound': 0.9999}",1
+CHD,Church & Dwight,Consumer Staples,Household Products,QQ1,2024,5/2/2024 0:00,"{'neg': 0.03, 'neu': 0.71, 'pos': 0.259, 'compound': 1.0}",1
+CI,Cigna,Health Care,Health Care Services,QQ1,2024,5/15/2024 21:04,"{'neg': 0.019, 'neu': 0.739, 'pos': 0.242, 'compound': 1.0}",1
+CINF,Cincinnati Financial,Financials,Property & Casualty Insurance,QQ1,2024,4/26/2024 15:06,"{'neg': 0.083, 'neu': 0.689, 'pos': 0.229, 'compound': 0.9999}",1
+CTAS,Cintas,Industrials,Diversified Support Services,QQ1,2024,9/26/2023 16:41,"{'neg': 0.025, 'neu': 0.706, 'pos': 0.269, 'compound': 1.0}",1
+CSCO,Cisco,Information Technology,Communications Equipment,QQ1,2024,11/15/2023 19:50,"{'neg': 0.026, 'neu': 0.746, 'pos': 0.228, 'compound': 1.0}",1
+C,Citigroup,Financials,Diversified Banks,QQ1,2024,4/12/2024 16:46,"{'neg': 0.031, 'neu': 0.732, 'pos': 0.237, 'compound': 1.0}",1
+CFG,Citizens Financial Group,Financials,Regional Banks,QQ1,2024,4/17/2024 14:10,"{'neg': 0.037, 'neu': 0.693, 'pos': 0.27, 'compound': 1.0}",1
+CLX,Clorox,Consumer Staples,Household Products,QQ1,2024,11/1/2023 0:00,"{'neg': 0.048, 'neu': 0.744, 'pos': 0.209, 'compound': 1.0}",1
+CME,CME Group,Financials,Financial Exchanges & Data,QQ1,2024,4/24/2024 0:00,"{'neg': 0.034, 'neu': 0.737, 'pos': 0.229, 'compound': 1.0}",1
+CMS,CMS Energy,Utilities,Multi-Utilities,QQ1,2024,4/25/2024 0:00,"{'neg': 0.02, 'neu': 0.72, 'pos': 0.26, 'compound': 1.0}",1
+KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,QQ1,2024,4/30/2024 0:00,"{'neg': 0.018, 'neu': 0.732, 'pos': 0.25, 'compound': 1.0}",1
+CTSH,Cognizant,Information Technology,IT Consulting & Other Services,QQ1,2024,5/1/2024 0:00,"{'neg': 0.028, 'neu': 0.754, 'pos': 0.219, 'compound': 1.0}",1
+CL,Colgate-Palmolive,Consumer Staples,Household Products,QQ1,2024,4/26/2024 0:00,"{'neg': 0.022, 'neu': 0.668, 'pos': 0.31, 'compound': 1.0}",1
+CMCSA,Comcast,Communication Services,Cable & Satellite,QQ1,2024,4/25/2024 0:00,"{'neg': 0.02, 'neu': 0.737, 'pos': 0.243, 'compound': 1.0}",1
+CMA,Comerica,Financials,Diversified Banks,QQ1,2024,4/18/2024 13:08,"{'neg': 0.042, 'neu': 0.703, 'pos': 0.255, 'compound': 1.0}",1
+CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,QQ1,2024,10/5/2023 12:36,"{'neg': 0.033, 'neu': 0.706, 'pos': 0.26, 'compound': 1.0}",1
+COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,QQ1,2024,5/2/2024 0:00,"{'neg': 0.022, 'neu': 0.759, 'pos': 0.218, 'compound': 1.0}",1
+STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,QQ1,2024,6/30/2023 13:44,"{'neg': 0.019, 'neu': 0.734, 'pos': 0.247, 'compound': 1.0}",1
+CEG,Constellation Energy,Utilities,Electric Utilities,QQ1,2024,5/9/2024 0:00,"{'neg': 0.021, 'neu': 0.72, 'pos': 0.26, 'compound': 1.0}",1
+COO,CooperCompanies,Health Care,Health Care Supplies,QQ1,2024,2/29/2024 0:00,"{'neg': 0.027, 'neu': 0.698, 'pos': 0.275, 'compound': 1.0}",1
+CPRT,Copart,Industrials,Diversified Support Services,QQ1,2024,11/16/2023 22:45,"{'neg': 0.034, 'neu': 0.742, 'pos': 0.224, 'compound': 1.0}",1
+GLW,Corning Inc.,Information Technology,Electronic Components,QQ1,2024,4/30/2024 0:00,"{'neg': 0.023, 'neu': 0.741, 'pos': 0.236, 'compound': 1.0}",1
+CPAY,Corpay,Financials,Transaction & Payment Processing Services,QQ1,2024,5/9/2024 1:18,"{'neg': 0.033, 'neu': 0.743, 'pos': 0.224, 'compound': 1.0}",1
+CTVA,Corteva,Materials,Fertilizers & Agricultural Chemicals,QQ1,2024,5/2/2024 0:00,"{'neg': 0.024, 'neu': 0.78, 'pos': 0.196, 'compound': 1.0}",1
+CSGP,CoStar Group,Real Estate,Real Estate Services,QQ1,2024,4/23/2024 23:35,"{'neg': 0.021, 'neu': 0.758, 'pos': 0.221, 'compound': 1.0}",1
+COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,QQ1,2024,12/14/2023 22:00,"{'neg': 0.024, 'neu': 0.753, 'pos': 0.223, 'compound': 1.0}",1
+CTRA,Coterra,Energy,Oil & Gas Exploration & Production,QQ1,2024,5/3/2024 0:00,"{'neg': 0.035, 'neu': 0.733, 'pos': 0.232, 'compound': 1.0}",1
+CCI,Crown Castle,Real Estate,Telecom Tower REITs,QQ1,2024,4/17/2024 19:51,"{'neg': 0.026, 'neu': 0.699, 'pos': 0.276, 'compound': 1.0}",1
+CSX,CSX,Industrials,Rail Transportation,QQ1,2024,4/17/2024 21:05,"{'neg': 0.027, 'neu': 0.709, 'pos': 0.264, 'compound': 1.0}",1
+CMI,Cummins,Industrials,Construction Machinery & Heavy Transportation Equipment,QQ1,2024,5/2/2024 0:00,"{'neg': 0.033, 'neu': 0.758, 'pos': 0.209, 'compound': 1.0}",1
+CVS,CVS Health,Health Care,Health Care Services,QQ1,2024,5/1/2024 0:00,"{'neg': 0.045, 'neu': 0.727, 'pos': 0.228, 'compound': 1.0}",1
+DHR,Danaher Corporation,Health Care,Life Sciences Tools & Services,QQ1,2024,5/14/2024 17:00,"{'neg': 0.016, 'neu': 0.767, 'pos': 0.217, 'compound': 0.9999}",1
+DRI,Darden Restaurants,Consumer Discretionary,Restaurants,QQ1,2024,9/21/2023 13:14,"{'neg': 0.032, 'neu': 0.751, 'pos': 0.217, 'compound': 1.0}",1
+DVA,DaVita Inc.,Health Care,Health Care Services,QQ1,2024,5/2/2024 0:00,"{'neg': 0.025, 'neu': 0.753, 'pos': 0.222, 'compound': 1.0}",1
+DAY,Dayforce,Industrials,Human Resource & Employment Services,QQ1,2024,5/1/2024 0:00,"{'neg': 0.019, 'neu': 0.73, 'pos': 0.251, 'compound': 1.0}",1
+DECK,Deckers Brands,Consumer Discretionary,Footwear,QQ1,2024,7/27/2023 20:35,"{'neg': 0.026, 'neu': 0.711, 'pos': 0.263, 'compound': 1.0}",1
+DE,John Deere,Industrials,Agricultural & Farm Machinery,QQ1,2024,2/15/2024 0:00,"{'neg': 0.027, 'neu': 0.756, 'pos': 0.217, 'compound': 1.0}",1
+DAL,Delta Air Lines,Industrials,Passenger Airlines,QQ1,2024,4/10/2024 13:22,"{'neg': 0.023, 'neu': 0.717, 'pos': 0.26, 'compound': 1.0}",1
+DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,QQ1,2024,5/2/2024 0:00,"{'neg': 0.018, 'neu': 0.701, 'pos': 0.281, 'compound': 1.0}",1
+DXCM,Dexcom,Health Care,Health Care Equipment,QQ1,2024,4/25/2024 0:00,"{'neg': 0.017, 'neu': 0.753, 'pos': 0.23, 'compound': 1.0}",1
+FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production,QQ1,2024,5/1/2024 0:00,"{'neg': 0.036, 'neu': 0.745, 'pos': 0.219, 'compound': 1.0}",1
+DLR,Digital Realty,Real Estate,Data Center REITs,QQ1,2024,5/2/2024 0:00,"{'neg': 0.025, 'neu': 0.761, 'pos': 0.214, 'compound': 1.0}",1
+DFS,Discover Financial,Financials,Consumer Finance,QQ1,2024,4/18/2024 9:51,"{'neg': 0.044, 'neu': 0.75, 'pos': 0.206, 'compound': 0.9997}",1
+DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,QQ1,2024,6/1/2023 0:00,"{'neg': 0.035, 'neu': 0.721, 'pos': 0.244, 'compound': 1.0}",1
+DLTR,Dollar Tree,Consumer Staples,Consumer Staples Merchandise Retail,QQ1,2024,6/5/2024 11:12,"{'neg': 0.037, 'neu': 0.762, 'pos': 0.201, 'compound': 1.0}",1
+D,Dominion Energy,Utilities,Multi-Utilities,QQ1,2024,5/2/2024 13:31,"{'neg': 0.017, 'neu': 0.773, 'pos': 0.21, 'compound': 1.0}",1
+DPZ,Domino's,Consumer Discretionary,Restaurants,QQ1,2024,4/29/2024 0:00,"{'neg': 0.021, 'neu': 0.721, 'pos': 0.258, 'compound': 1.0}",1
+DOV,Dover Corporation,Industrials,Industrial Machinery & Supplies & Components,QQ1,2024,4/25/2024 0:00,"{'neg': 0.031, 'neu': 0.748, 'pos': 0.221, 'compound': 1.0}",1
+DOW,Dow Inc.,Materials,Commodity Chemicals,QQ1,2024,4/25/2024 0:00,"{'neg': 0.031, 'neu': 0.762, 'pos': 0.207, 'compound': 1.0}",1
+DHI,DR Horton,Consumer Discretionary,Homebuilding,QQ1,2024,1/23/2024 11:18,"{'neg': 0.027, 'neu': 0.774, 'pos': 0.199, 'compound': 1.0}",1
+DTE,DTE Energy,Utilities,Multi-Utilities,QQ1,2024,4/25/2024 0:00,"{'neg': 0.018, 'neu': 0.714, 'pos': 0.267, 'compound': 1.0}",1
+DUK,Duke Energy,Utilities,Electric Utilities,QQ1,2024,5/7/2024 0:00,"{'neg': 0.009, 'neu': 0.739, 'pos': 0.253, 'compound': 1.0}",1
+DD,DuPont,Materials,Specialty Chemicals,QQ1,2024,5/1/2024 0:00,"{'neg': 0.037, 'neu': 0.747, 'pos': 0.217, 'compound': 1.0}",1
+EMN,Eastman Chemical Company,Materials,Specialty Chemicals,QQ1,2024,4/26/2024 0:00,"{'neg': 0.045, 'neu': 0.747, 'pos': 0.208, 'compound': 1.0}",1
+ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,QQ1,2024,4/30/2024 0:00,"{'neg': 0.017, 'neu': 0.747, 'pos': 0.235, 'compound': 1.0}",1
+EBAY,eBay,Consumer Discretionary,Broadline Retail,QQ1,2024,5/1/2024 0:00,"{'neg': 0.014, 'neu': 0.763, 'pos': 0.223, 'compound': 1.0}",1
+ECL,Ecolab,Materials,Specialty Chemicals,QQ1,2024,4/30/2024 0:00,"{'neg': 0.017, 'neu': 0.698, 'pos': 0.285, 'compound': 1.0}",1
+EIX,Edison International,Utilities,Electric Utilities,QQ1,2024,4/30/2024 0:00,"{'neg': 0.047, 'neu': 0.738, 'pos': 0.215, 'compound': 1.0}",1
+EW,Edwards Lifesciences,Health Care,Health Care Equipment,QQ1,2024,4/25/2024 0:00,"{'neg': 0.024, 'neu': 0.71, 'pos': 0.266, 'compound': 1.0}",1
+EA,Electronic Arts,Communication Services,Interactive Home Entertainment,QQ1,2024,8/1/2023 20:06,"{'neg': 0.025, 'neu': 0.707, 'pos': 0.268, 'compound': 1.0}",1
+ELV,Elevance Health,Health Care,Managed Health Care,QQ1,2024,4/18/2024 12:19,"{'neg': 0.023, 'neu': 0.691, 'pos': 0.286, 'compound': 1.0}",1
+LLY,Eli Lilly and Company,Health Care,Pharmaceuticals,QQ1,2024,4/30/2024 0:00,"{'neg': 0.039, 'neu': 0.758, 'pos': 0.204, 'compound': 1.0}",1
+EMR,Emerson Electric,Industrials,Electrical Components & Equipment,QQ1,2024,2/7/2024 12:25,"{'neg': 0.022, 'neu': 0.727, 'pos': 0.251, 'compound': 1.0}",1
+ENPH,Enphase,Information Technology,Semiconductor Materials & Equipment,QQ1,2024,4/23/2024 20:43,"{'neg': 0.032, 'neu': 0.771, 'pos': 0.196, 'compound': 1.0}",1
+ETR,Entergy,Utilities,Electric Utilities,QQ1,2024,4/24/2024 0:00,"{'neg': 0.025, 'neu': 0.756, 'pos': 0.219, 'compound': 1.0}",1
+EOG,EOG Resources,Energy,Oil & Gas Exploration & Production,QQ1,2024,5/3/2024 0:00,"{'neg': 0.031, 'neu': 0.695, 'pos': 0.274, 'compound': 1.0}",1
+EPAM,EPAM Systems,Information Technology,IT Consulting & Other Services,QQ1,2024,5/9/2024 0:00,"{'neg': 0.061, 'neu': 0.743, 'pos': 0.196, 'compound': 1.0}",1
+EQT,EQT Corporation,Energy,Oil & Gas Exploration & Production,QQ1,2024,4/24/2024 0:00,"{'neg': 0.045, 'neu': 0.725, 'pos': 0.23, 'compound': 1.0}",1
+EFX,Equifax,Industrials,Research & Consulting Services,QQ1,2024,4/18/2024 15:39,"{'neg': 0.025, 'neu': 0.751, 'pos': 0.224, 'compound': 1.0}",1
+EQIX,Equinix,Real Estate,Data Center REITs,QQ1,2024,5/9/2024 0:00,"{'neg': 0.025, 'neu': 0.748, 'pos': 0.227, 'compound': 1.0}",1
+EQR,Equity Residential,Real Estate,Multi-Family Residential REITs,QQ1,2024,4/24/2024 0:00,"{'neg': 0.041, 'neu': 0.726, 'pos': 0.232, 'compound': 1.0}",1
+ESS,Essex Property Trust,Real Estate,Multi-Family Residential REITs,QQ1,2024,5/1/2024 0:00,"{'neg': 0.034, 'neu': 0.737, 'pos': 0.229, 'compound': 1.0}",1
+EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,QQ1,2024,11/1/2023 14:14,"{'neg': 0.045, 'neu': 0.695, 'pos': 0.259, 'compound': 1.0}",1
+ETSY,Etsy,Consumer Discretionary,Broadline Retail,QQ1,2024,5/1/2024 0:00,"{'neg': 0.034, 'neu': 0.715, 'pos': 0.252, 'compound': 1.0}",1
+EG,Everest Re,Financials,Reinsurance,QQ1,2024,4/30/2024 0:00,"{'neg': 0.064, 'neu': 0.712, 'pos': 0.224, 'compound': 1.0}",1
+EVRG,Evergy,Utilities,Electric Utilities,QQ1,2024,5/9/2024 0:00,"{'neg': 0.026, 'neu': 0.781, 'pos': 0.193, 'compound': 1.0}",1
+ES,Eversource,Utilities,Electric Utilities,QQ1,2024,5/2/2024 0:00,"{'neg': 0.042, 'neu': 0.728, 'pos': 0.231, 'compound': 1.0}",1
+EXC,Exelon,Utilities,Electric Utilities,QQ1,2024,5/2/2024 0:00,"{'neg': 0.038, 'neu': 0.728, 'pos': 0.234, 'compound': 1.0}",1
+EXPE,Expedia Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",QQ1,2024,5/2/2024 0:00,"{'neg': 0.023, 'neu': 0.716, 'pos': 0.26, 'compound': 1.0}",1
+EXR,Extra Space Storage,Real Estate,Self-Storage REITs,QQ1,2024,5/1/2024 0:00,"{'neg': 0.031, 'neu': 0.76, 'pos': 0.209, 'compound': 1.0}",1
+XOM,ExxonMobil,Energy,Integrated Oil & Gas,QQ1,2024,4/27/2024 0:00,"{'neg': 0.051, 'neu': 0.694, 'pos': 0.254, 'compound': 1.0}",1
+FFIV,"F5, Inc.",Information Technology,Communications Equipment,QQ1,2024,1/29/2024 20:00,"{'neg': 0.021, 'neu': 0.771, 'pos': 0.208, 'compound': 1.0}",1
+FDS,FactSet,Financials,Financial Exchanges & Data,QQ1,2024,12/19/2023 14:03,"{'neg': 0.026, 'neu': 0.707, 'pos': 0.267, 'compound': 1.0}",1
+FICO,Fair Isaac,Information Technology,Application Software,QQ1,2024,1/25/2024 0:00,"{'neg': 0.023, 'neu': 0.788, 'pos': 0.189, 'compound': 1.0}",1
+FAST,Fastenal,Industrials,Trading Companies & Distributors,QQ1,2024,4/11/2024 11:19,"{'neg': 0.039, 'neu': 0.755, 'pos': 0.206, 'compound': 1.0}",1
+FRT,Federal Realty,Real Estate,Retail REITs,QQ1,2024,5/2/2024 0:00,"{'neg': 0.02, 'neu': 0.752, 'pos': 0.228, 'compound': 1.0}",1
+FDX,FedEx,Industrials,Air Freight & Logistics,QQ1,2024,9/20/2023 21:22,"{'neg': 0.023, 'neu': 0.705, 'pos': 0.272, 'compound': 1.0}",1
+FIS,Fidelity National Information Services,Financials,Transaction & Payment Processing Services,QQ1,2024,5/6/2024 0:00,"{'neg': 0.023, 'neu': 0.755, 'pos': 0.222, 'compound': 0.9998}",1
+FITB,Fifth Third Bank,Financials,Diversified Banks,QQ1,2024,4/19/2024 13:11,"{'neg': 0.036, 'neu': 0.73, 'pos': 0.234, 'compound': 1.0}",1
+FSLR,First Solar,Information Technology,Semiconductors,QQ1,2024,5/1/2024 0:00,"{'neg': 0.048, 'neu': 0.777, 'pos': 0.174, 'compound': 1.0}",1
+FE,FirstEnergy,Utilities,Electric Utilities,QQ1,2024,4/26/2024 0:00,"{'neg': 0.025, 'neu': 0.771, 'pos': 0.204, 'compound': 1.0}",1
+FI,Fiserv,Financials,Transaction & Payment Processing Services,QQ1,2024,4/23/2024 11:12,"{'neg': 0.015, 'neu': 0.714, 'pos': 0.271, 'compound': 1.0}",1
+FMC,FMC Corporation,Materials,Fertilizers & Agricultural Chemicals,QQ1,2024,5/7/2024 0:00,"{'neg': 0.039, 'neu': 0.759, 'pos': 0.201, 'compound': 1.0}",1
+F,Ford Motor Company,Consumer Discretionary,Automobile Manufacturers,QQ1,2024,4/24/2024 20:55,"{'neg': 0.03, 'neu': 0.75, 'pos': 0.219, 'compound': 1.0}",1
+FTNT,Fortinet,Information Technology,Systems Software,QQ1,2024,5/2/2024 0:00,"{'neg': 0.024, 'neu': 0.736, 'pos': 0.24, 'compound': 1.0}",1
+FTV,Fortive,Industrials,Industrial Machinery & Supplies & Components,QQ1,2024,4/24/2024 0:00,"{'neg': 0.02, 'neu': 0.704, 'pos': 0.277, 'compound': 1.0}",1
+FOXA,Fox Corporation (Class A),Communication Services,Broadcasting,QQ1,2024,11/2/2023 0:00,"{'neg': 0.033, 'neu': 0.749, 'pos': 0.218, 'compound': 1.0}",1
+FOX,Fox Corporation (Class B),Communication Services,Broadcasting,QQ1,2024,11/2/2023 14:03,"{'neg': 0.031, 'neu': 0.741, 'pos': 0.228, 'compound': 1.0}",1
+BEN,Franklin Templeton,Financials,Asset Management & Custody Banks,QQ1,2024,1/29/2024 0:00,"{'neg': 0.019, 'neu': 0.753, 'pos': 0.228, 'compound': 1.0}",1
+FCX,Freeport-McMoRan,Materials,Copper,QQ1,2024,4/23/2024 12:55,"{'neg': 0.029, 'neu': 0.738, 'pos': 0.233, 'compound': 1.0}",1
+GRMN,Garmin,Consumer Discretionary,Consumer Electronics,QQ1,2024,5/1/2024 0:00,"{'neg': 0.036, 'neu': 0.711, 'pos': 0.254, 'compound': 0.9999}",1
+IT,Gartner,Information Technology,IT Consulting & Other Services,QQ1,2024,4/30/2024 0:00,"{'neg': 0.025, 'neu': 0.75, 'pos': 0.225, 'compound': 1.0}",1
+GE,GE Aerospace,Industrials,Aerospace & Defense,QQ1,2024,4/23/2024 12:00,"{'neg': 0.023, 'neu': 0.696, 'pos': 0.281, 'compound': 1.0}",1
+GEHC,GE HealthCare,Health Care,Health Care Equipment,QQ1,2024,4/30/2024 0:00,"{'neg': 0.033, 'neu': 0.71, 'pos': 0.258, 'compound': 1.0}",1
+GEV,GE Vernova,Industrials,Heavy Electrical Equipment,QQ1,2024,4/25/2024 13:42,"{'neg': 0.029, 'neu': 0.699, 'pos': 0.271, 'compound': 1.0}",1
+GEN,Gen Digital,Information Technology,Systems Software,QQ1,2024,8/4/2023 18:55,"{'neg': 0.037, 'neu': 0.719, 'pos': 0.244, 'compound': 1.0}",1
+GNRC,Generac,Industrials,Electrical Components & Equipment,QQ1,2024,5/1/2024 0:00,"{'neg': 0.038, 'neu': 0.737, 'pos': 0.225, 'compound': 1.0}",1
+GD,General Dynamics,Industrials,Aerospace & Defense,QQ1,2024,4/24/2024 0:00,"{'neg': 0.044, 'neu': 0.742, 'pos': 0.214, 'compound': 1.0}",1
+GIS,General Mills,Consumer Staples,Packaged Foods & Meats,QQ1,2024,9/20/2023 11:31,"{'neg': 0.026, 'neu': 0.741, 'pos': 0.233, 'compound': 1.0}",1
+GM,General Motors,Consumer Discretionary,Automobile Manufacturers,QQ1,2024,4/23/2024 12:20,"{'neg': 0.027, 'neu': 0.712, 'pos': 0.261, 'compound': 1.0}",1
+GPC,Genuine Parts Company,Consumer Discretionary,Distributors,QQ1,2024,4/18/2024 11:38,"{'neg': 0.019, 'neu': 0.723, 'pos': 0.258, 'compound': 1.0}",1
+GILD,Gilead Sciences,Health Care,Biotechnology,QQ1,2024,4/25/2024 0:00,"{'neg': 0.037, 'neu': 0.774, 'pos': 0.188, 'compound': 1.0}",1
+GPN,Global Payments,Financials,Transaction & Payment Processing Services,QQ1,2024,5/1/2024 0:00,"{'neg': 0.019, 'neu': 0.728, 'pos': 0.253, 'compound': 1.0}",1
+GL,Globe Life,Financials,Life & Health Insurance,QQ1,2024,4/23/2024 15:34,"{'neg': 0.039, 'neu': 0.767, 'pos': 0.194, 'compound': 1.0}",1
+GS,Goldman Sachs,Financials,Investment Banking & Brokerage,QQ1,2024,4/15/2024 12:52,"{'neg': 0.025, 'neu': 0.727, 'pos': 0.248, 'compound': 1.0}",1
+HAL,Halliburton,Energy,Oil & Gas Equipment & Services,QQ1,2024,4/23/2024 11:39,"{'neg': 0.027, 'neu': 0.696, 'pos': 0.276, 'compound': 1.0}",1
+HIG,Hartford (The),Financials,Property & Casualty Insurance,QQ1,2024,4/26/2024 0:00,"{'neg': 0.044, 'neu': 0.73, 'pos': 0.226, 'compound': 1.0}",1
+HAS,Hasbro,Consumer Discretionary,Leisure Products,QQ1,2024,4/24/2024 0:00,"{'neg': 0.027, 'neu': 0.732, 'pos': 0.241, 'compound': 1.0}",1
+HCA,HCA Healthcare,Health Care,Health Care Facilities,QQ1,2024,4/26/2024 0:00,"{'neg': 0.032, 'neu': 0.766, 'pos': 0.202, 'compound': 1.0}",1
+DOC,Healthpeak,Real Estate,Health Care REITs,QQ1,2024,4/26/2024 0:00,"{'neg': 0.032, 'neu': 0.767, 'pos': 0.201, 'compound': 1.0}",1
+HSIC,Henry Schein,Health Care,Health Care Distributors,QQ1,2024,5/7/2024 0:00,"{'neg': 0.029, 'neu': 0.716, 'pos': 0.255, 'compound': 1.0}",1
+HSY,Hershey's,Consumer Staples,Packaged Foods & Meats,QQ1,2024,5/3/2024 0:00,"{'neg': 0.032, 'neu': 0.735, 'pos': 0.234, 'compound': 1.0}",1
+HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals",QQ1,2024,2/29/2024 21:32,"{'neg': 0.028, 'neu': 0.76, 'pos': 0.212, 'compound': 1.0}",1
+HLT,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",QQ1,2024,4/24/2024 0:00,"{'neg': 0.024, 'neu': 0.733, 'pos': 0.243, 'compound': 1.0}",1
+HOLX,Hologic,Health Care,Health Care Equipment,QQ1,2024,2/1/2024 22:56,"{'neg': 0.028, 'neu': 0.719, 'pos': 0.253, 'compound': 1.0}",1
+HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,QQ1,2024,5/14/2024 0:00,"{'neg': 0.041, 'neu': 0.706, 'pos': 0.253, 'compound': 1.0}",1
+HON,Honeywell,Industrials,Industrial Conglomerates,QQ1,2024,4/25/2024 0:00,"{'neg': 0.028, 'neu': 0.71, 'pos': 0.262, 'compound': 1.0}",1
+HRL,Hormel Foods,Consumer Staples,Packaged Foods & Meats,QQ1,2024,2/29/2024 13:54,"{'neg': 0.026, 'neu': 0.723, 'pos': 0.25, 'compound': 1.0}",1
+HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,QQ1,2024,5/2/2024 0:00,"{'neg': 0.037, 'neu': 0.797, 'pos': 0.166, 'compound': 1.0}",1
+HWM,Howmet Aerospace,Industrials,Aerospace & Defense,QQ1,2024,5/2/2024 0:00,"{'neg': 0.026, 'neu': 0.785, 'pos': 0.189, 'compound': 1.0}",1
+HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",QQ1,2024,2/28/2024 20:02,"{'neg': 0.035, 'neu': 0.723, 'pos': 0.242, 'compound': 1.0}",1
+HUBB,Hubbell Incorporated,Industrials,Industrial Machinery & Supplies & Components,QQ1,2024,4/30/2024 0:00,"{'neg': 0.024, 'neu': 0.751, 'pos': 0.225, 'compound': 1.0}",1
+HUM,Humana,Health Care,Managed Health Care,QQ1,2024,4/24/2024 0:00,"{'neg': 0.028, 'neu': 0.746, 'pos': 0.227, 'compound': 1.0}",1
+HBAN,Huntington Bancshares,Financials,Regional Banks,QQ1,2024,4/19/2024 13:50,"{'neg': 0.032, 'neu': 0.717, 'pos': 0.251, 'compound': 1.0}",1
+HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,QQ1,2024,5/2/2024 0:00,"{'neg': 0.036, 'neu': 0.773, 'pos': 0.192, 'compound': 0.9999}",1
+IBM,IBM,Information Technology,IT Consulting & Other Services,QQ1,2024,4/24/2024 0:00,"{'neg': 0.019, 'neu': 0.749, 'pos': 0.232, 'compound': 1.0}",1
+IEX,IDEX Corporation,Industrials,Industrial Machinery & Supplies & Components,QQ1,2024,4/24/2024 0:00,"{'neg': 0.025, 'neu': 0.757, 'pos': 0.218, 'compound': 1.0}",1
+IDXX,Idexx Laboratories,Health Care,Health Care Equipment,QQ1,2024,5/1/2024 0:00,"{'neg': 0.032, 'neu': 0.682, 'pos': 0.286, 'compound': 1.0}",1
+ITW,Illinois Tool Works,Industrials,Industrial Machinery & Supplies & Components,QQ1,2024,4/30/2024 0:00,"{'neg': 0.022, 'neu': 0.725, 'pos': 0.253, 'compound': 1.0}",1
+ILMN,Illumina,Health Care,Life Sciences Tools & Services,QQ1,2024,5/2/2024 0:00,"{'neg': 0.019, 'neu': 0.755, 'pos': 0.225, 'compound': 1.0}",1
+INCY,Incyte,Health Care,Biotechnology,QQ1,2024,4/30/2024 0:00,"{'neg': 0.036, 'neu': 0.778, 'pos': 0.185, 'compound': 1.0}",1
+IR,Ingersoll Rand,Industrials,Industrial Machinery & Supplies & Components,QQ1,2024,5/3/2024 0:00,"{'neg': 0.017, 'neu': 0.75, 'pos': 0.233, 'compound': 1.0}",1
+PODD,Insulet,Health Care,Health Care Equipment,QQ1,2024,5/9/2024 0:00,"{'neg': 0.021, 'neu': 0.737, 'pos': 0.241, 'compound': 1.0}",1
+INTC,Intel,Information Technology,Semiconductors,QQ1,2024,4/25/2024 0:00,"{'neg': 0.031, 'neu': 0.728, 'pos': 0.241, 'compound': 1.0}",1
+ICE,Intercontinental Exchange,Financials,Financial Exchanges & Data,QQ1,2024,5/2/2024 0:00,"{'neg': 0.032, 'neu': 0.742, 'pos': 0.226, 'compound': 1.0}",1
+IFF,International Flavors & Fragrances,Materials,Specialty Chemicals,QQ1,2024,5/7/2024 0:00,"{'neg': 0.018, 'neu': 0.703, 'pos': 0.279, 'compound': 1.0}",1
+IP,International Paper,Materials,Paper & Plastic Packaging Products & Materials,QQ1,2024,4/25/2024 0:00,"{'neg': 0.032, 'neu': 0.739, 'pos': 0.229, 'compound': 1.0}",1
+IPG,Interpublic Group of Companies (The),Communication Services,Advertising,QQ1,2024,4/24/2024 0:00,"{'neg': 0.02, 'neu': 0.744, 'pos': 0.236, 'compound': 1.0}",1
+INTU,Intuit,Information Technology,Application Software,QQ1,2024,11/28/2023 21:32,"{'neg': 0.017, 'neu': 0.717, 'pos': 0.265, 'compound': 1.0}",1
+ISRG,Intuitive Surgical,Health Care,Health Care Equipment,QQ1,2024,4/18/2024 19:22,"{'neg': 0.036, 'neu': 0.725, 'pos': 0.24, 'compound': 1.0}",1
+IVZ,Invesco,Financials,Asset Management & Custody Banks,QQ1,2024,4/23/2024 12:01,"{'neg': 0.035, 'neu': 0.715, 'pos': 0.25, 'compound': 1.0}",1
+INVH,Invitation Homes,Real Estate,Single-Family Residential REITs,QQ1,2024,5/1/2024 0:00,"{'neg': 0.028, 'neu': 0.757, 'pos': 0.216, 'compound': 1.0}",1
+IQV,IQVIA,Health Care,Life Sciences Tools & Services,QQ1,2024,5/2/2024 0:00,"{'neg': 0.027, 'neu': 0.758, 'pos': 0.215, 'compound': 1.0}",1
+IRM,Iron Mountain,Real Estate,Other Specialized REITs,QQ1,2024,5/2/2024 0:00,"{'neg': 0.012, 'neu': 0.728, 'pos': 0.261, 'compound': 1.0}",1
+JBHT,J.B. Hunt,Industrials,Cargo Ground Transportation,QQ1,2024,4/16/2024 23:55,"{'neg': 0.047, 'neu': 0.687, 'pos': 0.265, 'compound': 1.0}",1
+JBL,Jabil,Information Technology,Electronic Manufacturing Services,QQ1,2024,12/14/2023 12:09,"{'neg': 0.032, 'neu': 0.751, 'pos': 0.218, 'compound': 1.0}",1
+JKHY,Jack Henry & Associates,Financials,Transaction & Payment Processing Services,QQ1,2024,11/8/2023 12:58,"{'neg': 0.024, 'neu': 0.708, 'pos': 0.268, 'compound': 1.0}",1
+J,Jacobs Solutions,Industrials,Construction & Engineering,QQ1,2024,2/6/2024 16:37,"{'neg': 0.015, 'neu': 0.724, 'pos': 0.261, 'compound': 1.0}",1
+JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,QQ1,2024,4/16/2024 12:19,"{'neg': 0.031, 'neu': 0.699, 'pos': 0.27, 'compound': 1.0}",1
+JCI,Johnson Controls,Industrials,Building Products,QQ1,2024,1/30/2024 11:32,"{'neg': 0.032, 'neu': 0.706, 'pos': 0.261, 'compound': 1.0}",1
+JPM,JPMorgan Chase,Financials,Diversified Banks,QQ1,2024,4/12/2024 0:00,"{'neg': 0.051, 'neu': 0.74, 'pos': 0.209, 'compound': 1.0}",1
+K,Kellanova,Consumer Staples,Packaged Foods & Meats,QQ1,2024,5/2/2024 14:11,"{'neg': 0.037, 'neu': 0.695, 'pos': 0.268, 'compound': 1.0}",1
+KVUE,Kenvue,Consumer Staples,Personal Care Products,QQ1,2024,5/7/2024 13:22,"{'neg': 0.024, 'neu': 0.7, 'pos': 0.276, 'compound': 1.0}",1
+KDP,Keurig Dr Pepper,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,QQ1,2024,4/25/2024 0:00,"{'neg': 0.015, 'neu': 0.71, 'pos': 0.275, 'compound': 1.0}",1
+KEY,KeyCorp,Financials,Regional Banks,QQ1,2024,4/18/2024 12:14,"{'neg': 0.05, 'neu': 0.715, 'pos': 0.234, 'compound': 1.0}",1
+KEYS,Keysight,Information Technology,Electronic Equipment & Instruments,QQ1,2024,2/20/2024 20:34,"{'neg': 0.029, 'neu': 0.754, 'pos': 0.217, 'compound': 1.0}",1
+KMB,Kimberly-Clark,Consumer Staples,Household Products,QQ1,2024,4/23/2024 10:43,"{'neg': 0.021, 'neu': 0.703, 'pos': 0.276, 'compound': 1.0}",1
+KIM,Kimco Realty,Real Estate,Retail REITs,QQ1,2024,5/2/2024 0:00,"{'neg': 0.029, 'neu': 0.752, 'pos': 0.22, 'compound': 1.0}",1
+KMI,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,QQ1,2024,4/17/2024 19:08,"{'neg': 0.034, 'neu': 0.712, 'pos': 0.254, 'compound': 1.0}",1
+KLAC,KLA Corporation,Information Technology,Semiconductor Materials & Equipment,QQ1,2024,10/25/2023 0:00,"{'neg': 0.032, 'neu': 0.773, 'pos': 0.195, 'compound': 1.0}",1
+KHC,Kraft Heinz,Consumer Staples,Packaged Foods & Meats,QQ1,2024,5/1/2024 0:00,"{'neg': 0.024, 'neu': 0.744, 'pos': 0.232, 'compound': 1.0}",1
+KR,Kroger,Consumer Staples,Food Retail,QQ1,2024,6/15/2023 0:00,"{'neg': 0.033, 'neu': 0.685, 'pos': 0.282, 'compound': 1.0}",1
+LHX,L3Harris,Industrials,Aerospace & Defense,QQ1,2024,4/26/2024 0:00,"{'neg': 0.03, 'neu': 0.734, 'pos': 0.236, 'compound': 1.0}",1
+LH,LabCorp,Health Care,Health Care Services,QQ1,2024,4/25/2024 0:00,"{'neg': 0.025, 'neu': 0.755, 'pos': 0.219, 'compound': 1.0}",1
+LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,QQ1,2024,10/18/2023 21:56,"{'neg': 0.032, 'neu': 0.752, 'pos': 0.215, 'compound': 1.0}",1
+LW,Lamb Weston,Consumer Staples,Packaged Foods & Meats,QQ1,2024,10/5/2023 12:53,"{'neg': 0.043, 'neu': 0.732, 'pos': 0.225, 'compound': 1.0}",1
+LVS,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,QQ1,2024,4/17/2024 20:43,"{'neg': 0.035, 'neu': 0.707, 'pos': 0.258, 'compound': 1.0}",1
+LDOS,Leidos,Industrials,Diversified Support Services,QQ1,2024,4/30/2024 0:00,"{'neg': 0.031, 'neu': 0.685, 'pos': 0.284, 'compound': 1.0}",1
+LEN,Lennar,Consumer Discretionary,Homebuilding,QQ1,2024,3/14/2024 13:48,"{'neg': 0.032, 'neu': 0.738, 'pos': 0.231, 'compound': 1.0}",1
+LIN,Linde plc,Materials,Industrial Gases,QQ1,2024,5/2/2024 0:00,"{'neg': 0.028, 'neu': 0.763, 'pos': 0.209, 'compound': 1.0}",1
+LYV,Live Nation Entertainment,Communication Services,Movies & Entertainment,QQ1,2024,5/2/2024 0:00,"{'neg': 0.021, 'neu': 0.766, 'pos': 0.212, 'compound': 0.9999}",1
+LKQ,LKQ Corporation,Consumer Discretionary,Distributors,QQ1,2024,4/23/2024 10:54,"{'neg': 0.044, 'neu': 0.756, 'pos': 0.2, 'compound': 1.0}",1
+LMT,Lockheed Martin,Industrials,Aerospace & Defense,QQ1,2024,4/23/2024 14:23,"{'neg': 0.055, 'neu': 0.728, 'pos': 0.217, 'compound': 1.0}",1
+L,Loews Corporation,Financials,Multi-line Insurance,QQ1,2024,5/5/2024 0:00,"{'neg': 0.036, 'neu': 0.735, 'pos': 0.23, 'compound': 0.9998}",1
+LOW,Lowe's,Consumer Discretionary,Home Improvement Retail,QQ1,2024,5/23/2023 0:00,"{'neg': 0.036, 'neu': 0.743, 'pos': 0.222, 'compound': 1.0}",1
+LULU,Lululemon Athletica,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",QQ1,2024,6/5/2024 19:58,"{'neg': 0.022, 'neu': 0.719, 'pos': 0.259, 'compound': 1.0}",1
+LYB,LyondellBasell,Materials,Specialty Chemicals,QQ1,2024,4/26/2024 0:00,"{'neg': 0.033, 'neu': 0.729, 'pos': 0.238, 'compound': 1.0}",1
+MTB,M&T Bank,Financials,Regional Banks,QQ1,2024,4/15/2024 11:59,"{'neg': 0.052, 'neu': 0.716, 'pos': 0.233, 'compound': 1.0}",1
+MRO,Marathon Oil,Energy,Oil & Gas Exploration & Production,QQ1,2024,5/2/2024 0:00,"{'neg': 0.021, 'neu': 0.707, 'pos': 0.272, 'compound': 1.0}",1
+MPC,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing,QQ1,2024,4/30/2024 0:00,"{'neg': 0.029, 'neu': 0.762, 'pos': 0.209, 'compound': 1.0}",1
+MKTX,MarketAxess,Financials,Financial Exchanges & Data,QQ1,2024,5/7/2024 0:00,"{'neg': 0.031, 'neu': 0.732, 'pos': 0.237, 'compound': 1.0}",1
+MAR,Marriott International,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",QQ1,2024,5/1/2024 0:00,"{'neg': 0.027, 'neu': 0.728, 'pos': 0.245, 'compound': 1.0}",1
+MMC,Marsh McLennan,Financials,Insurance Brokers,QQ1,2024,4/18/2024 11:50,"{'neg': 0.041, 'neu': 0.674, 'pos': 0.285, 'compound': 1.0}",1
+MLM,Martin Marietta Materials,Materials,Construction Materials,QQ1,2024,4/30/2024 0:00,"{'neg': 0.023, 'neu': 0.762, 'pos': 0.215, 'compound': 1.0}",1
+MAS,Masco,Industrials,Building Products,QQ1,2024,4/24/2024 0:00,"{'neg': 0.032, 'neu': 0.76, 'pos': 0.207, 'compound': 1.0}",1
+MA,Mastercard,Financials,Transaction & Payment Processing Services,QQ1,2024,5/1/2024 0:00,"{'neg': 0.024, 'neu': 0.706, 'pos': 0.27, 'compound': 1.0}",1
+MTCH,Match Group,Communication Services,Interactive Media & Services,QQ1,2024,5/8/2024 0:00,"{'neg': 0.028, 'neu': 0.727, 'pos': 0.245, 'compound': 1.0}",1
+MKC,McCormick & Company,Consumer Staples,Packaged Foods & Meats,QQ1,2024,3/26/2024 13:30,"{'neg': 0.022, 'neu': 0.702, 'pos': 0.276, 'compound': 1.0}",1
+MCD,McDonald's,Consumer Discretionary,Restaurants,QQ1,2024,4/30/2024 0:00,"{'neg': 0.017, 'neu': 0.697, 'pos': 0.286, 'compound': 1.0}",1
+MCK,McKesson Corporation,Health Care,Health Care Distributors,QQ1,2024,8/2/2023 21:17,"{'neg': 0.024, 'neu': 0.685, 'pos': 0.291, 'compound': 1.0}",1
+MDT,Medtronic,Health Care,Health Care Equipment,QQ1,2024,8/22/2023 12:40,"{'neg': 0.024, 'neu': 0.716, 'pos': 0.26, 'compound': 1.0}",1
+MRK,Merck & Co.,Health Care,Pharmaceuticals,QQ1,2024,4/25/2024 0:00,"{'neg': 0.059, 'neu': 0.716, 'pos': 0.226, 'compound': 1.0}",1
+META,Meta Platforms,Communication Services,Interactive Media & Services,QQ1,2024,4/24/2024 0:00,"{'neg': 0.011, 'neu': 0.744, 'pos': 0.245, 'compound': 1.0}",1
+MET,MetLife,Financials,Life & Health Insurance,QQ1,2024,5/2/2024 0:00,"{'neg': 0.028, 'neu': 0.735, 'pos': 0.237, 'compound': 1.0}",1
+MTD,Mettler Toledo,Health Care,Life Sciences Tools & Services,QQ1,2024,5/10/2024 0:00,"{'neg': 0.035, 'neu': 0.679, 'pos': 0.287, 'compound': 1.0}",1
+MGM,MGM Resorts,Consumer Discretionary,Casinos & Gaming,QQ1,2024,5/1/2024 0:00,"{'neg': 0.017, 'neu': 0.76, 'pos': 0.223, 'compound': 1.0}",1
+MCHP,Microchip Technology,Information Technology,Semiconductors,QQ1,2024,8/3/2023 20:19,"{'neg': 0.057, 'neu': 0.759, 'pos': 0.185, 'compound': 1.0}",1
+MU,Micron Technology,Information Technology,Semiconductors,QQ1,2024,12/20/2023 19:36,"{'neg': 0.039, 'neu': 0.722, 'pos': 0.239, 'compound': 1.0}",1
+MSFT,Microsoft,Information Technology,Systems Software,QQ1,2024,10/24/2023 22:14,"{'neg': 0.028, 'neu': 0.738, 'pos': 0.234, 'compound': 1.0}",1
+MAA,Mid-America Apartment Communities,Real Estate,Multi-Family Residential REITs,QQ1,2024,5/2/2024 0:00,"{'neg': 0.035, 'neu': 0.769, 'pos': 0.196, 'compound': 1.0}",1
+MRNA,Moderna,Health Care,Biotechnology,QQ1,2024,5/2/2024 0:00,"{'neg': 0.039, 'neu': 0.764, 'pos': 0.197, 'compound': 1.0}",1
+MHK,Mohawk Industries,Consumer Discretionary,Home Furnishings,QQ1,2024,4/26/2024 0:00,"{'neg': 0.048, 'neu': 0.745, 'pos': 0.207, 'compound': 1.0}",1
+MOH,Molina Healthcare,Health Care,Managed Health Care,QQ1,2024,4/25/2024 0:00,"{'neg': 0.03, 'neu': 0.767, 'pos': 0.203, 'compound': 1.0}",1
+TAP,Molson Coors Beverage Company,Consumer Staples,Brewers,QQ1,2024,4/30/2024 0:00,"{'neg': 0.026, 'neu': 0.757, 'pos': 0.217, 'compound': 1.0}",1
+MDLZ,Mondelez International,Consumer Staples,Packaged Foods & Meats,QQ1,2024,4/30/2024 0:00,"{'neg': 0.036, 'neu': 0.691, 'pos': 0.273, 'compound': 1.0}",1
+MPWR,Monolithic Power Systems,Information Technology,Semiconductors,QQ1,2024,5/1/2024 0:00,"{'neg': 0.027, 'neu': 0.746, 'pos': 0.227, 'compound': 1.0}",1
+MNST,Monster Beverage,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,QQ1,2024,5/2/2024 0:00,"{'neg': 0.026, 'neu': 0.755, 'pos': 0.218, 'compound': 1.0}",1
+MCO,Moody's Corporation,Financials,Financial Exchanges & Data,QQ1,2024,5/2/2024 0:00,"{'neg': 0.046, 'neu': 0.73, 'pos': 0.224, 'compound': 1.0}",1
+MS,Morgan Stanley,Financials,Investment Banking & Brokerage,QQ1,2024,4/16/2024 12:37,"{'neg': 0.014, 'neu': 0.719, 'pos': 0.267, 'compound': 1.0}",1
+MOS,Mosaic Company (The),Materials,Fertilizers & Agricultural Chemicals,QQ1,2024,5/2/2024 0:00,"{'neg': 0.036, 'neu': 0.749, 'pos': 0.215, 'compound': 1.0}",1
+MSI,Motorola Solutions,Information Technology,Communications Equipment,QQ1,2024,5/2/2024 0:00,"{'neg': 0.028, 'neu': 0.763, 'pos': 0.208, 'compound': 1.0}",1
+MSCI,MSCI,Financials,Financial Exchanges & Data,QQ1,2024,4/23/2024 13:56,"{'neg': 0.032, 'neu': 0.714, 'pos': 0.254, 'compound': 1.0}",1
+NDAQ,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,QQ1,2024,4/25/2024 0:00,"{'neg': 0.021, 'neu': 0.718, 'pos': 0.261, 'compound': 1.0}",1
+NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals",QQ1,2024,8/23/2023 20:54,"{'neg': 0.026, 'neu': 0.719, 'pos': 0.255, 'compound': 1.0}",1
+NFLX,Netflix,Communication Services,Movies & Entertainment,QQ1,2024,4/18/2024 19:39,"{'neg': 0.024, 'neu': 0.672, 'pos': 0.305, 'compound': 1.0}",1
+NEM,Newmont,Materials,Gold,QQ1,2024,4/25/2024 0:00,"{'neg': 0.036, 'neu': 0.755, 'pos': 0.209, 'compound': 1.0}",1
+NWSA,News Corp (Class A),Communication Services,Publishing,QQ1,2024,11/9/2023 22:56,"{'neg': 0.028, 'neu': 0.724, 'pos': 0.248, 'compound': 1.0}",1
+NEE,NextEra Energy,Utilities,Multi-Utilities,QQ1,2024,4/23/2024 12:18,"{'neg': 0.027, 'neu': 0.726, 'pos': 0.247, 'compound': 1.0}",1
+NKE,"Nike, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",QQ1,2024,9/28/2023 21:13,"{'neg': 0.022, 'neu': 0.706, 'pos': 0.272, 'compound': 1.0}",1
+NI,NiSource,Utilities,Multi-Utilities,QQ1,2024,5/8/2024 0:00,"{'neg': 0.027, 'neu': 0.762, 'pos': 0.211, 'compound': 1.0}",1
+NDSN,Nordson Corporation,Industrials,Industrial Machinery & Supplies & Components,QQ1,2024,2/22/2024 14:05,"{'neg': 0.029, 'neu': 0.741, 'pos': 0.229, 'compound': 1.0}",1
+NSC,Norfolk Southern Railway,Industrials,Rail Transportation,QQ1,2024,4/24/2024 0:00,"{'neg': 0.036, 'neu': 0.731, 'pos': 0.233, 'compound': 1.0}",1
+NTRS,Northern Trust,Financials,Asset Management & Custody Banks,QQ1,2024,4/16/2024 12:22,"{'neg': 0.024, 'neu': 0.724, 'pos': 0.253, 'compound': 1.0}",1
+NOC,Northrop Grumman,Industrials,Aerospace & Defense,QQ1,2024,4/25/2024 0:00,"{'neg': 0.034, 'neu': 0.727, 'pos': 0.239, 'compound': 1.0}",1
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",QQ1,2024,5/1/2024 0:00,"{'neg': 0.026, 'neu': 0.734, 'pos': 0.24, 'compound': 1.0}",1
+NRG,NRG Energy,Utilities,Independent Power Producers & Energy Traders,QQ1,2024,5/7/2024 0:00,"{'neg': 0.03, 'neu': 0.73, 'pos': 0.24, 'compound': 1.0}",1
+NUE,Nucor,Materials,Steel,QQ1,2024,4/23/2024 13:44,"{'neg': 0.029, 'neu': 0.78, 'pos': 0.191, 'compound': 1.0}",1
+NVDA,Nvidia,Information Technology,Semiconductors,QQ1,2024,5/24/2023 22:33,"{'neg': 0.022, 'neu': 0.795, 'pos': 0.183, 'compound': 1.0}",1
+NXPI,NXP Semiconductors,Information Technology,Semiconductors,QQ1,2024,4/30/2024 0:00,"{'neg': 0.04, 'neu': 0.782, 'pos': 0.178, 'compound': 1.0}",1
+ORLY,O'Reilly Auto Parts,Consumer Discretionary,Automotive Retail,QQ1,2024,4/25/2024 0:00,"{'neg': 0.035, 'neu': 0.737, 'pos': 0.228, 'compound': 1.0}",1
+OXY,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,QQ1,2024,5/8/2024 0:00,"{'neg': 0.029, 'neu': 0.731, 'pos': 0.241, 'compound': 1.0}",1
+ODFL,Old Dominion,Industrials,Cargo Ground Transportation,QQ1,2024,4/24/2024 0:00,"{'neg': 0.02, 'neu': 0.722, 'pos': 0.258, 'compound': 1.0}",1
+OMC,Omnicom Group,Communication Services,Advertising,QQ1,2024,4/16/2024 20:21,"{'neg': 0.019, 'neu': 0.757, 'pos': 0.224, 'compound': 1.0}",1
+ON,ON Semiconductor,Information Technology,Semiconductors,QQ1,2024,4/29/2024 0:00,"{'neg': 0.036, 'neu': 0.769, 'pos': 0.195, 'compound': 1.0}",1
+OKE,ONEOK,Energy,Oil & Gas Storage & Transportation,QQ1,2024,5/1/2024 0:00,"{'neg': 0.029, 'neu': 0.763, 'pos': 0.208, 'compound': 1.0}",1
+ORCL,Oracle Corporation,Information Technology,Application Software,QQ1,2024,9/11/2023 19:48,"{'neg': 0.032, 'neu': 0.763, 'pos': 0.205, 'compound': 0.9999}",1
+OTIS,Otis Worldwide,Industrials,Industrial Machinery & Supplies & Components,QQ1,2024,4/24/2024 0:00,"{'neg': 0.027, 'neu': 0.764, 'pos': 0.209, 'compound': 1.0}",1
+PCAR,Paccar,Industrials,Construction Machinery & Heavy Transportation Equipment,QQ1,2024,4/30/2024 0:00,"{'neg': 0.017, 'neu': 0.714, 'pos': 0.269, 'compound': 1.0}",1
+PKG,Packaging Corporation of America,Materials,Paper & Plastic Packaging Products & Materials,QQ1,2024,4/23/2024 18:33,"{'neg': 0.026, 'neu': 0.772, 'pos': 0.201, 'compound': 1.0}",1
+PANW,Palo Alto Networks,Information Technology,Systems Software,QQ1,2024,11/15/2023 21:27,"{'neg': 0.039, 'neu': 0.741, 'pos': 0.221, 'compound': 1.0}",1
+PARA,Paramount Global,Communication Services,Movies & Entertainment,QQ1,2024,4/29/2024 0:00,"{'neg': 0.017, 'neu': 0.681, 'pos': 0.302, 'compound': 0.9998}",1
+PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components,QQ1,2024,11/2/2023 15:56,"{'neg': 0.027, 'neu': 0.724, 'pos': 0.248, 'compound': 1.0}",1
+PAYX,Paychex,Industrials,Human Resource & Employment Services,QQ1,2024,9/27/2023 14:25,"{'neg': 0.022, 'neu': 0.719, 'pos': 0.258, 'compound': 1.0}",1
+PAYC,Paycom,Industrials,Human Resource & Employment Services,QQ1,2024,5/1/2024 0:00,"{'neg': 0.02, 'neu': 0.774, 'pos': 0.206, 'compound': 1.0}",1
+PYPL,PayPal,Financials,Transaction & Payment Processing Services,QQ1,2024,4/30/2024 0:00,"{'neg': 0.031, 'neu': 0.702, 'pos': 0.266, 'compound': 1.0}",1
+PNR,Pentair,Industrials,Industrial Machinery & Supplies & Components,QQ1,2024,4/23/2024 15:05,"{'neg': 0.023, 'neu': 0.73, 'pos': 0.247, 'compound': 1.0}",1
+PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,QQ1,2024,4/23/2024 9:11,"{'neg': 0.017, 'neu': 0.692, 'pos': 0.29, 'compound': 1.0}",1
+PFE,Pfizer,Health Care,Pharmaceuticals,QQ1,2024,5/1/2024 0:00,"{'neg': 0.04, 'neu': 0.721, 'pos': 0.239, 'compound': 1.0}",1
+PCG,PG&E Corporation,Utilities,Multi-Utilities,QQ1,2024,4/25/2024 0:00,"{'neg': 0.039, 'neu': 0.714, 'pos': 0.247, 'compound': 1.0}",1
+PM,Philip Morris International,Consumer Staples,Tobacco,QQ1,2024,4/23/2024 13:51,"{'neg': 0.027, 'neu': 0.712, 'pos': 0.26, 'compound': 1.0}",1
+PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,QQ1,2024,4/26/2024 0:00,"{'neg': 0.03, 'neu': 0.752, 'pos': 0.217, 'compound': 1.0}",1
+PNW,Pinnacle West,Utilities,Multi-Utilities,QQ1,2024,5/2/2024 0:00,"{'neg': 0.035, 'neu': 0.744, 'pos': 0.221, 'compound': 1.0}",1
+PNC,PNC Financial Services,Financials,Regional Banks,QQ1,2024,4/16/2024 13:28,"{'neg': 0.06, 'neu': 0.721, 'pos': 0.219, 'compound': 1.0}",1
+POOL,Pool Corporation,Consumer Discretionary,Distributors,QQ1,2024,4/25/2024 0:00,"{'neg': 0.039, 'neu': 0.755, 'pos': 0.206, 'compound': 1.0}",1
+PPG,PPG Industries,Materials,Specialty Chemicals,QQ1,2024,4/19/2024 12:16,"{'neg': 0.029, 'neu': 0.724, 'pos': 0.248, 'compound': 1.0}",1
+PPL,PPL Corporation,Utilities,Electric Utilities,QQ1,2024,5/1/2024 0:00,"{'neg': 0.021, 'neu': 0.745, 'pos': 0.234, 'compound': 1.0}",1
+PFG,Principal Financial Group,Financials,Life & Health Insurance,QQ1,2024,4/26/2024 0:00,"{'neg': 0.022, 'neu': 0.712, 'pos': 0.266, 'compound': 1.0}",1
+PG,Procter & Gamble,Consumer Staples,Personal Care Products,QQ1,2024,10/18/2023 11:27,"{'neg': 0.025, 'neu': 0.66, 'pos': 0.315, 'compound': 1.0}",1
+PGR,Progressive Corporation,Financials,Property & Casualty Insurance,QQ1,2024,5/7/2024 0:00,"{'neg': 0.031, 'neu': 0.755, 'pos': 0.213, 'compound': 1.0}",1
+PLD,Prologis,Real Estate,Industrial REITs,QQ1,2024,4/17/2024 15:27,"{'neg': 0.041, 'neu': 0.766, 'pos': 0.192, 'compound': 1.0}",1
+PRU,Prudential Financial,Financials,Life & Health Insurance,QQ1,2024,5/1/2024 0:00,"{'neg': 0.026, 'neu': 0.727, 'pos': 0.247, 'compound': 1.0}",1
+PEG,Public Service Enterprise Group,Utilities,Electric Utilities,QQ1,2024,4/30/2024 15:48,"{'neg': 0.018, 'neu': 0.771, 'pos': 0.211, 'compound': 1.0}",1
+PTC,PTC,Information Technology,Application Software,QQ1,2024,1/31/2024 20:47,"{'neg': 0.022, 'neu': 0.708, 'pos': 0.27, 'compound': 1.0}",1
+PSA,Public Storage,Real Estate,Self-Storage REITs,QQ1,2024,5/1/2024 0:00,"{'neg': 0.03, 'neu': 0.756, 'pos': 0.214, 'compound': 1.0}",1
+PHM,PulteGroup,Consumer Discretionary,Homebuilding,QQ1,2024,4/23/2024 11:47,"{'neg': 0.035, 'neu': 0.727, 'pos': 0.239, 'compound': 1.0}",1
+QRVO,Qorvo,Information Technology,Semiconductors,QQ1,2024,8/2/2023 20:15,"{'neg': 0.034, 'neu': 0.735, 'pos': 0.231, 'compound': 1.0}",1
+PWR,Quanta Services,Industrials,Construction & Engineering,QQ1,2024,5/2/2024 0:00,"{'neg': 0.026, 'neu': 0.749, 'pos': 0.225, 'compound': 1.0}",1
+QCOM,Qualcomm,Information Technology,Semiconductors,QQ1,2024,1/31/2024 19:29,"{'neg': 0.015, 'neu': 0.751, 'pos': 0.234, 'compound': 1.0}",1
+DGX,Quest Diagnostics,Health Care,Health Care Services,QQ1,2024,4/23/2024 12:31,"{'neg': 0.023, 'neu': 0.73, 'pos': 0.247, 'compound': 1.0}",1
+RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",QQ1,2024,8/10/2023 13:15,"{'neg': 0.027, 'neu': 0.747, 'pos': 0.226, 'compound': 1.0}",1
+RJF,Raymond James,Financials,Investment Banking & Brokerage,QQ1,2024,4/24/2024 0:00,"{'neg': 0.026, 'neu': 0.732, 'pos': 0.242, 'compound': 1.0}",1
+RTX,RTX Corporation,Industrials,Aerospace & Defense,QQ1,2024,4/23/2024 12:30,"{'neg': 0.029, 'neu': 0.719, 'pos': 0.252, 'compound': 1.0}",1
+O,Realty Income,Real Estate,Retail REITs,QQ1,2024,5/7/2024 16:38,"{'neg': 0.028, 'neu': 0.74, 'pos': 0.232, 'compound': 1.0}",1
+REG,Regency Centers,Real Estate,Retail REITs,QQ1,2024,5/3/2024 0:00,"{'neg': 0.021, 'neu': 0.74, 'pos': 0.239, 'compound': 1.0}",1
+REGN,Regeneron,Health Care,Biotechnology,QQ1,2024,5/2/2024 0:00,"{'neg': 0.054, 'neu': 0.768, 'pos': 0.178, 'compound': 1.0}",1
+RF,Regions Financial Corporation,Financials,Regional Banks,QQ1,2024,4/19/2024 13:18,"{'neg': 0.049, 'neu': 0.723, 'pos': 0.228, 'compound': 1.0}",1
+RSG,Republic Services,Industrials,Environmental & Facilities Services,QQ1,2024,4/30/2024 0:00,"{'neg': 0.025, 'neu': 0.739, 'pos': 0.236, 'compound': 1.0}",1
+RMD,ResMed,Health Care,Health Care Equipment,QQ1,2024,10/26/2023 21:52,"{'neg': 0.03, 'neu': 0.724, 'pos': 0.246, 'compound': 1.0}",1
+RVTY,Revvity,Health Care,Health Care Equipment,QQ1,2024,4/29/2024 0:00,"{'neg': 0.031, 'neu': 0.769, 'pos': 0.199, 'compound': 1.0}",1
+RHI,Robert Half,Industrials,Human Resource & Employment Services,QQ1,2024,4/25/2024 0:00,"{'neg': 0.032, 'neu': 0.752, 'pos': 0.216, 'compound': 1.0}",1
+ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,QQ1,2024,1/31/2024 12:47,"{'neg': 0.024, 'neu': 0.769, 'pos': 0.206, 'compound': 1.0}",1
+ROL,"Rollins, Inc.",Industrials,Environmental & Facilities Services,QQ1,2024,4/25/2024 0:00,"{'neg': 0.03, 'neu': 0.695, 'pos': 0.275, 'compound': 1.0}",1
+ROP,Roper Technologies,Information Technology,Electronic Equipment & Instruments,QQ1,2024,4/26/2024 0:00,"{'neg': 0.026, 'neu': 0.736, 'pos': 0.238, 'compound': 1.0}",1
+ROST,Ross Stores,Consumer Discretionary,Apparel Retail,QQ1,2024,5/18/2023 0:00,"{'neg': 0.029, 'neu': 0.779, 'pos': 0.192, 'compound': 1.0}",1
+RCL,Royal Caribbean Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",QQ1,2024,4/25/2024 0:00,"{'neg': 0.025, 'neu': 0.714, 'pos': 0.261, 'compound': 1.0}",1
+SPGI,S&P Global,Financials,Financial Exchanges & Data,QQ1,2024,4/25/2024 0:00,"{'neg': 0.019, 'neu': 0.731, 'pos': 0.249, 'compound': 1.0}",1
+CRM,Salesforce,Information Technology,Application Software,QQ1,2024,5/31/2023 21:02,"{'neg': 0.019, 'neu': 0.737, 'pos': 0.244, 'compound': 1.0}",1
+SBAC,SBA Communications,Real Estate,Telecom Tower REITs,QQ1,2024,4/29/2024 0:00,"{'neg': 0.045, 'neu': 0.754, 'pos': 0.201, 'compound': 1.0}",1
+SLB,Schlumberger,Energy,Oil & Gas Equipment & Services,QQ1,2024,4/19/2024 14:29,"{'neg': 0.03, 'neu': 0.713, 'pos': 0.258, 'compound': 1.0}",1
+STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals",QQ1,2024,10/26/2023 12:46,"{'neg': 0.048, 'neu': 0.725, 'pos': 0.227, 'compound': 1.0}",1
+SRE,Sempra Energy,Utilities,Multi-Utilities,QQ1,2024,5/7/2024 0:00,"{'neg': 0.019, 'neu': 0.728, 'pos': 0.253, 'compound': 1.0}",1
+NOW,ServiceNow,Information Technology,Systems Software,QQ1,2024,4/24/2024 0:00,"{'neg': 0.016, 'neu': 0.755, 'pos': 0.229, 'compound': 1.0}",1
+SHW,Sherwin-Williams,Materials,Specialty Chemicals,QQ1,2024,4/23/2024 14:51,"{'neg': 0.034, 'neu': 0.739, 'pos': 0.227, 'compound': 1.0}",1
+SPG,Simon Property Group,Real Estate,Retail REITs,QQ1,2024,5/6/2024 0:00,"{'neg': 0.027, 'neu': 0.759, 'pos': 0.214, 'compound': 1.0}",1
+SWKS,Skyworks Solutions,Information Technology,Semiconductors,QQ1,2024,1/30/2024 18:55,"{'neg': 0.04, 'neu': 0.734, 'pos': 0.227, 'compound': 1.0}",1
+SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,QQ1,2024,8/29/2023 11:39,"{'neg': 0.032, 'neu': 0.729, 'pos': 0.239, 'compound': 0.9999}",1
+SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,QQ1,2024,4/18/2024 13:24,"{'neg': 0.059, 'neu': 0.723, 'pos': 0.218, 'compound': 1.0}",1
+SO,Southern Company,Utilities,Electric Utilities,QQ1,2024,5/2/2024 0:00,"{'neg': 0.028, 'neu': 0.745, 'pos': 0.227, 'compound': 1.0}",1
+LUV,Southwest Airlines,Industrials,Passenger Airlines,QQ1,2024,4/25/2024 0:00,"{'neg': 0.044, 'neu': 0.746, 'pos': 0.21, 'compound': 1.0}",1
+SWK,Stanley Black & Decker,Industrials,Industrial Machinery & Supplies & Components,QQ1,2024,5/2/2024 0:00,"{'neg': 0.034, 'neu': 0.729, 'pos': 0.237, 'compound': 1.0}",1
+SBUX,Starbucks,Consumer Discretionary,Restaurants,QQ1,2024,1/30/2024 21:50,"{'neg': 0.022, 'neu': 0.711, 'pos': 0.268, 'compound': 1.0}",1
+STT,State Street Corporation,Financials,Asset Management & Custody Banks,QQ1,2024,4/12/2024 13:50,"{'neg': 0.017, 'neu': 0.751, 'pos': 0.232, 'compound': 1.0}",1
+STLD,Steel Dynamics,Materials,Steel,QQ1,2024,4/24/2024 0:00,"{'neg': 0.025, 'neu': 0.733, 'pos': 0.242, 'compound': 1.0}",1
+STE,Steris,Health Care,Health Care Equipment,QQ1,2024,8/2/2023 13:44,"{'neg': 0.031, 'neu': 0.747, 'pos': 0.223, 'compound': 0.9999}",1
+SYK,Stryker Corporation,Health Care,Health Care Equipment,QQ1,2024,4/30/2024 0:00,"{'neg': 0.035, 'neu': 0.716, 'pos': 0.249, 'compound': 1.0}",1
+SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",QQ1,2024,11/1/2023 20:27,"{'neg': 0.029, 'neu': 0.742, 'pos': 0.229, 'compound': 1.0}",1
+SYF,Synchrony Financial,Financials,Consumer Finance,QQ1,2024,4/24/2024 0:00,"{'neg': 0.031, 'neu': 0.763, 'pos': 0.206, 'compound': 1.0}",1
+SNPS,Synopsys,Information Technology,Application Software,QQ1,2024,2/21/2024 20:27,"{'neg': 0.011, 'neu': 0.763, 'pos': 0.225, 'compound': 1.0}",1
+SYY,Sysco,Consumer Staples,Food Distributors,QQ1,2024,10/31/2023 14:44,"{'neg': 0.018, 'neu': 0.678, 'pos': 0.304, 'compound': 1.0}",1
+TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services,QQ1,2024,4/25/2024 0:00,"{'neg': 0.021, 'neu': 0.726, 'pos': 0.253, 'compound': 1.0}",1
+TROW,T. Rowe Price,Financials,Asset Management & Custody Banks,QQ1,2024,4/26/2024 0:00,"{'neg': 0.026, 'neu': 0.738, 'pos': 0.237, 'compound': 1.0}",1
+TTWO,Take-Two Interactive,Communication Services,Interactive Home Entertainment,QQ1,2024,8/8/2023 19:31,"{'neg': 0.033, 'neu': 0.712, 'pos': 0.256, 'compound': 1.0}",1
+TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",QQ1,2024,11/9/2023 13:20,"{'neg': 0.031, 'neu': 0.7, 'pos': 0.268, 'compound': 1.0}",1
+TRGP,Targa Resources,Energy,Oil & Gas Storage & Transportation,QQ1,2024,5/2/2024 0:00,"{'neg': 0.019, 'neu': 0.765, 'pos': 0.216, 'compound': 1.0}",1
+TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,QQ1,2024,5/17/2023 0:00,"{'neg': 0.042, 'neu': 0.723, 'pos': 0.235, 'compound': 1.0}",1
+TEL,TE Connectivity,Information Technology,Electronic Manufacturing Services,QQ1,2024,1/24/2024 15:24,"{'neg': 0.018, 'neu': 0.752, 'pos': 0.23, 'compound': 1.0}",1
+TDY,Teledyne Technologies,Information Technology,Electronic Equipment & Instruments,QQ1,2024,4/24/2024 0:00,"{'neg': 0.039, 'neu': 0.761, 'pos': 0.2, 'compound': 0.9999}",1
+TFX,Teleflex,Health Care,Health Care Equipment,QQ1,2024,5/2/2024 0:00,"{'neg': 0.031, 'neu': 0.751, 'pos': 0.218, 'compound': 1.0}",1
+TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,QQ1,2024,4/25/2024 0:00,"{'neg': 0.032, 'neu': 0.775, 'pos': 0.193, 'compound': 1.0}",1
+TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,QQ1,2024,4/23/2024 22:30,"{'neg': 0.034, 'neu': 0.711, 'pos': 0.255, 'compound': 1.0}",1
+TXN,Texas Instruments,Information Technology,Semiconductors,QQ1,2024,4/23/2024 18:48,"{'neg': 0.022, 'neu': 0.742, 'pos': 0.236, 'compound': 1.0}",1
+TXT,Textron,Industrials,Aerospace & Defense,QQ1,2024,4/25/2024 0:00,"{'neg': 0.028, 'neu': 0.756, 'pos': 0.216, 'compound': 1.0}",1
+TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,QQ1,2024,4/24/2024 0:00,"{'neg': 0.02, 'neu': 0.711, 'pos': 0.269, 'compound': 1.0}",1
+TJX,TJX Companies,Consumer Discretionary,Apparel Retail,QQ1,2024,5/17/2023 15:22,"{'neg': 0.022, 'neu': 0.671, 'pos': 0.307, 'compound': 1.0}",1
+TSCO,Tractor Supply,Consumer Discretionary,Other Specialty Retail,QQ1,2024,4/25/2024 0:00,"{'neg': 0.025, 'neu': 0.727, 'pos': 0.248, 'compound': 1.0}",1
+TT,Trane Technologies,Industrials,Building Products,QQ1,2024,4/30/2024 0:00,"{'neg': 0.019, 'neu': 0.721, 'pos': 0.26, 'compound': 1.0}",1
+TDG,TransDigm Group,Industrials,Aerospace & Defense,QQ1,2024,2/8/2024 13:11,"{'neg': 0.023, 'neu': 0.74, 'pos': 0.237, 'compound': 1.0}",1
+TRV,Travelers Companies (The),Financials,Property & Casualty Insurance,QQ1,2024,4/17/2024 12:47,"{'neg': 0.038, 'neu': 0.718, 'pos': 0.245, 'compound': 1.0}",1
+TRMB,Trimble Inc.,Information Technology,Electronic Equipment & Instruments,QQ1,2024,5/3/2024 0:00,"{'neg': 0.038, 'neu': 0.758, 'pos': 0.204, 'compound': 1.0}",1
+TFC,Truist,Financials,Regional Banks,QQ1,2024,4/22/2024 11:10,"{'neg': 0.03, 'neu': 0.735, 'pos': 0.235, 'compound': 1.0}",1
+TYL,Tyler Technologies,Information Technology,Application Software,QQ1,2024,4/25/2024 0:00,"{'neg': 0.026, 'neu': 0.773, 'pos': 0.201, 'compound': 1.0}",1
+TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,QQ1,2024,2/5/2024 13:10,"{'neg': 0.026, 'neu': 0.697, 'pos': 0.277, 'compound': 1.0}",1
+USB,U.S. Bank,Financials,Diversified Banks,QQ1,2024,4/17/2024 0:00,"{'neg': 0.027, 'neu': 0.744, 'pos': 0.229, 'compound': 1.0}",1
+UBER,Uber,Industrials,Passenger Ground Transportation,QQ1,2024,5/8/2024 0:00,"{'neg': 0.029, 'neu': 0.719, 'pos': 0.253, 'compound': 1.0}",1
+UDR,"UDR, Inc.",Real Estate,Multi-Family Residential REITs,QQ1,2024,5/1/2024 0:00,"{'neg': 0.035, 'neu': 0.751, 'pos': 0.214, 'compound': 1.0}",1
+ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,QQ1,2024,5/25/2023 0:00,"{'neg': 0.026, 'neu': 0.662, 'pos': 0.312, 'compound': 1.0}",1
+UNP,Union Pacific Corporation,Industrials,Rail Transportation,QQ1,2024,4/25/2024 0:00,"{'neg': 0.026, 'neu': 0.708, 'pos': 0.266, 'compound': 1.0}",1
+UAL,United Airlines Holdings,Industrials,Passenger Airlines,QQ1,2024,4/17/2024 14:48,"{'neg': 0.033, 'neu': 0.706, 'pos': 0.26, 'compound': 1.0}",1
+UPS,United Parcel Service,Industrials,Air Freight & Logistics,QQ1,2024,4/23/2024 12:09,"{'neg': 0.019, 'neu': 0.757, 'pos': 0.224, 'compound': 1.0}",1
+URI,United Rentals,Industrials,Trading Companies & Distributors,QQ1,2024,4/25/2024 0:00,"{'neg': 0.027, 'neu': 0.706, 'pos': 0.267, 'compound': 1.0}",1
+UNH,UnitedHealth Group,Health Care,Managed Health Care,QQ1,2024,4/16/2024 12:40,"{'neg': 0.032, 'neu': 0.702, 'pos': 0.267, 'compound': 1.0}",1
+UHS,Universal Health Services,Health Care,Health Care Facilities,QQ1,2024,4/25/2024 0:00,"{'neg': 0.027, 'neu': 0.745, 'pos': 0.228, 'compound': 1.0}",1
+VLO,Valero Energy,Energy,Oil & Gas Refining & Marketing,QQ1,2024,4/25/2024 0:00,"{'neg': 0.053, 'neu': 0.777, 'pos': 0.17, 'compound': 0.9999}",1
+VTR,Ventas,Real Estate,Health Care REITs,QQ1,2024,5/2/2024 0:00,"{'neg': 0.016, 'neu': 0.703, 'pos': 0.281, 'compound': 1.0}",1
+VLTO,Veralto,Industrials,Environmental & Facilities Services,QQ1,2024,4/24/2024 0:00,"{'neg': 0.024, 'neu': 0.742, 'pos': 0.233, 'compound': 1.0}",1
+VRSN,Verisign,Information Technology,Internet Services & Infrastructure,QQ1,2024,4/25/2024 0:00,"{'neg': 0.039, 'neu': 0.775, 'pos': 0.187, 'compound': 0.9998}",1
+VRSK,Verisk,Industrials,Research & Consulting Services,QQ1,2024,5/1/2024 0:00,"{'neg': 0.035, 'neu': 0.703, 'pos': 0.262, 'compound': 1.0}",1
+VZ,Verizon,Communication Services,Integrated Telecommunication Services,QQ1,2024,4/22/2024 12:01,"{'neg': 0.031, 'neu': 0.717, 'pos': 0.252, 'compound': 1.0}",1
+VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,QQ1,2024,5/6/2024 0:00,"{'neg': 0.057, 'neu': 0.747, 'pos': 0.196, 'compound': 1.0}",1
+VTRS,Viatris,Health Care,Pharmaceuticals,QQ1,2024,5/9/2024 0:00,"{'neg': 0.014, 'neu': 0.742, 'pos': 0.245, 'compound': 1.0}",1
+VICI,Vici Properties,Real Estate,Hotel & Resort REITs,QQ1,2024,5/2/2024 0:00,"{'neg': 0.03, 'neu': 0.718, 'pos': 0.252, 'compound': 1.0}",1
+V,Visa Inc.,Financials,Transaction & Payment Processing Services,QQ1,2024,1/25/2024 20:30,"{'neg': 0.021, 'neu': 0.738, 'pos': 0.241, 'compound': 1.0}",1
+VST,Vistra,Utilities,Electric Utilities,QQ1,2024,5/8/2024 0:00,"{'neg': 0.024, 'neu': 0.746, 'pos': 0.231, 'compound': 1.0}",1
+VMC,Vulcan Materials Company,Materials,Construction Materials,QQ1,2024,5/2/2024 0:00,"{'neg': 0.049, 'neu': 0.71, 'pos': 0.241, 'compound': 1.0}",1
+WRB,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,QQ1,2024,4/23/2024 20:14,"{'neg': 0.09, 'neu': 0.675, 'pos': 0.236, 'compound': 1.0}",1
+GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,QQ1,2024,4/25/2024 0:00,"{'neg': 0.034, 'neu': 0.732, 'pos': 0.233, 'compound': 1.0}",1
+WAB,Wabtec,Industrials,Construction Machinery & Heavy Transportation Equipment,QQ1,2024,4/24/2024 0:00,"{'neg': 0.018, 'neu': 0.745, 'pos': 0.237, 'compound': 1.0}",1
+WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,QQ1,2024,1/4/2024 11:49,"{'neg': 0.029, 'neu': 0.693, 'pos': 0.278, 'compound': 1.0}",1
+WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,QQ1,2024,5/18/2023 11:17,"{'neg': 0.021, 'neu': 0.724, 'pos': 0.255, 'compound': 1.0}",1
+DIS,Walt Disney Company (The),Communication Services,Movies & Entertainment,QQ1,2024,2/7/2024 20:48,"{'neg': 0.021, 'neu': 0.71, 'pos': 0.269, 'compound': 1.0}",1
+WBD,Warner Bros. Discovery,Communication Services,Broadcasting,QQ1,2024,5/9/2024 0:00,"{'neg': 0.027, 'neu': 0.704, 'pos': 0.269, 'compound': 1.0}",1
+WM,Waste Management,Industrials,Environmental & Facilities Services,QQ1,2024,4/25/2024 0:00,"{'neg': 0.024, 'neu': 0.733, 'pos': 0.243, 'compound': 1.0}",1
+WAT,Waters Corporation,Health Care,Life Sciences Tools & Services,QQ1,2024,5/7/2024 0:00,"{'neg': 0.042, 'neu': 0.766, 'pos': 0.193, 'compound': 1.0}",1
+WEC,WEC Energy Group,Utilities,Electric Utilities,QQ1,2024,5/1/2024 0:00,"{'neg': 0.016, 'neu': 0.762, 'pos': 0.222, 'compound': 1.0}",1
+WFC,Wells Fargo,Financials,Diversified Banks,QQ1,2024,4/12/2024 13:44,"{'neg': 0.037, 'neu': 0.734, 'pos': 0.229, 'compound': 1.0}",1
+WELL,Welltower,Real Estate,Health Care REITs,QQ1,2024,4/30/2024 0:00,"{'neg': 0.039, 'neu': 0.717, 'pos': 0.244, 'compound': 1.0}",1
+WST,West Pharmaceutical Services,Health Care,Health Care Supplies,QQ1,2024,4/25/2024 0:00,"{'neg': 0.028, 'neu': 0.77, 'pos': 0.202, 'compound': 0.9999}",1
+WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals",QQ1,2024,10/30/2023 12:19,"{'neg': 0.034, 'neu': 0.73, 'pos': 0.236, 'compound': 1.0}",1
+WY,Weyerhaeuser,Real Estate,Timber REITs,QQ1,2024,4/26/2024 0:00,"{'neg': 0.048, 'neu': 0.756, 'pos': 0.195, 'compound': 1.0}",1
+WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,QQ1,2024,5/7/2024 0:00,"{'neg': 0.035, 'neu': 0.719, 'pos': 0.247, 'compound': 1.0}",1
+WTW,Willis Towers Watson,Financials,Insurance Brokers,QQ1,2024,4/25/2024 0:00,"{'neg': 0.031, 'neu': 0.686, 'pos': 0.283, 'compound': 1.0}",1
+WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,QQ1,2024,5/7/2024 0:00,"{'neg': 0.024, 'neu': 0.744, 'pos': 0.232, 'compound': 1.0}",1
+XEL,Xcel Energy,Utilities,Multi-Utilities,QQ1,2024,4/25/2024 0:00,"{'neg': 0.045, 'neu': 0.711, 'pos': 0.244, 'compound': 1.0}",1
+XYL,Xylem Inc.,Industrials,Industrial Machinery & Supplies & Components,QQ1,2024,5/2/2024 0:00,"{'neg': 0.019, 'neu': 0.733, 'pos': 0.248, 'compound': 1.0}",1
+YUM,Yum! Brands,Consumer Discretionary,Restaurants,QQ1,2024,5/1/2024 0:00,"{'neg': 0.026, 'neu': 0.728, 'pos': 0.245, 'compound': 1.0}",1
+ZBRA,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,QQ1,2024,4/30/2024 0:00,"{'neg': 0.025, 'neu': 0.739, 'pos': 0.236, 'compound': 1.0}",1
+ZBH,Zimmer Biomet,Health Care,Health Care Equipment,QQ1,2024,5/2/2024 0:00,"{'neg': 0.024, 'neu': 0.712, 'pos': 0.264, 'compound': 1.0}",1
+ZTS,Zoetis,Health Care,Pharmaceuticals,QQ1,2024,5/2/2024 0:00,"{'neg': 0.032, 'neu': 0.723, 'pos': 0.245, 'compound': 1.0}",1
