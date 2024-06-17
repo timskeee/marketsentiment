@@ -46,7 +46,7 @@ def get_sentiment(text):
     print(sentiment)
     return scores, sentiment
 
-def get_sentiment_allsp500(quarter='1', year=2024):
+def get_sentiment_allsp500(quarter=1, year=2024):
     ## Using https://discountingcashflows.com/documentation/api-guide/
     # df = pd.read_csv('companies.csv')
     df = pd.read_csv('companies.csv')
@@ -63,7 +63,7 @@ def get_sentiment_allsp500(quarter='1', year=2024):
             sector = row['GICS Sector']
             subsector = row['GICS Sub-Industry']
             # ticker = 'AMC'
-            ect_endpoint = f'{base_url}/api/transcript/{ticker}/{quarter}/{year}'
+            ect_endpoint = f'{base_url}/api/transcript/{ticker}/Q{quarter}/{year}'
 
             response = requests.get(ect_endpoint)
             data = response.json()
@@ -87,16 +87,28 @@ def get_sentiment_allsp500(quarter='1', year=2024):
     compiledscores_df.to_csv(f'compiled_sentiment_Q{quarter}-{year}.csv', index=False)
     return compiledscores_df
 
+def pos_minus_neg(quarter='1', year=2024):
+    df = pd.read_csv(f'compiled_sentiment_Q{quarter}-{year}.csv')
+    df['pos-neg'] = df['score-pos'] - df['score-neg']
+    df['pos-neg-mean'] = df['pos-neg'].mean()
+    return df
+
 def average_sentiments(quarter='1', year=2024):
     df = pd.read_csv(f'compiled_sentiment_Q{quarter}-{year}.csv') #change to MySQL db later
-
     neg_av = df['score-neg'].mean()
     neu_av = df['score-neu'].mean()
     pos_av = df['score-pos'].mean()
+    
+    df['pos-neg'] = df['score-pos'] - df['score-neg']
+    df['pos-neg-mean'] = df['pos-neg'].mean()
 
     print(f'neg av: {neg_av}; neu av: {neu_av}; pos_av: {pos_av}')
-    return
+    return df
 
 
-average_sentiments()
-# get_sentiment_allsp500()
+# average_sentiments()
+
+
+for i in np.arange(1,5,1):
+    for j in np.arange(2020,2024,1):
+        get_sentiment_allsp500(quarter=i,year=j)

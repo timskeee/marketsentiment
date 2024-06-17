@@ -1,0 +1,491 @@
+ticker,company,sector,sub-sector,quarter,year,date,score-neg,score-neu,score-pos,score-compound
+MMM,3M,Industrials,Industrial Conglomerates,Q1,2022,2022-04-26 10:56:02,0.037,0.737,0.226,1.0
+AOS,A. O. Smith,Industrials,Building Products,Q1,2022,2022-04-28 14:12:10,0.027,0.734,0.239,1.0
+ABT,Abbott,Health Care,Health Care Equipment,Q1,2022,2022-04-20 00:00:00,0.04,0.731,0.229,1.0
+ABBV,AbbVie,Health Care,Biotechnology,Q1,2022,2022-04-29 11:20:02,0.041,0.725,0.234,1.0
+ACN,Accenture,Information Technology,IT Consulting & Other Services,Q1,2022,2021-12-16 12:44:05,0.027,0.72,0.253,1.0
+ADBE,Adobe Inc.,Information Technology,Application Software,Q1,2022,2022-03-22 21:59:05,0.017,0.714,0.268,1.0
+AMD,Advanced Micro Devices,Information Technology,Semiconductors,Q1,2022,2022-05-03 21:40:24,0.015,0.72,0.265,1.0
+AES,AES Corporation,Utilities,Independent Power Producers & Energy Traders,Q1,2022,2022-05-06 15:40:23,0.043,0.764,0.193,1.0
+AFL,Aflac,Financials,Life & Health Insurance,Q1,2022,2022-04-28 14:16:08,0.042,0.759,0.199,1.0
+A,Agilent Technologies,Health Care,Life Sciences Tools & Services,Q1,2022,2022-02-22 21:24:02,0.018,0.695,0.287,1.0
+APD,Air Products and Chemicals,Materials,Industrial Gases,Q1,2022,2022-02-04 11:25:17,0.036,0.705,0.259,1.0
+ABNB,Airbnb,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2022,2022-05-03 23:03:07,0.035,0.723,0.242,1.0
+AKAM,Akamai,Information Technology,Internet Services & Infrastructure,Q1,2022,2022-05-03 21:21:02,0.041,0.726,0.233,1.0
+ALB,Albemarle Corporation,Materials,Specialty Chemicals,Q1,2022,2022-05-05 13:52:16,0.028,0.782,0.19,1.0
+ARE,Alexandria Real Estate Equities,Real Estate,Office REITs,Q1,2022,2022-04-26 19:38:06,0.039,0.719,0.242,1.0
+ALGN,Align Technology,Health Care,Health Care Supplies,Q1,2022,2022-04-27 18:33:16,0.04,0.747,0.213,1.0
+ALLE,Allegion,Industrials,Building Products,Q1,2022,2022-04-26 11:08:12,0.038,0.711,0.252,1.0
+LNT,Alliant Energy,Utilities,Electric Utilities,Q1,2022,2022-04-29 14:07:05,0.022,0.736,0.242,1.0
+ALL,Allstate,Financials,Property & Casualty Insurance,Q1,2022,2022-05-05 11:52:12,0.048,0.743,0.209,1.0
+GOOGL,Alphabet Inc. (Class A),Communication Services,Interactive Media & Services,Q1,2022,2022-04-26 00:00:00,0.028,0.731,0.241,1.0
+GOOG,Alphabet Inc. (Class C),Communication Services,Interactive Media & Services,Q1,2022,2022-04-26 21:59:06,0.028,0.728,0.244,1.0
+MO,Altria,Consumer Staples,Tobacco,Q1,2022,2022-04-28 11:34:10,0.036,0.753,0.211,1.0
+AMZN,Amazon,Consumer Discretionary,Broadline Retail,Q1,2022,2022-04-28 20:27:05,0.045,0.793,0.162,0.9999
+AEE,Ameren,Utilities,Multi-Utilities,Q1,2022,2022-05-06 15:42:06,0.01,0.729,0.26,1.0
+AAL,American Airlines Group,Industrials,Passenger Airlines,Q1,2022,2022-04-21 15:51:05,0.046,0.746,0.209,1.0
+AEP,American Electric Power,Utilities,Electric Utilities,Q1,2022,2022-04-28 14:08:02,0.019,0.757,0.225,1.0
+AXP,American Express,Financials,Consumer Finance,Q1,2022,2022-04-22 10:21:04,0.022,0.739,0.239,1.0
+AIG,American International Group,Financials,Multi-line Insurance,Q1,2022,2022-05-04 00:00:00,0.065,0.74,0.195,1.0
+AMT,American Tower,Real Estate,Telecom Tower REITs,Q1,2022,2022-04-27 11:28:10,0.025,0.747,0.228,1.0
+AWK,American Water Works,Utilities,Water Utilities,Q1,2022,2022-04-28 12:31:12,0.015,0.762,0.224,0.9999
+AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks,Q1,2022,2022-04-26 14:11:12,0.029,0.695,0.276,1.0
+AME,Ametek,Industrials,Electrical Components & Equipment,Q1,2022,2022-05-03 12:25:05,0.037,0.709,0.254,1.0
+AMGN,Amgen,Health Care,Biotechnology,Q1,2022,2022-04-27 20:27:03,0.042,0.752,0.206,1.0
+APH,Amphenol,Information Technology,Electronic Components,Q1,2022,2022-04-27 17:21:03,0.04,0.712,0.248,1.0
+ADI,Analog Devices,Information Technology,Semiconductors,Q1,2022,2022-02-16 13:45:03,0.024,0.715,0.261,1.0
+ANSS,Ansys,Information Technology,Application Software,Q1,2022,2022-05-05 16:03:05,0.017,0.732,0.251,1.0
+AON,Aon,Financials,Insurance Brokers,Q1,2022,2022-04-29 11:17:17,0.034,0.673,0.293,1.0
+APA,APA Corporation,Energy,Oil & Gas Exploration & Production,Q1,2022,2022-05-05 15:52:12,0.046,0.741,0.213,1.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2022,2022-01-27 20:19:05,0.033,0.737,0.23,1.0
+AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,Q1,2022,2022-02-16 18:35:02,0.032,0.721,0.246,1.0
+APTV,Aptiv,Consumer Discretionary,Automotive Parts & Equipment,Q1,2022,2022-05-05 16:01:07,0.037,0.762,0.201,1.0
+ACGL,Arch Capital Group,Financials,Property & Casualty Insurance,Q1,2022,2022-04-28 22:39:09,0.051,0.713,0.235,1.0
+ADM,Archer-Daniels-Midland,Consumer Staples,Agricultural Products & Services,Q1,2022,2022-04-26 13:10:27,0.054,0.703,0.242,1.0
+ANET,Arista Networks,Information Technology,Communications Equipment,Q1,2022,2022-05-02 19:59:05,0.042,0.759,0.198,1.0
+AJG,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,Q1,2022,2022-04-28 23:56:05,0.038,0.718,0.244,1.0
+AIZ,Assurant,Financials,Multi-line Insurance,Q1,2022,2022-05-04 11:42:16,0.025,0.717,0.258,1.0
+T,AT&T,Communication Services,Integrated Telecommunication Services,Q1,2022,2022-04-21 10:35:21,0.028,0.743,0.229,1.0
+ATO,Atmos Energy,Utilities,Gas Utilities,Q1,2022,2022-02-09 14:30:21,0.02,0.76,0.22,1.0
+ADSK,Autodesk,Information Technology,Application Software,Q1,2022,2021-05-27 23:21:02,0.016,0.727,0.257,1.0
+ADP,Automatic Data Processing,Industrials,Human Resource & Employment Services,Q1,2022,2021-10-27 13:57:08,0.022,0.719,0.259,1.0
+AZO,AutoZone,Consumer Discretionary,Automotive Retail,Q1,2022,2021-12-07 14:54:06,0.034,0.698,0.267,1.0
+AVB,AvalonBay Communities,Real Estate,Multi-Family Residential REITs,Q1,2022,2022-04-28 16:53:16,0.044,0.733,0.223,1.0
+AVY,Avery Dennison,Materials,Paper & Plastic Packaging Products & Materials,Q1,2022,2022-04-26 15:05:22,0.036,0.742,0.222,1.0
+AXON,Axon Enterprise,Industrials,Aerospace & Defense,Q1,2022,2022-05-10 20:27:05,0.031,0.69,0.279,1.0
+BKR,Baker Hughes,Energy,Oil & Gas Equipment & Services,Q1,2022,2022-04-20 13:03:05,0.03,0.718,0.252,1.0
+BALL,Ball Corporation,Materials,"Metal, Glass & Plastic Containers",Q1,2022,2022-05-05 15:44:01,0.028,0.757,0.215,1.0
+BAC,Bank of America,Financials,Diversified Banks,Q1,2022,2022-04-18 10:24:04,0.04,0.753,0.207,1.0
+BK,Bank of New York Mellon,Financials,Asset Management & Custody Banks,Q1,2022,2022-04-18 13:06:04,0.028,0.704,0.268,1.0
+BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,Other Specialty Retail,Q1,2022,2021-05-20 00:00:00,0.015,0.689,0.296,1.0
+BAX,Baxter International,Health Care,Health Care Equipment,Q1,2022,2022-04-28 11:55:02,0.041,0.762,0.197,1.0
+BDX,Becton Dickinson,Health Care,Health Care Equipment,Q1,2022,2022-02-03 13:33:16,0.025,0.718,0.257,1.0
+BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,Q1,2022,2021-05-27 12:25:04,0.029,0.701,0.27,1.0
+BIO,Bio-Rad,Health Care,Life Sciences Tools & Services,Q1,2022,2022-04-28 23:03:04,0.031,0.745,0.223,0.9999
+TECH,Bio-Techne,Health Care,Life Sciences Tools & Services,Q1,2022,2021-11-02 14:52:04,0.028,0.734,0.238,1.0
+BIIB,Biogen,Health Care,Biotechnology,Q1,2022,2022-05-03 13:32:13,0.034,0.75,0.216,1.0
+BLK,BlackRock,Financials,Asset Management & Custody Banks,Q1,2022,2022-04-13 11:15:05,0.046,0.715,0.239,1.0
+BX,Blackstone,Financials,Asset Management & Custody Banks,Q1,2022,2022-04-21 13:50:05,0.024,0.717,0.259,1.0
+BA,Boeing,Industrials,Aerospace & Defense,Q1,2022,2022-04-27 12:50:11,0.047,0.718,0.235,1.0
+BKNG,Booking Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2022,2022-05-04 22:39:14,0.049,0.742,0.209,1.0
+BWA,BorgWarner,Consumer Discretionary,Automotive Parts & Equipment,Q1,2022,2022-05-04 13:45:26,0.03,0.777,0.193,1.0
+BXP,Boston Properties,Real Estate,Office REITs,Q1,2022,2022-05-03 15:13:09,0.023,0.806,0.171,1.0
+BSX,Boston Scientific,Health Care,Health Care Equipment,Q1,2022,2022-05-03 23:06:02,0.025,0.732,0.243,1.0
+BMY,Bristol Myers Squibb,Health Care,Pharmaceuticals,Q1,2022,2022-04-29 13:28:21,0.023,0.743,0.234,1.0
+AVGO,Broadcom Inc.,Information Technology,Semiconductors,Q1,2022,2022-03-03 20:49:10,0.025,0.775,0.2,1.0
+BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,Q1,2022,2021-11-03 00:00:00,0.014,0.74,0.246,1.0
+BRO,Brown & Brown,Financials,Insurance Brokers,Q1,2022,2022-04-26 15:19:11,0.029,0.729,0.242,1.0
+BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,Q1,2022,2021-09-01 14:36:08,0.035,0.733,0.232,1.0
+BLDR,Builders FirstSource,Industrials,Building Products,Q1,2022,2022-05-10 13:39:09,0.027,0.712,0.261,1.0
+BG,Bunge Global SA,Consumer Staples,Agricultural Products & Services,Q1,2022,2022-04-27 11:19:14,0.046,0.73,0.224,1.0
+CDNS,Cadence Design Systems,Information Technology,Application Software,Q1,2022,2022-04-25 22:06:07,0.013,0.7,0.287,1.0
+CZR,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming,Q1,2022,2022-05-03 20:15:04,0.03,0.749,0.221,1.0
+CPT,Camden Property Trust,Real Estate,Multi-Family Residential REITs,Q1,2022,2022-04-29 17:33:05,0.041,0.753,0.206,1.0
+CPB,Campbell Soup Company,Consumer Staples,Packaged Foods & Meats,Q1,2022,2021-12-08 12:39:05,0.042,0.729,0.229,1.0
+COF,Capital One,Financials,Consumer Finance,Q1,2022,2022-04-26 23:25:02,0.032,0.715,0.253,1.0
+CAH,Cardinal Health,Health Care,Health Care Distributors,Q1,2022,2021-11-09 13:25:10,0.026,0.751,0.223,1.0
+KMX,CarMax,Consumer Discretionary,Automotive Retail,Q1,2022,2021-06-25 14:24:04,0.022,0.743,0.235,1.0
+CCL,Carnival,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2022,2022-03-22 14:25:03,0.035,0.761,0.205,1.0
+CARR,Carrier Global,Industrials,Building Products,Q1,2022,2022-04-28 13:24:14,0.033,0.737,0.23,1.0
+CTLT,Catalent,Health Care,Pharmaceuticals,Q1,2022,2021-11-02 00:00:00,0.02,0.78,0.199,1.0
+CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,Q1,2022,2022-04-28 12:30:35,0.037,0.701,0.262,1.0
+CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data,Q1,2022,2022-04-29 16:12:10,0.012,0.725,0.262,1.0
+CBRE,CBRE Group,Real Estate,Real Estate Services,Q1,2022,2022-05-05 14:57:02,0.023,0.747,0.23,1.0
+CDW,CDW,Information Technology,Technology Distributors,Q1,2022,2022-05-04 13:48:03,0.038,0.692,0.27,1.0
+CE,Celanese,Materials,Specialty Chemicals,Q1,2022,2022-04-29 14:31:06,0.007,0.778,0.215,0.998
+COR,Cencora,Health Care,Health Care Distributors,Q1,2022,2022-02-02 12:32:05,0.019,0.7,0.282,1.0
+CNC,Centene Corporation,Health Care,Managed Health Care,Q1,2022,2022-04-26 12:20:21,0.018,0.736,0.246,1.0
+CNP,CenterPoint Energy,Utilities,Multi-Utilities,Q1,2022,2022-05-03 11:21:09,0.025,0.754,0.221,1.0
+CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals,Q1,2022,2022-05-05 13:08:02,0.038,0.753,0.209,1.0
+CHRW,CH Robinson,Industrials,Air Freight & Logistics,Q1,2022,2022-04-27 22:08:06,0.032,0.717,0.251,1.0
+CRL,Charles River Laboratories,Health Care,Life Sciences Tools & Services,Q1,2022,2022-05-04 14:23:03,0.028,0.708,0.264,1.0
+SCHW,Charles Schwab Corporation,Financials,Investment Banking & Brokerage,Q1,2022,2022-04-21 00:00:00,0.03,0.737,0.233,1.0
+CHTR,Charter Communications,Communication Services,Cable & Satellite,Q1,2022,2022-04-29 11:17:08,0.048,0.758,0.195,1.0
+CVX,Chevron Corporation,Energy,Integrated Oil & Gas,Q1,2022,2022-04-29 13:54:07,0.044,0.783,0.173,1.0
+CMG,Chipotle Mexican Grill,Consumer Discretionary,Restaurants,Q1,2022,2022-04-26 20:38:05,0.021,0.709,0.27,1.0
+CB,Chubb Limited,Financials,Property & Casualty Insurance,Q1,2022,2022-04-27 11:34:12,0.07,0.747,0.182,0.9999
+CHD,Church & Dwight,Consumer Staples,Household Products,Q1,2022,2022-04-28 16:43:06,0.037,0.744,0.219,1.0
+CI,Cigna,Health Care,Health Care Services,Q1,2022,2022-05-06 10:56:09,0.018,0.724,0.258,1.0
+CINF,Cincinnati Financial,Financials,Property & Casualty Insurance,Q1,2022,2022-04-29 16:00:21,0.087,0.72,0.193,0.9997
+CTAS,Cintas,Industrials,Diversified Support Services,Q1,2022,2021-09-29 14:15:16,0.028,0.718,0.254,1.0
+CSCO,Cisco,Information Technology,Communications Equipment,Q1,2022,2021-11-17 23:39:02,0.026,0.737,0.237,1.0
+C,Citigroup,Financials,Diversified Banks,Q1,2022,2022-04-14 15:33:03,0.04,0.731,0.229,1.0
+CFG,Citizens Financial Group,Financials,Regional Banks,Q1,2022,2022-04-19 14:55:06,0.03,0.707,0.263,1.0
+CLX,Clorox,Consumer Staples,Household Products,Q1,2022,2021-11-01 00:00:00,0.04,0.75,0.21,1.0
+CME,CME Group,Financials,Financial Exchanges & Data,Q1,2022,2022-04-27 12:19:11,0.029,0.725,0.247,1.0
+CMS,CMS Energy,Utilities,Multi-Utilities,Q1,2022,2022-05-03 15:18:07,0.021,0.74,0.239,1.0
+KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q1,2022,2022-04-25 12:14:02,0.033,0.735,0.231,1.0
+CTSH,Cognizant,Information Technology,IT Consulting & Other Services,Q1,2022,2022-05-04 21:31:03,0.03,0.744,0.227,1.0
+CL,Colgate-Palmolive,Consumer Staples,Household Products,Q1,2022,2022-04-29 13:03:06,0.028,0.755,0.217,1.0
+CMCSA,Comcast,Communication Services,Cable & Satellite,Q1,2022,2022-04-28 12:04:11,0.025,0.744,0.232,1.0
+CMA,Comerica,Financials,Diversified Banks,Q1,2022,2022-04-20 15:51:07,0.037,0.727,0.236,1.0
+CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,Q1,2022,2021-10-07 11:58:08,0.038,0.713,0.25,1.0
+COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,Q1,2022,2022-05-05 15:22:05,0.049,0.746,0.205,0.9999
+STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,Q1,2022,2021-06-30 17:35:36,0.032,0.727,0.241,1.0
+CEG,Constellation Energy,Utilities,Electric Utilities,Q1,2022,2022-05-12 00:00:00,0.03,0.722,0.248,1.0
+COO,CooperCompanies,Health Care,Health Care Supplies,Q1,2022,2022-03-03 23:06:02,0.035,0.674,0.291,1.0
+CPRT,Copart,Industrials,Diversified Support Services,Q1,2022,2021-11-18 16:22:02,0.038,0.733,0.229,1.0
+GLW,Corning Inc.,Information Technology,Electronic Components,Q1,2022,2022-04-26 12:02:02,0.03,0.71,0.26,1.0
+CPAY,Corpay,Financials,Transaction & Payment Processing Services,Q1,2022,2022-05-05 00:00:00,0.032,0.725,0.243,1.0
+CTVA,Corteva,Materials,Fertilizers & Agricultural Chemicals,Q1,2022,2022-05-05 12:41:08,0.019,0.756,0.225,1.0
+CSGP,CoStar Group,Real Estate,Real Estate Services,Q1,2022,2022-04-26 00:00:00,0.022,0.765,0.213,1.0
+COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,Q1,2022,2021-12-09 23:46:09,0.033,0.753,0.214,1.0
+CTRA,Coterra,Energy,Oil & Gas Exploration & Production,Q1,2022,2022-05-03 12:03:01,0.038,0.713,0.249,1.0
+CCI,Crown Castle,Real Estate,Telecom Tower REITs,Q1,2022,2022-04-21 13:28:06,0.021,0.74,0.239,1.0
+CSX,CSX,Industrials,Rail Transportation,Q1,2022,2022-04-20 21:17:05,0.028,0.727,0.245,1.0
+CMI,Cummins,Industrials,Construction Machinery & Heavy Transportation Equipment,Q1,2022,2022-02-03 15:12:02,0.031,0.739,0.23,1.0
+CVS,CVS Health,Health Care,Health Care Services,Q1,2022,2022-05-04 12:23:10,0.022,0.716,0.262,1.0
+DHR,Danaher Corporation,Health Care,Life Sciences Tools & Services,Q1,2022,2022-04-21 12:28:05,0.02,0.728,0.252,1.0
+DRI,Darden Restaurants,Consumer Discretionary,Restaurants,Q1,2022,2021-09-23 15:37:04,0.035,0.712,0.252,1.0
+DVA,DaVita Inc.,Health Care,Health Care Services,Q1,2022,2022-05-05 22:46:11,0.051,0.756,0.193,0.9999
+DAY,Dayforce,Industrials,Human Resource & Employment Services,Q1,2022,2022-05-04 00:00:00,0.021,0.724,0.255,0.9999
+DECK,Deckers Brands,Consumer Discretionary,Footwear,Q1,2022,2021-07-29 19:57:11,0.034,0.717,0.249,1.0
+DE,John Deere,Industrials,Agricultural & Farm Machinery,Q1,2022,2022-02-18 13:57:07,0.03,0.727,0.243,1.0
+DAL,Delta Air Lines,Industrials,Passenger Airlines,Q1,2022,2022-04-13 11:55:26,0.038,0.735,0.227,1.0
+DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,Q1,2022,2022-05-03 15:44:08,0.028,0.705,0.268,1.0
+DXCM,Dexcom,Health Care,Health Care Equipment,Q1,2022,2022-04-28 21:24:12,0.025,0.723,0.252,1.0
+FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production,Q1,2022,2022-05-03 12:27:09,0.054,0.749,0.197,1.0
+DLR,Digital Realty,Real Estate,Data Center REITs,Q1,2022,2022-04-28 22:49:09,0.035,0.765,0.2,1.0
+DFS,Discover Financial,Financials,Consumer Finance,Q1,2022,2022-04-28 11:19:08,0.03,0.685,0.285,1.0
+DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,Q1,2022,2021-05-27 00:00:00,0.037,0.712,0.252,1.0
+DLTR,Dollar Tree,Consumer Staples,Consumer Staples Merchandise Retail,Q1,2022,2022-05-26 00:00:00,0.024,0.737,0.239,1.0
+D,Dominion Energy,Utilities,Multi-Utilities,Q1,2022,2022-05-05 12:01:07,0.022,0.742,0.236,1.0
+DPZ,Domino's,Consumer Discretionary,Restaurants,Q1,2022,2022-04-28 14:56:17,0.023,0.751,0.226,1.0
+DOV,Dover Corporation,Industrials,Industrial Machinery & Supplies & Components,Q1,2022,2022-04-21 15:23:07,0.042,0.705,0.253,1.0
+DOW,Dow Inc.,Materials,Commodity Chemicals,Q1,2022,2022-04-21 12:27:09,0.024,0.754,0.222,1.0
+DHI,DR Horton,Consumer Discretionary,Homebuilding,Q1,2022,2022-02-02 13:15:03,0.033,0.739,0.228,1.0
+DTE,DTE Energy,Utilities,Multi-Utilities,Q1,2022,2022-04-28 15:16:12,0.023,0.731,0.246,1.0
+DUK,Duke Energy,Utilities,Electric Utilities,Q1,2022,2022-05-09 12:50:26,0.021,0.744,0.235,1.0
+DD,DuPont,Materials,Specialty Chemicals,Q1,2022,2022-05-03 12:04:17,0.027,0.749,0.224,1.0
+EMN,Eastman Chemical Company,Materials,Specialty Chemicals,Q1,2022,2022-04-29 12:31:05,0.029,0.745,0.226,1.0
+ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,Q1,2022,2022-05-03 14:33:07,0.028,0.722,0.25,1.0
+EBAY,eBay,Consumer Discretionary,Broadline Retail,Q1,2022,2022-05-04 20:17:10,0.032,0.723,0.246,1.0
+ECL,Ecolab,Materials,Specialty Chemicals,Q1,2022,2022-04-26 18:25:26,0.03,0.716,0.254,1.0
+EIX,Edison International,Utilities,Electric Utilities,Q1,2022,2022-05-03 19:46:14,0.042,0.761,0.197,1.0
+EW,Edwards Lifesciences,Health Care,Health Care Equipment,Q1,2022,2022-04-26 20:09:07,0.03,0.688,0.282,1.0
+EA,Electronic Arts,Communication Services,Interactive Home Entertainment,Q1,2022,2021-08-04 23:43:16,0.034,0.718,0.249,1.0
+ELV,Elevance Health,Health Care,Managed Health Care,Q1,2022,2022-04-20 12:26:09,0.028,0.693,0.279,1.0
+LLY,Eli Lilly and Company,Health Care,Pharmaceuticals,Q1,2022,2022-04-28 16:21:05,0.044,0.724,0.231,1.0
+EMR,Emerson Electric,Industrials,Electrical Components & Equipment,Q1,2022,2022-02-02 13:31:02,0.024,0.724,0.252,1.0
+ENPH,Enphase,Information Technology,Semiconductor Materials & Equipment,Q1,2022,2022-04-26 22:01:04,0.032,0.755,0.214,1.0
+ETR,Entergy,Utilities,Electric Utilities,Q1,2022,2022-04-27 23:53:07,0.024,0.75,0.226,1.0
+EOG,EOG Resources,Energy,Oil & Gas Exploration & Production,Q1,2022,2022-05-06 14:58:07,0.026,0.692,0.282,1.0
+EPAM,EPAM Systems,Information Technology,IT Consulting & Other Services,Q1,2022,2022-05-05 14:01:04,0.036,0.733,0.23,1.0
+EQT,EQT Corporation,Energy,Oil & Gas Exploration & Production,Q1,2022,2022-04-28 14:06:03,0.044,0.736,0.22,1.0
+EFX,Equifax,Industrials,Research & Consulting Services,Q1,2022,2022-04-21 16:35:02,0.022,0.718,0.26,1.0
+EQIX,Equinix,Real Estate,Data Center REITs,Q1,2022,2022-04-27 19:42:10,0.025,0.74,0.235,1.0
+EQR,Equity Residential,Real Estate,Multi-Family Residential REITs,Q1,2022,2022-04-27 15:41:20,0.054,0.687,0.259,1.0
+ESS,Essex Property Trust,Real Estate,Multi-Family Residential REITs,Q1,2022,2022-04-27 17:07:05,0.04,0.752,0.208,1.0
+EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,Q1,2022,2021-11-02 14:49:10,0.016,0.691,0.293,1.0
+ETSY,Etsy,Consumer Discretionary,Broadline Retail,Q1,2022,2022-05-04 20:27:02,0.03,0.749,0.221,1.0
+EG,Everest Re,Financials,Reinsurance,Q1,2022,2022-04-28 12:28:15,0.081,0.697,0.222,1.0
+EVRG,Evergy,Utilities,Electric Utilities,Q1,2022,2022-05-05 11:51:10,0.014,0.786,0.2,0.9999
+ES,Eversource,Utilities,Electric Utilities,Q1,2022,2022-05-05 12:41:15,0.022,0.724,0.254,1.0
+EXC,Exelon,Utilities,Electric Utilities,Q1,2022,2022-05-09 13:28:16,0.016,0.768,0.216,1.0
+EXPE,Expedia Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2022,2022-05-02 21:44:02,0.024,0.703,0.273,1.0
+EXR,Extra Space Storage,Real Estate,Self-Storage REITs,Q1,2022,2022-05-04 16:59:05,0.041,0.727,0.233,1.0
+XOM,ExxonMobil,Energy,Integrated Oil & Gas,Q1,2022,2022-04-29 12:24:01,0.045,0.746,0.209,1.0
+FFIV,"F5, Inc.",Information Technology,Communications Equipment,Q1,2022,2022-01-25 19:48:03,0.044,0.737,0.22,1.0
+FDS,FactSet,Financials,Financial Exchanges & Data,Q1,2022,2021-12-21 15:00:04,0.015,0.722,0.264,1.0
+FICO,Fair Isaac,Information Technology,Application Software,Q1,2022,2022-01-27 21:41:08,0.011,0.731,0.258,1.0
+FAST,Fastenal,Industrials,Trading Companies & Distributors,Q1,2022,2022-04-13 15:04:03,0.051,0.761,0.188,1.0
+FRT,Federal Realty,Real Estate,Retail REITs,Q1,2022,2022-05-05 15:47:06,0.031,0.756,0.214,1.0
+FDX,FedEx,Industrials,Air Freight & Logistics,Q1,2022,2021-09-23 06:29:05,0.03,0.743,0.227,1.0
+FIS,Fidelity National Information Services,Financials,Transaction & Payment Processing Services,Q1,2022,2022-05-03 12:16:05,0.014,0.711,0.275,1.0
+FITB,Fifth Third Bank,Financials,Diversified Banks,Q1,2022,2022-04-19 17:09:17,0.032,0.708,0.259,1.0
+FSLR,First Solar,Information Technology,Semiconductors,Q1,2022,2022-04-28 21:43:02,0.058,0.756,0.186,1.0
+FE,FirstEnergy,Utilities,Electric Utilities,Q1,2022,2022-04-22 14:26:05,0.029,0.711,0.26,1.0
+FI,Fiserv,Financials,Transaction & Payment Processing Services,Q1,2022,2022-04-27 00:00:00,0.018,0.721,0.26,1.0
+FMC,FMC Corporation,Materials,Fertilizers & Agricultural Chemicals,Q1,2022,2022-05-03 13:09:11,0.05,0.735,0.215,1.0
+F,Ford Motor Company,Consumer Discretionary,Automobile Manufacturers,Q1,2022,2022-04-27 19:20:10,0.036,0.722,0.243,1.0
+FTNT,Fortinet,Information Technology,Systems Software,Q1,2022,2022-05-04 21:02:09,0.027,0.723,0.251,1.0
+FTV,Fortive,Industrials,Industrial Machinery & Supplies & Components,Q1,2022,2022-04-28 19:13:05,0.03,0.698,0.272,1.0
+FOXA,Fox Corporation (Class A),Communication Services,Broadcasting,Q1,2022,2021-11-03 22:15:35,0.01,0.768,0.222,1.0
+FOX,Fox Corporation (Class B),Communication Services,Broadcasting,Q1,2022,2021-11-03 22:15:35,0.01,0.768,0.222,1.0
+BEN,Franklin Templeton,Financials,Asset Management & Custody Banks,Q1,2022,2022-02-01 15:26:02,0.022,0.696,0.282,1.0
+FCX,Freeport-McMoRan,Materials,Copper,Q1,2022,2022-04-21 14:01:07,0.03,0.766,0.205,1.0
+GRMN,Garmin,Consumer Discretionary,Consumer Electronics,Q1,2022,2022-04-27 14:28:15,0.043,0.722,0.235,1.0
+IT,Gartner,Information Technology,IT Consulting & Other Services,Q1,2022,2022-05-03 10:53:13,0.028,0.728,0.245,1.0
+GE,GE Aerospace,Industrials,Aerospace & Defense,Q1,2022,2022-04-26 11:40:02,0.055,0.712,0.233,1.0
+GEN,Gen Digital,Information Technology,Systems Software,Q1,2022,2021-07-27 20:34:06,0.016,0.749,0.236,1.0
+GNRC,Generac,Industrials,Electrical Components & Equipment,Q1,2022,2022-05-04 15:50:34,0.031,0.739,0.23,1.0
+GD,General Dynamics,Industrials,Aerospace & Defense,Q1,2022,2022-04-27 00:00:00,0.046,0.752,0.202,1.0
+GIS,General Mills,Consumer Staples,Packaged Foods & Meats,Q1,2022,2021-09-22 00:00:00,0.029,0.732,0.239,1.0
+GM,General Motors,Consumer Discretionary,Automobile Manufacturers,Q1,2022,2022-04-26 19:10:05,0.02,0.745,0.235,1.0
+GPC,Genuine Parts Company,Consumer Discretionary,Distributors,Q1,2022,2022-04-21 15:19:03,0.02,0.684,0.297,1.0
+GILD,Gilead Sciences,Health Care,Biotechnology,Q1,2022,2022-04-28 21:15:14,0.03,0.755,0.215,1.0
+GPN,Global Payments,Financials,Transaction & Payment Processing Services,Q1,2022,2022-05-02 10:02:14,0.017,0.706,0.277,1.0
+GL,Globe Life,Financials,Life & Health Insurance,Q1,2022,2022-04-21 15:05:05,0.053,0.752,0.195,1.0
+GS,Goldman Sachs,Financials,Investment Banking & Brokerage,Q1,2022,2022-04-14 11:13:02,0.029,0.736,0.236,1.0
+HAL,Halliburton,Energy,Oil & Gas Equipment & Services,Q1,2022,2022-04-19 10:35:18,0.027,0.746,0.226,1.0
+HIG,Hartford (The),Financials,Property & Casualty Insurance,Q1,2022,2022-04-29 10:55:02,0.063,0.714,0.222,1.0
+HAS,Hasbro,Consumer Discretionary,Leisure Products,Q1,2022,2022-04-19 10:05:06,0.034,0.693,0.274,1.0
+HCA,HCA Healthcare,Health Care,Health Care Facilities,Q1,2022,2022-04-22 12:42:08,0.03,0.795,0.175,1.0
+DOC,Healthpeak,Real Estate,Health Care REITs,Q1,2022,2022-05-04 13:25:29,0.032,0.7,0.268,1.0
+HSIC,Henry Schein,Health Care,Health Care Distributors,Q1,2022,2022-05-03 15:28:13,0.034,0.737,0.23,1.0
+HSY,Hershey's,Consumer Staples,Packaged Foods & Meats,Q1,2022,2022-04-28 12:02:05,0.037,0.693,0.27,1.0
+HES,Hess Corporation,Energy,Integrated Oil & Gas,Q1,2022,2022-04-27 13:23:08,0.047,0.779,0.174,1.0
+HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2022,2022-03-01 21:06:10,0.028,0.716,0.256,1.0
+HLT,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2022,2022-05-03 14:01:02,0.036,0.744,0.22,1.0
+HOLX,Hologic,Health Care,Health Care Equipment,Q1,2022,2022-02-02 22:17:03,0.022,0.759,0.218,1.0
+HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,Q1,2022,2022-05-17 13:03:05,0.045,0.712,0.243,1.0
+HON,Honeywell,Industrials,Industrial Conglomerates,Q1,2022,2022-04-29 13:35:05,0.037,0.714,0.25,1.0
+HRL,Hormel Foods,Consumer Staples,Packaged Foods & Meats,Q1,2022,2022-03-01 14:04:06,0.035,0.712,0.253,1.0
+HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,Q1,2022,2022-05-05 15:01:05,0.028,0.801,0.171,1.0
+HWM,Howmet Aerospace,Industrials,Aerospace & Defense,Q1,2022,2022-05-03 14:09:08,0.024,0.762,0.214,1.0
+HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2022,2022-02-28 00:00:00,0.027,0.714,0.258,1.0
+HUBB,Hubbell Incorporated,Industrials,Industrial Machinery & Supplies & Components,Q1,2022,2022-04-26 14:14:05,0.027,0.726,0.247,1.0
+HUM,Humana,Health Care,Managed Health Care,Q1,2022,2022-04-27 15:13:02,0.023,0.74,0.236,1.0
+HBAN,Huntington Bancshares,Financials,Regional Banks,Q1,2022,2022-04-21 11:15:03,0.023,0.71,0.267,1.0
+HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,Q1,2022,2022-05-05 14:33:04,0.035,0.752,0.213,1.0
+IBM,IBM,Information Technology,IT Consulting & Other Services,Q1,2022,2022-04-19 21:21:02,0.039,0.724,0.238,1.0
+IEX,IDEX Corporation,Industrials,Industrial Machinery & Supplies & Components,Q1,2022,2022-04-27 17:02:05,0.042,0.695,0.263,1.0
+IDXX,Idexx Laboratories,Health Care,Health Care Equipment,Q1,2022,2022-05-04 11:47:03,0.028,0.681,0.291,1.0
+ITW,Illinois Tool Works,Industrials,Industrial Machinery & Supplies & Components,Q1,2022,2022-05-03 12:35:22,0.027,0.738,0.235,1.0
+ILMN,Illumina,Health Care,Life Sciences Tools & Services,Q1,2022,2022-05-05 21:22:03,0.039,0.757,0.204,1.0
+INCY,Incyte,Health Care,Biotechnology,Q1,2022,2022-05-03 11:29:02,0.05,0.741,0.209,1.0
+IR,Ingersoll Rand,Industrials,Industrial Machinery & Supplies & Components,Q1,2022,2022-05-05 13:44:09,0.02,0.721,0.258,1.0
+PODD,Insulet,Health Care,Health Care Equipment,Q1,2022,2022-05-06 17:23:07,0.031,0.71,0.259,1.0
+INTC,Intel,Information Technology,Semiconductors,Q1,2022,2022-04-28 20:17:06,0.035,0.755,0.21,1.0
+ICE,Intercontinental Exchange,Financials,Financial Exchanges & Data,Q1,2022,2022-05-05 13:09:14,0.021,0.74,0.239,1.0
+IFF,International Flavors & Fragrances,Materials,Specialty Chemicals,Q1,2022,2022-05-10 15:40:18,0.026,0.694,0.28,1.0
+IP,International Paper,Materials,Paper & Plastic Packaging Products & Materials,Q1,2022,2022-04-28 14:37:15,0.031,0.736,0.234,1.0
+IPG,Interpublic Group of Companies (The),Communication Services,Advertising,Q1,2022,2022-04-28 14:00:19,0.017,0.697,0.286,1.0
+INTU,Intuit,Information Technology,Application Software,Q1,2022,2021-11-19 02:11:05,0.011,0.711,0.278,1.0
+ISRG,Intuitive Surgical,Health Care,Health Care Equipment,Q1,2022,2022-04-21 19:04:03,0.044,0.749,0.207,1.0
+IVZ,Invesco,Financials,Asset Management & Custody Banks,Q1,2022,2022-04-26 14:19:03,0.034,0.721,0.245,1.0
+INVH,Invitation Homes,Real Estate,Single-Family Residential REITs,Q1,2022,2022-04-29 17:11:07,0.035,0.724,0.241,1.0
+IQV,IQVIA,Health Care,Life Sciences Tools & Services,Q1,2022,2022-04-27 14:28:04,0.035,0.756,0.209,1.0
+IRM,Iron Mountain,Real Estate,Other Specialized REITs,Q1,2022,2022-04-28 11:23:04,0.03,0.708,0.263,1.0
+JBHT,J.B. Hunt,Industrials,Cargo Ground Transportation,Q1,2022,2022-04-18 22:44:06,0.026,0.681,0.293,1.0
+JBL,Jabil,Information Technology,Electronic Manufacturing Services,Q1,2022,2021-12-16 14:07:07,0.028,0.723,0.249,1.0
+JKHY,Jack Henry & Associates,Financials,Transaction & Payment Processing Services,Q1,2022,2021-11-09 12:54:13,0.017,0.768,0.215,1.0
+J,Jacobs Solutions,Industrials,Construction & Engineering,Q1,2022,2022-02-08 15:31:05,0.023,0.71,0.268,1.0
+JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,Q1,2022,2022-04-19 10:23:05,0.022,0.731,0.247,1.0
+JCI,Johnson Controls,Industrials,Building Products,Q1,2022,2022-02-02 13:33:05,0.031,0.689,0.28,1.0
+JPM,JPMorgan Chase,Financials,Diversified Banks,Q1,2022,2022-04-13 12:13:07,0.062,0.738,0.199,1.0
+JNPR,Juniper Networks,Information Technology,Communications Equipment,Q1,2022,2022-04-26 21:09:08,0.034,0.678,0.289,1.0
+K,Kellanova,Consumer Staples,Packaged Foods & Meats,Q1,2022,2022-05-05 15:21:06,0.049,0.715,0.236,1.0
+KDP,Keurig Dr Pepper,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q1,2022,2022-04-28 16:05:05,0.023,0.726,0.251,1.0
+KEY,KeyCorp,Financials,Regional Banks,Q1,2022,2022-04-21 00:00:00,0.027,0.752,0.221,1.0
+KEYS,Keysight,Information Technology,Electronic Equipment & Instruments,Q1,2022,2022-02-17 21:02:09,0.025,0.734,0.241,1.0
+KMB,Kimberly-Clark,Consumer Staples,Household Products,Q1,2022,2022-04-22 11:22:06,0.024,0.701,0.274,1.0
+KIM,Kimco Realty,Real Estate,Retail REITs,Q1,2022,2022-04-28 12:49:05,0.03,0.725,0.245,1.0
+KMI,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,Q1,2022,2022-04-20 19:37:03,0.037,0.733,0.23,1.0
+KLAC,KLA Corporation,Information Technology,Semiconductor Materials & Equipment,Q1,2022,2021-10-27 00:00:00,0.024,0.765,0.21,1.0
+KHC,Kraft Heinz,Consumer Staples,Packaged Foods & Meats,Q1,2022,2022-04-27 11:40:11,0.05,0.716,0.234,0.9999
+LHX,L3Harris,Industrials,Aerospace & Defense,Q1,2022,2022-04-29 11:41:04,0.025,0.734,0.241,1.0
+LH,LabCorp,Health Care,Health Care Services,Q1,2022,2022-04-28 13:12:11,0.029,0.793,0.178,1.0
+LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,Q1,2022,2021-10-21 02:40:00,0.029,0.734,0.237,1.0
+LW,Lamb Weston,Consumer Staples,Packaged Foods & Meats,Q1,2022,2021-10-07 14:11:05,0.067,0.718,0.215,1.0
+LVS,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,Q1,2022,2022-04-27 19:55:06,0.043,0.746,0.211,0.9999
+LDOS,Leidos,Industrials,Diversified Support Services,Q1,2022,2022-05-03 13:05:26,0.035,0.732,0.233,1.0
+LEN,Lennar,Consumer Discretionary,Homebuilding,Q1,2022,2022-03-17 12:47:04,0.044,0.724,0.232,1.0
+LIN,Linde plc,Materials,Industrial Gases,Q1,2022,2022-04-28 12:27:06,0.029,0.712,0.26,1.0
+LYV,Live Nation Entertainment,Communication Services,Movies & Entertainment,Q1,2022,2022-05-05 21:39:05,0.025,0.732,0.243,1.0
+LKQ,LKQ Corporation,Consumer Discretionary,Distributors,Q1,2022,2022-04-28 13:47:14,0.049,0.717,0.234,1.0
+LMT,Lockheed Martin,Industrials,Aerospace & Defense,Q1,2022,2022-04-19 14:44:05,0.039,0.739,0.223,1.0
+L,Loews Corporation,Financials,Multi-line Insurance,Q1,2022,2022-05-02 13:14:06,0.078,0.697,0.225,0.9999
+LOW,Lowe's,Consumer Discretionary,Home Improvement Retail,Q1,2022,2021-05-19 00:00:00,0.034,0.705,0.262,1.0
+LULU,Lululemon Athletica,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q1,2022,2022-06-02 00:00:00,0.024,0.751,0.225,1.0
+LYB,LyondellBasell,Materials,Specialty Chemicals,Q1,2022,2022-04-29 13:03:15,0.046,0.747,0.207,1.0
+MTB,M&T Bank,Financials,Regional Banks,Q1,2022,2022-04-20 15:42:06,0.037,0.785,0.178,1.0
+MRO,Marathon Oil,Energy,Oil & Gas Exploration & Production,Q1,2022,2022-05-05 13:58:08,0.036,0.714,0.25,1.0
+MPC,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing,Q1,2022,2022-05-03 13:27:06,0.037,0.755,0.208,1.0
+MKTX,MarketAxess,Financials,Financial Exchanges & Data,Q1,2022,2022-04-20 16:22:03,0.019,0.743,0.238,1.0
+MAR,Marriott International,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2022,2022-05-04 12:41:07,0.032,0.717,0.25,1.0
+MMC,Marsh McLennan,Financials,Insurance Brokers,Q1,2022,2022-04-21 13:59:06,0.047,0.687,0.266,1.0
+MLM,Martin Marietta Materials,Materials,Construction Materials,Q1,2022,2022-05-03 15:45:02,0.021,0.75,0.229,1.0
+MAS,Masco,Industrials,Building Products,Q1,2022,2022-04-27 11:52:07,0.02,0.73,0.25,1.0
+MA,Mastercard,Financials,Transaction & Payment Processing Services,Q1,2022,2022-04-28 12:12:05,0.03,0.737,0.232,1.0
+MTCH,Match Group,Communication Services,Interactive Media & Services,Q1,2022,2022-05-04 11:48:09,0.04,0.749,0.211,1.0
+MKC,McCormick & Company,Consumer Staples,Packaged Foods & Meats,Q1,2022,2022-03-29 12:45:23,0.039,0.729,0.231,1.0
+MCD,McDonald's,Consumer Discretionary,Restaurants,Q1,2022,2022-04-28 11:58:05,0.032,0.737,0.231,1.0
+MCK,McKesson Corporation,Health Care,Health Care Distributors,Q1,2022,2021-08-04 22:37:06,0.014,0.731,0.255,1.0
+MDT,Medtronic,Health Care,Health Care Equipment,Q1,2022,2021-08-24 17:32:00,0.024,0.718,0.257,1.0
+MRK,Merck & Co.,Health Care,Pharmaceuticals,Q1,2022,2022-04-28 12:08:06,0.07,0.681,0.249,1.0
+META,Meta Platforms,Communication Services,Interactive Media & Services,Q1,2022,2022-04-27 22:03:05,0.031,0.734,0.236,1.0
+MET,MetLife,Financials,Life & Health Insurance,Q1,2022,2022-05-05 13:52:09,0.035,0.709,0.256,1.0
+MTD,Mettler Toledo,Health Care,Life Sciences Tools & Services,Q1,2022,2022-05-05 22:59:12,0.04,0.669,0.291,1.0
+MGM,MGM Resorts,Consumer Discretionary,Casinos & Gaming,Q1,2022,2022-05-02 18:28:15,0.016,0.722,0.261,1.0
+MCHP,Microchip Technology,Information Technology,Semiconductors,Q1,2022,2021-08-04 00:16:08,0.056,0.724,0.22,1.0
+MU,Micron Technology,Information Technology,Semiconductors,Q1,2022,2021-12-20 20:17:08,0.039,0.744,0.217,1.0
+MSFT,Microsoft,Information Technology,Systems Software,Q1,2022,2021-10-26 21:19:06,0.029,0.738,0.233,1.0
+MAA,Mid-America Apartment Communities,Real Estate,Multi-Family Residential REITs,Q1,2022,2022-04-30 13:05:17,0.042,0.751,0.207,1.0
+MRNA,Moderna,Health Care,Biotechnology,Q1,2022,2022-05-04 13:15:35,0.035,0.771,0.194,1.0
+MHK,Mohawk Industries,Consumer Discretionary,Home Furnishings,Q1,2022,2022-04-29 20:13:05,0.047,0.739,0.214,1.0
+MOH,Molina Healthcare,Health Care,Managed Health Care,Q1,2022,2022-04-28 12:40:04,0.034,0.743,0.223,1.0
+TAP,Molson Coors Beverage Company,Consumer Staples,Brewers,Q1,2022,2022-05-03 16:21:03,0.034,0.717,0.248,1.0
+MDLZ,Mondelez International,Consumer Staples,Packaged Foods & Meats,Q1,2022,2022-04-26 19:01:05,0.04,0.702,0.258,1.0
+MPWR,Monolithic Power Systems,Information Technology,Semiconductors,Q1,2022,2022-05-02 23:13:07,0.033,0.762,0.205,1.0
+MNST,Monster Beverage,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q1,2022,2022-05-05 00:00:00,0.039,0.756,0.204,1.0
+MCO,Moody's Corporation,Financials,Financial Exchanges & Data,Q1,2022,2022-05-02 16:57:09,0.069,0.705,0.226,1.0
+MS,Morgan Stanley,Financials,Investment Banking & Brokerage,Q1,2022,2022-04-14 11:19:08,0.024,0.743,0.232,1.0
+MOS,Mosaic Company (The),Materials,Fertilizers & Agricultural Chemicals,Q1,2022,2022-05-03 14:42:02,0.039,0.75,0.21,1.0
+MSI,Motorola Solutions,Information Technology,Communications Equipment,Q1,2022,2022-05-12 20:20:02,0.026,0.746,0.228,1.0
+MSCI,MSCI,Financials,Financial Exchanges & Data,Q1,2022,2022-04-26 16:33:09,0.03,0.726,0.244,1.0
+NDAQ,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,Q1,2022,2022-04-20 11:32:05,0.032,0.719,0.249,1.0
+NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2022,2021-08-25 20:59:03,0.029,0.719,0.253,1.0
+NFLX,Netflix,Communication Services,Movies & Entertainment,Q1,2022,2022-04-19 21:59:06,0.021,0.689,0.29,1.0
+NEM,Newmont,Materials,Gold,Q1,2022,2022-04-22 15:10:21,0.05,0.749,0.2,1.0
+NWSA,News Corp (Class A),Communication Services,Publishing,Q1,2022,2021-11-04 19:42:04,0.033,0.739,0.229,1.0
+NWS,News Corp (Class B),Communication Services,Publishing,Q1,2022,2021-11-04 19:42:04,0.033,0.739,0.229,1.0
+NEE,NextEra Energy,Utilities,Multi-Utilities,Q1,2022,2022-04-21 12:48:05,0.027,0.736,0.236,1.0
+NKE,"Nike, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q1,2022,2021-09-23 20:10:07,0.034,0.738,0.228,1.0
+NI,NiSource,Utilities,Multi-Utilities,Q1,2022,2022-05-04 15:19:09,0.043,0.738,0.22,1.0
+NDSN,Nordson Corporation,Industrials,Industrial Machinery & Supplies & Components,Q1,2022,2022-04-30 02:02:04,0.022,0.743,0.235,1.0
+NSC,Norfolk Southern Railway,Industrials,Rail Transportation,Q1,2022,2022-04-27 12:02:08,0.026,0.699,0.275,1.0
+NTRS,Northern Trust,Financials,Asset Management & Custody Banks,Q1,2022,2022-04-26 22:45:02,0.026,0.731,0.243,1.0
+NOC,Northrop Grumman,Industrials,Aerospace & Defense,Q1,2022,2022-04-28 13:48:02,0.025,0.717,0.258,1.0
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2022,2022-05-10 14:13:12,0.033,0.727,0.24,1.0
+NRG,NRG Energy,Utilities,Independent Power Producers & Energy Traders,Q1,2022,2022-05-03 21:12:04,0.025,0.714,0.261,1.0
+NUE,Nucor,Materials,Steel,Q1,2022,2022-04-21 18:19:06,0.032,0.757,0.211,1.0
+NVDA,Nvidia,Information Technology,Semiconductors,Q1,2022,2021-05-26 23:46:20,0.018,0.781,0.202,1.0
+NXPI,NXP Semiconductors,Information Technology,Semiconductors,Q1,2022,2022-05-03 12:15:23,0.052,0.742,0.206,1.0
+ORLY,O'Reilly Auto Parts,Consumer Discretionary,Automotive Retail,Q1,2022,2022-04-28 14:27:06,0.032,0.734,0.234,1.0
+OXY,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,Q1,2022,2022-05-11 00:00:00,0.064,0.733,0.204,1.0
+ODFL,Old Dominion,Industrials,Cargo Ground Transportation,Q1,2022,2022-04-27 00:00:00,0.027,0.712,0.261,1.0
+OMC,Omnicom Group,Communication Services,Advertising,Q1,2022,2022-04-19 19:48:03,0.033,0.731,0.236,1.0
+ON,ON Semiconductor,Information Technology,Semiconductors,Q1,2022,2022-05-02 10:22:08,0.037,0.706,0.257,1.0
+OKE,ONEOK,Energy,Oil & Gas Storage & Transportation,Q1,2022,2022-05-04 14:19:06,0.028,0.737,0.234,1.0
+ORCL,Oracle Corporation,Information Technology,Application Software,Q1,2022,2021-09-13 21:50:09,0.024,0.766,0.21,0.9999
+OTIS,Otis Worldwide,Industrials,Industrial Machinery & Supplies & Components,Q1,2022,2022-04-25 12:45:06,0.034,0.7,0.267,1.0
+PCAR,Paccar,Industrials,Construction Machinery & Heavy Transportation Equipment,Q1,2022,2022-04-26 12:56:09,0.02,0.718,0.262,1.0
+PKG,Packaging Corporation of America,Materials,Paper & Plastic Packaging Products & Materials,Q1,2022,2022-04-26 11:56:10,0.025,0.734,0.241,1.0
+PANW,Palo Alto Networks,Information Technology,Systems Software,Q1,2022,2021-11-19 01:44:04,0.021,0.744,0.235,1.0
+PARA,Paramount Global,Communication Services,Movies & Entertainment,Q1,2022,2022-05-03 14:17:24,0.027,0.717,0.256,1.0
+PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components,Q1,2022,2021-11-04 16:02:04,0.022,0.741,0.237,1.0
+PAYX,Paychex,Industrials,Human Resource & Employment Services,Q1,2022,2021-09-30 14:27:07,0.02,0.734,0.246,1.0
+PAYC,Paycom,Industrials,Human Resource & Employment Services,Q1,2022,2022-05-03 20:54:09,0.021,0.723,0.256,1.0
+PYPL,PayPal,Financials,Transaction & Payment Processing Services,Q1,2022,2022-04-27 21:08:11,0.033,0.712,0.256,1.0
+PNR,Pentair,Industrials,Industrial Machinery & Supplies & Components,Q1,2022,2022-04-21 15:04:05,0.031,0.72,0.25,1.0
+PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q1,2022,2022-04-26 12:27:01,0.032,0.739,0.228,0.9999
+PFE,Pfizer,Health Care,Pharmaceuticals,Q1,2022,2022-05-04 22:39:04,0.023,0.73,0.248,1.0
+PCG,PG&E Corporation,Utilities,Multi-Utilities,Q1,2022,2022-04-28 17:30:27,0.046,0.725,0.23,1.0
+PM,Philip Morris International,Consumer Staples,Tobacco,Q1,2022,2022-04-25 10:58:09,0.044,0.72,0.236,1.0
+PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,Q1,2022,2022-04-29 16:46:02,0.037,0.732,0.231,1.0
+PNW,Pinnacle West,Utilities,Multi-Utilities,Q1,2022,2022-05-04 17:38:03,0.03,0.702,0.267,1.0
+PNC,PNC Financial Services,Financials,Regional Banks,Q1,2022,2022-04-14 13:56:04,0.047,0.74,0.213,0.9999
+POOL,Pool Corporation,Consumer Discretionary,Distributors,Q1,2022,2022-04-21 16:22:14,0.033,0.707,0.26,1.0
+PPG,PPG Industries,Materials,Specialty Chemicals,Q1,2022,2022-04-22 12:08:02,0.041,0.709,0.249,1.0
+PPL,PPL Corporation,Utilities,Electric Utilities,Q1,2022,2022-05-05 14:47:10,0.016,0.736,0.248,1.0
+PFG,Principal Financial Group,Financials,Life & Health Insurance,Q1,2022,2022-04-29 14:10:24,0.031,0.72,0.249,1.0
+PG,Procter & Gamble,Consumer Staples,Personal Care Products,Q1,2022,2021-10-19 17:51:00,0.038,0.684,0.278,1.0
+PGR,Progressive Corporation,Financials,Property & Casualty Insurance,Q1,2022,2022-05-03 15:00:26,0.051,0.742,0.207,1.0
+PLD,Prologis,Real Estate,Industrial REITs,Q1,2022,2022-04-28 15:55:31,0.03,0.763,0.207,1.0
+PRU,Prudential Financial,Financials,Life & Health Insurance,Q1,2022,2022-05-04 14:53:03,0.04,0.744,0.216,1.0
+PEG,Public Service Enterprise Group,Utilities,Electric Utilities,Q1,2022,2022-05-03 16:08:02,0.023,0.769,0.208,1.0
+PTC,PTC,Information Technology,Application Software,Q1,2022,2022-01-26 21:58:05,0.02,0.737,0.243,1.0
+PSA,Public Storage,Real Estate,Self-Storage REITs,Q1,2022,2022-05-04 15:24:04,0.031,0.719,0.25,1.0
+PHM,PulteGroup,Consumer Discretionary,Homebuilding,Q1,2022,2022-04-28 13:36:05,0.037,0.716,0.247,1.0
+QRVO,Qorvo,Information Technology,Semiconductors,Q1,2022,2021-08-04 19:33:09,0.035,0.739,0.225,1.0
+PWR,Quanta Services,Industrials,Construction & Engineering,Q1,2022,2022-05-05 15:53:05,0.024,0.723,0.253,1.0
+QCOM,Qualcomm,Information Technology,Semiconductors,Q1,2022,2022-02-02 19:09:05,0.015,0.745,0.24,1.0
+DGX,Quest Diagnostics,Health Care,Health Care Services,Q1,2022,2022-04-21 14:02:10,0.022,0.74,0.238,1.0
+RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q1,2022,2021-08-03 11:46:12,0.029,0.744,0.227,1.0
+RJF,Raymond James,Financials,Investment Banking & Brokerage,Q1,2022,2022-01-27 12:32:02,0.025,0.703,0.272,1.0
+RTX,RTX Corporation,Industrials,Aerospace & Defense,Q1,2022,2022-04-26 12:59:08,0.041,0.772,0.187,1.0
+O,Realty Income,Real Estate,Retail REITs,Q1,2022,2022-05-05 18:29:07,0.026,0.72,0.253,1.0
+REG,Regency Centers,Real Estate,Retail REITs,Q1,2022,2022-05-04 17:20:03,0.022,0.735,0.243,1.0
+REGN,Regeneron,Health Care,Biotechnology,Q1,2022,2022-05-04 13:32:07,0.029,0.743,0.228,1.0
+RF,Regions Financial Corporation,Financials,Regional Banks,Q1,2022,2022-04-22 13:31:04,0.036,0.737,0.227,1.0
+RSG,Republic Services,Industrials,Environmental & Facilities Services,Q1,2022,2022-05-05 23:49:03,0.023,0.739,0.239,1.0
+RMD,ResMed,Health Care,Health Care Equipment,Q1,2022,2021-10-28 22:58:04,0.044,0.713,0.244,1.0
+RHI,Robert Half,Industrials,Human Resource & Employment Services,Q1,2022,2022-04-26 19:41:05,0.027,0.738,0.235,1.0
+ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,Q1,2022,2022-01-27 13:16:05,0.024,0.728,0.248,1.0
+ROL,"Rollins, Inc.",Industrials,Environmental & Facilities Services,Q1,2022,2022-04-27 15:41:04,0.027,0.724,0.249,1.0
+ROP,Roper Technologies,Information Technology,Electronic Equipment & Instruments,Q1,2022,2022-04-26 13:13:06,0.033,0.702,0.266,1.0
+ROST,Ross Stores,Consumer Discretionary,Apparel Retail,Q1,2022,2021-05-20 00:00:00,0.023,0.774,0.203,1.0
+RCL,Royal Caribbean Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2022,2022-05-05 13:48:04,0.026,0.719,0.255,1.0
+SPGI,S&P Global,Financials,Financial Exchanges & Data,Q1,2022,2022-05-03 12:31:04,0.033,0.711,0.256,1.0
+CRM,Salesforce,Information Technology,Application Software,Q1,2022,2021-05-27 23:59:08,0.019,0.733,0.248,1.0
+SBAC,SBA Communications,Real Estate,Telecom Tower REITs,Q1,2022,2022-04-25 21:42:01,0.023,0.767,0.21,1.0
+SLB,Schlumberger,Energy,Oil & Gas Equipment & Services,Q1,2022,2022-04-22 13:51:02,0.027,0.725,0.248,1.0
+STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2022,2021-10-22 00:00:00,0.038,0.706,0.256,1.0
+SRE,Sempra Energy,Utilities,Multi-Utilities,Q1,2022,2022-05-05 21:12:16,0.019,0.731,0.249,1.0
+NOW,ServiceNow,Information Technology,Systems Software,Q1,2022,2022-04-27 19:55:14,0.017,0.709,0.274,1.0
+SHW,Sherwin-Williams,Materials,Specialty Chemicals,Q1,2022,2022-04-26 18:08:01,0.038,0.702,0.259,1.0
+SPG,Simon Property Group,Real Estate,Retail REITs,Q1,2022,2022-05-09 21:31:16,0.035,0.675,0.29,1.0
+SWKS,Skyworks Solutions,Information Technology,Semiconductors,Q1,2022,2022-02-03 19:24:08,0.026,0.729,0.244,1.0
+SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,Q1,2022,2021-08-26 00:00:00,0.041,0.787,0.172,0.9999
+SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,Q1,2022,2022-04-21 11:55:21,0.041,0.746,0.213,1.0
+SO,Southern Company,Utilities,Electric Utilities,Q1,2022,2022-04-28 17:02:05,0.028,0.737,0.234,1.0
+LUV,Southwest Airlines,Industrials,Passenger Airlines,Q1,2022,2022-04-28 16:20:14,0.037,0.746,0.218,1.0
+SWK,Stanley Black & Decker,Industrials,Industrial Machinery & Supplies & Components,Q1,2022,2022-04-28 12:10:03,0.032,0.715,0.253,1.0
+SBUX,Starbucks,Consumer Discretionary,Restaurants,Q1,2022,2022-02-01 20:47:02,0.035,0.707,0.258,1.0
+STT,State Street Corporation,Financials,Asset Management & Custody Banks,Q1,2022,2022-04-14 17:39:04,0.02,0.791,0.188,1.0
+STLD,Steel Dynamics,Materials,Steel,Q1,2022,2022-04-21 13:41:13,0.033,0.758,0.208,1.0
+STE,Steris,Health Care,Health Care Equipment,Q1,2022,2021-08-10 13:28:07,0.036,0.735,0.229,0.9999
+SYK,Stryker Corporation,Health Care,Health Care Equipment,Q1,2022,2022-04-28 21:03:05,0.047,0.727,0.226,1.0
+SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2022,2021-11-02 23:35:05,0.041,0.682,0.277,1.0
+SYF,Synchrony Financial,Financials,Consumer Finance,Q1,2022,2022-04-18 12:24:07,0.038,0.711,0.251,1.0
+SNPS,Synopsys,Information Technology,Application Software,Q1,2022,2022-02-16 20:38:02,0.021,0.719,0.26,1.0
+SYY,Sysco,Consumer Staples,Food Distributors,Q1,2022,2021-11-09 14:28:05,0.023,0.712,0.265,1.0
+TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services,Q1,2022,2022-04-27 12:56:03,0.016,0.75,0.234,1.0
+TTWO,Take-Two Interactive,Communication Services,Interactive Home Entertainment,Q1,2022,2021-08-02 00:00:00,0.033,0.737,0.229,1.0
+TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q1,2022,2021-11-11 14:29:19,0.022,0.711,0.267,1.0
+TRGP,Targa Resources,Energy,Oil & Gas Storage & Transportation,Q1,2022,2022-05-05 15:43:05,0.018,0.757,0.225,1.0
+TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,Q1,2022,2021-05-19 00:00:00,0.022,0.703,0.275,1.0
+TEL,TE Connectivity,Information Technology,Electronic Manufacturing Services,Q1,2022,2022-01-26 13:00:02,0.019,0.773,0.209,1.0
+TDY,Teledyne Technologies,Information Technology,Electronic Equipment & Instruments,Q1,2022,2022-04-27 18:13:10,0.047,0.722,0.231,1.0
+TFX,Teleflex,Health Care,Health Care Equipment,Q1,2022,2022-04-28 11:36:13,0.026,0.742,0.233,1.0
+TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,Q1,2022,2022-04-27 12:52:11,0.046,0.781,0.173,1.0
+TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,Q1,2022,2022-04-20 21:44:03,0.044,0.723,0.233,1.0
+TXN,Texas Instruments,Information Technology,Semiconductors,Q1,2022,2022-04-26 17:44:02,0.04,0.751,0.209,0.9999
+TXT,Textron,Industrials,Aerospace & Defense,Q1,2022,2022-04-28 12:05:13,0.03,0.752,0.218,1.0
+TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,Q1,2022,2022-04-28 12:19:07,0.023,0.699,0.278,1.0
+TJX,TJX Companies,Consumer Discretionary,Apparel Retail,Q1,2022,2021-05-19 15:58:05,0.031,0.705,0.264,1.0
+TSCO,Tractor Supply,Consumer Discretionary,Other Specialty Retail,Q1,2022,2022-04-21 15:25:06,0.043,0.73,0.227,1.0
+TT,Trane Technologies,Industrials,Building Products,Q1,2022,2022-05-04 13:37:02,0.028,0.706,0.266,1.0
+TDG,TransDigm Group,Industrials,Aerospace & Defense,Q1,2022,2022-02-08 14:57:05,0.041,0.732,0.227,1.0
+TRV,Travelers Companies (The),Financials,Property & Casualty Insurance,Q1,2022,2022-04-19 12:35:04,0.062,0.725,0.213,1.0
+TRMB,Trimble Inc.,Information Technology,Electronic Equipment & Instruments,Q1,2022,2022-05-05 12:22:12,0.041,0.767,0.193,1.0
+TFC,Truist,Financials,Regional Banks,Q1,2022,2022-04-19 11:34:03,0.032,0.736,0.233,1.0
+TYL,Tyler Technologies,Information Technology,Application Software,Q1,2022,2022-04-28 14:48:09,0.022,0.752,0.227,1.0
+TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,Q1,2022,2022-02-07 12:59:06,0.032,0.716,0.252,1.0
+USB,U.S. Bank,Financials,Diversified Banks,Q1,2022,2022-04-14 12:00:18,0.022,0.745,0.233,1.0
+UBER,Uber,Industrials,Passenger Ground Transportation,Q1,2022,2022-05-04 22:58:03,0.02,0.685,0.295,1.0
+UDR,"UDR, Inc.",Real Estate,Multi-Family Residential REITs,Q1,2022,2022-04-27 18:38:02,0.037,0.727,0.236,1.0
+ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,Q1,2022,2021-05-27 00:00:00,0.026,0.661,0.313,1.0
+UNP,Union Pacific Corporation,Industrials,Rail Transportation,Q1,2022,2022-04-21 14:45:25,0.033,0.707,0.261,1.0
+UAL,United Airlines Holdings,Industrials,Passenger Airlines,Q1,2022,2022-04-21 16:28:09,0.036,0.717,0.247,1.0
+UPS,United Parcel Service,Industrials,Air Freight & Logistics,Q1,2022,2022-04-26 12:21:09,0.031,0.733,0.236,1.0
+URI,United Rentals,Industrials,Trading Companies & Distributors,Q1,2022,2022-04-28 14:19:13,0.031,0.739,0.23,1.0
+UNH,UnitedHealth Group,Health Care,Managed Health Care,Q1,2022,2022-04-14 10:18:03,0.018,0.685,0.296,1.0
+UHS,Universal Health Services,Health Care,Health Care Facilities,Q1,2022,2022-04-26 00:00:00,0.042,0.745,0.213,1.0
+VLO,Valero Energy,Energy,Oil & Gas Refining & Marketing,Q1,2022,2022-04-26 15:28:03,0.052,0.767,0.181,1.0
+VTR,Ventas,Real Estate,Health Care REITs,Q1,2022,2022-05-06 15:12:04,0.035,0.686,0.279,1.0
+VRSN,Verisign,Information Technology,Internet Services & Infrastructure,Q1,2022,2022-04-28 21:08:07,0.067,0.739,0.195,0.9996
+VRSK,Verisk,Industrials,Research & Consulting Services,Q1,2022,2022-05-04 13:12:05,0.017,0.696,0.288,1.0
+VZ,Verizon,Communication Services,Integrated Telecommunication Services,Q1,2022,2022-04-22 12:27:05,0.03,0.736,0.234,1.0
+VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,Q1,2022,2022-05-05 21:05:03,0.043,0.759,0.198,1.0
+VTRS,Viatris,Health Care,Pharmaceuticals,Q1,2022,2022-05-08 05:15:38,0.018,0.724,0.258,1.0
+VICI,Vici Properties,Real Estate,Hotel & Resort REITs,Q1,2022,2022-05-05 13:56:12,0.029,0.745,0.226,1.0
+V,Visa Inc.,Financials,Transaction & Payment Processing Services,Q1,2022,2022-01-27 20:39:02,0.03,0.76,0.21,1.0
+VST,Vistra,Utilities,Electric Utilities,Q1,2022,2022-05-06 13:39:02,0.027,0.742,0.231,1.0
+VMC,Vulcan Materials Company,Materials,Construction Materials,Q1,2022,2022-05-04 13:44:03,0.041,0.681,0.278,1.0
+WRB,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,Q1,2022,2022-04-26 00:00:02,0.085,0.659,0.255,1.0
+GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,Q1,2022,2022-04-28 15:48:03,0.036,0.703,0.261,1.0
+WAB,Wabtec,Industrials,Construction Machinery & Heavy Transportation Equipment,Q1,2022,2022-04-27 14:31:19,0.04,0.727,0.233,1.0
+WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,Q1,2022,2022-01-06 13:53:07,0.033,0.724,0.243,1.0
+WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,Q1,2022,2021-05-18 14:29:11,0.023,0.696,0.281,1.0
+DIS,Walt Disney Company (The),Communication Services,Movies & Entertainment,Q1,2022,2022-02-09 19:57:09,0.023,0.752,0.226,1.0
+WBD,Warner Bros. Discovery,Communication Services,Broadcasting,Q1,2022,2022-04-26 12:12:18,0.032,0.721,0.247,1.0
+WM,Waste Management,Industrials,Environmental & Facilities Services,Q1,2022,2022-04-26 13:53:04,0.03,0.749,0.22,1.0
+WAT,Waters Corporation,Health Care,Life Sciences Tools & Services,Q1,2022,2022-05-03 12:45:17,0.033,0.746,0.221,1.0
+WEC,WEC Energy Group,Utilities,Electric Utilities,Q1,2022,2022-05-02 17:02:06,0.021,0.76,0.218,1.0
+WFC,Wells Fargo,Financials,Diversified Banks,Q1,2022,2022-04-14 12:59:01,0.038,0.745,0.217,1.0
+WELL,Welltower,Real Estate,Health Care REITs,Q1,2022,2022-05-11 13:54:09,0.031,0.746,0.223,1.0
+WST,West Pharmaceutical Services,Health Care,Health Care Supplies,Q1,2022,2022-04-28 15:57:04,0.042,0.74,0.218,1.0
+WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2022,2021-10-28 00:00:00,0.049,0.723,0.228,1.0
+WRK,WestRock,Materials,Paper & Plastic Packaging Products & Materials,Q1,2022,2022-02-03 11:55:09,0.025,0.711,0.265,1.0
+WY,Weyerhaeuser,Real Estate,Timber REITs,Q1,2022,2022-04-29 11:33:09,0.038,0.738,0.224,1.0
+WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,Q1,2022,2022-05-03 17:12:04,0.02,0.697,0.283,1.0
+WTW,Willis Towers Watson,Financials,Insurance Brokers,Q1,2022,2022-04-28 16:43:14,0.039,0.698,0.263,1.0
+WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,Q1,2022,2022-05-10 20:11:06,0.018,0.739,0.244,1.0
+XEL,Xcel Energy,Utilities,Multi-Utilities,Q1,2022,2022-04-28 15:42:03,0.016,0.731,0.254,1.0
+XYL,Xylem Inc.,Industrials,Industrial Machinery & Supplies & Components,Q1,2022,2022-05-04 13:35:34,0.032,0.738,0.229,1.0
+YUM,Yum! Brands,Consumer Discretionary,Restaurants,Q1,2022,2022-05-04 12:59:16,0.03,0.712,0.258,1.0
+ZBRA,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,Q1,2022,2022-05-03 13:25:33,0.036,0.683,0.281,1.0
+ZBH,Zimmer Biomet,Health Care,Health Care Equipment,Q1,2022,2022-05-03 13:03:05,0.035,0.722,0.243,1.0
+ZTS,Zoetis,Health Care,Pharmaceuticals,Q1,2022,2022-05-05 13:50:08,0.038,0.706,0.256,1.0
