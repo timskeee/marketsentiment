@@ -1,0 +1,108 @@
+ticker,company,sector,sub-sector,quarter,year,date,score-neg,score-neu,score-pos,score-compound
+ACN,Accenture,Information Technology,IT Consulting & Other Services,Q2,2024,2024-03-21 11:27:09,0.035,0.748,0.217,1.0
+ADBE,Adobe Inc.,Information Technology,Application Software,Q2,2024,2024-06-13 20:54:08,0.008,0.733,0.259,1.0
+A,Agilent Technologies,Health Care,Life Sciences Tools & Services,Q2,2024,2024-05-29 20:35:24,0.03,0.771,0.199,1.0
+APD,Air Products and Chemicals,Materials,Industrial Gases,Q2,2024,2024-04-30 00:00:00,0.043,0.746,0.211,1.0
+AMCR,Amcor,Materials,Paper & Plastic Packaging Products & Materials,Q2,2024,2024-02-06 23:37:03,0.038,0.761,0.201,1.0
+ADI,Analog Devices,Information Technology,Semiconductors,Q2,2024,2024-05-22 12:46:05,0.039,0.725,0.235,1.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",Q2,2024,2024-05-02 20:30:10,0.027,0.737,0.237,1.0
+AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,Q2,2024,2024-05-16 19:44:08,0.02,0.728,0.252,1.0
+ATO,Atmos Energy,Utilities,Gas Utilities,Q2,2024,2024-05-09 00:00:00,0.03,0.749,0.221,0.9999
+ADSK,Autodesk,Information Technology,Application Software,Q2,2024,2023-08-23 20:35:02,0.024,0.736,0.24,1.0
+ADP,Automatic Data Processing,Industrials,Human Resource & Employment Services,Q2,2024,2024-01-31 12:28:02,0.022,0.708,0.27,1.0
+AZO,AutoZone,Consumer Discretionary,Automotive Retail,Q2,2024,2024-02-27 11:28:03,0.036,0.715,0.249,1.0
+BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,Other Specialty Retail,Q2,2024,2023-08-23 00:00:00,0.026,0.717,0.257,1.0
+BDX,Becton Dickinson,Health Care,Health Care Equipment,Q2,2024,2024-05-02 00:00:00,0.016,0.691,0.293,1.0
+BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,Q2,2024,2023-08-29 12:11:11,0.034,0.698,0.268,1.0
+TECH,Bio-Techne,Health Care,Life Sciences Tools & Services,Q2,2024,2024-02-01 15:42:05,0.032,0.744,0.224,1.0
+AVGO,Broadcom Inc.,Information Technology,Semiconductors,Q2,2024,2024-06-12 20:04:08,0.026,0.776,0.199,1.0
+BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,Q2,2024,2024-02-01 12:06:04,0.018,0.702,0.28,1.0
+BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,Q2,2024,2023-12-06 12:50:19,0.032,0.714,0.254,1.0
+CPB,Campbell Soup Company,Consumer Staples,Packaged Foods & Meats,Q2,2024,2024-03-06 11:20:30,0.026,0.712,0.262,1.0
+CAH,Cardinal Health,Health Care,Health Care Distributors,Q2,2024,2024-02-01 11:32:09,0.019,0.709,0.272,1.0
+KMX,CarMax,Consumer Discretionary,Automotive Retail,Q2,2024,2023-09-28 13:40:24,0.031,0.753,0.216,1.0
+COR,Cencora,Health Care,Health Care Distributors,Q2,2024,2024-05-01 00:00:00,0.024,0.695,0.282,1.0
+CTAS,Cintas,Industrials,Diversified Support Services,Q2,2024,2023-12-21 14:01:06,0.026,0.675,0.299,1.0
+CSCO,Cisco,Information Technology,Communications Equipment,Q2,2024,2024-02-14 20:41:09,0.03,0.756,0.214,1.0
+CLX,Clorox,Consumer Staples,Household Products,Q2,2024,2024-02-01 20:39:08,0.041,0.725,0.234,1.0
+CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,Q2,2024,2024-01-04 12:53:10,0.045,0.708,0.247,1.0
+STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,Q2,2024,2023-10-05 14:09:06,0.028,0.724,0.248,1.0
+COO,CooperCompanies,Health Care,Health Care Supplies,Q2,2024,2024-05-30 19:55:21,0.04,0.681,0.279,1.0
+CPRT,Copart,Industrials,Diversified Support Services,Q2,2024,2024-02-22 20:08:09,0.036,0.742,0.222,1.0
+COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,Q2,2024,2024-03-07 21:10:34,0.024,0.761,0.214,1.0
+DRI,Darden Restaurants,Consumer Discretionary,Restaurants,Q2,2024,2023-12-15 12:26:04,0.024,0.741,0.235,1.0
+DECK,Deckers Brands,Consumer Discretionary,Footwear,Q2,2024,2023-10-26 19:50:06,0.03,0.719,0.252,1.0
+DE,John Deere,Industrials,Agricultural & Farm Machinery,Q2,2024,2024-05-16 00:00:00,0.036,0.758,0.206,1.0
+DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,Q2,2024,2023-08-31 00:00:00,0.039,0.689,0.272,1.0
+DHI,DR Horton,Consumer Discretionary,Homebuilding,Q2,2024,2024-04-18 11:43:05,0.031,0.75,0.219,1.0
+EA,Electronic Arts,Communication Services,Interactive Home Entertainment,Q2,2024,2023-11-01 20:13:04,0.01,0.687,0.303,1.0
+EMR,Emerson Electric,Industrials,Electrical Components & Equipment,Q2,2024,2024-05-08 00:00:00,0.028,0.726,0.246,1.0
+EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,Q2,2024,2024-02-05 13:34:09,0.021,0.696,0.284,1.0
+FFIV,"F5, Inc.",Information Technology,Communications Equipment,Q2,2024,2024-04-29 00:00:00,0.05,0.745,0.205,1.0
+FDS,FactSet,Financials,Financial Exchanges & Data,Q2,2024,2024-03-21 19:30:09,0.033,0.72,0.247,1.0
+FICO,Fair Isaac,Information Technology,Application Software,Q2,2024,2024-04-25 00:00:00,0.021,0.769,0.21,1.0
+FDX,FedEx,Industrials,Air Freight & Logistics,Q2,2024,2023-12-19 21:22:10,0.034,0.714,0.252,1.0
+FOXA,Fox Corporation (Class A),Communication Services,Broadcasting,Q2,2024,2024-02-07 00:00:00,0.033,0.752,0.214,0.9999
+FOX,Fox Corporation (Class B),Communication Services,Broadcasting,Q2,2024,2024-02-07 10:44:06,0.036,0.738,0.227,1.0
+BEN,Franklin Templeton,Financials,Asset Management & Custody Banks,Q2,2024,2024-04-29 00:00:00,0.023,0.767,0.21,1.0
+GIS,General Mills,Consumer Staples,Packaged Foods & Meats,Q2,2024,2023-12-20 12:04:05,0.036,0.719,0.244,1.0
+HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals",Q2,2024,2024-06-04 20:25:24,0.019,0.763,0.218,1.0
+HOLX,Hologic,Health Care,Health Care Equipment,Q2,2024,2024-05-02 00:00:00,0.024,0.73,0.246,1.0
+HRL,Hormel Foods,Consumer Staples,Packaged Foods & Meats,Q2,2024,2024-05-30 13:41:03,0.032,0.693,0.275,1.0
+HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",Q2,2024,2024-05-29 20:59:08,0.021,0.718,0.262,1.0
+INTU,Intuit,Information Technology,Application Software,Q2,2024,2024-02-22 19:40:25,0.013,0.715,0.273,1.0
+JBL,Jabil,Information Technology,Electronic Manufacturing Services,Q2,2024,2024-03-15 11:33:07,0.028,0.728,0.244,1.0
+JKHY,Jack Henry & Associates,Financials,Transaction & Payment Processing Services,Q2,2024,2024-02-07 14:41:03,0.018,0.718,0.264,1.0
+J,Jacobs Solutions,Industrials,Construction & Engineering,Q2,2024,2024-05-07 13:51:08,0.017,0.719,0.264,1.0
+JCI,Johnson Controls,Industrials,Building Products,Q2,2024,2024-05-01 00:00:00,0.027,0.729,0.244,1.0
+KEYS,Keysight,Information Technology,Electronic Equipment & Instruments,Q2,2024,2024-05-20 00:00:00,0.029,0.758,0.213,1.0
+KLAC,KLA Corporation,Information Technology,Semiconductor Materials & Equipment,Q2,2024,2024-01-25 20:32:05,0.029,0.758,0.214,1.0
+KR,Kroger,Consumer Staples,Food Retail,Q2,2024,2023-09-08 00:00:00,0.031,0.697,0.272,1.0
+LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,Q2,2024,2024-01-24 20:44:08,0.027,0.771,0.202,1.0
+LW,Lamb Weston,Consumer Staples,Packaged Foods & Meats,Q2,2024,2024-01-04 12:57:08,0.039,0.737,0.224,1.0
+LOW,Lowe's,Consumer Discretionary,Home Improvement Retail,Q2,2024,2023-08-22 00:00:00,0.033,0.757,0.21,1.0
+MCK,McKesson Corporation,Health Care,Health Care Distributors,Q2,2024,2023-11-01 19:57:06,0.026,0.704,0.271,1.0
+MDT,Medtronic,Health Care,Health Care Equipment,Q2,2024,2023-12-08 05:46:38,0.021,0.721,0.257,1.0
+MCHP,Microchip Technology,Information Technology,Semiconductors,Q2,2024,2023-11-02 21:22:13,0.056,0.794,0.151,0.9999
+MU,Micron Technology,Information Technology,Semiconductors,Q2,2024,2024-03-20 19:39:06,0.039,0.73,0.231,1.0
+MSFT,Microsoft,Information Technology,Systems Software,Q2,2024,2024-01-30 21:32:11,0.026,0.757,0.216,1.0
+NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals",Q2,2024,2023-11-28 20:54:04,0.033,0.723,0.244,1.0
+NWSA,News Corp (Class A),Communication Services,Publishing,Q2,2024,2024-02-07 20:33:02,0.035,0.726,0.239,1.0
+NKE,"Nike, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q2,2024,2023-12-21 21:12:02,0.022,0.719,0.259,1.0
+NDSN,Nordson Corporation,Industrials,Industrial Machinery & Supplies & Components,Q2,2024,2024-05-24 11:03:07,0.035,0.723,0.243,1.0
+NVDA,Nvidia,Information Technology,Semiconductors,Q2,2024,2023-08-23 22:17:10,0.021,0.798,0.182,1.0
+ORCL,Oracle Corporation,Information Technology,Application Software,Q2,2024,2023-12-11 20:33:10,0.039,0.803,0.158,0.9999
+PANW,Palo Alto Networks,Information Technology,Systems Software,Q2,2024,2024-02-20 20:18:03,0.031,0.742,0.228,1.0
+PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components,Q2,2024,2024-02-01 13:42:14,0.021,0.708,0.271,1.0
+PAYX,Paychex,Industrials,Human Resource & Employment Services,Q2,2024,2023-12-21 14:34:07,0.022,0.733,0.245,1.0
+PG,Procter & Gamble,Consumer Staples,Personal Care Products,Q2,2024,2024-01-23 12:45:08,0.026,0.677,0.297,1.0
+PTC,PTC,Information Technology,Application Software,Q2,2024,2024-05-01 00:00:00,0.024,0.757,0.219,1.0
+QRVO,Qorvo,Information Technology,Semiconductors,Q2,2024,2023-11-01 20:52:09,0.036,0.738,0.225,1.0
+QCOM,Qualcomm,Information Technology,Semiconductors,Q2,2024,2024-05-01 00:00:00,0.017,0.762,0.221,1.0
+RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q2,2024,2023-11-08 14:14:09,0.029,0.741,0.229,1.0
+RJF,Raymond James,Financials,Investment Banking & Brokerage,Q2,2024,2024-04-24 00:00:00,0.026,0.732,0.242,1.0
+RMD,ResMed,Health Care,Health Care Equipment,Q2,2024,2024-01-24 22:56:04,0.027,0.71,0.263,1.0
+ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,Q2,2024,2024-05-07 00:00:00,0.036,0.75,0.214,1.0
+ROST,Ross Stores,Consumer Discretionary,Apparel Retail,Q2,2024,2023-08-17 00:00:00,0.015,0.741,0.244,1.0
+CRM,Salesforce,Information Technology,Application Software,Q2,2024,2023-08-30 20:57:08,0.016,0.73,0.254,1.0
+STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals",Q2,2024,2024-01-24 21:07:09,0.04,0.751,0.209,1.0
+SWKS,Skyworks Solutions,Information Technology,Semiconductors,Q2,2024,2024-04-30 19:31:02,0.04,0.724,0.236,1.0
+SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,Q2,2024,2023-12-05 10:22:02,0.042,0.714,0.245,0.9999
+SBUX,Starbucks,Consumer Discretionary,Restaurants,Q2,2024,2024-04-30 00:00:00,0.024,0.726,0.25,1.0
+STE,Steris,Health Care,Health Care Equipment,Q2,2024,2023-11-08 13:05:26,0.036,0.732,0.232,0.9999
+SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",Q2,2024,2024-01-29 20:54:03,0.027,0.696,0.276,1.0
+SNPS,Synopsys,Information Technology,Application Software,Q2,2024,2024-05-22 22:49:04,0.014,0.745,0.241,1.0
+SYY,Sysco,Consumer Staples,Food Distributors,Q2,2024,2024-01-30 11:29:09,0.022,0.688,0.291,1.0
+TTWO,Take-Two Interactive,Communication Services,Interactive Home Entertainment,Q2,2024,2023-11-08 20:22:06,0.032,0.68,0.287,1.0
+TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q2,2024,2024-02-08 11:51:08,0.023,0.698,0.28,1.0
+TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,Q2,2024,2023-08-16 00:00:00,0.043,0.714,0.243,1.0
+TEL,TE Connectivity,Information Technology,Electronic Manufacturing Services,Q2,2024,2024-04-24 00:00:00,0.011,0.765,0.224,1.0
+TJX,TJX Companies,Consumer Discretionary,Apparel Retail,Q2,2024,2023-08-16 13:55:26,0.021,0.687,0.292,1.0
+TDG,TransDigm Group,Industrials,Aerospace & Defense,Q2,2024,2024-05-07 00:00:00,0.029,0.776,0.195,1.0
+TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,Q2,2024,2024-05-06 00:00:00,0.035,0.703,0.262,1.0
+ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,Q2,2024,2023-08-24 00:00:00,0.029,0.654,0.317,1.0
+V,Visa Inc.,Financials,Transaction & Payment Processing Services,Q2,2024,2024-04-23 20:06:03,0.03,0.715,0.255,1.0
+WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,Q2,2024,2024-03-28 12:38:08,0.028,0.729,0.243,1.0
+WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,Q2,2024,2023-08-17 12:44:09,0.02,0.702,0.277,1.0
+DIS,Walt Disney Company (The),Communication Services,Movies & Entertainment,Q2,2024,2024-05-07 00:00:00,0.02,0.737,0.243,1.0
+WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals",Q2,2024,2024-01-25 19:22:06,0.041,0.726,0.233,1.0

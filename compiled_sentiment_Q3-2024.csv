@@ -1,0 +1,66 @@
+ticker,company,sector,sub-sector,quarter,year,date,score-neg,score-neu,score-pos,score-compound
+AMCR,Amcor,Materials,Paper & Plastic Packaging Products & Materials,Q3,2024,2024-04-30 22:10:12,0.033,0.709,0.259,1.0
+ADSK,Autodesk,Information Technology,Application Software,Q3,2024,2023-11-21 21:09:09,0.013,0.75,0.238,1.0
+ADP,Automatic Data Processing,Industrials,Human Resource & Employment Services,Q3,2024,2024-05-01 11:30:06,0.016,0.704,0.28,1.0
+AZO,AutoZone,Consumer Discretionary,Automotive Retail,Q3,2024,2024-05-21 13:03:01,0.041,0.722,0.236,1.0
+BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,Other Specialty Retail,Q3,2024,2023-11-16 00:00:00,0.025,0.701,0.274,1.0
+BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,Q3,2024,2023-11-21 11:52:09,0.033,0.71,0.257,1.0
+TECH,Bio-Techne,Health Care,Life Sciences Tools & Services,Q3,2024,2024-05-01 12:20:07,0.024,0.707,0.269,1.0
+BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,Q3,2024,2024-05-08 13:11:07,0.015,0.714,0.271,1.0
+BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,Q3,2024,2024-03-06 15:39:09,0.039,0.72,0.241,1.0
+CPB,Campbell Soup Company,Consumer Staples,Packaged Foods & Meats,Q3,2024,2024-06-05 11:30:13,0.03,0.724,0.246,1.0
+CAH,Cardinal Health,Health Care,Health Care Distributors,Q3,2024,2024-05-02 12:17:05,0.023,0.702,0.274,1.0
+KMX,CarMax,Consumer Discretionary,Automotive Retail,Q3,2024,2023-12-21 12:50:20,0.032,0.743,0.225,1.0
+CTAS,Cintas,Industrials,Diversified Support Services,Q3,2024,2024-03-27 13:30:09,0.021,0.669,0.309,1.0
+CSCO,Cisco,Information Technology,Communications Equipment,Q3,2024,2024-05-15 20:17:14,0.026,0.752,0.221,1.0
+CLX,Clorox,Consumer Staples,Household Products,Q3,2024,2024-04-30 19:51:09,0.056,0.717,0.227,1.0
+CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,Q3,2024,2024-04-04 12:25:24,0.032,0.735,0.233,0.9999
+STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,Q3,2024,2024-01-05 14:46:02,0.02,0.707,0.273,1.0
+CPRT,Copart,Industrials,Diversified Support Services,Q3,2024,2024-05-16 20:49:07,0.05,0.734,0.216,0.9999
+COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,Q3,2024,2024-05-30 21:01:08,0.018,0.708,0.274,1.0
+DRI,Darden Restaurants,Consumer Discretionary,Restaurants,Q3,2024,2024-03-21 11:42:02,0.035,0.738,0.227,1.0
+DECK,Deckers Brands,Consumer Discretionary,Footwear,Q3,2024,2024-02-01 21:09:08,0.021,0.699,0.28,1.0
+DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,Q3,2024,2023-12-07 00:00:00,0.018,0.738,0.244,1.0
+EA,Electronic Arts,Communication Services,Interactive Home Entertainment,Q3,2024,2024-01-30 20:16:05,0.021,0.702,0.277,1.0
+EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,Q3,2024,2024-05-01 12:14:08,0.024,0.684,0.292,1.0
+FDX,FedEx,Industrials,Air Freight & Logistics,Q3,2024,2024-03-21 21:00:23,0.028,0.744,0.227,1.0
+FOX,Fox Corporation (Class B),Communication Services,Broadcasting,Q3,2024,2024-05-08 11:50:10,0.026,0.743,0.231,1.0
+GEN,Gen Digital,Information Technology,Systems Software,Q3,2024,2024-02-01 19:26:03,0.029,0.707,0.264,1.0
+GIS,General Mills,Consumer Staples,Packaged Foods & Meats,Q3,2024,2024-03-20 11:20:24,0.025,0.694,0.281,1.0
+INTU,Intuit,Information Technology,Application Software,Q3,2024,2024-05-23 20:32:07,0.021,0.711,0.267,1.0
+JKHY,Jack Henry & Associates,Financials,Transaction & Payment Processing Services,Q3,2024,2024-05-08 16:48:09,0.027,0.696,0.277,1.0
+KLAC,KLA Corporation,Information Technology,Semiconductor Materials & Equipment,Q3,2024,2024-04-25 00:00:00,0.023,0.771,0.206,1.0
+KR,Kroger,Consumer Staples,Food Retail,Q3,2024,2023-11-30 00:00:00,0.04,0.668,0.292,1.0
+LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,Q3,2024,2024-04-24 21:45:17,0.03,0.761,0.209,1.0
+LW,Lamb Weston,Consumer Staples,Packaged Foods & Meats,Q3,2024,2024-04-04 15:58:11,0.039,0.797,0.164,1.0
+LOW,Lowe's,Consumer Discretionary,Home Improvement Retail,Q3,2024,2023-11-21 00:00:00,0.029,0.753,0.218,1.0
+MCK,McKesson Corporation,Health Care,Health Care Distributors,Q3,2024,2024-02-07 19:12:04,0.018,0.696,0.286,1.0
+MDT,Medtronic,Health Care,Health Care Equipment,Q3,2024,2024-02-20 12:58:03,0.02,0.708,0.272,1.0
+MCHP,Microchip Technology,Information Technology,Semiconductors,Q3,2024,2024-02-01 21:20:04,0.058,0.76,0.182,1.0
+MSFT,Microsoft,Information Technology,Systems Software,Q3,2024,2024-04-25 22:05:24,0.026,0.74,0.233,1.0
+NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals",Q3,2024,2024-02-29 20:10:07,0.033,0.7,0.267,1.0
+NWSA,News Corp (Class A),Communication Services,Publishing,Q3,2024,2024-05-08 20:40:25,0.019,0.758,0.222,1.0
+NKE,"Nike, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q3,2024,2024-03-21 20:35:02,0.025,0.73,0.244,1.0
+NVDA,Nvidia,Information Technology,Semiconductors,Q3,2024,2023-11-21 21:33:06,0.018,0.81,0.173,1.0
+ORCL,Oracle Corporation,Information Technology,Application Software,Q3,2024,2024-03-11 20:39:11,0.019,0.773,0.208,1.0
+PANW,Palo Alto Networks,Information Technology,Systems Software,Q3,2024,2024-05-20 20:18:10,0.02,0.751,0.229,1.0
+PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components,Q3,2024,2024-05-02 14:50:04,0.033,0.698,0.269,1.0
+PAYX,Paychex,Industrials,Human Resource & Employment Services,Q3,2024,2024-04-02 13:06:02,0.022,0.769,0.209,1.0
+PG,Procter & Gamble,Consumer Staples,Personal Care Products,Q3,2024,2024-04-19 11:59:02,0.027,0.71,0.263,1.0
+QRVO,Qorvo,Information Technology,Semiconductors,Q3,2024,2024-01-31 19:37:06,0.03,0.721,0.249,1.0
+RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q3,2024,2024-02-08 13:17:02,0.027,0.726,0.247,1.0
+RMD,ResMed,Health Care,Health Care Equipment,Q3,2024,2024-04-25 21:38:02,0.035,0.71,0.255,1.0
+ROST,Ross Stores,Consumer Discretionary,Apparel Retail,Q3,2024,2023-11-16 00:00:00,0.014,0.749,0.237,1.0
+CRM,Salesforce,Information Technology,Application Software,Q3,2024,2023-11-29 20:47:11,0.017,0.715,0.268,1.0
+STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals",Q3,2024,2024-04-23 20:17:03,0.046,0.721,0.232,1.0
+SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,Q3,2024,2024-02-27 12:18:10,0.031,0.712,0.257,1.0
+STE,Steris,Health Care,Health Care Equipment,Q3,2024,2024-02-08 13:08:06,0.043,0.76,0.197,0.9999
+SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",Q3,2024,2024-04-30 19:39:08,0.032,0.721,0.247,1.0
+SYY,Sysco,Consumer Staples,Food Distributors,Q3,2024,2024-04-30 13:52:09,0.026,0.705,0.27,1.0
+TTWO,Take-Two Interactive,Communication Services,Interactive Home Entertainment,Q3,2024,2024-02-08 21:13:08,0.027,0.702,0.27,1.0
+TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q3,2024,2024-05-09 09:44:02,0.033,0.694,0.273,1.0
+TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,Q3,2024,2023-11-15 00:00:00,0.026,0.687,0.287,1.0
+TJX,TJX Companies,Consumer Discretionary,Apparel Retail,Q3,2024,2023-11-15 13:52:10,0.018,0.687,0.295,1.0
+ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,Q3,2024,2023-11-30 00:00:00,0.023,0.648,0.33,1.0
+WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,Q3,2024,2023-11-16 13:13:13,0.02,0.703,0.278,1.0
+WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals",Q3,2024,2024-04-25 20:33:13,0.029,0.715,0.255,1.0

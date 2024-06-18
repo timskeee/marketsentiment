@@ -5,8 +5,11 @@ import seaborn as sns
 
 
 
-df = pd.DataFrame()
+
 for quarter in np.arange(1,5,1):
     for year in np.arange(2020,2024):
         average = average_sentiments(quarter=quarter, year=year)
         df.append([quarter, year, average])
+
+
+
