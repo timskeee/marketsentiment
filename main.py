@@ -81,7 +81,7 @@ def get_sentiment_allsp500(quarter=1, year=2024):
             scoreslist.append([ticker,company,sector,subsector,f'Q{quarter}',year,date,scores['neg'],scores['neu'],scores['pos'],scores['compound']])
         except:
             print('There was an issue or something')
-
+        
     compiledscores_df = pd.DataFrame(scoreslist)
     compiledscores_df.columns = ['ticker','company','sector','sub-sector','quarter','year','date','score-neg','score-neu','score-pos','score-compound']
     compiledscores_df.to_csv(f'compiled_sentiment_Q{quarter}-{year}.csv', index=False)
@@ -99,16 +99,23 @@ def average_sentiments(quarter='1', year=2024):
     neu_av = df['score-neu'].mean()
     pos_av = df['score-pos'].mean()
     
+    df['neg_av'] = neg_av
+    df['neu_av'] = neu_av
+    df['pos_av'] = pos_av
+
     df['pos-neg'] = df['score-pos'] - df['score-neg']
     df['pos-neg-mean'] = df['pos-neg'].mean()
 
     print(f'neg av: {neg_av}; neu av: {neu_av}; pos_av: {pos_av}')
+    
+    df.to_csv('average_allsp500.csv')
     return df
 
 
 # average_sentiments()
 
 
-for i in np.arange(1,5,1):
-    for j in np.arange(2020,2024,1):
+for i in np.arange(2,5,1):
+    for j in np.arange(2024,2025,1):
         get_sentiment_allsp500(quarter=i,year=j)
+        
