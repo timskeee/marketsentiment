@@ -410,6 +410,81 @@ SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,Q3,2022,2
 SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,Q3,2022,2022-10-20 11:28:03,0.04,0.715,0.245,1.0
 SO,Southern Company,Utilities,Electric Utilities,Q3,2022,2022-10-27 16:37:06,0.025,0.73,0.245,1.0
 LUV,Southwest Airlines,Industrials,Passenger Airlines,Q3,2022,2022-10-27 17:34:04,0.033,0.722,0.245,1.0
+SWK,Stanley Black & Decker,Industrials,Industrial Machinery & Supplies & Components,Q3,2022,2022-10-27 11:42:06,0.052,0.739,0.209,1.0
 SBUX,Starbucks,Consumer Discretionary,Restaurants,Q3,2022,2022-08-02 20:57:02,0.022,0.739,0.239,1.0
 STT,State Street Corporation,Financials,Asset Management & Custody Banks,Q3,2022,2022-10-18 21:57:04,0.031,0.762,0.207,1.0
 STLD,Steel Dynamics,Materials,Steel,Q3,2022,2022-10-20 13:00:34,0.029,0.734,0.236,1.0
+STE,Steris,Health Care,Health Care Equipment,Q3,2022,2022-02-09 13:52:03,0.029,0.774,0.196,0.9999
+SYK,Stryker Corporation,Health Care,Health Care Equipment,Q3,2022,2022-10-31 20:09:06,0.044,0.722,0.234,1.0
+SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",Q3,2022,2022-05-03 23:56:04,0.029,0.694,0.278,1.0
+SYF,Synchrony Financial,Financials,Consumer Finance,Q3,2022,2022-10-25 12:05:30,0.023,0.743,0.235,1.0
+SNPS,Synopsys,Information Technology,Application Software,Q3,2022,2022-08-17 21:05:46,0.024,0.731,0.245,1.0
+SYY,Sysco,Consumer Staples,Food Distributors,Q3,2022,2022-05-10 15:33:03,0.027,0.701,0.273,1.0
+TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services,Q3,2022,2022-10-27 21:27:02,0.026,0.709,0.265,1.0
+TTWO,Take-Two Interactive,Communication Services,Interactive Home Entertainment,Q3,2022,2022-02-07 00:00:00,0.026,0.735,0.239,1.0
+TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q3,2022,2022-05-12 12:45:03,0.022,0.725,0.254,1.0
+TRGP,Targa Resources,Energy,Oil & Gas Storage & Transportation,Q3,2022,2022-11-03 16:33:06,0.023,0.766,0.211,1.0
+TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,Q3,2022,2021-11-17 00:00:00,0.028,0.69,0.282,1.0
+TEL,TE Connectivity,Information Technology,Electronic Manufacturing Services,Q3,2022,2022-07-27 13:51:04,0.024,0.75,0.226,1.0
+TDY,Teledyne Technologies,Information Technology,Electronic Equipment & Instruments,Q3,2022,2022-10-26 15:56:02,0.045,0.729,0.225,1.0
+TFX,Teleflex,Health Care,Health Care Equipment,Q3,2022,2022-10-27 16:03:03,0.036,0.757,0.207,1.0
+TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,Q3,2022,2022-10-26 13:13:04,0.037,0.77,0.192,1.0
+TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,Q3,2022,2022-10-19 22:14:04,0.041,0.723,0.236,1.0
+TXN,Texas Instruments,Information Technology,Semiconductors,Q3,2022,2022-10-25 21:10:07,0.038,0.735,0.227,1.0
+TXT,Textron,Industrials,Aerospace & Defense,Q3,2022,2022-10-27 13:50:41,0.033,0.712,0.255,1.0
+TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,Q3,2022,2022-10-26 12:20:05,0.023,0.697,0.28,1.0
+TJX,TJX Companies,Consumer Discretionary,Apparel Retail,Q3,2022,2021-11-17 00:00:00,0.018,0.706,0.276,1.0
+TSCO,Tractor Supply,Consumer Discretionary,Other Specialty Retail,Q3,2022,2022-10-20 13:20:21,0.026,0.733,0.241,1.0
+TT,Trane Technologies,Industrials,Building Products,Q3,2022,2022-11-02 14:55:24,0.023,0.726,0.251,1.0
+TDG,TransDigm Group,Industrials,Aerospace & Defense,Q3,2022,2022-08-09 16:09:04,0.045,0.765,0.191,1.0
+TRV,Travelers Companies (The),Financials,Property & Casualty Insurance,Q3,2022,2022-10-19 13:41:03,0.055,0.691,0.254,1.0
+TRMB,Trimble Inc.,Information Technology,Electronic Equipment & Instruments,Q3,2022,2022-11-02 14:27:02,0.065,0.715,0.219,1.0
+TFC,Truist,Financials,Regional Banks,Q3,2022,2022-10-18 11:38:06,0.035,0.704,0.262,1.0
+TYL,Tyler Technologies,Information Technology,Application Software,Q3,2022,2022-10-27 14:09:03,0.027,0.762,0.21,1.0
+TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,Q3,2022,2022-08-08 13:21:03,0.039,0.723,0.238,1.0
+USB,U.S. Bank,Financials,Diversified Banks,Q3,2022,2022-10-14 11:36:03,0.022,0.723,0.255,1.0
+UBER,Uber,Industrials,Passenger Ground Transportation,Q3,2022,2022-11-01 10:24:02,0.026,0.713,0.26,1.0
+UDR,"UDR, Inc.",Real Estate,Multi-Family Residential REITs,Q3,2022,2022-10-27 17:01:15,0.046,0.729,0.226,1.0
+ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,Q3,2022,2021-12-02 00:00:00,0.018,0.662,0.32,1.0
+UNP,Union Pacific Corporation,Industrials,Rail Transportation,Q3,2022,2022-10-20 13:08:08,0.029,0.751,0.219,1.0
+UAL,United Airlines Holdings,Industrials,Passenger Airlines,Q3,2022,2022-10-19 13:59:17,0.036,0.72,0.244,1.0
+UPS,United Parcel Service,Industrials,Air Freight & Logistics,Q3,2022,2022-10-25 12:32:03,0.027,0.706,0.267,1.0
+URI,United Rentals,Industrials,Trading Companies & Distributors,Q3,2022,2022-10-27 14:31:17,0.024,0.721,0.255,1.0
+UNH,UnitedHealth Group,Health Care,Managed Health Care,Q3,2022,2022-10-14 12:44:03,0.022,0.684,0.294,1.0
+UHS,Universal Health Services,Health Care,Health Care Facilities,Q3,2022,2022-10-26 12:10:28,0.042,0.744,0.215,1.0
+VLO,Valero Energy,Energy,Oil & Gas Refining & Marketing,Q3,2022,2022-10-25 11:47:06,0.053,0.757,0.19,1.0
+VTR,Ventas,Real Estate,Health Care REITs,Q3,2022,2022-11-04 14:29:02,0.017,0.709,0.275,1.0
+VRSN,Verisign,Information Technology,Internet Services & Infrastructure,Q3,2022,2022-10-27 18:39:06,0.046,0.73,0.224,0.9998
+VRSK,Verisk,Industrials,Research & Consulting Services,Q3,2022,2022-11-02 13:48:06,0.037,0.681,0.282,1.0
+VZ,Verizon,Communication Services,Integrated Telecommunication Services,Q3,2022,2022-10-21 12:51:04,0.037,0.725,0.238,1.0
+VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,Q3,2022,2022-10-27 21:29:06,0.046,0.737,0.217,1.0
+VTRS,Viatris,Health Care,Pharmaceuticals,Q3,2022,2022-11-07 14:41:03,0.024,0.73,0.246,1.0
+VICI,Vici Properties,Real Estate,Hotel & Resort REITs,Q3,2022,2022-10-28 12:52:09,0.026,0.716,0.258,1.0
+V,Visa Inc.,Financials,Transaction & Payment Processing Services,Q3,2022,2022-07-26 18:24:14,0.035,0.755,0.21,1.0
+VST,Vistra,Utilities,Electric Utilities,Q3,2022,2022-11-04 12:41:05,0.032,0.752,0.217,1.0
+VMC,Vulcan Materials Company,Materials,Construction Materials,Q3,2022,2022-11-02 14:17:06,0.033,0.699,0.268,1.0
+WRB,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,Q3,2022,2022-10-24 20:27:06,0.06,0.712,0.228,1.0
+GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,Q3,2022,2022-10-28 13:03:04,0.028,0.708,0.264,1.0
+WAB,Wabtec,Industrials,Construction Machinery & Heavy Transportation Equipment,Q3,2022,2022-11-01 14:36:04,0.034,0.73,0.236,1.0
+WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,Q3,2022,2022-06-30 11:33:01,0.033,0.736,0.232,1.0
+WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,Q3,2022,2021-11-16 15:00:27,0.03,0.715,0.255,1.0
+DIS,Walt Disney Company (The),Communication Services,Movies & Entertainment,Q3,2022,2022-08-10 19:37:05,0.032,0.739,0.229,1.0
+WBD,Warner Bros. Discovery,Communication Services,Broadcasting,Q3,2022,2022-11-03 22:45:28,0.044,0.724,0.232,1.0
+WM,Waste Management,Industrials,Environmental & Facilities Services,Q3,2022,2022-10-26 14:23:06,0.033,0.753,0.214,1.0
+WAT,Waters Corporation,Health Care,Life Sciences Tools & Services,Q3,2022,2022-11-01 10:50:29,0.028,0.724,0.248,1.0
+WEC,WEC Energy Group,Utilities,Electric Utilities,Q3,2022,2022-11-01 17:58:06,0.019,0.747,0.233,1.0
+WFC,Wells Fargo,Financials,Diversified Banks,Q3,2022,2022-10-14 14:52:05,0.046,0.733,0.222,1.0
+WELL,Welltower,Real Estate,Health Care REITs,Q3,2022,2022-11-08 13:22:04,0.04,0.711,0.249,1.0
+WST,West Pharmaceutical Services,Health Care,Health Care Supplies,Q3,2022,2022-10-27 13:36:04,0.046,0.742,0.212,1.0
+WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals",Q3,2022,2022-04-28 19:43:15,0.042,0.757,0.201,1.0
+WRK,WestRock,Materials,Paper & Plastic Packaging Products & Materials,Q3,2022,2022-08-04 12:38:06,0.023,0.728,0.249,1.0
+WY,Weyerhaeuser,Real Estate,Timber REITs,Q3,2022,2022-10-28 14:34:05,0.046,0.779,0.176,1.0
+WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,Q3,2022,2022-11-01 13:09:05,0.02,0.707,0.272,1.0
+WTW,Willis Towers Watson,Financials,Insurance Brokers,Q3,2022,2022-10-27 13:47:09,0.038,0.695,0.266,1.0
+WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,Q3,2022,2022-11-09 19:47:05,0.016,0.762,0.222,1.0
+XEL,Xcel Energy,Utilities,Multi-Utilities,Q3,2022,2022-10-27 16:25:04,0.023,0.734,0.242,1.0
+XYL,Xylem Inc.,Industrials,Industrial Machinery & Supplies & Components,Q3,2022,2022-11-01 16:12:02,0.036,0.727,0.237,1.0
+YUM,Yum! Brands,Consumer Discretionary,Restaurants,Q3,2022,2022-11-02 09:26:04,0.029,0.693,0.278,1.0
+ZBRA,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,Q3,2022,2022-11-01 10:14:09,0.034,0.727,0.239,1.0
+ZBH,Zimmer Biomet,Health Care,Health Care Equipment,Q3,2022,2022-11-02 13:39:08,0.029,0.707,0.264,1.0
+ZTS,Zoetis,Health Care,Pharmaceuticals,Q3,2022,2022-11-03 11:17:09,0.031,0.74,0.229,1.0

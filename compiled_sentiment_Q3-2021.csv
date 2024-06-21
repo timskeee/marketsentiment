@@ -1,0 +1,487 @@
+ticker,company,sector,sub-sector,quarter,year,date,score-neg,score-neu,score-pos,score-compound
+MMM,3M,Industrials,Industrial Conglomerates,Q3,2021,2021-10-26 12:55:07,0.037,0.767,0.197,1.0
+AOS,A. O. Smith,Industrials,Building Products,Q3,2021,2021-10-28 15:48:04,0.027,0.74,0.233,1.0
+ABT,Abbott,Health Care,Health Care Equipment,Q3,2021,2021-10-20 00:00:00,0.021,0.734,0.246,1.0
+ABBV,AbbVie,Health Care,Biotechnology,Q3,2021,2021-10-29 14:38:16,0.034,0.719,0.247,1.0
+ACN,Accenture,Information Technology,IT Consulting & Other Services,Q3,2021,2021-06-24 14:40:02,0.022,0.707,0.271,1.0
+ADBE,Adobe Inc.,Information Technology,Application Software,Q3,2021,2021-09-21 21:57:06,0.016,0.731,0.253,1.0
+AMD,Advanced Micro Devices,Information Technology,Semiconductors,Q3,2021,2021-10-26 20:12:03,0.022,0.72,0.259,1.0
+AES,AES Corporation,Utilities,Independent Power Producers & Energy Traders,Q3,2021,2021-11-04 12:47:20,0.021,0.729,0.25,1.0
+AFL,Aflac,Financials,Life & Health Insurance,Q3,2021,2021-10-28 13:33:05,0.057,0.758,0.185,1.0
+A,Agilent Technologies,Health Care,Life Sciences Tools & Services,Q3,2021,2021-08-17 20:08:14,0.019,0.73,0.251,1.0
+APD,Air Products and Chemicals,Materials,Industrial Gases,Q3,2021,2021-08-09 13:49:09,0.022,0.695,0.283,1.0
+ABNB,Airbnb,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q3,2021,2021-11-04 22:47:06,0.019,0.732,0.249,1.0
+AKAM,Akamai,Information Technology,Internet Services & Infrastructure,Q3,2021,2021-11-02 21:18:15,0.046,0.685,0.269,1.0
+ALB,Albemarle Corporation,Materials,Specialty Chemicals,Q3,2021,2021-11-04 13:14:07,0.036,0.787,0.177,1.0
+ARE,Alexandria Real Estate Equities,Real Estate,Office REITs,Q3,2021,2021-10-26 22:11:17,0.04,0.736,0.224,1.0
+ALGN,Align Technology,Health Care,Health Care Supplies,Q3,2021,2021-10-27 21:42:17,0.025,0.751,0.224,1.0
+ALLE,Allegion,Industrials,Building Products,Q3,2021,2021-10-21 14:32:07,0.042,0.7,0.258,1.0
+LNT,Alliant Energy,Utilities,Electric Utilities,Q3,2021,2021-11-05 00:00:00,0.019,0.739,0.242,0.9999
+ALL,Allstate,Financials,Property & Casualty Insurance,Q3,2021,2021-11-04 12:59:05,0.044,0.725,0.23,1.0
+GOOG,Alphabet Inc. (Class C),Communication Services,Interactive Media & Services,Q3,2021,2021-10-26 20:10:06,0.018,0.737,0.245,1.0
+MO,Altria,Consumer Staples,Tobacco,Q3,2021,2021-10-28 11:52:20,0.029,0.76,0.211,1.0
+AMZN,Amazon,Consumer Discretionary,Broadline Retail,Q3,2021,2021-10-28 23:14:09,0.029,0.737,0.234,1.0
+AMCR,Amcor,Materials,Paper & Plastic Packaging Products & Materials,Q3,2021,2021-05-04 22:59:05,0.033,0.748,0.219,1.0
+AEE,Ameren,Utilities,Multi-Utilities,Q3,2021,2021-11-04 16:27:05,0.017,0.716,0.267,1.0
+AAL,American Airlines Group,Industrials,Passenger Airlines,Q3,2021,2021-10-21 14:30:08,0.037,0.76,0.202,1.0
+AEP,American Electric Power,Utilities,Electric Utilities,Q3,2021,2021-10-28 13:58:04,0.035,0.741,0.224,1.0
+AXP,American Express,Financials,Consumer Finance,Q3,2021,2021-10-22 14:57:05,0.021,0.756,0.223,1.0
+AIG,American International Group,Financials,Multi-line Insurance,Q3,2021,2021-11-05 00:00:00,0.064,0.748,0.189,1.0
+AMT,American Tower,Real Estate,Telecom Tower REITs,Q3,2021,2021-10-28 13:02:05,0.025,0.751,0.224,1.0
+AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks,Q3,2021,2021-10-27 12:54:10,0.016,0.66,0.324,1.0
+AME,Ametek,Industrials,Electrical Components & Equipment,Q3,2021,2021-11-02 12:50:18,0.019,0.729,0.252,1.0
+AMGN,Amgen,Health Care,Biotechnology,Q3,2021,2021-11-02 21:46:05,0.039,0.733,0.228,1.0
+APH,Amphenol,Information Technology,Electronic Components,Q3,2021,2021-10-27 19:45:08,0.032,0.726,0.243,1.0
+ADI,Analog Devices,Information Technology,Semiconductors,Q3,2021,2021-08-18 13:05:06,0.027,0.743,0.23,1.0
+ANSS,Ansys,Information Technology,Application Software,Q3,2021,2021-11-04 14:56:06,0.014,0.741,0.246,1.0
+AON,Aon,Financials,Insurance Brokers,Q3,2021,2021-10-29 13:04:11,0.022,0.711,0.267,1.0
+APA,APA Corporation,Energy,Oil & Gas Exploration & Production,Q3,2021,2021-11-04 14:21:11,0.04,0.733,0.227,1.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",Q3,2021,2021-07-27 23:13:05,0.031,0.702,0.267,1.0
+AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,Q3,2021,2021-08-19 20:00:09,0.023,0.735,0.242,1.0
+APTV,Aptiv,Consumer Discretionary,Automotive Parts & Equipment,Q3,2021,2021-11-04 12:24:06,0.03,0.733,0.237,1.0
+ACGL,Arch Capital Group,Financials,Property & Casualty Insurance,Q3,2021,2021-10-28 17:57:06,0.053,0.727,0.221,1.0
+ADM,Archer-Daniels-Midland,Consumer Staples,Agricultural Products & Services,Q3,2021,2021-10-26 13:34:35,0.028,0.724,0.248,1.0
+ANET,Arista Networks,Information Technology,Communications Equipment,Q3,2021,2021-11-01 20:23:02,0.031,0.738,0.231,1.0
+AJG,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,Q3,2021,2021-10-28 23:29:06,0.033,0.711,0.256,1.0
+AIZ,Assurant,Financials,Multi-line Insurance,Q3,2021,2021-11-03 12:52:05,0.028,0.727,0.245,1.0
+T,AT&T,Communication Services,Integrated Telecommunication Services,Q3,2021,2021-10-21 13:01:06,0.021,0.76,0.219,1.0
+ATO,Atmos Energy,Utilities,Gas Utilities,Q3,2021,2021-08-05 12:33:20,0.032,0.742,0.226,0.9999
+ADSK,Autodesk,Information Technology,Application Software,Q3,2021,2020-11-25 00:50:58,0.021,0.72,0.259,1.0
+ADP,Automatic Data Processing,Industrials,Human Resource & Employment Services,Q3,2021,2021-04-28 16:30:42,0.029,0.684,0.287,1.0
+AZO,AutoZone,Consumer Discretionary,Automotive Retail,Q3,2021,2021-05-25 14:53:03,0.034,0.711,0.255,1.0
+AVB,AvalonBay Communities,Real Estate,Multi-Family Residential REITs,Q3,2021,2021-10-28 20:11:05,0.029,0.735,0.236,1.0
+AVY,Avery Dennison,Materials,Paper & Plastic Packaging Products & Materials,Q3,2021,2021-10-27 16:11:13,0.036,0.738,0.226,1.0
+AXON,Axon Enterprise,Industrials,Aerospace & Defense,Q3,2021,2021-11-16 00:48:01,0.036,0.711,0.253,1.0
+BKR,Baker Hughes,Energy,Oil & Gas Equipment & Services,Q3,2021,2021-10-20 14:38:05,0.021,0.741,0.237,1.0
+BALL,Ball Corporation,Materials,"Metal, Glass & Plastic Containers",Q3,2021,2021-11-04 16:42:09,0.033,0.753,0.214,1.0
+BAC,Bank of America,Financials,Diversified Banks,Q3,2021,2021-10-14 15:26:05,0.027,0.743,0.23,1.0
+BK,Bank of New York Mellon,Financials,Asset Management & Custody Banks,Q3,2021,2021-10-19 14:20:07,0.023,0.719,0.258,1.0
+BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,Other Specialty Retail,Q3,2021,2020-11-19 00:00:00,0.016,0.729,0.255,1.0
+BAX,Baxter International,Health Care,Health Care Equipment,Q3,2021,2021-07-30 14:07:08,0.018,0.686,0.296,1.0
+BDX,Becton Dickinson,Health Care,Health Care Equipment,Q3,2021,2021-08-05 13:10:04,0.036,0.749,0.215,1.0
+BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,Q3,2021,2020-11-24 14:45:17,0.043,0.721,0.235,1.0
+BIO,Bio-Rad,Health Care,Life Sciences Tools & Services,Q3,2021,2021-10-28 21:53:11,0.03,0.739,0.23,1.0
+TECH,Bio-Techne,Health Care,Life Sciences Tools & Services,Q3,2021,2021-05-09 14:12:10,0.028,0.735,0.236,1.0
+BIIB,Biogen,Health Care,Biotechnology,Q3,2021,2021-10-20 13:40:06,0.044,0.773,0.182,1.0
+BLK,BlackRock,Financials,Asset Management & Custody Banks,Q3,2021,2021-10-13 12:00:05,0.027,0.747,0.226,1.0
+BX,Blackstone,Financials,Asset Management & Custody Banks,Q3,2021,2021-10-21 13:22:03,0.019,0.726,0.255,1.0
+BA,Boeing,Industrials,Aerospace & Defense,Q3,2021,2021-10-27 14:25:56,0.037,0.742,0.22,1.0
+BKNG,Booking Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q3,2021,2021-11-03 22:43:05,0.04,0.724,0.235,1.0
+BWA,BorgWarner,Consumer Discretionary,Automotive Parts & Equipment,Q3,2021,2021-11-03 14:43:05,0.024,0.77,0.206,1.0
+BXP,Boston Properties,Real Estate,Office REITs,Q3,2021,2021-10-27 17:18:07,0.033,0.811,0.156,1.0
+BSX,Boston Scientific,Health Care,Health Care Equipment,Q3,2021,2021-11-01 21:55:03,0.03,0.693,0.278,1.0
+BMY,Bristol Myers Squibb,Health Care,Pharmaceuticals,Q3,2021,2021-10-27 13:28:13,0.037,0.727,0.236,1.0
+AVGO,Broadcom Inc.,Information Technology,Semiconductors,Q3,2021,2021-09-02 22:46:05,0.028,0.772,0.2,1.0
+BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,Q3,2021,2021-05-04 00:00:00,0.015,0.719,0.266,1.0
+BRO,Brown & Brown,Financials,Insurance Brokers,Q3,2021,2021-10-26 12:38:06,0.026,0.728,0.247,1.0
+BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,Q3,2021,2021-03-03 00:00:00,0.034,0.759,0.208,1.0
+BLDR,Builders FirstSource,Industrials,Building Products,Q3,2021,2021-11-04 15:47:13,0.023,0.704,0.273,1.0
+BG,Bunge Global SA,Consumer Staples,Agricultural Products & Services,Q3,2021,2021-10-27 14:04:09,0.047,0.693,0.26,1.0
+CDNS,Cadence Design Systems,Information Technology,Application Software,Q3,2021,2021-10-25 23:40:07,0.015,0.701,0.284,1.0
+CZR,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming,Q3,2021,2021-11-02 21:13:10,0.032,0.755,0.213,1.0
+CPT,Camden Property Trust,Real Estate,Multi-Family Residential REITs,Q3,2021,2021-10-29 19:00:06,0.047,0.739,0.214,1.0
+CPB,Campbell Soup Company,Consumer Staples,Packaged Foods & Meats,Q3,2021,2021-06-09 13:46:06,0.045,0.725,0.23,1.0
+COF,Capital One,Financials,Consumer Finance,Q3,2021,2021-10-26 00:00:00,0.033,0.704,0.263,1.0
+CAH,Cardinal Health,Health Care,Health Care Distributors,Q3,2021,2021-05-06 14:09:03,0.033,0.732,0.235,1.0
+KMX,CarMax,Consumer Discretionary,Automotive Retail,Q3,2021,2020-12-22 15:38:02,0.033,0.713,0.255,1.0
+CCL,Carnival,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q3,2021,2021-09-24 00:00:00,0.031,0.75,0.219,1.0
+CARR,Carrier Global,Industrials,Building Products,Q3,2021,2021-10-28 13:01:19,0.042,0.716,0.242,1.0
+CTLT,Catalent,Health Care,Pharmaceuticals,Q3,2021,2021-05-04 12:49:08,0.028,0.756,0.216,1.0
+CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,Q3,2021,2021-10-28 12:11:03,0.041,0.728,0.231,1.0
+CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data,Q3,2021,2021-10-29 14:06:14,0.016,0.715,0.269,1.0
+CBRE,CBRE Group,Real Estate,Real Estate Services,Q3,2021,2021-10-28 12:26:09,0.019,0.742,0.239,1.0
+CDW,CDW,Information Technology,Technology Distributors,Q3,2021,2021-11-03 13:05:31,0.031,0.739,0.23,1.0
+CE,Celanese,Materials,Specialty Chemicals,Q3,2021,2021-10-22 16:16:05,0.038,0.764,0.199,1.0
+COR,Cencora,Health Care,Health Care Distributors,Q3,2021,2021-10-28 16:47:12,0.02,0.768,0.212,1.0
+CNC,Centene Corporation,Health Care,Managed Health Care,Q3,2021,2021-10-26 13:49:04,0.018,0.723,0.259,1.0
+CNP,CenterPoint Energy,Utilities,Multi-Utilities,Q3,2021,2021-11-04 11:02:18,0.015,0.763,0.222,1.0
+CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals,Q3,2021,2021-11-04 14:26:05,0.043,0.754,0.203,1.0
+CHRW,CH Robinson,Industrials,Air Freight & Logistics,Q3,2021,2021-10-26 00:00:00,0.035,0.732,0.234,1.0
+CRL,Charles River Laboratories,Health Care,Life Sciences Tools & Services,Q3,2021,2021-11-03 13:02:02,0.036,0.738,0.226,1.0
+CHTR,Charter Communications,Communication Services,Cable & Satellite,Q3,2021,2021-10-29 13:28:10,0.037,0.768,0.195,1.0
+CVX,Chevron Corporation,Energy,Integrated Oil & Gas,Q3,2021,2021-10-29 14:59:05,0.035,0.756,0.209,1.0
+CMG,Chipotle Mexican Grill,Consumer Discretionary,Restaurants,Q3,2021,2021-10-21 20:50:03,0.036,0.693,0.271,1.0
+CB,Chubb Limited,Financials,Property & Casualty Insurance,Q3,2021,2021-10-27 12:50:57,0.044,0.721,0.235,1.0
+CHD,Church & Dwight,Consumer Staples,Household Products,Q3,2021,2021-10-29 16:37:05,0.042,0.741,0.217,1.0
+CI,Cigna,Health Care,Health Care Services,Q3,2021,2021-11-04 12:34:11,0.021,0.735,0.245,1.0
+CINF,Cincinnati Financial,Financials,Property & Casualty Insurance,Q3,2021,2021-10-28 15:24:07,0.08,0.703,0.217,0.9998
+CTAS,Cintas,Industrials,Diversified Support Services,Q3,2021,2021-03-17 16:09:10,0.027,0.823,0.15,1.0
+CSCO,Cisco,Information Technology,Communications Equipment,Q3,2021,2021-05-19 23:28:06,0.03,0.712,0.258,1.0
+C,Citigroup,Financials,Diversified Banks,Q3,2021,2021-10-14 13:42:07,0.025,0.735,0.24,1.0
+CFG,Citizens Financial Group,Financials,Regional Banks,Q3,2021,2021-10-20 14:19:17,0.032,0.718,0.25,1.0
+CLX,Clorox,Consumer Staples,Household Products,Q3,2021,2021-04-30 19:21:07,0.02,0.712,0.268,1.0
+CME,CME Group,Financials,Financial Exchanges & Data,Q3,2021,2021-10-27 14:02:15,0.024,0.724,0.252,1.0
+CMS,CMS Energy,Utilities,Multi-Utilities,Q3,2021,2021-10-28 15:27:04,0.02,0.706,0.273,1.0
+KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q3,2021,2021-10-27 13:21:06,0.03,0.72,0.25,1.0
+CTSH,Cognizant,Information Technology,IT Consulting & Other Services,Q3,2021,2021-10-27 21:02:07,0.026,0.732,0.242,1.0
+CL,Colgate-Palmolive,Consumer Staples,Household Products,Q3,2021,2021-10-29 14:40:03,0.028,0.695,0.277,1.0
+CMCSA,Comcast,Communication Services,Cable & Satellite,Q3,2021,2021-10-29 02:06:06,0.026,0.733,0.241,1.0
+CMA,Comerica,Financials,Diversified Banks,Q3,2021,2021-10-20 11:58:05,0.029,0.727,0.244,1.0
+CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,Q3,2021,2021-04-08 15:45:34,0.029,0.718,0.252,1.0
+COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,Q3,2021,2021-11-03 01:25:04,0.034,0.73,0.237,1.0
+STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,Q3,2021,2021-01-07 17:35:06,0.031,0.708,0.261,1.0
+COO,CooperCompanies,Health Care,Health Care Supplies,Q3,2021,2021-09-02 23:11:08,0.026,0.674,0.299,1.0
+CPRT,Copart,Industrials,Diversified Support Services,Q3,2021,2021-05-20 15:24:05,0.03,0.735,0.235,1.0
+GLW,Corning Inc.,Information Technology,Electronic Components,Q3,2021,2021-10-26 12:24:10,0.039,0.736,0.226,1.0
+CPAY,Corpay,Financials,Transaction & Payment Processing Services,Q3,2021,2021-11-03 00:00:00,0.031,0.75,0.219,1.0
+CTVA,Corteva,Materials,Fertilizers & Agricultural Chemicals,Q3,2021,2021-11-04 14:17:05,0.018,0.735,0.246,1.0
+CSGP,CoStar Group,Real Estate,Real Estate Services,Q3,2021,2021-10-26 21:13:03,0.027,0.764,0.209,1.0
+COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,Q3,2021,2021-05-28 00:11:14,0.041,0.774,0.185,1.0
+CTRA,Coterra,Energy,Oil & Gas Exploration & Production,Q3,2021,2021-11-03 15:22:02,0.036,0.722,0.242,1.0
+CCI,Crown Castle,Real Estate,Telecom Tower REITs,Q3,2021,2021-10-21 15:37:28,0.018,0.764,0.218,1.0
+CSX,CSX,Industrials,Rail Transportation,Q3,2021,2021-10-20 21:09:09,0.039,0.748,0.213,1.0
+CMI,Cummins,Industrials,Construction Machinery & Heavy Transportation Equipment,Q3,2021,2021-11-02 15:23:03,0.045,0.757,0.198,1.0
+CVS,CVS Health,Health Care,Health Care Services,Q3,2021,2021-11-03 12:46:02,0.031,0.732,0.237,1.0
+DHR,Danaher Corporation,Health Care,Life Sciences Tools & Services,Q3,2021,2021-10-21 11:31:07,0.021,0.726,0.253,1.0
+DRI,Darden Restaurants,Consumer Discretionary,Restaurants,Q3,2021,2021-03-25 16:16:04,0.02,0.747,0.233,1.0
+DVA,DaVita Inc.,Health Care,Health Care Services,Q3,2021,2021-10-28 22:38:01,0.031,0.763,0.206,1.0
+DAY,Dayforce,Industrials,Human Resource & Employment Services,Q3,2021,2021-11-03 00:00:00,0.018,0.764,0.218,1.0
+DECK,Deckers Brands,Consumer Discretionary,Footwear,Q3,2021,2021-02-04 23:45:36,0.032,0.711,0.257,1.0
+DE,John Deere,Industrials,Agricultural & Farm Machinery,Q3,2021,2021-08-20 15:43:07,0.032,0.76,0.208,1.0
+DAL,Delta Air Lines,Industrials,Passenger Airlines,Q3,2021,2021-10-13 13:43:06,0.028,0.748,0.224,1.0
+DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,Q3,2021,2021-11-03 14:37:15,0.022,0.698,0.28,1.0
+DXCM,Dexcom,Health Care,Health Care Equipment,Q3,2021,2021-10-28 21:50:06,0.018,0.773,0.208,1.0
+FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production,Q3,2021,2021-11-02 12:53:05,0.029,0.738,0.233,1.0
+DLR,Digital Realty,Real Estate,Data Center REITs,Q3,2021,2021-10-26 00:00:00,0.029,0.759,0.212,1.0
+DFS,Discover Financial,Financials,Consumer Finance,Q3,2021,2021-10-21 12:50:13,0.032,0.704,0.265,1.0
+DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,Q3,2021,2020-12-03 00:00:00,0.031,0.71,0.259,1.0
+DLTR,Dollar Tree,Consumer Staples,Consumer Staples Merchandise Retail,Q3,2021,2020-11-24 00:00:00,0.023,0.74,0.237,1.0
+D,Dominion Energy,Utilities,Multi-Utilities,Q3,2021,2021-11-05 13:42:08,0.024,0.767,0.209,1.0
+DPZ,Domino's,Consumer Discretionary,Restaurants,Q3,2021,2021-10-14 00:00:00,0.025,0.749,0.227,1.0
+DOV,Dover Corporation,Industrials,Industrial Machinery & Supplies & Components,Q3,2021,2021-10-19 15:19:07,0.054,0.709,0.238,1.0
+DOW,Dow Inc.,Materials,Commodity Chemicals,Q3,2021,2021-10-21 12:03:07,0.043,0.761,0.196,1.0
+DHI,DR Horton,Consumer Discretionary,Homebuilding,Q3,2021,2021-07-22 15:50:06,0.051,0.753,0.196,1.0
+DTE,DTE Energy,Utilities,Multi-Utilities,Q3,2021,2021-10-27 14:16:09,0.016,0.767,0.218,1.0
+DUK,Duke Energy,Utilities,Electric Utilities,Q3,2021,2021-11-04 14:13:06,0.011,0.713,0.277,1.0
+DD,DuPont,Materials,Specialty Chemicals,Q3,2021,2021-11-02 12:53:13,0.024,0.735,0.241,1.0
+EMN,Eastman Chemical Company,Materials,Specialty Chemicals,Q3,2021,2021-10-29 12:38:14,0.034,0.709,0.257,1.0
+ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,Q3,2021,2021-11-02 19:26:05,0.03,0.714,0.256,1.0
+EBAY,eBay,Consumer Discretionary,Broadline Retail,Q3,2021,2021-10-27 23:05:10,0.018,0.727,0.255,1.0
+ECL,Ecolab,Materials,Specialty Chemicals,Q3,2021,2021-10-26 16:10:04,0.028,0.676,0.296,1.0
+EIX,Edison International,Utilities,Electric Utilities,Q3,2021,2021-11-02 20:40:28,0.045,0.761,0.194,1.0
+EW,Edwards Lifesciences,Health Care,Health Care Equipment,Q3,2021,2021-10-27 21:54:18,0.042,0.705,0.253,1.0
+EA,Electronic Arts,Communication Services,Interactive Home Entertainment,Q3,2021,2021-02-02 23:36:04,0.027,0.699,0.274,1.0
+ELV,Elevance Health,Health Care,Managed Health Care,Q3,2021,2021-10-20 13:27:06,0.022,0.703,0.275,1.0
+LLY,Eli Lilly and Company,Health Care,Pharmaceuticals,Q3,2021,2021-10-26 14:14:21,0.032,0.742,0.226,1.0
+EMR,Emerson Electric,Industrials,Electrical Components & Equipment,Q3,2021,2021-08-04 13:36:13,0.026,0.71,0.264,1.0
+ENPH,Enphase,Information Technology,Semiconductor Materials & Equipment,Q3,2021,2021-10-26 22:11:05,0.04,0.754,0.206,1.0
+ETR,Entergy,Utilities,Electric Utilities,Q3,2021,2021-11-03 14:08:03,0.033,0.731,0.236,1.0
+EOG,EOG Resources,Energy,Oil & Gas Exploration & Production,Q3,2021,2021-11-05 13:40:04,0.027,0.713,0.26,1.0
+EPAM,EPAM Systems,Information Technology,IT Consulting & Other Services,Q3,2021,2021-11-04 14:08:09,0.027,0.705,0.267,1.0
+EQT,EQT Corporation,Energy,Oil & Gas Exploration & Production,Q3,2021,2021-10-28 16:18:06,0.033,0.731,0.236,1.0
+EFX,Equifax,Industrials,Research & Consulting Services,Q3,2021,2021-10-21 15:01:08,0.019,0.746,0.235,1.0
+EQIX,Equinix,Real Estate,Data Center REITs,Q3,2021,2021-11-03 22:12:03,0.023,0.751,0.227,1.0
+EQR,Equity Residential,Real Estate,Multi-Family Residential REITs,Q3,2021,2021-10-27 20:26:05,0.057,0.709,0.234,1.0
+ESS,Essex Property Trust,Real Estate,Multi-Family Residential REITs,Q3,2021,2021-10-27 19:03:06,0.035,0.739,0.227,1.0
+EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,Q3,2021,2021-05-03 15:16:10,0.023,0.691,0.286,1.0
+ETSY,Etsy,Consumer Discretionary,Broadline Retail,Q3,2021,2021-11-03 21:50:04,0.016,0.736,0.248,1.0
+EVRG,Evergy,Utilities,Electric Utilities,Q3,2021,2021-11-03 12:13:06,0.029,0.737,0.235,1.0
+ES,Eversource,Utilities,Electric Utilities,Q3,2021,2021-11-03 13:36:10,0.028,0.764,0.209,1.0
+EXC,Exelon,Utilities,Electric Utilities,Q3,2021,2021-11-03 13:03:06,0.019,0.749,0.232,1.0
+EXPE,Expedia Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q3,2021,2021-11-04 20:58:05,0.024,0.716,0.26,1.0
+EXR,Extra Space Storage,Real Estate,Self-Storage REITs,Q3,2021,2021-10-28 19:28:05,0.054,0.716,0.229,1.0
+XOM,ExxonMobil,Energy,Integrated Oil & Gas,Q3,2021,2021-10-29 13:50:24,0.034,0.718,0.247,1.0
+FFIV,"F5, Inc.",Information Technology,Communications Equipment,Q3,2021,2021-07-26 23:20:44,0.026,0.725,0.249,1.0
+FDS,FactSet,Financials,Financial Exchanges & Data,Q3,2021,2021-06-29 13:58:11,0.015,0.745,0.24,1.0
+FICO,Fair Isaac,Information Technology,Application Software,Q3,2021,2021-08-03 21:47:06,0.022,0.746,0.232,1.0
+FAST,Fastenal,Industrials,Trading Companies & Distributors,Q3,2021,2021-10-12 13:26:04,0.043,0.763,0.194,1.0
+FRT,Federal Realty,Real Estate,Retail REITs,Q3,2021,2021-11-04 21:58:03,0.026,0.758,0.215,1.0
+FDX,FedEx,Industrials,Air Freight & Logistics,Q3,2021,2021-03-18 19:01:06,0.026,0.746,0.228,1.0
+FIS,Fidelity National Information Services,Financials,Transaction & Payment Processing Services,Q3,2021,2021-11-04 12:53:01,0.016,0.738,0.246,1.0
+FITB,Fifth Third Bank,Financials,Diversified Banks,Q3,2021,2021-10-19 12:56:05,0.028,0.722,0.25,1.0
+FSLR,First Solar,Information Technology,Semiconductors,Q3,2021,2021-11-04 20:59:05,0.051,0.77,0.179,1.0
+FE,FirstEnergy,Utilities,Electric Utilities,Q3,2021,2021-10-29 15:14:02,0.02,0.73,0.25,1.0
+FI,Fiserv,Financials,Transaction & Payment Processing Services,Q3,2021,2021-10-27 00:00:00,0.017,0.741,0.242,1.0
+FMC,FMC Corporation,Materials,Fertilizers & Agricultural Chemicals,Q3,2021,2021-11-03 14:18:14,0.029,0.735,0.237,1.0
+F,Ford Motor Company,Consumer Discretionary,Automobile Manufacturers,Q3,2021,2021-10-27 21:27:06,0.026,0.747,0.227,1.0
+FTNT,Fortinet,Information Technology,Systems Software,Q3,2021,2021-11-04 21:19:03,0.029,0.723,0.248,1.0
+FTV,Fortive,Industrials,Industrial Machinery & Supplies & Components,Q3,2021,2021-10-28 23:49:05,0.025,0.706,0.269,1.0
+FOXA,Fox Corporation (Class A),Communication Services,Broadcasting,Q3,2021,2021-05-05 21:09:06,0.02,0.742,0.238,1.0
+FOX,Fox Corporation (Class B),Communication Services,Broadcasting,Q3,2021,2021-05-05 21:09:06,0.02,0.742,0.238,1.0
+BEN,Franklin Templeton,Financials,Asset Management & Custody Banks,Q3,2021,2021-08-03 16:04:24,0.018,0.743,0.239,1.0
+FCX,Freeport-McMoRan,Materials,Copper,Q3,2021,2021-10-21 14:56:07,0.046,0.743,0.212,1.0
+GRMN,Garmin,Consumer Discretionary,Consumer Electronics,Q3,2021,2021-10-27 14:55:53,0.03,0.702,0.268,1.0
+IT,Gartner,Information Technology,IT Consulting & Other Services,Q3,2021,2021-11-02 10:56:05,0.013,0.722,0.265,1.0
+GE,GE Aerospace,Industrials,Aerospace & Defense,Q3,2021,2021-10-26 12:34:07,0.035,0.726,0.238,1.0
+GEN,Gen Digital,Information Technology,Systems Software,Q3,2021,2021-02-04 22:54:06,0.018,0.689,0.293,1.0
+GNRC,Generac,Industrials,Electrical Components & Equipment,Q3,2021,2021-11-02 15:10:05,0.024,0.748,0.228,1.0
+GD,General Dynamics,Industrials,Aerospace & Defense,Q3,2021,2021-10-27 00:00:00,0.032,0.769,0.199,1.0
+GIS,General Mills,Consumer Staples,Packaged Foods & Meats,Q3,2021,2021-03-24 13:51:08,0.024,0.73,0.246,1.0
+GM,General Motors,Consumer Discretionary,Automobile Manufacturers,Q3,2021,2021-10-27 13:23:07,0.027,0.741,0.233,1.0
+GPC,Genuine Parts Company,Consumer Discretionary,Distributors,Q3,2021,2021-10-21 14:36:07,0.022,0.696,0.282,1.0
+GILD,Gilead Sciences,Health Care,Biotechnology,Q3,2021,2021-10-28 21:22:05,0.047,0.742,0.211,1.0
+GPN,Global Payments,Financials,Transaction & Payment Processing Services,Q3,2021,2021-11-02 12:47:06,0.014,0.734,0.252,1.0
+GL,Globe Life,Financials,Life & Health Insurance,Q3,2021,2021-10-21 15:49:07,0.058,0.78,0.162,0.9999
+GS,Goldman Sachs,Financials,Investment Banking & Brokerage,Q3,2021,2021-10-15 14:23:05,0.021,0.747,0.232,1.0
+HAL,Halliburton,Energy,Oil & Gas Equipment & Services,Q3,2021,2021-10-19 12:55:10,0.021,0.725,0.255,1.0
+HIG,Hartford (The),Financials,Property & Casualty Insurance,Q3,2021,2021-10-29 13:06:05,0.055,0.724,0.221,1.0
+HAS,Hasbro,Consumer Discretionary,Leisure Products,Q3,2021,2021-10-26 12:13:08,0.03,0.703,0.267,1.0
+HCA,HCA Healthcare,Health Care,Health Care Facilities,Q3,2021,2021-10-22 13:52:07,0.018,0.734,0.248,1.0
+DOC,Healthpeak,Real Estate,Health Care REITs,Q3,2021,2021-11-05 12:59:10,0.023,0.737,0.241,1.0
+HSIC,Henry Schein,Health Care,Health Care Distributors,Q3,2021,2021-11-02 15:36:04,0.025,0.753,0.222,1.0
+HSY,Hershey's,Consumer Staples,Packaged Foods & Meats,Q3,2021,2021-10-28 11:19:09,0.04,0.728,0.232,1.0
+HES,Hess Corporation,Energy,Integrated Oil & Gas,Q3,2021,2021-10-27 14:07:14,0.041,0.79,0.169,1.0
+HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals",Q3,2021,2021-09-02 23:10:07,0.035,0.72,0.245,1.0
+HLT,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q3,2021,2021-10-27 00:00:00,0.037,0.774,0.189,1.0
+HOLX,Hologic,Health Care,Health Care Equipment,Q3,2021,2021-07-28 22:25:04,0.02,0.756,0.224,1.0
+HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,Q3,2021,2021-11-16 13:00:04,0.029,0.703,0.268,1.0
+HON,Honeywell,Industrials,Industrial Conglomerates,Q3,2021,2021-10-22 13:37:04,0.036,0.713,0.251,1.0
+HRL,Hormel Foods,Consumer Staples,Packaged Foods & Meats,Q3,2021,2021-09-02 14:14:05,0.041,0.735,0.223,1.0
+HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,Q3,2021,2021-11-04 14:38:06,0.022,0.767,0.211,1.0
+HWM,Howmet Aerospace,Industrials,Aerospace & Defense,Q3,2021,2021-11-04 14:01:05,0.042,0.753,0.205,1.0
+HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",Q3,2021,2021-08-27 00:00:00,0.029,0.72,0.251,1.0
+HUBB,Hubbell Incorporated,Industrials,Industrial Machinery & Supplies & Components,Q3,2021,2021-10-26 16:31:07,0.033,0.734,0.233,1.0
+HUM,Humana,Health Care,Managed Health Care,Q3,2021,2021-11-03 15:29:03,0.023,0.748,0.229,1.0
+HBAN,Huntington Bancshares,Financials,Regional Banks,Q3,2021,2021-10-28 15:53:03,0.019,0.727,0.254,1.0
+HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,Q3,2021,2021-11-04 13:15:40,0.035,0.769,0.196,1.0
+IBM,IBM,Information Technology,IT Consulting & Other Services,Q3,2021,2021-10-20 20:57:05,0.022,0.753,0.225,1.0
+IEX,IDEX Corporation,Industrials,Industrial Machinery & Supplies & Components,Q3,2021,2021-10-27 17:17:17,0.04,0.728,0.232,1.0
+IDXX,Idexx Laboratories,Health Care,Health Care Equipment,Q3,2021,2021-11-02 13:20:03,0.029,0.666,0.306,1.0
+ITW,Illinois Tool Works,Industrials,Industrial Machinery & Supplies & Components,Q3,2021,2021-10-28 14:54:05,0.024,0.753,0.223,1.0
+ILMN,Illumina,Health Care,Life Sciences Tools & Services,Q3,2021,2021-11-04 22:08:08,0.026,0.762,0.213,1.0
+INCY,Incyte,Health Care,Biotechnology,Q3,2021,2021-11-02 11:12:08,0.034,0.764,0.203,1.0
+IR,Ingersoll Rand,Industrials,Industrial Machinery & Supplies & Components,Q3,2021,2021-11-04 12:17:06,0.019,0.737,0.244,1.0
+PODD,Insulet,Health Care,Health Care Equipment,Q3,2021,2021-11-04 20:19:05,0.021,0.722,0.257,1.0
+INTC,Intel,Information Technology,Semiconductors,Q3,2021,2021-10-21 21:45:11,0.034,0.725,0.241,1.0
+ICE,Intercontinental Exchange,Financials,Financial Exchanges & Data,Q3,2021,2021-10-28 14:27:06,0.014,0.74,0.246,1.0
+IFF,International Flavors & Fragrances,Materials,Specialty Chemicals,Q3,2021,2021-11-09 13:32:03,0.04,0.689,0.271,1.0
+IP,International Paper,Materials,Paper & Plastic Packaging Products & Materials,Q3,2021,2021-10-27 14:33:28,0.035,0.75,0.215,1.0
+IPG,Interpublic Group of Companies (The),Communication Services,Advertising,Q3,2021,2021-10-21 15:25:10,0.018,0.721,0.261,1.0
+INTU,Intuit,Information Technology,Application Software,Q3,2021,2021-05-25 23:21:03,0.01,0.697,0.293,1.0
+ISRG,Intuitive Surgical,Health Care,Health Care Equipment,Q3,2021,2021-10-19 20:51:06,0.056,0.757,0.187,1.0
+IVZ,Invesco,Financials,Asset Management & Custody Banks,Q3,2021,2021-10-26 14:43:06,0.022,0.755,0.224,1.0
+INVH,Invitation Homes,Real Estate,Single-Family Residential REITs,Q3,2021,2021-10-28 18:38:05,0.035,0.693,0.272,1.0
+IQV,IQVIA,Health Care,Life Sciences Tools & Services,Q3,2021,2021-10-21 14:45:15,0.025,0.774,0.201,1.0
+IRM,Iron Mountain,Real Estate,Other Specialized REITs,Q3,2021,2021-11-04 10:58:09,0.018,0.719,0.263,1.0
+JBHT,J.B. Hunt,Industrials,Cargo Ground Transportation,Q3,2021,2021-10-15 15:59:08,0.033,0.707,0.26,1.0
+JBL,Jabil,Information Technology,Electronic Manufacturing Services,Q3,2021,2021-06-17 11:53:06,0.02,0.731,0.249,1.0
+JKHY,Jack Henry & Associates,Financials,Transaction & Payment Processing Services,Q3,2021,2021-05-04 14:59:15,0.02,0.766,0.213,1.0
+J,Jacobs Solutions,Industrials,Construction & Engineering,Q3,2021,2021-08-03 15:22:14,0.02,0.704,0.275,1.0
+JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,Q3,2021,2021-10-19 12:41:04,0.03,0.721,0.249,1.0
+JCI,Johnson Controls,Industrials,Building Products,Q3,2021,2021-07-30 12:01:04,0.03,0.718,0.252,1.0
+JPM,JPMorgan Chase,Financials,Diversified Banks,Q3,2021,2021-10-13 12:28:03,0.033,0.752,0.215,1.0
+JNPR,Juniper Networks,Information Technology,Communications Equipment,Q3,2021,2021-10-26 21:16:06,0.035,0.71,0.255,1.0
+K,Kellanova,Consumer Staples,Packaged Foods & Meats,Q3,2021,2021-11-04 16:38:03,0.054,0.691,0.255,1.0
+KDP,Keurig Dr Pepper,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q3,2021,2021-10-28 16:16:03,0.022,0.746,0.231,1.0
+KEY,KeyCorp,Financials,Regional Banks,Q3,2021,2021-10-21 14:48:09,0.025,0.764,0.211,1.0
+KEYS,Keysight,Information Technology,Electronic Equipment & Instruments,Q3,2021,2021-08-18 20:18:05,0.03,0.755,0.216,1.0
+KMB,Kimberly-Clark,Consumer Staples,Household Products,Q3,2021,2021-10-25 13:50:07,0.025,0.734,0.24,1.0
+KIM,Kimco Realty,Real Estate,Retail REITs,Q3,2021,2021-11-05 13:48:05,0.033,0.703,0.264,1.0
+KMI,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,Q3,2021,2021-10-20 20:46:03,0.031,0.737,0.232,1.0
+KLAC,KLA Corporation,Information Technology,Semiconductor Materials & Equipment,Q3,2021,2021-04-30 00:21:04,0.025,0.722,0.252,1.0
+KHC,Kraft Heinz,Consumer Staples,Packaged Foods & Meats,Q3,2021,2021-10-27 12:29:22,0.034,0.69,0.276,1.0
+KR,Kroger,Consumer Staples,Food Retail,Q3,2021,2020-12-03 00:00:00,0.026,0.716,0.259,1.0
+LHX,L3Harris,Industrials,Aerospace & Defense,Q3,2021,2021-10-29 12:39:10,0.041,0.739,0.22,1.0
+LH,LabCorp,Health Care,Health Care Services,Q3,2021,2021-10-28 14:30:18,0.024,0.761,0.215,1.0
+LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,Q3,2021,2021-04-21 18:39:06,0.024,0.727,0.249,1.0
+LW,Lamb Weston,Consumer Staples,Packaged Foods & Meats,Q3,2021,2021-04-07 16:17:07,0.063,0.736,0.201,1.0
+LVS,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,Q3,2021,2021-10-20 22:21:06,0.067,0.693,0.241,1.0
+LDOS,Leidos,Industrials,Diversified Support Services,Q3,2021,2021-11-02 12:48:02,0.031,0.743,0.226,1.0
+LEN,Lennar,Consumer Discretionary,Homebuilding,Q3,2021,2021-09-21 15:49:15,0.05,0.749,0.202,1.0
+LIN,Linde plc,Materials,Industrial Gases,Q3,2021,2021-10-28 13:56:02,0.018,0.739,0.243,1.0
+LYV,Live Nation Entertainment,Communication Services,Movies & Entertainment,Q3,2021,2021-11-04 20:04:03,0.027,0.779,0.195,0.9999
+LKQ,LKQ Corporation,Consumer Discretionary,Distributors,Q3,2021,2021-10-28 12:56:08,0.032,0.731,0.237,1.0
+LMT,Lockheed Martin,Industrials,Aerospace & Defense,Q3,2021,2021-10-26 15:35:06,0.028,0.764,0.207,1.0
+L,Loews Corporation,Financials,Multi-line Insurance,Q3,2021,2021-11-01 12:19:03,0.057,0.719,0.225,0.9999
+LOW,Lowe's,Consumer Discretionary,Home Improvement Retail,Q3,2021,2020-11-18 00:00:00,0.035,0.736,0.229,1.0
+LULU,Lululemon Athletica,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q3,2021,2021-12-09 00:00:00,0.026,0.745,0.229,1.0
+LYB,LyondellBasell,Materials,Specialty Chemicals,Q3,2021,2021-10-29 15:36:02,0.046,0.712,0.242,1.0
+MTB,M&T Bank,Financials,Regional Banks,Q3,2021,2021-10-20 15:34:07,0.038,0.771,0.191,1.0
+MRO,Marathon Oil,Energy,Oil & Gas Exploration & Production,Q3,2021,2021-11-04 12:02:13,0.035,0.74,0.225,1.0
+MPC,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing,Q3,2021,2021-11-02 15:57:11,0.026,0.764,0.21,1.0
+MKTX,MarketAxess,Financials,Financial Exchanges & Data,Q3,2021,2021-10-20 13:09:06,0.031,0.737,0.231,1.0
+MAR,Marriott International,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q3,2021,2021-11-03 13:15:05,0.031,0.738,0.231,1.0
+MMC,Marsh McLennan,Financials,Insurance Brokers,Q3,2021,2021-10-21 12:58:08,0.041,0.706,0.253,1.0
+MLM,Martin Marietta Materials,Materials,Construction Materials,Q3,2021,2021-11-02 15:01:03,0.018,0.756,0.226,1.0
+MAS,Masco,Industrials,Building Products,Q3,2021,2021-10-27 12:56:15,0.027,0.713,0.26,1.0
+MA,Mastercard,Financials,Transaction & Payment Processing Services,Q3,2021,2021-10-28 13:24:04,0.014,0.74,0.246,1.0
+MTCH,Match Group,Communication Services,Interactive Media & Services,Q3,2021,2021-11-03 12:50:13,0.022,0.731,0.247,1.0
+MKC,McCormick & Company,Consumer Staples,Packaged Foods & Meats,Q3,2021,2021-09-30 12:23:06,0.033,0.735,0.232,1.0
+MCD,McDonald's,Consumer Discretionary,Restaurants,Q3,2021,2021-10-27 13:08:09,0.024,0.74,0.236,1.0
+MCK,McKesson Corporation,Health Care,Health Care Distributors,Q3,2021,2021-02-02 13:48:03,0.024,0.749,0.227,1.0
+MDT,Medtronic,Health Care,Health Care Equipment,Q3,2021,2021-02-23 11:22:04,0.025,0.752,0.224,1.0
+MRK,Merck & Co.,Health Care,Pharmaceuticals,Q3,2021,2021-10-28 11:57:27,0.06,0.686,0.254,1.0
+META,Meta Platforms,Communication Services,Interactive Media & Services,Q3,2021,2021-10-25 21:08:06,0.024,0.748,0.228,1.0
+MET,MetLife,Financials,Life & Health Insurance,Q3,2021,2021-11-04 14:24:12,0.033,0.741,0.226,1.0
+MTD,Mettler Toledo,Health Care,Life Sciences Tools & Services,Q3,2021,2021-11-04 21:59:10,0.023,0.69,0.287,1.0
+MGM,MGM Resorts,Consumer Discretionary,Casinos & Gaming,Q3,2021,2021-11-03 21:41:04,0.02,0.744,0.236,1.0
+MCHP,Microchip Technology,Information Technology,Semiconductors,Q3,2021,2021-02-04 23:53:09,0.043,0.758,0.199,1.0
+MU,Micron Technology,Information Technology,Semiconductors,Q3,2021,2021-06-30 20:14:04,0.037,0.727,0.236,1.0
+MSFT,Microsoft,Information Technology,Systems Software,Q3,2021,2021-04-27 23:42:07,0.025,0.731,0.245,1.0
+MAA,Mid-America Apartment Communities,Real Estate,Multi-Family Residential REITs,Q3,2021,2021-10-28 16:12:09,0.044,0.745,0.211,1.0
+MRNA,Moderna,Health Care,Biotechnology,Q3,2021,2021-11-05 11:35:33,0.047,0.795,0.159,1.0
+MHK,Mohawk Industries,Consumer Discretionary,Home Furnishings,Q3,2021,2021-10-29 15:55:28,0.055,0.747,0.199,1.0
+MOH,Molina Healthcare,Health Care,Managed Health Care,Q3,2021,2021-10-28 14:19:10,0.028,0.76,0.211,1.0
+TAP,Molson Coors Beverage Company,Consumer Staples,Brewers,Q3,2021,2021-10-28 17:20:02,0.026,0.738,0.235,1.0
+MDLZ,Mondelez International,Consumer Staples,Packaged Foods & Meats,Q3,2021,2021-11-02 21:47:06,0.036,0.722,0.242,1.0
+MPWR,Monolithic Power Systems,Information Technology,Semiconductors,Q3,2021,2021-10-28 22:30:09,0.035,0.733,0.231,1.0
+MNST,Monster Beverage,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q3,2021,2021-11-04 22:42:07,0.04,0.735,0.226,1.0
+MCO,Moody's Corporation,Financials,Financial Exchanges & Data,Q3,2021,2021-10-28 19:42:12,0.05,0.748,0.202,1.0
+MS,Morgan Stanley,Financials,Investment Banking & Brokerage,Q3,2021,2021-10-14 11:43:04,0.022,0.736,0.243,1.0
+MOS,Mosaic Company (The),Materials,Fertilizers & Agricultural Chemicals,Q3,2021,2021-11-02 14:25:08,0.046,0.752,0.202,1.0
+MSI,Motorola Solutions,Information Technology,Communications Equipment,Q3,2021,2021-11-04 23:40:04,0.022,0.745,0.233,1.0
+MSCI,MSCI,Financials,Financial Exchanges & Data,Q3,2021,2021-10-26 17:23:08,0.028,0.707,0.265,1.0
+NDAQ,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,Q3,2021,2021-10-20 14:02:12,0.019,0.702,0.279,1.0
+NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals",Q3,2021,2021-02-25 00:15:07,0.023,0.725,0.252,1.0
+NFLX,Netflix,Communication Services,Movies & Entertainment,Q3,2021,2021-10-19 22:54:04,0.015,0.698,0.287,1.0
+NEM,Newmont,Materials,Gold,Q3,2021,2021-10-28 17:27:14,0.047,0.746,0.207,1.0
+NWSA,News Corp (Class A),Communication Services,Publishing,Q3,2021,2021-05-09 04:49:55,0.024,0.733,0.243,1.0
+NWS,News Corp (Class B),Communication Services,Publishing,Q3,2021,2021-05-09 04:49:55,0.024,0.733,0.243,1.0
+NEE,NextEra Energy,Utilities,Multi-Utilities,Q3,2021,2021-10-20 14:00:56,0.019,0.714,0.267,1.0
+NKE,"Nike, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q3,2021,2021-03-18 23:07:03,0.034,0.704,0.262,1.0
+NI,NiSource,Utilities,Multi-Utilities,Q3,2021,2021-11-03 14:28:14,0.017,0.755,0.228,1.0
+NDSN,Nordson Corporation,Industrials,Industrial Machinery & Supplies & Components,Q3,2021,2021-08-31 12:30:10,0.034,0.682,0.284,1.0
+NSC,Norfolk Southern Railway,Industrials,Rail Transportation,Q3,2021,2021-10-27 14:12:10,0.038,0.714,0.248,1.0
+NTRS,Northern Trust,Financials,Asset Management & Custody Banks,Q3,2021,2021-10-20 13:23:05,0.02,0.713,0.267,1.0
+NOC,Northrop Grumman,Industrials,Aerospace & Defense,Q3,2021,2021-10-28 13:23:11,0.037,0.734,0.229,1.0
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q3,2021,2021-11-03 13:23:23,0.029,0.754,0.217,1.0
+NRG,NRG Energy,Utilities,Independent Power Producers & Energy Traders,Q3,2021,2021-11-04 13:50:02,0.031,0.744,0.225,1.0
+NUE,Nucor,Materials,Steel,Q3,2021,2021-10-21 20:49:10,0.025,0.765,0.209,1.0
+NVDA,Nvidia,Information Technology,Semiconductors,Q3,2021,2020-11-18 21:53:10,0.023,0.778,0.199,1.0
+NXPI,NXP Semiconductors,Information Technology,Semiconductors,Q3,2021,2021-11-02 14:02:11,0.037,0.744,0.219,1.0
+ORLY,O'Reilly Auto Parts,Consumer Discretionary,Automotive Retail,Q3,2021,2021-10-28 16:57:02,0.051,0.701,0.248,1.0
+OXY,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,Q3,2021,2021-11-05 00:00:00,0.042,0.731,0.227,1.0
+ODFL,Old Dominion,Industrials,Cargo Ground Transportation,Q3,2021,2021-10-28 01:17:08,0.022,0.695,0.282,1.0
+OMC,Omnicom Group,Communication Services,Advertising,Q3,2021,2021-10-19 23:02:03,0.022,0.711,0.267,1.0
+ON,ON Semiconductor,Information Technology,Semiconductors,Q3,2021,2021-11-01 14:29:02,0.029,0.75,0.221,1.0
+OKE,ONEOK,Energy,Oil & Gas Storage & Transportation,Q3,2021,2021-11-03 14:15:02,0.03,0.749,0.221,1.0
+ORCL,Oracle Corporation,Information Technology,Application Software,Q3,2021,2021-03-10 23:38:05,0.018,0.821,0.161,0.9999
+OTIS,Otis Worldwide,Industrials,Industrial Machinery & Supplies & Components,Q3,2021,2021-10-25 13:04:07,0.026,0.738,0.236,1.0
+PCAR,Paccar,Industrials,Construction Machinery & Heavy Transportation Equipment,Q3,2021,2021-10-26 15:44:06,0.025,0.742,0.233,1.0
+PKG,Packaging Corporation of America,Materials,Paper & Plastic Packaging Products & Materials,Q3,2021,2021-10-26 13:16:14,0.041,0.776,0.183,1.0
+PANW,Palo Alto Networks,Information Technology,Systems Software,Q3,2021,2021-05-20 22:24:07,0.027,0.734,0.239,1.0
+PARA,Paramount Global,Communication Services,Movies & Entertainment,Q3,2021,2021-11-04 15:13:12,0.014,0.719,0.266,1.0
+PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components,Q3,2021,2021-04-29 17:25:07,0.027,0.735,0.238,1.0
+PAYX,Paychex,Industrials,Human Resource & Employment Services,Q3,2021,2021-04-06 23:44:08,0.025,0.738,0.237,1.0
+PAYC,Paycom,Industrials,Human Resource & Employment Services,Q3,2021,2021-11-02 19:58:04,0.031,0.725,0.244,1.0
+PYPL,PayPal,Financials,Transaction & Payment Processing Services,Q3,2021,2021-11-09 00:42:06,0.033,0.726,0.241,1.0
+PNR,Pentair,Industrials,Industrial Machinery & Supplies & Components,Q3,2021,2021-10-26 14:54:05,0.035,0.692,0.273,1.0
+PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q3,2021,2021-10-05 12:40:05,0.019,0.703,0.279,1.0
+PFE,Pfizer,Health Care,Pharmaceuticals,Q3,2021,2021-11-03 01:25:15,0.047,0.761,0.192,1.0
+PCG,PG&E Corporation,Utilities,Multi-Utilities,Q3,2021,2021-11-01 16:20:27,0.044,0.731,0.225,1.0
+PM,Philip Morris International,Consumer Staples,Tobacco,Q3,2021,2021-10-19 13:22:04,0.039,0.705,0.256,1.0
+PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,Q3,2021,2021-10-29 15:13:03,0.039,0.775,0.187,1.0
+PNW,Pinnacle West,Utilities,Multi-Utilities,Q3,2021,2021-11-05 16:15:10,0.033,0.711,0.256,1.0
+PNC,PNC Financial Services,Financials,Regional Banks,Q3,2021,2021-10-15 12:37:03,0.064,0.727,0.209,1.0
+POOL,Pool Corporation,Consumer Discretionary,Distributors,Q3,2021,2021-10-21 17:36:04,0.035,0.696,0.269,1.0
+PPG,PPG Industries,Materials,Specialty Chemicals,Q3,2021,2021-10-21 11:30:09,0.041,0.758,0.201,1.0
+PPL,PPL Corporation,Utilities,Electric Utilities,Q3,2021,2021-11-04 14:32:06,0.021,0.754,0.225,1.0
+PFG,Principal Financial Group,Financials,Life & Health Insurance,Q3,2021,2021-10-27 16:09:07,0.036,0.721,0.243,1.0
+PG,Procter & Gamble,Consumer Staples,Personal Care Products,Q3,2021,2021-04-20 14:24:05,0.045,0.672,0.283,1.0
+PGR,Progressive Corporation,Financials,Property & Casualty Insurance,Q3,2021,2021-11-03 14:00:39,0.032,0.778,0.189,1.0
+PLD,Prologis,Real Estate,Industrial REITs,Q3,2021,2021-10-15 16:24:07,0.039,0.728,0.233,1.0
+PRU,Prudential Financial,Financials,Life & Health Insurance,Q3,2021,2021-11-03 14:06:14,0.034,0.732,0.234,1.0
+PEG,Public Service Enterprise Group,Utilities,Electric Utilities,Q3,2021,2021-11-02 17:32:06,0.031,0.769,0.2,1.0
+PTC,PTC,Information Technology,Application Software,Q3,2021,2021-07-28 23:30:06,0.017,0.731,0.252,1.0
+PSA,Public Storage,Real Estate,Self-Storage REITs,Q3,2021,2021-11-02 15:51:05,0.028,0.716,0.256,1.0
+PHM,PulteGroup,Consumer Discretionary,Homebuilding,Q3,2021,2021-10-26 14:24:03,0.051,0.742,0.207,1.0
+QRVO,Qorvo,Information Technology,Semiconductors,Q3,2021,2021-02-03 20:42:07,0.032,0.737,0.231,1.0
+PWR,Quanta Services,Industrials,Construction & Engineering,Q3,2021,2021-11-04 15:02:05,0.024,0.754,0.222,1.0
+QCOM,Qualcomm,Information Technology,Semiconductors,Q3,2021,2021-07-28 21:31:05,0.023,0.726,0.251,1.0
+DGX,Quest Diagnostics,Health Care,Health Care Services,Q3,2021,2021-10-21 11:17:07,0.031,0.755,0.215,1.0
+RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q3,2021,2021-02-04 15:10:25,0.027,0.755,0.218,1.0
+RJF,Raymond James,Financials,Investment Banking & Brokerage,Q3,2021,2021-10-21 14:17:12,0.019,0.746,0.234,1.0
+RTX,RTX Corporation,Industrials,Aerospace & Defense,Q3,2021,2021-10-26 12:31:06,0.032,0.774,0.194,1.0
+O,Realty Income,Real Estate,Retail REITs,Q3,2021,2021-11-02 19:11:08,0.025,0.756,0.219,1.0
+REG,Regency Centers,Real Estate,Retail REITs,Q3,2021,2021-11-05 15:55:13,0.03,0.739,0.232,1.0
+REGN,Regeneron,Health Care,Biotechnology,Q3,2021,2021-11-04 13:49:06,0.043,0.759,0.198,1.0
+RF,Regions Financial Corporation,Financials,Regional Banks,Q3,2021,2021-10-22 13:43:07,0.022,0.718,0.26,1.0
+RSG,Republic Services,Industrials,Environmental & Facilities Services,Q3,2021,2021-10-28 22:39:06,0.029,0.712,0.26,1.0
+RMD,ResMed,Health Care,Health Care Equipment,Q3,2021,2021-04-29 23:45:41,0.032,0.711,0.257,1.0
+RHI,Robert Half,Industrials,Human Resource & Employment Services,Q3,2021,2021-10-21 19:45:08,0.04,0.792,0.167,0.9999
+ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,Q3,2021,2021-07-27 13:08:09,0.013,0.755,0.232,1.0
+ROL,"Rollins, Inc.",Industrials,Environmental & Facilities Services,Q3,2021,2021-10-27 13:26:09,0.032,0.728,0.24,1.0
+ROP,Roper Technologies,Information Technology,Electronic Equipment & Instruments,Q3,2021,2021-10-22 14:55:13,0.033,0.736,0.231,1.0
+ROST,Ross Stores,Consumer Discretionary,Apparel Retail,Q3,2021,2020-11-19 00:00:00,0.039,0.759,0.202,1.0
+RCL,Royal Caribbean Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q3,2021,2021-10-29 14:12:05,0.025,0.748,0.227,1.0
+SPGI,S&P Global,Financials,Financial Exchanges & Data,Q3,2021,2021-10-26 13:14:06,0.017,0.742,0.241,1.0
+CRM,Salesforce,Information Technology,Application Software,Q3,2021,2020-12-01 23:22:04,0.017,0.713,0.27,1.0
+SBAC,SBA Communications,Real Estate,Telecom Tower REITs,Q3,2021,2021-11-01 20:45:02,0.02,0.803,0.177,1.0
+SLB,Schlumberger,Energy,Oil & Gas Equipment & Services,Q3,2021,2021-10-22 17:19:06,0.018,0.716,0.266,1.0
+STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals",Q3,2021,2021-04-22 22:23:04,0.039,0.72,0.241,1.0
+SRE,Sempra Energy,Utilities,Multi-Utilities,Q3,2021,2021-11-05 15:34:02,0.017,0.744,0.239,1.0
+NOW,ServiceNow,Information Technology,Systems Software,Q3,2021,2021-10-27 22:20:13,0.024,0.718,0.258,1.0
+SHW,Sherwin-Williams,Materials,Specialty Chemicals,Q3,2021,2021-10-26 17:11:10,0.045,0.73,0.225,1.0
+SPG,Simon Property Group,Real Estate,Retail REITs,Q3,2021,2021-11-01 20:46:04,0.035,0.722,0.242,1.0
+SWKS,Skyworks Solutions,Information Technology,Semiconductors,Q3,2021,2021-07-29 22:21:06,0.028,0.694,0.278,1.0
+SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,Q3,2021,2021-02-25 14:21:12,0.029,0.705,0.266,1.0
+SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,Q3,2021,2021-10-21 17:25:06,0.033,0.702,0.265,1.0
+SO,Southern Company,Utilities,Electric Utilities,Q3,2021,2021-11-04 17:35:02,0.019,0.761,0.22,1.0
+LUV,Southwest Airlines,Industrials,Passenger Airlines,Q3,2021,2021-10-21 19:56:05,0.039,0.75,0.211,1.0
+SWK,Stanley Black & Decker,Industrials,Industrial Machinery & Supplies & Components,Q3,2021,2021-10-28 11:58:08,0.022,0.696,0.282,1.0
+SBUX,Starbucks,Consumer Discretionary,Restaurants,Q3,2021,2021-07-27 23:30:07,0.021,0.728,0.251,1.0
+STT,State Street Corporation,Financials,Asset Management & Custody Banks,Q3,2021,2021-10-18 19:04:05,0.018,0.728,0.254,1.0
+STLD,Steel Dynamics,Materials,Steel,Q3,2021,2021-10-19 15:13:07,0.03,0.758,0.212,1.0
+STE,Steris,Health Care,Health Care Equipment,Q3,2021,2021-02-03 16:45:47,0.029,0.733,0.238,1.0
+SYK,Stryker Corporation,Health Care,Health Care Equipment,Q3,2021,2021-10-28 22:22:04,0.043,0.729,0.228,1.0
+SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",Q3,2021,2021-05-05 06:22:05,0.039,0.716,0.245,1.0
+SYF,Synchrony Financial,Financials,Consumer Finance,Q3,2021,2021-10-19 11:43:03,0.027,0.735,0.238,1.0
+SNPS,Synopsys,Information Technology,Application Software,Q3,2021,2021-08-18 00:00:00,0.019,0.724,0.257,1.0
+SYY,Sysco,Consumer Staples,Food Distributors,Q3,2021,2021-05-04 14:29:04,0.039,0.72,0.242,1.0
+TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services,Q3,2021,2021-11-02 20:55:05,0.021,0.734,0.245,1.0
+TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q3,2021,2021-05-06 12:19:07,0.032,0.692,0.276,1.0
+TRGP,Targa Resources,Energy,Oil & Gas Storage & Transportation,Q3,2021,2021-11-04 16:57:05,0.018,0.702,0.28,1.0
+TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,Q3,2021,2020-11-18 00:00:00,0.026,0.722,0.253,1.0
+TEL,TE Connectivity,Information Technology,Electronic Manufacturing Services,Q3,2021,2021-07-28 15:57:08,0.02,0.752,0.228,1.0
+TDY,Teledyne Technologies,Information Technology,Electronic Equipment & Instruments,Q3,2021,2021-10-27 14:45:52,0.023,0.745,0.232,1.0
+TFX,Teleflex,Health Care,Health Care Equipment,Q3,2021,2021-10-28 12:06:22,0.043,0.746,0.211,1.0
+TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,Q3,2021,2021-10-27 12:41:01,0.034,0.784,0.182,1.0
+TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,Q3,2021,2021-10-20 21:58:06,0.037,0.762,0.201,1.0
+TXN,Texas Instruments,Information Technology,Semiconductors,Q3,2021,2021-10-26 19:22:05,0.025,0.765,0.211,1.0
+TXT,Textron,Industrials,Aerospace & Defense,Q3,2021,2021-10-28 11:08:23,0.032,0.746,0.222,1.0
+TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,Q3,2021,2021-10-27 13:11:07,0.021,0.726,0.253,1.0
+TJX,TJX Companies,Consumer Discretionary,Apparel Retail,Q3,2021,2020-11-18 16:51:19,0.027,0.709,0.265,1.0
+TSCO,Tractor Supply,Consumer Discretionary,Other Specialty Retail,Q3,2021,2021-10-21 14:11:08,0.03,0.73,0.24,1.0
+TT,Trane Technologies,Industrials,Building Products,Q3,2021,2021-11-03 16:46:13,0.017,0.733,0.25,1.0
+TDG,TransDigm Group,Industrials,Aerospace & Defense,Q3,2021,2021-08-10 14:54:17,0.035,0.764,0.201,1.0
+TRV,Travelers Companies (The),Financials,Property & Casualty Insurance,Q3,2021,2021-10-19 13:33:07,0.061,0.729,0.211,1.0
+TRMB,Trimble Inc.,Information Technology,Electronic Equipment & Instruments,Q3,2021,2021-11-04 03:00:04,0.054,0.727,0.219,1.0
+TFC,Truist,Financials,Regional Banks,Q3,2021,2021-10-15 12:39:07,0.026,0.722,0.253,1.0
+TYL,Tyler Technologies,Information Technology,Application Software,Q3,2021,2021-10-28 16:36:08,0.023,0.731,0.245,1.0
+TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,Q3,2021,2021-08-09 13:28:17,0.033,0.717,0.25,1.0
+USB,U.S. Bank,Financials,Diversified Banks,Q3,2021,2021-10-14 13:51:04,0.022,0.719,0.26,1.0
+UBER,Uber,Industrials,Passenger Ground Transportation,Q3,2021,2021-11-04 23:00:28,0.036,0.733,0.232,1.0
+UDR,"UDR, Inc.",Real Estate,Multi-Family Residential REITs,Q3,2021,2021-10-27 20:14:11,0.033,0.736,0.232,1.0
+ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,Q3,2021,2020-12-03 00:00:00,0.031,0.643,0.326,1.0
+UNP,Union Pacific Corporation,Industrials,Rail Transportation,Q3,2021,2021-10-21 13:39:05,0.03,0.714,0.256,1.0
+UAL,United Airlines Holdings,Industrials,Passenger Airlines,Q3,2021,2021-10-20 16:33:10,0.037,0.731,0.232,1.0
+UPS,United Parcel Service,Industrials,Air Freight & Logistics,Q3,2021,2021-10-26 12:19:04,0.021,0.725,0.253,1.0
+URI,United Rentals,Industrials,Trading Companies & Distributors,Q3,2021,2021-10-28 16:14:05,0.026,0.719,0.255,1.0
+UNH,UnitedHealth Group,Health Care,Managed Health Care,Q3,2021,2021-10-14 13:21:06,0.019,0.692,0.289,1.0
+UHS,Universal Health Services,Health Care,Health Care Facilities,Q3,2021,2021-10-26 15:35:17,0.05,0.718,0.233,1.0
+VLO,Valero Energy,Energy,Oil & Gas Refining & Marketing,Q3,2021,2021-10-21 15:59:06,0.053,0.738,0.21,1.0
+VTR,Ventas,Real Estate,Health Care REITs,Q3,2021,2021-11-05 13:03:02,0.021,0.74,0.24,1.0
+VRSN,Verisign,Information Technology,Internet Services & Infrastructure,Q3,2021,2021-10-28 22:27:05,0.029,0.777,0.194,0.9998
+VRSK,Verisk,Industrials,Research & Consulting Services,Q3,2021,2021-11-03 12:34:11,0.029,0.731,0.24,1.0
+VZ,Verizon,Communication Services,Integrated Telecommunication Services,Q3,2021,2021-10-20 14:07:07,0.018,0.74,0.242,1.0
+VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,Q3,2021,2021-11-02 23:14:09,0.028,0.751,0.221,1.0
+VTRS,Viatris,Health Care,Pharmaceuticals,Q3,2021,2021-11-07 01:05:24,0.021,0.78,0.199,1.0
+VICI,Vici Properties,Real Estate,Hotel & Resort REITs,Q3,2021,2021-10-28 14:37:09,0.022,0.75,0.228,1.0
+V,Visa Inc.,Financials,Transaction & Payment Processing Services,Q3,2021,2021-07-27 21:32:11,0.021,0.76,0.219,1.0
+VST,Vistra,Utilities,Electric Utilities,Q3,2021,2021-11-05 12:07:03,0.032,0.741,0.227,1.0
+VMC,Vulcan Materials Company,Materials,Construction Materials,Q3,2021,2021-11-04 13:30:06,0.024,0.698,0.277,1.0
+WRB,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,Q3,2021,2021-10-21 23:24:10,0.096,0.668,0.235,0.9999
+GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,Q3,2021,2021-10-29 18:13:03,0.031,0.714,0.255,1.0
+WAB,Wabtec,Industrials,Construction Machinery & Heavy Transportation Equipment,Q3,2021,2021-10-27 15:33:08,0.039,0.702,0.259,1.0
+WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,Q3,2021,2021-07-01 15:01:09,0.026,0.757,0.217,1.0
+WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,Q3,2021,2020-11-17 14:03:04,0.027,0.699,0.274,1.0
+DIS,Walt Disney Company (The),Communication Services,Movies & Entertainment,Q3,2021,2021-08-12 20:52:07,0.023,0.739,0.238,1.0
+WBD,Warner Bros. Discovery,Communication Services,Broadcasting,Q3,2021,2021-11-03 11:37:06,0.02,0.727,0.253,1.0
+WM,Waste Management,Industrials,Environmental & Facilities Services,Q3,2021,2021-10-26 15:10:03,0.031,0.763,0.205,1.0
+WAT,Waters Corporation,Health Care,Life Sciences Tools & Services,Q3,2021,2021-11-02 13:02:13,0.033,0.744,0.223,1.0
+WEC,WEC Energy Group,Utilities,Electric Utilities,Q3,2021,2021-11-02 17:36:09,0.014,0.758,0.228,1.0
+WFC,Wells Fargo,Financials,Diversified Banks,Q3,2021,2021-10-14 16:11:05,0.036,0.738,0.226,1.0
+WELL,Welltower,Real Estate,Health Care REITs,Q3,2021,2021-11-05 11:38:08,0.039,0.767,0.195,1.0
+WST,West Pharmaceutical Services,Health Care,Health Care Supplies,Q3,2021,2021-10-28 13:43:02,0.024,0.726,0.249,1.0
+WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals",Q3,2021,2021-04-29 23:08:08,0.045,0.714,0.241,1.0
+WRK,WestRock,Materials,Paper & Plastic Packaging Products & Materials,Q3,2021,2021-08-05 15:16:09,0.021,0.696,0.283,1.0
+WY,Weyerhaeuser,Real Estate,Timber REITs,Q3,2021,2021-10-29 15:04:06,0.046,0.765,0.189,1.0
+WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,Q3,2021,2021-11-02 14:32:15,0.024,0.74,0.236,1.0
+WTW,Willis Towers Watson,Financials,Insurance Brokers,Q3,2021,2021-10-28 00:00:00,0.024,0.727,0.249,1.0
+WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,Q3,2021,2021-11-09 20:22:03,0.018,0.717,0.265,1.0
+XEL,Xcel Energy,Utilities,Multi-Utilities,Q3,2021,2021-10-28 15:42:04,0.02,0.742,0.238,1.0
+XYL,Xylem Inc.,Industrials,Industrial Machinery & Supplies & Components,Q3,2021,2021-11-02 17:26:04,0.034,0.774,0.191,1.0
+YUM,Yum! Brands,Consumer Discretionary,Restaurants,Q3,2021,2021-10-28 11:46:01,0.028,0.724,0.248,1.0
+ZBRA,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,Q3,2021,2021-11-02 13:22:10,0.027,0.698,0.275,1.0
+ZBH,Zimmer Biomet,Health Care,Health Care Equipment,Q3,2021,2021-11-04 13:55:03,0.05,0.732,0.218,1.0
+ZTS,Zoetis,Health Care,Pharmaceuticals,Q3,2021,2021-11-04 14:01:13,0.029,0.725,0.246,1.0
