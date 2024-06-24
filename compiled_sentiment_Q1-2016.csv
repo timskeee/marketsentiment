@@ -1,0 +1,465 @@
+ticker,company,sector,sub-sector,quarter,year,date,score-neg,score-neu,score-pos,score-compound
+MMM,3M,Industrials,Industrial Conglomerates,Q1,2016,2016-04-26 14:05:10,0.021,0.705,0.274,1.0
+AOS,A. O. Smith,Industrials,Building Products,Q1,2016,2016-04-27 16:03:20,0.019,0.796,0.185,1.0
+ABT,Abbott,Health Care,Health Care Equipment,Q1,2016,2016-04-20 17:00:00,0.025,0.709,0.267,1.0
+ABBV,AbbVie,Health Care,Biotechnology,Q1,2016,2016-04-29 01:35:18,0.054,0.719,0.227,1.0
+ACN,Accenture,Information Technology,IT Consulting & Other Services,Q1,2016,2015-12-17 13:04:23,0.019,0.741,0.24,1.0
+ADBE,Adobe Inc.,Information Technology,Application Software,Q1,2016,2016-03-17 20:02:10,0.012,0.728,0.26,1.0
+AMD,Advanced Micro Devices,Information Technology,Semiconductors,Q1,2016,2015-07-22 20:14:09,0.031,0.729,0.24,1.0
+AES,AES Corporation,Utilities,Independent Power Producers & Energy Traders,Q1,2016,2016-05-09 14:08:21,0.041,0.769,0.19,1.0
+AFL,Aflac,Financials,Life & Health Insurance,Q1,2016,2016-04-27 23:26:14,0.04,0.751,0.209,1.0
+A,Agilent Technologies,Health Care,Life Sciences Tools & Services,Q1,2016,2016-02-16 22:43:09,0.03,0.745,0.225,1.0
+APD,Air Products and Chemicals,Materials,Industrial Gases,Q1,2016,2016-01-29 16:59:04,0.051,0.702,0.248,1.0
+AKAM,Akamai,Information Technology,Internet Services & Infrastructure,Q1,2016,2016-04-26 21:45:13,0.026,0.739,0.235,1.0
+ALB,Albemarle Corporation,Materials,Specialty Chemicals,Q1,2016,2016-05-11 13:43:34,0.029,0.764,0.207,1.0
+ARE,Alexandria Real Estate Equities,Real Estate,Office REITs,Q1,2016,2016-05-04 17:00:00,0.027,0.759,0.215,1.0
+ALGN,Align Technology,Health Care,Health Care Supplies,Q1,2016,2016-04-28 23:33:48,0.028,0.79,0.182,1.0
+ALLE,Allegion,Industrials,Building Products,Q1,2016,2016-04-28 16:39:21,0.02,0.738,0.243,1.0
+LNT,Alliant Energy,Utilities,Electric Utilities,Q1,2016,2016-05-05 15:29:35,0.023,0.782,0.195,0.9999
+ALL,Allstate,Financials,Property & Casualty Insurance,Q1,2016,2016-05-05 17:43:24,0.054,0.742,0.204,1.0
+GOOG,Alphabet Inc. (Class C),Communication Services,Interactive Media & Services,Q1,2016,2016-04-22 17:00:00,0.018,0.72,0.263,1.0
+MO,Altria,Consumer Staples,Tobacco,Q1,2016,2016-04-29 01:35:21,0.014,0.755,0.231,1.0
+AMZN,Amazon,Consumer Discretionary,Broadline Retail,Q1,2016,2016-04-29 01:11:15,0.018,0.766,0.216,1.0
+AMCR,Amcor,Materials,Paper & Plastic Packaging Products & Materials,Q1,2016,2016-04-29 02:42:21,0.033,0.755,0.212,1.0
+AEE,Ameren,Utilities,Multi-Utilities,Q1,2016,2016-05-11 16:27:18,0.022,0.788,0.19,1.0
+AAL,American Airlines Group,Industrials,Passenger Airlines,Q1,2016,2016-04-22 17:00:00,0.047,0.742,0.212,1.0
+AEP,American Electric Power,Utilities,Electric Utilities,Q1,2016,2016-04-29 01:35:22,0.025,0.766,0.208,1.0
+AXP,American Express,Financials,Consumer Finance,Q1,2016,2016-04-21 00:07:19,0.018,0.749,0.233,1.0
+AIG,American International Group,Financials,Multi-line Insurance,Q1,2016,2016-05-03 13:17:23,0.069,0.729,0.202,1.0
+AMT,American Tower,Real Estate,Telecom Tower REITs,Q1,2016,2016-04-29 15:32:19,0.018,0.767,0.215,1.0
+AWK,American Water Works,Utilities,Water Utilities,Q1,2016,2016-05-05 17:00:00,0.017,0.76,0.223,1.0
+AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks,Q1,2016,2016-04-28 16:09:39,0.024,0.758,0.218,1.0
+AME,Ametek,Industrials,Electrical Components & Equipment,Q1,2016,2016-04-30 02:12:14,0.038,0.734,0.228,1.0
+AMGN,Amgen,Health Care,Biotechnology,Q1,2016,2016-04-29 01:32:49,0.029,0.774,0.197,1.0
+APH,Amphenol,Information Technology,Electronic Components,Q1,2016,2016-04-20 18:46:05,0.026,0.725,0.25,1.0
+ADI,Analog Devices,Information Technology,Semiconductors,Q1,2016,2016-02-17 00:00:00,0.035,0.765,0.2,1.0
+ANSS,Ansys,Information Technology,Application Software,Q1,2016,2016-05-05 15:02:35,0.028,0.774,0.197,1.0
+AON,Aon,Financials,Insurance Brokers,Q1,2016,2016-04-29 14:55:17,0.036,0.719,0.245,1.0
+APA,APA Corporation,Energy,Oil & Gas Exploration & Production,Q1,2016,2016-05-05 21:19:25,0.031,0.753,0.215,1.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2016,2016-01-26 23:13:06,0.03,0.754,0.216,1.0
+AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,Q1,2016,2016-02-19 00:09:08,0.022,0.744,0.234,1.0
+ACGL,Arch Capital Group,Financials,Property & Casualty Insurance,Q1,2016,2016-04-28 20:43:35,0.055,0.769,0.177,1.0
+ADM,Archer-Daniels-Midland,Consumer Staples,Agricultural Products & Services,Q1,2016,2016-05-03 14:41:08,0.043,0.766,0.191,1.0
+ANET,Arista Networks,Information Technology,Communications Equipment,Q1,2016,2016-05-06 00:07:29,0.029,0.757,0.214,1.0
+AJG,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,Q1,2016,2016-04-29 15:25:38,0.033,0.743,0.224,1.0
+AIZ,Assurant,Financials,Multi-line Insurance,Q1,2016,2016-04-27 13:29:19,0.033,0.756,0.211,1.0
+T,AT&T,Communication Services,Integrated Telecommunication Services,Q1,2016,2016-04-26 21:11:44,0.018,0.727,0.255,1.0
+ATO,Atmos Energy,Utilities,Gas Utilities,Q1,2016,2016-02-03 11:58:07,0.023,0.731,0.246,0.9999
+ADSK,Autodesk,Information Technology,Application Software,Q1,2016,2015-05-20 00:39:03,0.021,0.784,0.195,1.0
+ADP,Automatic Data Processing,Industrials,Human Resource & Employment Services,Q1,2016,2015-10-28 17:00:00,0.037,0.694,0.269,1.0
+AZO,AutoZone,Consumer Discretionary,Automotive Retail,Q1,2016,2015-12-08 15:43:05,0.03,0.741,0.229,1.0
+AVB,AvalonBay Communities,Real Estate,Multi-Family Residential REITs,Q1,2016,2016-04-29 01:11:19,0.028,0.78,0.192,1.0
+AVY,Avery Dennison,Materials,Paper & Plastic Packaging Products & Materials,Q1,2016,2016-04-27 15:21:13,0.02,0.717,0.263,1.0
+AXON,Axon Enterprise,Industrials,Aerospace & Defense,Q1,2016,2016-05-04 21:11:17,0.031,0.729,0.24,1.0
+BALL,Ball Corporation,Materials,"Metal, Glass & Plastic Containers",Q1,2016,2016-04-28 16:17:25,0.029,0.78,0.191,1.0
+BAC,Bank of America,Financials,Diversified Banks,Q1,2016,2016-04-14 17:55:21,0.04,0.754,0.206,1.0
+BK,Bank of New York Mellon,Financials,Asset Management & Custody Banks,Q1,2016,2016-04-21 14:13:27,0.023,0.718,0.259,1.0
+BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,Other Specialty Retail,Q1,2016,2015-05-21 00:00:00,0.02,0.729,0.251,1.0
+BAX,Baxter International,Health Care,Health Care Equipment,Q1,2016,2016-04-26 17:00:00,0.018,0.707,0.274,1.0
+BDX,Becton Dickinson,Health Care,Health Care Equipment,Q1,2016,2016-02-03 13:03:06,0.031,0.747,0.222,1.0
+BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,Q1,2016,2015-05-21 12:59:03,0.039,0.729,0.231,1.0
+BIO,Bio-Rad,Health Care,Life Sciences Tools & Services,Q1,2016,2016-05-05 23:51:16,0.023,0.756,0.221,0.9999
+TECH,Bio-Techne,Health Care,Life Sciences Tools & Services,Q1,2016,2015-10-28 12:32:03,0.028,0.762,0.211,1.0
+BIIB,Biogen,Health Care,Biotechnology,Q1,2016,2016-04-21 12:39:15,0.025,0.75,0.225,1.0
+BLK,BlackRock,Financials,Asset Management & Custody Banks,Q1,2016,2016-04-14 13:38:06,0.045,0.73,0.225,1.0
+BX,Blackstone,Financials,Asset Management & Custody Banks,Q1,2016,2016-04-22 17:00:00,0.039,0.714,0.248,1.0
+BA,Boeing,Industrials,Aerospace & Defense,Q1,2016,2016-04-27 15:33:14,0.016,0.765,0.219,1.0
+BKNG,Booking Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2016,2016-05-04 12:03:08,0.037,0.724,0.24,1.0
+BWA,BorgWarner,Consumer Discretionary,Automotive Parts & Equipment,Q1,2016,2016-04-28 15:40:17,0.027,0.755,0.218,1.0
+BXP,Boston Properties,Real Estate,Office REITs,Q1,2016,2016-04-27 18:02:11,0.03,0.793,0.177,1.0
+BSX,Boston Scientific,Health Care,Health Care Equipment,Q1,2016,2016-04-27 13:39:16,0.015,0.754,0.23,1.0
+BMY,Bristol Myers Squibb,Health Care,Pharmaceuticals,Q1,2016,2016-04-28 15:59:44,0.039,0.742,0.219,1.0
+AVGO,Broadcom Inc.,Information Technology,Semiconductors,Q1,2016,2016-03-04 05:15:18,0.023,0.801,0.177,1.0
+BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,Q1,2016,2015-11-07 17:00:00,0.018,0.73,0.252,1.0
+BRO,Brown & Brown,Financials,Insurance Brokers,Q1,2016,2016-04-19 13:41:10,0.036,0.756,0.208,1.0
+BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,Q1,2016,2015-08-26 15:32:03,0.035,0.733,0.232,1.0
+BLDR,Builders FirstSource,Industrials,Building Products,Q1,2016,2016-05-06 15:43:14,0.037,0.757,0.206,1.0
+BG,Bunge Global SA,Consumer Staples,Agricultural Products & Services,Q1,2016,2016-05-01 11:09:26,0.055,0.711,0.234,1.0
+CDNS,Cadence Design Systems,Information Technology,Application Software,Q1,2016,2016-04-25 22:04:13,0.014,0.725,0.261,1.0
+CZR,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming,Q1,2016,2016-05-05 20:36:08,0.024,0.738,0.238,1.0
+CPT,Camden Property Trust,Real Estate,Multi-Family Residential REITs,Q1,2016,2016-04-29 16:56:14,0.046,0.734,0.22,1.0
+CPB,Campbell Soup Company,Consumer Staples,Packaged Foods & Meats,Q1,2016,2015-11-24 14:52:15,0.042,0.741,0.217,1.0
+COF,Capital One,Financials,Consumer Finance,Q1,2016,2016-04-26 23:34:15,0.037,0.706,0.257,1.0
+CAH,Cardinal Health,Health Care,Health Care Distributors,Q1,2016,2015-11-02 14:25:10,0.024,0.739,0.238,1.0
+KMX,CarMax,Consumer Discretionary,Automotive Retail,Q1,2016,2015-06-19 14:35:04,0.026,0.784,0.19,1.0
+CCL,Carnival,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2016,2016-03-30 16:33:03,0.019,0.778,0.203,1.0
+CTLT,Catalent,Health Care,Pharmaceuticals,Q1,2016,2015-11-03 20:57:04,0.022,0.788,0.19,1.0
+CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,Q1,2016,2016-04-22 15:33:16,0.042,0.768,0.19,1.0
+CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data,Q1,2016,2016-04-29 14:14:12,0.026,0.784,0.19,1.0
+CBRE,CBRE Group,Real Estate,Real Estate Services,Q1,2016,2016-04-30 12:22:05,0.019,0.75,0.231,1.0
+CDW,CDW,Information Technology,Technology Distributors,Q1,2016,2016-05-04 15:03:20,0.027,0.747,0.226,1.0
+CE,Celanese,Materials,Specialty Chemicals,Q1,2016,2016-04-19 13:23:20,0.022,0.729,0.249,1.0
+COR,Cencora,Health Care,Health Care Distributors,Q1,2016,2016-04-29 17:00:00,0.019,0.8,0.181,1.0
+CNC,Centene Corporation,Health Care,Managed Health Care,Q1,2016,2016-04-26 16:21:35,0.029,0.779,0.192,1.0
+CNP,CenterPoint Energy,Utilities,Multi-Utilities,Q1,2016,2016-05-11 21:29:19,0.033,0.746,0.221,1.0
+CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals,Q1,2016,2016-05-05 15:47:24,0.04,0.821,0.139,1.0
+CHRW,CH Robinson,Industrials,Air Freight & Logistics,Q1,2016,2016-04-27 14:28:09,0.028,0.722,0.25,1.0
+CRL,Charles River Laboratories,Health Care,Life Sciences Tools & Services,Q1,2016,2016-05-04 17:00:00,0.027,0.715,0.258,1.0
+SCHW,Charles Schwab Corporation,Financials,Investment Banking & Brokerage,Q1,2016,2016-04-24 06:03:14,0.026,0.752,0.222,1.0
+CHTR,Charter Communications,Communication Services,Cable & Satellite,Q1,2016,2016-04-28 15:25:24,0.019,0.78,0.201,1.0
+CVX,Chevron Corporation,Energy,Integrated Oil & Gas,Q1,2016,2016-04-29 17:00:00,0.041,0.752,0.206,1.0
+CMG,Chipotle Mexican Grill,Consumer Discretionary,Restaurants,Q1,2016,2016-04-26 23:15:17,0.042,0.723,0.234,1.0
+CB,Chubb Limited,Financials,Property & Casualty Insurance,Q1,2016,2016-05-05 15:35:26,0.029,0.743,0.228,1.0
+CHD,Church & Dwight,Consumer Staples,Household Products,Q1,2016,2016-05-05 16:00:44,0.027,0.76,0.213,1.0
+CINF,Cincinnati Financial,Financials,Property & Casualty Insurance,Q1,2016,2016-04-27 15:43:10,0.038,0.717,0.245,1.0
+CTAS,Cintas,Industrials,Diversified Support Services,Q1,2016,2015-09-24 19:57:11,0.034,0.727,0.239,1.0
+CSCO,Cisco,Information Technology,Communications Equipment,Q1,2016,2015-11-12 20:11:04,0.032,0.739,0.229,1.0
+C,Citigroup,Financials,Diversified Banks,Q1,2016,2016-04-15 17:16:14,0.027,0.763,0.209,1.0
+CFG,Citizens Financial Group,Financials,Regional Banks,Q1,2016,2016-04-22 17:00:00,0.023,0.711,0.266,1.0
+CLX,Clorox,Consumer Staples,Household Products,Q1,2016,2015-11-02 20:01:08,0.023,0.693,0.284,1.0
+CME,CME Group,Financials,Financial Exchanges & Data,Q1,2016,2016-04-28 13:20:30,0.015,0.734,0.251,1.0
+CMS,CMS Energy,Utilities,Multi-Utilities,Q1,2016,2016-04-28 11:45:14,0.034,0.743,0.223,0.9999
+KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q1,2016,2016-04-20 13:45:04,0.025,0.726,0.248,1.0
+CTSH,Cognizant,Information Technology,IT Consulting & Other Services,Q1,2016,2016-05-06 17:00:00,0.017,0.773,0.21,1.0
+CL,Colgate-Palmolive,Consumer Staples,Household Products,Q1,2016,2016-04-29 01:32:47,0.034,0.719,0.247,1.0
+CMCSA,Comcast,Communication Services,Cable & Satellite,Q1,2016,2016-04-27 14:27:18,0.016,0.754,0.229,1.0
+CMA,Comerica,Financials,Diversified Banks,Q1,2016,2016-04-19 13:30:09,0.042,0.739,0.219,1.0
+CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,Q1,2016,2015-09-22 16:54:03,0.031,0.722,0.247,1.0
+COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,Q1,2016,2016-04-29 01:32:52,0.036,0.779,0.185,1.0
+STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,Q1,2016,2015-07-01 13:39:02,0.049,0.692,0.26,1.0
+COO,CooperCompanies,Health Care,Health Care Supplies,Q1,2016,2016-03-04 05:15:16,0.046,0.767,0.187,1.0
+CPRT,Copart,Industrials,Diversified Support Services,Q1,2016,2015-11-24 15:39:06,0.022,0.765,0.214,0.9999
+GLW,Corning Inc.,Information Technology,Electronic Components,Q1,2016,2016-04-26 12:19:56,0.047,0.764,0.189,1.0
+CPAY,Corpay,Financials,Transaction & Payment Processing Services,Q1,2016,2016-05-04 00:00:00,0.028,0.792,0.181,1.0
+CSGP,CoStar Group,Real Estate,Real Estate Services,Q1,2016,2016-04-30 20:27:07,0.025,0.751,0.224,1.0
+COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,Q1,2016,2015-12-09 20:47:06,0.037,0.778,0.184,1.0
+CTRA,Coterra,Energy,Oil & Gas Exploration & Production,Q1,2016,2016-05-05 17:39:23,0.027,0.746,0.227,1.0
+CCI,Crown Castle,Real Estate,Telecom Tower REITs,Q1,2016,2016-04-22 16:34:23,0.021,0.781,0.198,1.0
+CSX,CSX,Industrials,Rail Transportation,Q1,2016,2016-04-13 15:18:12,0.039,0.768,0.193,1.0
+CMI,Cummins,Industrials,Construction Machinery & Heavy Transportation Equipment,Q1,2016,2016-02-03 16:21:11,0.033,0.776,0.191,1.0
+CVS,CVS Health,Health Care,Health Care Services,Q1,2016,2016-05-03 17:00:00,0.021,0.73,0.249,1.0
+DHR,Danaher Corporation,Health Care,Life Sciences Tools & Services,Q1,2016,2016-04-21 12:29:13,0.019,0.733,0.248,1.0
+DRI,Darden Restaurants,Consumer Discretionary,Restaurants,Q1,2016,2015-09-22 14:56:04,0.021,0.745,0.234,1.0
+DVA,DaVita Inc.,Health Care,Health Care Services,Q1,2016,2016-05-04 20:33:08,0.032,0.777,0.192,1.0
+DECK,Deckers Brands,Consumer Discretionary,Footwear,Q1,2016,2015-07-30 23:03:06,0.02,0.744,0.236,1.0
+DE,John Deere,Industrials,Agricultural & Farm Machinery,Q1,2016,2016-02-19 16:39:08,0.051,0.745,0.204,1.0
+DAL,Delta Air Lines,Industrials,Passenger Airlines,Q1,2016,2016-04-14 16:51:08,0.044,0.737,0.219,1.0
+DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,Q1,2016,2016-05-04 16:09:21,0.025,0.729,0.245,1.0
+DXCM,Dexcom,Health Care,Health Care Equipment,Q1,2016,2016-04-27 21:21:18,0.029,0.768,0.203,1.0
+FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production,Q1,2016,2016-05-04 17:00:00,0.033,0.76,0.207,1.0
+DLR,Digital Realty,Real Estate,Data Center REITs,Q1,2016,2016-04-29 03:35:21,0.025,0.786,0.189,1.0
+DFS,Discover Financial,Financials,Consumer Finance,Q1,2016,2016-04-19 23:31:04,0.025,0.733,0.242,1.0
+DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,Q1,2016,2015-06-02 00:00:00,0.022,0.719,0.259,1.0
+DLTR,Dollar Tree,Consumer Staples,Consumer Staples Merchandise Retail,Q1,2016,2015-05-21 00:00:00,0.026,0.771,0.203,1.0
+D,Dominion Energy,Utilities,Multi-Utilities,Q1,2016,2016-05-04 15:03:17,0.016,0.804,0.18,1.0
+DPZ,Domino's,Consumer Discretionary,Restaurants,Q1,2016,2016-04-28 17:54:12,0.029,0.737,0.234,1.0
+DOV,Dover Corporation,Industrials,Industrial Machinery & Supplies & Components,Q1,2016,2016-04-21 13:46:48,0.021,0.744,0.234,1.0
+DOW,Dow Inc.,Materials,Commodity Chemicals,Q1,2016,2016-04-29 17:00:00,0.023,0.777,0.2,1.0
+DHI,DR Horton,Consumer Discretionary,Homebuilding,Q1,2016,2016-01-25 17:33:08,0.029,0.725,0.246,1.0
+DTE,DTE Energy,Utilities,Multi-Utilities,Q1,2016,2016-04-26 14:44:19,0.021,0.761,0.218,1.0
+DUK,Duke Energy,Utilities,Electric Utilities,Q1,2016,2016-05-03 14:53:22,0.02,0.741,0.239,1.0
+DD,DuPont,Materials,Specialty Chemicals,Q1,2016,2016-04-26 13:49:13,0.039,0.743,0.219,1.0
+EMN,Eastman Chemical Company,Materials,Specialty Chemicals,Q1,2016,2016-04-29 15:29:22,0.047,0.703,0.25,1.0
+ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,Q1,2016,2016-04-29 16:51:44,0.039,0.767,0.194,1.0
+EBAY,eBay,Consumer Discretionary,Broadline Retail,Q1,2016,2016-04-26 22:25:54,0.026,0.753,0.221,1.0
+ECL,Ecolab,Materials,Specialty Chemicals,Q1,2016,2016-05-03 21:27:24,0.044,0.731,0.225,1.0
+EIX,Edison International,Utilities,Electric Utilities,Q1,2016,2016-05-02 22:17:23,0.025,0.786,0.189,1.0
+EW,Edwards Lifesciences,Health Care,Health Care Equipment,Q1,2016,2016-04-27 01:04:12,0.04,0.715,0.245,1.0
+EA,Electronic Arts,Communication Services,Interactive Home Entertainment,Q1,2016,2015-07-30 21:13:03,0.035,0.764,0.2,1.0
+ELV,Elevance Health,Health Care,Managed Health Care,Q1,2016,2016-04-27 14:51:08,0.032,0.766,0.202,1.0
+LLY,Eli Lilly and Company,Health Care,Pharmaceuticals,Q1,2016,2016-04-26 18:33:53,0.035,0.765,0.2,1.0
+EMR,Emerson Electric,Industrials,Electrical Components & Equipment,Q1,2016,2016-02-02 22:30:07,0.052,0.761,0.187,1.0
+ENPH,Enphase,Information Technology,Semiconductor Materials & Equipment,Q1,2016,2016-05-03 21:40:22,0.037,0.7,0.263,1.0
+ETR,Entergy,Utilities,Electric Utilities,Q1,2016,2016-04-26 17:07:43,0.029,0.749,0.221,1.0
+EOG,EOG Resources,Energy,Oil & Gas Exploration & Production,Q1,2016,2016-05-06 14:21:10,0.02,0.751,0.229,1.0
+EPAM,EPAM Systems,Information Technology,IT Consulting & Other Services,Q1,2016,2016-05-06 23:21:19,0.02,0.749,0.231,1.0
+EQT,EQT Corporation,Energy,Oil & Gas Exploration & Production,Q1,2016,2016-04-28 16:23:18,0.034,0.753,0.213,1.0
+EFX,Equifax,Industrials,Research & Consulting Services,Q1,2016,2016-05-01 03:18:05,0.021,0.703,0.276,1.0
+EQIX,Equinix,Real Estate,Data Center REITs,Q1,2016,2016-05-05 04:14:36,0.025,0.768,0.208,1.0
+EQR,Equity Residential,Real Estate,Multi-Family Residential REITs,Q1,2016,2016-05-01 02:10:12,0.038,0.781,0.181,1.0
+ESS,Essex Property Trust,Real Estate,Multi-Family Residential REITs,Q1,2016,2016-04-30 00:09:16,0.04,0.755,0.205,1.0
+EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,Q1,2016,2015-11-02 15:39:07,0.027,0.709,0.265,1.0
+ETSY,Etsy,Consumer Discretionary,Broadline Retail,Q1,2016,2016-05-03 23:23:25,0.016,0.786,0.198,1.0
+ES,Eversource,Utilities,Electric Utilities,Q1,2016,2016-05-05 13:37:30,0.017,0.774,0.209,0.9999
+EXC,Exelon,Utilities,Electric Utilities,Q1,2016,2016-05-06 16:37:26,0.032,0.788,0.18,0.9999
+EXPE,Expedia Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2016,2016-04-28 23:53:15,0.014,0.73,0.256,1.0
+EXR,Extra Space Storage,Real Estate,Self-Storage REITs,Q1,2016,2016-05-03 19:24:19,0.025,0.766,0.209,1.0
+XOM,ExxonMobil,Energy,Integrated Oil & Gas,Q1,2016,2016-04-29 15:12:14,0.048,0.72,0.232,1.0
+FFIV,"F5, Inc.",Information Technology,Communications Equipment,Q1,2016,2016-01-20 22:57:17,0.025,0.713,0.263,1.0
+FDS,FactSet,Financials,Financial Exchanges & Data,Q1,2016,2015-12-15 14:31:04,0.014,0.74,0.245,1.0
+FICO,Fair Isaac,Information Technology,Application Software,Q1,2016,2016-01-28 22:05:06,0.022,0.766,0.213,0.9999
+FAST,Fastenal,Industrials,Trading Companies & Distributors,Q1,2016,2016-04-12 13:33:04,0.059,0.723,0.218,1.0
+FRT,Federal Realty,Real Estate,Retail REITs,Q1,2016,2016-05-05 17:21:44,0.032,0.749,0.219,1.0
+FDX,FedEx,Industrials,Air Freight & Logistics,Q1,2016,2015-09-16 12:49:10,0.037,0.747,0.216,1.0
+FIS,Fidelity National Information Services,Financials,Transaction & Payment Processing Services,Q1,2016,2016-05-03 17:00:00,0.017,0.695,0.288,1.0
+FITB,Fifth Third Bank,Financials,Diversified Banks,Q1,2016,2016-04-21 13:33:32,0.03,0.751,0.218,1.0
+FSLR,First Solar,Information Technology,Semiconductors,Q1,2016,2016-04-27 22:48:07,0.029,0.744,0.227,1.0
+FE,FirstEnergy,Utilities,Electric Utilities,Q1,2016,2016-04-27 16:35:18,0.024,0.757,0.219,1.0
+FI,Fiserv,Financials,Transaction & Payment Processing Services,Q1,2016,2016-05-01 17:00:00,0.054,0.767,0.179,0.9999
+FMC,FMC Corporation,Materials,Fertilizers & Agricultural Chemicals,Q1,2016,2016-05-03 16:13:26,0.03,0.783,0.188,1.0
+F,Ford Motor Company,Consumer Discretionary,Automobile Manufacturers,Q1,2016,2016-04-29 01:35:18,0.028,0.753,0.219,1.0
+FTNT,Fortinet,Information Technology,Systems Software,Q1,2016,2016-04-27 01:27:34,0.025,0.739,0.236,1.0
+BEN,Franklin Templeton,Financials,Asset Management & Custody Banks,Q1,2016,2016-02-03 17:05:19,0.039,0.706,0.255,1.0
+FCX,Freeport-McMoRan,Materials,Copper,Q1,2016,2016-04-26 17:29:18,0.043,0.721,0.236,1.0
+GRMN,Garmin,Consumer Discretionary,Consumer Electronics,Q1,2016,2016-04-27 00:00:00,0.036,0.732,0.232,0.9999
+IT,Gartner,Information Technology,IT Consulting & Other Services,Q1,2016,2016-05-05 17:51:25,0.028,0.732,0.24,1.0
+GE,GE Aerospace,Industrials,Aerospace & Defense,Q1,2016,2016-04-22 14:19:15,0.028,0.806,0.166,1.0
+GEN,Gen Digital,Information Technology,Systems Software,Q1,2016,2015-08-11 20:43:05,0.024,0.733,0.243,1.0
+GNRC,Generac,Industrials,Electrical Components & Equipment,Q1,2016,2016-05-04 13:45:25,0.03,0.792,0.178,1.0
+GD,General Dynamics,Industrials,Aerospace & Defense,Q1,2016,2016-04-27 14:16:06,0.028,0.752,0.22,1.0
+GIS,General Mills,Consumer Staples,Packaged Foods & Meats,Q1,2016,2015-09-22 14:02:05,0.018,0.729,0.253,1.0
+GM,General Motors,Consumer Discretionary,Automobile Manufacturers,Q1,2016,2016-04-21 15:23:11,0.019,0.744,0.238,1.0
+GPC,Genuine Parts Company,Consumer Discretionary,Distributors,Q1,2016,2016-04-19 16:31:21,0.03,0.737,0.233,1.0
+GILD,Gilead Sciences,Health Care,Biotechnology,Q1,2016,2016-04-29 04:57:23,0.029,0.778,0.193,1.0
+GPN,Global Payments,Financials,Transaction & Payment Processing Services,Q1,2016,2015-10-07 14:21:03,0.02,0.745,0.235,1.0
+GL,Globe Life,Financials,Life & Health Insurance,Q1,2016,2016-04-27 17:08:11,0.039,0.777,0.184,0.9999
+GS,Goldman Sachs,Financials,Investment Banking & Brokerage,Q1,2016,2016-04-19 13:45:14,0.041,0.742,0.217,1.0
+HAL,Halliburton,Energy,Oil & Gas Equipment & Services,Q1,2016,2016-05-03 15:41:33,0.045,0.753,0.201,1.0
+HIG,Hartford (The),Financials,Property & Casualty Insurance,Q1,2016,2016-04-29 14:26:15,0.085,0.719,0.196,0.9999
+HAS,Hasbro,Consumer Discretionary,Leisure Products,Q1,2016,2016-04-18 13:33:07,0.047,0.692,0.261,1.0
+HCA,HCA Healthcare,Health Care,Health Care Facilities,Q1,2016,2016-05-03 16:27:22,0.034,0.76,0.206,1.0
+DOC,Healthpeak,Real Estate,Health Care REITs,Q1,2016,2016-05-05 21:09:39,0.027,0.723,0.25,1.0
+HSIC,Henry Schein,Health Care,Health Care Distributors,Q1,2016,2016-05-03 15:15:20,0.01,0.754,0.236,1.0
+HSY,Hershey's,Consumer Staples,Packaged Foods & Meats,Q1,2016,2016-04-26 14:05:03,0.022,0.784,0.193,1.0
+HES,Hess Corporation,Energy,Integrated Oil & Gas,Q1,2016,2016-04-27 18:45:18,0.042,0.771,0.187,1.0
+HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2016,2016-03-04 05:17:11,0.02,0.738,0.241,1.0
+HLT,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2016,2016-04-28 17:00:00,0.034,0.731,0.235,1.0
+HOLX,Hologic,Health Care,Health Care Equipment,Q1,2016,2016-01-27 23:33:05,0.04,0.71,0.25,1.0
+HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,Q1,2016,2016-05-17 15:29:18,0.029,0.751,0.22,1.0
+HON,Honeywell,Industrials,Industrial Conglomerates,Q1,2016,2016-04-22 16:13:15,0.026,0.765,0.209,1.0
+HRL,Hormel Foods,Consumer Staples,Packaged Foods & Meats,Q1,2016,2016-02-16 14:49:13,0.024,0.69,0.286,1.0
+HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,Q1,2016,2016-04-29 17:47:03,0.031,0.72,0.249,1.0
+HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2016,2015-07-27 21:04:02,0.044,0.75,0.206,1.0
+HUBB,Hubbell Incorporated,Industrials,Industrial Machinery & Supplies & Components,Q1,2016,2016-04-27 00:29:14,0.025,0.669,0.306,1.0
+HBAN,Huntington Bancshares,Financials,Regional Banks,Q1,2016,2016-04-20 12:56:18,0.034,0.712,0.254,1.0
+HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,Q1,2016,2016-05-05 17:00:00,0.032,0.754,0.214,1.0
+IBM,IBM,Information Technology,IT Consulting & Other Services,Q1,2016,2016-04-18 23:27:17,0.022,0.769,0.209,1.0
+IEX,IDEX Corporation,Industrials,Industrial Machinery & Supplies & Components,Q1,2016,2016-04-19 16:03:19,0.043,0.723,0.234,1.0
+IDXX,Idexx Laboratories,Health Care,Health Care Equipment,Q1,2016,2016-04-29 14:47:25,0.02,0.717,0.262,1.0
+ITW,Illinois Tool Works,Industrials,Industrial Machinery & Supplies & Components,Q1,2016,2016-04-20 15:42:11,0.021,0.733,0.246,1.0
+ILMN,Illumina,Health Care,Life Sciences Tools & Services,Q1,2016,2016-05-04 01:31:07,0.034,0.781,0.185,1.0
+INCY,Incyte,Health Care,Biotechnology,Q1,2016,2016-05-09 21:59:26,0.021,0.796,0.184,1.0
+IR,Ingersoll Rand,Industrials,Industrial Machinery & Supplies & Components,Q1,2016,2016-04-26 15:51:37,0.016,0.761,0.223,1.0
+PODD,Insulet,Health Care,Health Care Equipment,Q1,2016,2016-04-28 19:33:19,0.015,0.738,0.247,1.0
+INTC,Intel,Information Technology,Semiconductors,Q1,2016,2016-04-19 22:51:13,0.026,0.76,0.214,1.0
+ICE,Intercontinental Exchange,Financials,Financial Exchanges & Data,Q1,2016,2016-05-04 17:00:00,0.029,0.737,0.234,1.0
+IFF,International Flavors & Fragrances,Materials,Specialty Chemicals,Q1,2016,2016-05-10 17:00:00,0.014,0.692,0.294,1.0
+IP,International Paper,Materials,Paper & Plastic Packaging Products & Materials,Q1,2016,2016-04-27 16:13:09,0.033,0.754,0.213,1.0
+IPG,Interpublic Group of Companies (The),Communication Services,Advertising,Q1,2016,2016-04-22 17:00:00,0.016,0.688,0.296,1.0
+INTU,Intuit,Information Technology,Application Software,Q1,2016,2015-11-19 22:21:04,0.028,0.741,0.231,1.0
+ISRG,Intuitive Surgical,Health Care,Health Care Equipment,Q1,2016,2016-04-19 22:07:12,0.024,0.761,0.216,1.0
+IVZ,Invesco,Financials,Asset Management & Custody Banks,Q1,2016,2016-04-30 12:22:11,0.035,0.754,0.211,1.0
+IQV,IQVIA,Health Care,Life Sciences Tools & Services,Q1,2016,2016-05-03 00:00:00,0.018,0.733,0.249,1.0
+IRM,Iron Mountain,Real Estate,Other Specialized REITs,Q1,2016,2016-04-28 17:33:08,0.03,0.768,0.202,1.0
+JBL,Jabil,Information Technology,Electronic Manufacturing Services,Q1,2016,2015-12-16 22:48:03,0.017,0.732,0.251,1.0
+JKHY,Jack Henry & Associates,Financials,Transaction & Payment Processing Services,Q1,2016,2015-11-05 13:55:10,0.018,0.75,0.231,1.0
+J,Jacobs Solutions,Industrials,Construction & Engineering,Q1,2016,2016-02-03 16:49:08,0.035,0.724,0.242,1.0
+JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,Q1,2016,2016-04-19 12:19:14,0.025,0.729,0.246,1.0
+JCI,Johnson Controls,Industrials,Building Products,Q1,2016,2016-01-28 21:53:07,0.029,0.753,0.218,1.0
+JPM,JPMorgan Chase,Financials,Diversified Banks,Q1,2016,2016-04-13 20:57:15,0.036,0.754,0.21,1.0
+JNPR,Juniper Networks,Information Technology,Communications Equipment,Q1,2016,2016-04-29 04:53:28,0.025,0.722,0.254,1.0
+K,Kellanova,Consumer Staples,Packaged Foods & Meats,Q1,2016,2016-05-05 15:43:51,0.021,0.729,0.25,1.0
+KEY,KeyCorp,Financials,Regional Banks,Q1,2016,2016-04-21 12:23:15,0.024,0.743,0.233,1.0
+KEYS,Keysight,Information Technology,Electronic Equipment & Instruments,Q1,2016,2016-02-18 20:29:08,0.02,0.762,0.218,1.0
+KMB,Kimberly-Clark,Consumer Staples,Household Products,Q1,2016,2016-04-22 14:47:14,0.03,0.723,0.247,1.0
+KIM,Kimco Realty,Real Estate,Retail REITs,Q1,2016,2016-04-29 08:46:16,0.028,0.748,0.224,1.0
+KMI,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,Q1,2016,2016-04-21 01:42:03,0.041,0.767,0.191,1.0
+KHC,Kraft Heinz,Consumer Staples,Packaged Foods & Meats,Q1,2016,2016-05-04 23:27:27,0.028,0.761,0.211,1.0
+KR,Kroger,Consumer Staples,Food Retail,Q1,2016,2015-06-18 00:00:00,0.017,0.74,0.242,1.0
+LHX,L3Harris,Industrials,Aerospace & Defense,Q1,2016,2015-11-03 14:09:05,0.033,0.738,0.228,1.0
+LH,LabCorp,Health Care,Health Care Services,Q1,2016,2016-04-25 13:27:16,0.031,0.739,0.23,1.0
+LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,Q1,2016,2015-10-21 00:00:00,0.021,0.714,0.265,1.0
+LVS,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,Q1,2016,2016-04-20 21:49:02,0.032,0.723,0.244,1.0
+LDOS,Leidos,Industrials,Diversified Support Services,Q1,2016,2016-04-27 11:23:16,0.014,0.772,0.214,1.0
+LEN,Lennar,Consumer Discretionary,Homebuilding,Q1,2016,2016-03-29 16:14:03,0.045,0.737,0.219,1.0
+LYV,Live Nation Entertainment,Communication Services,Movies & Entertainment,Q1,2016,2016-05-03 22:17:22,0.016,0.764,0.22,1.0
+LKQ,LKQ Corporation,Consumer Discretionary,Distributors,Q1,2016,2016-04-28 17:02:48,0.034,0.766,0.2,1.0
+LMT,Lockheed Martin,Industrials,Aerospace & Defense,Q1,2016,2016-04-26 17:35:13,0.024,0.769,0.207,1.0
+L,Loews Corporation,Financials,Multi-line Insurance,Q1,2016,2016-05-02 15:33:09,0.05,0.745,0.206,0.9999
+LOW,Lowe's,Consumer Discretionary,Home Improvement Retail,Q1,2016,2015-05-20 00:00:00,0.017,0.733,0.25,1.0
+LULU,Lululemon Athletica,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q1,2016,2016-06-08 00:00:00,0.038,0.751,0.21,1.0
+LYB,LyondellBasell,Materials,Specialty Chemicals,Q1,2016,2016-04-22 17:57:26,0.035,0.775,0.19,1.0
+MTB,M&T Bank,Financials,Regional Banks,Q1,2016,2016-04-18 17:00:00,0.02,0.778,0.202,1.0
+MRO,Marathon Oil,Energy,Oil & Gas Exploration & Production,Q1,2016,2016-05-05 13:07:30,0.029,0.735,0.235,1.0
+MPC,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing,Q1,2016,2016-04-29 01:37:27,0.055,0.758,0.187,1.0
+MKTX,MarketAxess,Financials,Financial Exchanges & Data,Q1,2016,2016-04-27 13:40:32,0.016,0.752,0.232,1.0
+MAR,Marriott International,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2016,2016-05-01 15:07:16,0.038,0.744,0.218,1.0
+MMC,Marsh McLennan,Financials,Insurance Brokers,Q1,2016,2016-04-28 17:00:00,0.026,0.713,0.261,1.0
+MLM,Martin Marietta Materials,Materials,Construction Materials,Q1,2016,2016-05-06 01:21:19,0.021,0.77,0.209,1.0
+MAS,Masco,Industrials,Building Products,Q1,2016,2016-04-26 13:15:12,0.028,0.722,0.25,1.0
+MA,Mastercard,Financials,Transaction & Payment Processing Services,Q1,2016,2016-04-28 16:27:20,0.027,0.761,0.212,1.0
+MTCH,Match Group,Communication Services,Interactive Media & Services,Q1,2016,2016-05-04 13:04:18,0.028,0.751,0.221,1.0
+MKC,McCormick & Company,Consumer Staples,Packaged Foods & Meats,Q1,2016,2016-03-29 13:59:11,0.029,0.727,0.244,1.0
+MCD,McDonald's,Consumer Discretionary,Restaurants,Q1,2016,2016-04-22 15:35:18,0.015,0.71,0.275,1.0
+MCK,McKesson Corporation,Health Care,Health Care Distributors,Q1,2016,2015-07-29 21:47:03,0.021,0.729,0.25,1.0
+MDT,Medtronic,Health Care,Health Care Equipment,Q1,2016,2015-09-03 17:00:00,0.022,0.743,0.235,1.0
+MRK,Merck & Co.,Health Care,Pharmaceuticals,Q1,2016,2016-05-05 13:27:24,0.051,0.749,0.199,1.0
+META,Meta Platforms,Communication Services,Interactive Media & Services,Q1,2016,2016-04-27 22:29:16,0.01,0.761,0.229,1.0
+MET,MetLife,Financials,Life & Health Insurance,Q1,2016,2016-05-05 14:19:30,0.049,0.783,0.168,1.0
+MTD,Mettler Toledo,Health Care,Life Sciences Tools & Services,Q1,2016,2016-05-05 22:05:27,0.031,0.72,0.249,1.0
+MGM,MGM Resorts,Consumer Discretionary,Casinos & Gaming,Q1,2016,2016-05-05 20:42:43,0.017,0.735,0.248,1.0
+MCHP,Microchip Technology,Information Technology,Semiconductors,Q1,2016,2015-08-03 22:26:05,0.045,0.791,0.164,0.9999
+MU,Micron Technology,Information Technology,Semiconductors,Q1,2016,2015-12-22 21:09:12,0.041,0.755,0.204,1.0
+MSFT,Microsoft,Information Technology,Systems Software,Q1,2016,2015-10-23 17:00:00,0.02,0.743,0.236,1.0
+MAA,Mid-America Apartment Communities,Real Estate,Multi-Family Residential REITs,Q1,2016,2016-05-08 17:00:00,0.03,0.706,0.264,1.0
+MHK,Mohawk Industries,Consumer Discretionary,Home Furnishings,Q1,2016,2016-05-06 17:01:26,0.02,0.784,0.196,1.0
+MOH,Molina Healthcare,Health Care,Managed Health Care,Q1,2016,2016-04-29 02:13:10,0.04,0.764,0.197,1.0
+TAP,Molson Coors Beverage Company,Consumer Staples,Brewers,Q1,2016,2016-05-03 16:51:11,0.019,0.773,0.208,1.0
+MDLZ,Mondelez International,Consumer Staples,Packaged Foods & Meats,Q1,2016,2016-04-27 13:53:13,0.043,0.729,0.228,1.0
+MPWR,Monolithic Power Systems,Information Technology,Semiconductors,Q1,2016,2016-05-02 21:23:21,0.023,0.769,0.208,1.0
+MNST,Monster Beverage,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q1,2016,2016-04-29 17:23:06,0.028,0.756,0.216,1.0
+MCO,Moody's Corporation,Financials,Financial Exchanges & Data,Q1,2016,2016-04-29 20:50:32,0.05,0.756,0.195,1.0
+MS,Morgan Stanley,Financials,Investment Banking & Brokerage,Q1,2016,2016-02-24 19:03:08,0.035,0.752,0.213,1.0
+MOS,Mosaic Company (The),Materials,Fertilizers & Agricultural Chemicals,Q1,2016,2016-05-04 15:55:08,0.044,0.761,0.195,1.0
+MSI,Motorola Solutions,Information Technology,Communications Equipment,Q1,2016,2016-05-05 21:03:15,0.024,0.759,0.217,1.0
+MSCI,MSCI,Financials,Financial Exchanges & Data,Q1,2016,2016-04-29 01:32:21,0.03,0.739,0.231,1.0
+NDAQ,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,Q1,2016,2016-04-27 12:06:08,0.013,0.7,0.287,1.0
+NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2016,2015-08-19 20:30:05,0.024,0.753,0.222,1.0
+NFLX,Netflix,Communication Services,Movies & Entertainment,Q1,2016,2016-04-18 21:47:14,0.023,0.781,0.196,1.0
+NEM,Newmont,Materials,Gold,Q1,2016,2016-04-21 14:37:30,0.036,0.776,0.188,1.0
+NWSA,News Corp (Class A),Communication Services,Publishing,Q1,2016,2015-11-07 03:04:06,0.032,0.769,0.199,1.0
+NEE,NextEra Energy,Utilities,Multi-Utilities,Q1,2016,2016-04-29 01:37:21,0.029,0.734,0.237,1.0
+NKE,"Nike, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q1,2016,2015-09-24 22:33:06,0.042,0.694,0.264,1.0
+NI,NiSource,Utilities,Multi-Utilities,Q1,2016,2016-05-03 12:59:24,0.016,0.741,0.243,1.0
+NDSN,Nordson Corporation,Industrials,Industrial Machinery & Supplies & Components,Q1,2016,2016-02-23 17:00:00,0.024,0.768,0.208,1.0
+NSC,Norfolk Southern Railway,Industrials,Rail Transportation,Q1,2016,2016-04-21 23:03:15,0.028,0.782,0.19,1.0
+NTRS,Northern Trust,Financials,Asset Management & Custody Banks,Q1,2016,2016-04-19 14:50:08,0.036,0.712,0.253,1.0
+NOC,Northrop Grumman,Industrials,Aerospace & Defense,Q1,2016,2016-04-27 19:00:14,0.028,0.757,0.215,1.0
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2016,2016-05-10 17:00:00,0.031,0.754,0.215,1.0
+NRG,NRG Energy,Utilities,Independent Power Producers & Energy Traders,Q1,2016,2016-05-05 15:50:40,0.026,0.769,0.205,1.0
+NUE,Nucor,Materials,Steel,Q1,2016,2016-04-21 21:09:15,0.038,0.734,0.228,1.0
+NVDA,Nvidia,Information Technology,Semiconductors,Q1,2016,2015-05-07 22:21:02,0.017,0.772,0.211,1.0
+NXPI,NXP Semiconductors,Information Technology,Semiconductors,Q1,2016,2016-04-26 14:35:32,0.037,0.732,0.231,1.0
+ORLY,O'Reilly Auto Parts,Consumer Discretionary,Automotive Retail,Q1,2016,2016-05-01 04:23:18,0.035,0.698,0.267,1.0
+OXY,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,Q1,2016,2016-05-05 16:47:29,0.028,0.761,0.211,1.0
+ODFL,Old Dominion,Industrials,Cargo Ground Transportation,Q1,2016,2016-04-28 17:15:32,0.028,0.75,0.222,1.0
+OMC,Omnicom Group,Communication Services,Advertising,Q1,2016,2016-04-19 14:41:03,0.031,0.745,0.224,1.0
+ON,ON Semiconductor,Information Technology,Semiconductors,Q1,2016,2016-05-09 21:59:29,0.021,0.777,0.202,1.0
+OKE,ONEOK,Energy,Oil & Gas Storage & Transportation,Q1,2016,2016-05-04 17:56:28,0.023,0.748,0.229,1.0
+ORCL,Oracle Corporation,Information Technology,Application Software,Q1,2016,2015-09-16 22:44:06,0.026,0.781,0.193,1.0
+PCAR,Paccar,Industrials,Construction Machinery & Heavy Transportation Equipment,Q1,2016,2016-04-26 16:17:19,0.019,0.72,0.261,1.0
+PKG,Packaging Corporation of America,Materials,Paper & Plastic Packaging Products & Materials,Q1,2016,2016-04-21 17:00:00,0.027,0.785,0.188,1.0
+PANW,Palo Alto Networks,Information Technology,Systems Software,Q1,2016,2015-11-23 23:29:05,0.026,0.727,0.247,1.0
+PARA,Paramount Global,Communication Services,Movies & Entertainment,Q1,2016,2016-05-03 22:59:19,0.017,0.749,0.234,1.0
+PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components,Q1,2016,2015-10-22 17:31:05,0.04,0.762,0.198,1.0
+PAYX,Paychex,Industrials,Human Resource & Employment Services,Q1,2016,2015-09-30 14:36:06,0.014,0.721,0.265,1.0
+PAYC,Paycom,Industrials,Human Resource & Employment Services,Q1,2016,2016-05-04 00:00:22,0.016,0.763,0.22,1.0
+PYPL,PayPal,Financials,Transaction & Payment Processing Services,Q1,2016,2016-04-27 23:55:24,0.022,0.699,0.28,1.0
+PNR,Pentair,Industrials,Industrial Machinery & Supplies & Components,Q1,2016,2016-04-26 14:26:45,0.025,0.771,0.204,1.0
+PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q1,2016,2016-04-18 12:47:12,0.027,0.766,0.207,1.0
+PFE,Pfizer,Health Care,Pharmaceuticals,Q1,2016,2016-05-03 17:00:00,0.041,0.729,0.23,1.0
+PCG,PG&E Corporation,Utilities,Multi-Utilities,Q1,2016,2016-05-04 15:45:25,0.07,0.746,0.184,0.9999
+PM,Philip Morris International,Consumer Staples,Tobacco,Q1,2016,2016-04-19 13:51:30,0.025,0.748,0.227,1.0
+PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,Q1,2016,2016-04-29 17:00:00,0.051,0.775,0.175,1.0
+PNW,Pinnacle West,Utilities,Multi-Utilities,Q1,2016,2016-04-29 18:36:13,0.021,0.827,0.151,0.9999
+PNC,PNC Financial Services,Financials,Regional Banks,Q1,2016,2016-04-14 15:58:04,0.063,0.7,0.238,1.0
+POOL,Pool Corporation,Consumer Discretionary,Distributors,Q1,2016,2016-04-21 16:37:15,0.019,0.748,0.233,1.0
+PPG,PPG Industries,Materials,Specialty Chemicals,Q1,2016,2016-04-21 23:07:16,0.025,0.757,0.218,1.0
+PPL,PPL Corporation,Utilities,Electric Utilities,Q1,2016,2016-04-28 11:59:17,0.027,0.788,0.185,0.9999
+PFG,Principal Financial Group,Financials,Life & Health Insurance,Q1,2016,2016-04-29 17:00:00,0.024,0.734,0.241,1.0
+PG,Procter & Gamble,Consumer Staples,Personal Care Products,Q1,2016,2015-10-23 12:39:03,0.035,0.722,0.242,1.0
+PGR,Progressive Corporation,Financials,Property & Casualty Insurance,Q1,2016,2016-05-06 00:00:00,0.041,0.764,0.195,1.0
+PLD,Prologis,Real Estate,Industrial REITs,Q1,2016,2016-04-19 23:26:11,0.032,0.774,0.194,1.0
+PRU,Prudential Financial,Financials,Life & Health Insurance,Q1,2016,2016-05-05 14:45:08,0.045,0.77,0.185,1.0
+PEG,Public Service Enterprise Group,Utilities,Electric Utilities,Q1,2016,2016-04-29 17:08:16,0.047,0.757,0.197,1.0
+PTC,PTC,Information Technology,Application Software,Q1,2016,2016-01-20 23:39:09,0.021,0.779,0.199,1.0
+PSA,Public Storage,Real Estate,Self-Storage REITs,Q1,2016,2016-04-27 18:24:06,0.026,0.816,0.159,0.9998
+PHM,PulteGroup,Consumer Discretionary,Homebuilding,Q1,2016,2016-04-21 13:03:10,0.027,0.768,0.205,1.0
+QRVO,Qorvo,Information Technology,Semiconductors,Q1,2016,2015-07-29 00:00:00,0.023,0.763,0.214,1.0
+PWR,Quanta Services,Industrials,Construction & Engineering,Q1,2016,2016-05-05 17:35:12,0.027,0.789,0.184,1.0
+QCOM,Qualcomm,Information Technology,Semiconductors,Q1,2016,2016-01-27 22:13:12,0.033,0.772,0.195,1.0
+DGX,Quest Diagnostics,Health Care,Health Care Services,Q1,2016,2016-04-21 16:43:12,0.027,0.701,0.272,1.0
+RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q1,2016,2015-08-05 13:35:05,0.026,0.78,0.194,1.0
+RJF,Raymond James,Financials,Investment Banking & Brokerage,Q1,2016,2016-04-21 14:32:51,0.021,0.757,0.222,1.0
+RTX,RTX Corporation,Industrials,Aerospace & Defense,Q1,2016,2016-04-29 01:37:25,0.02,0.777,0.203,1.0
+O,Realty Income,Real Estate,Retail REITs,Q1,2016,2016-04-27 20:53:11,0.023,0.751,0.227,1.0
+REG,Regency Centers,Real Estate,Retail REITs,Q1,2016,2016-05-04 20:04:24,0.029,0.712,0.259,1.0
+REGN,Regeneron,Health Care,Biotechnology,Q1,2016,2016-05-05 17:00:00,0.058,0.749,0.193,1.0
+RF,Regions Financial Corporation,Financials,Regional Banks,Q1,2016,2016-04-15 14:12:10,0.035,0.713,0.252,1.0
+RSG,Republic Services,Industrials,Environmental & Facilities Services,Q1,2016,2016-04-29 17:00:00,0.032,0.776,0.192,1.0
+RMD,ResMed,Health Care,Health Care Equipment,Q1,2016,2015-10-22 22:21:04,0.022,0.728,0.25,1.0
+RHI,Robert Half,Industrials,Human Resource & Employment Services,Q1,2016,2016-04-26 20:49:48,0.042,0.765,0.193,1.0
+ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,Q1,2016,2016-01-27 12:20:09,0.037,0.731,0.232,1.0
+ROL,"Rollins, Inc.",Industrials,Environmental & Facilities Services,Q1,2016,2016-04-27 16:40:14,0.022,0.749,0.229,1.0
+ROP,Roper Technologies,Information Technology,Electronic Equipment & Instruments,Q1,2016,2016-04-25 14:55:23,0.037,0.763,0.2,1.0
+ROST,Ross Stores,Consumer Discretionary,Apparel Retail,Q1,2016,2015-05-21 00:00:00,0.018,0.765,0.217,1.0
+RCL,Royal Caribbean Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2016,2016-04-29 19:28:15,0.03,0.721,0.249,1.0
+SPGI,S&P Global,Financials,Financial Exchanges & Data,Q1,2016,2016-04-26 17:00:00,0.014,0.75,0.236,1.0
+CRM,Salesforce,Information Technology,Application Software,Q1,2016,2015-05-20 21:59:02,0.016,0.725,0.259,1.0
+SBAC,SBA Communications,Real Estate,Telecom Tower REITs,Q1,2016,2016-05-02 21:19:20,0.03,0.772,0.198,1.0
+SLB,Schlumberger,Energy,Oil & Gas Equipment & Services,Q1,2016,2016-04-22 12:49:12,0.051,0.773,0.176,1.0
+STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2016,2015-10-30 11:41:06,0.042,0.74,0.218,1.0
+SRE,Sempra Energy,Utilities,Multi-Utilities,Q1,2016,2016-05-04 19:43:15,0.032,0.73,0.238,1.0
+NOW,ServiceNow,Information Technology,Systems Software,Q1,2016,2016-04-20 22:22:14,0.026,0.75,0.224,1.0
+SHW,Sherwin-Williams,Materials,Specialty Chemicals,Q1,2016,2016-04-21 20:43:14,0.026,0.735,0.24,1.0
+SPG,Simon Property Group,Real Estate,Retail REITs,Q1,2016,2016-04-26 23:29:03,0.034,0.718,0.248,1.0
+SWKS,Skyworks Solutions,Information Technology,Semiconductors,Q1,2016,2016-01-30 00:14:22,0.031,0.767,0.202,1.0
+SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,Q1,2016,2015-08-27 16:51:05,0.021,0.745,0.235,1.0
+SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,Q1,2016,2016-04-22 00:23:08,0.032,0.718,0.25,1.0
+SO,Southern Company,Utilities,Electric Utilities,Q1,2016,2016-04-27 22:57:18,0.012,0.779,0.209,1.0
+LUV,Southwest Airlines,Industrials,Passenger Airlines,Q1,2016,2016-04-21 20:13:14,0.024,0.747,0.229,1.0
+SWK,Stanley Black & Decker,Industrials,Industrial Machinery & Supplies & Components,Q1,2016,2016-04-21 12:29:23,0.026,0.684,0.29,1.0
+SBUX,Starbucks,Consumer Discretionary,Restaurants,Q1,2016,2016-01-22 00:00:11,0.02,0.751,0.229,1.0
+STT,State Street Corporation,Financials,Asset Management & Custody Banks,Q1,2016,2016-04-27 21:12:16,0.023,0.761,0.216,1.0
+STLD,Steel Dynamics,Materials,Steel,Q1,2016,2016-04-21 18:14:10,0.032,0.71,0.258,1.0
+STE,Steris,Health Care,Health Care Equipment,Q1,2016,2015-08-04 14:21:14,0.028,0.742,0.23,1.0
+SYK,Stryker Corporation,Health Care,Health Care Equipment,Q1,2016,2016-04-20 23:20:14,0.038,0.73,0.232,1.0
+SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2016,2015-10-23 02:35:03,0.027,0.755,0.218,1.0
+SYF,Synchrony Financial,Financials,Consumer Finance,Q1,2016,2016-04-22 13:26:09,0.016,0.679,0.305,1.0
+SNPS,Synopsys,Information Technology,Application Software,Q1,2016,2016-02-17 21:42:16,0.02,0.741,0.239,1.0
+SYY,Sysco,Consumer Staples,Food Distributors,Q1,2016,2015-11-02 14:33:06,0.028,0.748,0.224,1.0
+TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services,Q1,2016,2016-04-26 15:58:11,0.026,0.769,0.205,1.0
+TTWO,Take-Two Interactive,Communication Services,Interactive Home Entertainment,Q1,2016,2015-08-10 00:00:00,0.021,0.746,0.233,1.0
+TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q1,2016,2015-10-27 15:05:07,0.021,0.78,0.199,1.0
+TRGP,Targa Resources,Energy,Oil & Gas Storage & Transportation,Q1,2016,2016-04-29 18:54:24,0.033,0.756,0.211,1.0
+TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,Q1,2016,2015-05-20 00:00:00,0.023,0.737,0.24,1.0
+TEL,TE Connectivity,Information Technology,Electronic Manufacturing Services,Q1,2016,2016-01-20 12:25:11,0.045,0.761,0.194,1.0
+TDY,Teledyne Technologies,Information Technology,Electronic Equipment & Instruments,Q1,2016,2016-05-05 14:50:40,0.034,0.792,0.174,0.9999
+TFX,Teleflex,Health Care,Health Care Equipment,Q1,2016,2016-05-01 10:44:22,0.034,0.754,0.212,1.0
+TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,Q1,2016,2016-04-29 14:39:37,0.037,0.768,0.196,1.0
+TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,Q1,2016,2016-05-05 00:15:34,0.034,0.757,0.209,1.0
+TXN,Texas Instruments,Information Technology,Semiconductors,Q1,2016,2016-04-28 00:26:13,0.024,0.743,0.232,1.0
+TXT,Textron,Industrials,Aerospace & Defense,Q1,2016,2016-04-20 11:01:02,0.025,0.759,0.215,1.0
+TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,Q1,2016,2016-04-28 13:57:17,0.015,0.728,0.257,1.0
+TJX,TJX Companies,Consumer Discretionary,Apparel Retail,Q1,2016,2015-05-19 17:43:03,0.018,0.718,0.265,1.0
+TSCO,Tractor Supply,Consumer Discretionary,Other Specialty Retail,Q1,2016,2016-04-21 00:20:21,0.025,0.77,0.205,1.0
+TT,Trane Technologies,Industrials,Building Products,Q1,2016,2016-04-26 00:00:00,0.02,0.756,0.224,1.0
+TDG,TransDigm Group,Industrials,Aerospace & Defense,Q1,2016,2016-02-09 17:52:06,0.034,0.778,0.187,1.0
+TRV,Travelers Companies (The),Financials,Property & Casualty Insurance,Q1,2016,2016-04-21 14:59:31,0.05,0.752,0.198,1.0
+TRMB,Trimble Inc.,Information Technology,Electronic Equipment & Instruments,Q1,2016,2016-04-29 03:23:23,0.043,0.763,0.194,1.0
+TFC,Truist,Financials,Regional Banks,Q1,2016,2016-04-21 14:27:34,0.025,0.736,0.239,1.0
+TYL,Tyler Technologies,Information Technology,Application Software,Q1,2016,2016-05-01 15:23:26,0.022,0.766,0.212,1.0
+TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,Q1,2016,2016-02-05 13:17:07,0.026,0.734,0.241,1.0
+USB,U.S. Bank,Financials,Diversified Banks,Q1,2016,2016-04-20 14:47:15,0.028,0.73,0.242,1.0
+UDR,"UDR, Inc.",Real Estate,Multi-Family Residential REITs,Q1,2016,2016-04-27 01:04:17,0.03,0.759,0.211,1.0
+ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,Q1,2016,2015-05-28 00:00:00,0.017,0.706,0.277,1.0
+UNP,Union Pacific Corporation,Industrials,Rail Transportation,Q1,2016,2016-04-21 14:31:28,0.048,0.748,0.204,1.0
+UAL,United Airlines Holdings,Industrials,Passenger Airlines,Q1,2016,2016-04-21 18:45:15,0.033,0.735,0.232,1.0
+UPS,United Parcel Service,Industrials,Air Freight & Logistics,Q1,2016,2016-04-29 01:37:29,0.024,0.733,0.243,1.0
+URI,United Rentals,Industrials,Trading Companies & Distributors,Q1,2016,2016-04-21 17:02:42,0.04,0.774,0.186,1.0
+UNH,UnitedHealth Group,Health Care,Managed Health Care,Q1,2016,2016-04-19 14:15:20,0.015,0.737,0.248,1.0
+UHS,Universal Health Services,Health Care,Health Care Facilities,Q1,2016,2016-05-01 17:00:00,0.038,0.707,0.254,1.0
+VLO,Valero Energy,Energy,Oil & Gas Refining & Marketing,Q1,2016,2016-05-03 19:23:24,0.053,0.743,0.204,1.0
+VTR,Ventas,Real Estate,Health Care REITs,Q1,2016,2016-04-29 22:49:04,0.035,0.712,0.253,1.0
+VRSN,Verisign,Information Technology,Internet Services & Infrastructure,Q1,2016,2016-04-28 19:51:18,0.023,0.786,0.191,0.9999
+VRSK,Verisk,Industrials,Research & Consulting Services,Q1,2016,2016-05-05 00:07:30,0.015,0.754,0.231,1.0
+VZ,Verizon,Communication Services,Integrated Telecommunication Services,Q1,2016,2016-04-21 14:29:12,0.028,0.776,0.195,1.0
+VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,Q1,2016,2016-04-27 23:44:18,0.018,0.78,0.201,1.0
+VTRS,Viatris,Health Care,Pharmaceuticals,Q1,2016,2016-05-03 14:35:24,0.024,0.761,0.215,1.0
+V,Visa Inc.,Financials,Transaction & Payment Processing Services,Q1,2016,2016-01-28 22:56:03,0.039,0.726,0.235,1.0
+VMC,Vulcan Materials Company,Materials,Construction Materials,Q1,2016,2016-05-03 16:07:11,0.031,0.749,0.22,1.0
+WRB,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,Q1,2016,2016-04-26 23:21:09,0.045,0.744,0.211,1.0
+GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,Q1,2016,2016-04-18 09:27:13,0.06,0.781,0.16,0.9995
+WAB,Wabtec,Industrials,Construction Machinery & Heavy Transportation Equipment,Q1,2016,2016-04-26 17:00:00,0.032,0.782,0.186,1.0
+WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,Q1,2016,2016-01-08 13:25:11,0.025,0.711,0.264,1.0
+WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,Q1,2016,2015-05-19 11:27:09,0.03,0.736,0.235,1.0
+DIS,Walt Disney Company (The),Communication Services,Movies & Entertainment,Q1,2016,2016-02-09 23:53:04,0.052,0.708,0.24,1.0
+WBD,Warner Bros. Discovery,Communication Services,Broadcasting,Q1,2016,2016-05-05 18:19:25,0.024,0.736,0.24,1.0
+WM,Waste Management,Industrials,Environmental & Facilities Services,Q1,2016,2016-04-29 01:35:12,0.036,0.761,0.202,1.0
+WAT,Waters Corporation,Health Care,Life Sciences Tools & Services,Q1,2016,2016-04-26 13:27:16,0.021,0.715,0.264,1.0
+WEC,WEC Energy Group,Utilities,Electric Utilities,Q1,2016,2016-05-03 18:51:15,0.014,0.791,0.195,1.0
+WFC,Wells Fargo,Financials,Diversified Banks,Q1,2016,2016-04-14 18:56:05,0.041,0.75,0.209,1.0
+WELL,Welltower,Real Estate,Health Care REITs,Q1,2016,2016-05-03 18:55:27,0.046,0.735,0.219,1.0
+WST,West Pharmaceutical Services,Health Care,Health Care Supplies,Q1,2016,2016-04-28 11:48:07,0.022,0.73,0.248,1.0
+WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2016,2015-10-29 17:00:00,0.033,0.771,0.196,1.0
+WRK,WestRock,Materials,Paper & Plastic Packaging Products & Materials,Q1,2016,2016-01-29 15:51:06,0.021,0.737,0.242,1.0
+WY,Weyerhaeuser,Real Estate,Timber REITs,Q1,2016,2016-05-06 15:47:28,0.02,0.798,0.182,1.0
+WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,Q1,2016,2016-05-05 17:25:23,0.032,0.74,0.229,1.0
+WTW,Willis Towers Watson,Financials,Insurance Brokers,Q1,2016,2016-05-06 00:00:00,0.026,0.762,0.212,1.0
+WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,Q1,2016,2016-05-07 01:03:18,0.028,0.757,0.215,1.0
+XEL,Xcel Energy,Utilities,Multi-Utilities,Q1,2016,2016-05-09 21:59:30,0.027,0.756,0.217,0.9999
+XYL,Xylem Inc.,Industrials,Industrial Machinery & Supplies & Components,Q1,2016,2016-05-03 15:39:23,0.021,0.737,0.242,1.0
+YUM,Yum! Brands,Consumer Discretionary,Restaurants,Q1,2016,2016-04-21 15:58:48,0.025,0.72,0.255,1.0
+ZBRA,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,Q1,2016,2016-05-10 13:23:12,0.042,0.732,0.226,1.0
+ZBH,Zimmer Biomet,Health Care,Health Care Equipment,Q1,2016,2016-04-28 12:47:15,0.025,0.726,0.249,1.0
+ZTS,Zoetis,Health Care,Pharmaceuticals,Q1,2016,2016-05-04 15:49:11,0.021,0.742,0.237,1.0
