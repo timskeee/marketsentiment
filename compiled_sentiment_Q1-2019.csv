@@ -1,0 +1,477 @@
+ticker,company,sector,sub-sector,quarter,year,date,score-neg,score-neu,score-pos,score-compound
+MMM,3M,Industrials,Industrial Conglomerates,Q1,2019,2019-04-25 16:46:17,0.039,0.73,0.23,1.0
+AOS,A. O. Smith,Industrials,Building Products,Q1,2019,2019-04-30 16:55:10,0.031,0.766,0.203,1.0
+ABT,Abbott,Health Care,Health Care Equipment,Q1,2019,2019-04-17 00:00:00,0.031,0.713,0.256,1.0
+ABBV,AbbVie,Health Care,Biotechnology,Q1,2019,2019-04-25 18:10:06,0.039,0.726,0.235,1.0
+ACN,Accenture,Information Technology,IT Consulting & Other Services,Q1,2019,2018-12-20 15:10:35,0.026,0.687,0.287,1.0
+ADBE,Adobe Inc.,Information Technology,Application Software,Q1,2019,2019-03-14 22:28:19,0.01,0.755,0.235,1.0
+AMD,Advanced Micro Devices,Information Technology,Semiconductors,Q1,2019,2018-07-25 20:47:17,0.022,0.756,0.222,1.0
+AES,AES Corporation,Utilities,Independent Power Producers & Energy Traders,Q1,2019,2019-05-07 12:25:04,0.025,0.779,0.196,1.0
+AFL,Aflac,Financials,Life & Health Insurance,Q1,2019,2019-04-26 14:59:07,0.039,0.749,0.211,1.0
+A,Agilent Technologies,Health Care,Life Sciences Tools & Services,Q1,2019,2019-02-20 23:37:07,0.026,0.716,0.258,1.0
+APD,Air Products and Chemicals,Materials,Industrial Gases,Q1,2019,2019-01-25 17:00:00,0.025,0.708,0.268,1.0
+AKAM,Akamai,Information Technology,Internet Services & Infrastructure,Q1,2019,2019-04-30 22:40:13,0.021,0.719,0.26,1.0
+ALB,Albemarle Corporation,Materials,Specialty Chemicals,Q1,2019,2019-05-09 18:18:19,0.034,0.771,0.195,1.0
+ARE,Alexandria Real Estate Equities,Real Estate,Office REITs,Q1,2019,2019-05-01 17:00:00,0.032,0.746,0.223,1.0
+ALGN,Align Technology,Health Care,Health Care Supplies,Q1,2019,2019-04-24 22:58:11,0.026,0.74,0.234,1.0
+ALLE,Allegion,Industrials,Building Products,Q1,2019,2019-04-26 00:26:14,0.02,0.723,0.258,1.0
+LNT,Alliant Energy,Utilities,Electric Utilities,Q1,2019,2019-05-03 15:53:10,0.016,0.721,0.263,0.9999
+ALL,Allstate,Financials,Property & Casualty Insurance,Q1,2019,2019-05-02 17:13:06,0.067,0.735,0.198,1.0
+GOOG,Alphabet Inc. (Class C),Communication Services,Interactive Media & Services,Q1,2019,2019-04-30 17:00:00,0.013,0.735,0.252,1.0
+MO,Altria,Consumer Staples,Tobacco,Q1,2019,2019-04-25 15:58:07,0.022,0.762,0.216,1.0
+AMZN,Amazon,Consumer Discretionary,Broadline Retail,Q1,2019,2019-04-25 23:05:06,0.016,0.748,0.237,1.0
+AEE,Ameren,Utilities,Multi-Utilities,Q1,2019,2019-05-09 15:47:08,0.019,0.75,0.232,1.0
+AAL,American Airlines Group,Industrials,Passenger Airlines,Q1,2019,2019-04-26 19:12:20,0.031,0.733,0.236,1.0
+AEP,American Electric Power,Utilities,Electric Utilities,Q1,2019,2019-04-25 12:30:06,0.027,0.756,0.217,1.0
+AXP,American Express,Financials,Consumer Finance,Q1,2019,2019-04-18 20:15:20,0.047,0.753,0.2,1.0
+AIG,American International Group,Financials,Multi-line Insurance,Q1,2019,2019-05-07 17:00:00,0.059,0.747,0.194,1.0
+AMT,American Tower,Real Estate,Telecom Tower REITs,Q1,2019,2019-05-03 13:40:15,0.017,0.76,0.223,1.0
+AWK,American Water Works,Utilities,Water Utilities,Q1,2019,2019-05-02 17:00:00,0.023,0.733,0.244,1.0
+AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks,Q1,2019,2019-04-25 14:12:08,0.028,0.7,0.273,1.0
+AME,Ametek,Industrials,Electrical Components & Equipment,Q1,2019,2019-05-01 14:56:08,0.03,0.702,0.268,1.0
+AMGN,Amgen,Health Care,Biotechnology,Q1,2019,2019-04-30 23:51:39,0.042,0.75,0.208,1.0
+APH,Amphenol,Information Technology,Electronic Components,Q1,2019,2019-04-24 20:08:07,0.026,0.738,0.236,1.0
+ADI,Analog Devices,Information Technology,Semiconductors,Q1,2019,2019-02-20 00:00:00,0.041,0.746,0.213,1.0
+ANSS,Ansys,Information Technology,Application Software,Q1,2019,2019-05-02 14:34:09,0.016,0.75,0.233,1.0
+AON,Aon,Financials,Insurance Brokers,Q1,2019,2019-04-26 14:49:15,0.032,0.698,0.27,1.0
+APA,APA Corporation,Energy,Oil & Gas Exploration & Production,Q1,2019,2019-05-02 17:12:07,0.034,0.738,0.228,1.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2019,2019-01-29 21:05:03,0.033,0.741,0.226,1.0
+AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,Q1,2019,2019-02-14 21:01:06,0.027,0.757,0.216,1.0
+APTV,Aptiv,Consumer Discretionary,Automotive Parts & Equipment,Q1,2019,2019-05-02 16:00:24,0.03,0.732,0.238,1.0
+ACGL,Arch Capital Group,Financials,Property & Casualty Insurance,Q1,2019,2019-05-01 14:21:33,0.064,0.744,0.192,0.9999
+ADM,Archer-Daniels-Midland,Consumer Staples,Agricultural Products & Services,Q1,2019,2019-04-26 20:53:16,0.044,0.761,0.195,1.0
+ANET,Arista Networks,Information Technology,Communications Equipment,Q1,2019,2019-05-02 23:27:06,0.03,0.756,0.213,1.0
+AJG,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,Q1,2019,2019-04-26 00:10:09,0.035,0.744,0.221,0.9999
+AIZ,Assurant,Financials,Multi-line Insurance,Q1,2019,2019-05-07 12:42:24,0.038,0.75,0.212,0.9999
+T,AT&T,Communication Services,Integrated Telecommunication Services,Q1,2019,2019-04-24 15:29:08,0.028,0.735,0.237,1.0
+ATO,Atmos Energy,Utilities,Gas Utilities,Q1,2019,2019-02-06 11:12:06,0.026,0.751,0.223,0.9999
+ADSK,Autodesk,Information Technology,Application Software,Q1,2019,2018-05-25 00:03:04,0.012,0.768,0.22,1.0
+ADP,Automatic Data Processing,Industrials,Human Resource & Employment Services,Q1,2019,2018-10-31 11:49:11,0.021,0.695,0.283,1.0
+AZO,AutoZone,Consumer Discretionary,Automotive Retail,Q1,2019,2018-12-04 13:46:04,0.033,0.751,0.216,1.0
+AVB,AvalonBay Communities,Real Estate,Multi-Family Residential REITs,Q1,2019,2019-04-25 00:00:00,0.037,0.751,0.212,1.0
+AVY,Avery Dennison,Materials,Paper & Plastic Packaging Products & Materials,Q1,2019,2019-04-24 16:33:10,0.02,0.74,0.24,1.0
+AXON,Axon Enterprise,Industrials,Aerospace & Defense,Q1,2019,2019-05-09 21:31:10,0.047,0.73,0.224,1.0
+BKR,Baker Hughes,Energy,Oil & Gas Equipment & Services,Q1,2019,2019-04-30 17:00:00,0.023,0.721,0.256,1.0
+BALL,Ball Corporation,Materials,"Metal, Glass & Plastic Containers",Q1,2019,2019-05-03 08:46:33,0.019,0.733,0.248,1.0
+BAC,Bank of America,Financials,Diversified Banks,Q1,2019,2019-04-16 17:00:00,0.035,0.735,0.23,1.0
+BK,Bank of New York Mellon,Financials,Asset Management & Custody Banks,Q1,2019,2019-04-17 17:00:00,0.035,0.712,0.253,1.0
+BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,Other Specialty Retail,Q1,2019,2018-05-24 00:00:00,0.022,0.706,0.272,1.0
+BAX,Baxter International,Health Care,Health Care Equipment,Q1,2019,2019-04-25 17:00:00,0.034,0.718,0.249,1.0
+BDX,Becton Dickinson,Health Care,Health Care Equipment,Q1,2019,2019-02-05 15:51:02,0.027,0.737,0.236,1.0
+BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,Q1,2019,2018-05-24 00:00:00,0.033,0.718,0.25,1.0
+BIO,Bio-Rad,Health Care,Life Sciences Tools & Services,Q1,2019,2019-05-09 00:09:08,0.032,0.734,0.234,1.0
+TECH,Bio-Techne,Health Care,Life Sciences Tools & Services,Q1,2019,2018-10-30 13:45:51,0.028,0.741,0.231,1.0
+BIIB,Biogen,Health Care,Biotechnology,Q1,2019,2019-04-24 16:06:20,0.04,0.755,0.205,1.0
+BLK,BlackRock,Financials,Asset Management & Custody Banks,Q1,2019,2019-04-16 13:29:08,0.037,0.737,0.226,1.0
+BX,Blackstone,Financials,Asset Management & Custody Banks,Q1,2019,2019-04-18 17:00:00,0.023,0.74,0.237,1.0
+BA,Boeing,Industrials,Aerospace & Defense,Q1,2019,2019-04-24 14:58:07,0.042,0.738,0.22,1.0
+BKNG,Booking Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2019,2019-05-09 22:18:24,0.024,0.76,0.216,1.0
+BWA,BorgWarner,Consumer Discretionary,Automotive Parts & Equipment,Q1,2019,2019-04-25 15:17:15,0.018,0.81,0.172,0.9999
+BXP,Boston Properties,Real Estate,Office REITs,Q1,2019,2019-05-01 18:02:09,0.036,0.744,0.219,1.0
+BSX,Boston Scientific,Health Care,Health Care Equipment,Q1,2019,2019-05-05 22:22:16,0.031,0.763,0.206,0.9999
+BMY,Bristol Myers Squibb,Health Care,Pharmaceuticals,Q1,2019,2019-04-25 15:26:18,0.035,0.744,0.221,1.0
+AVGO,Broadcom Inc.,Information Technology,Semiconductors,Q1,2019,2019-03-14 21:20:07,0.033,0.746,0.221,1.0
+BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,Q1,2019,2018-11-06 18:47:24,0.017,0.706,0.277,1.0
+BRO,Brown & Brown,Financials,Insurance Brokers,Q1,2019,2019-04-23 14:11:08,0.022,0.748,0.23,1.0
+BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,Q1,2019,2018-08-29 17:16:07,0.032,0.752,0.215,1.0
+BLDR,Builders FirstSource,Industrials,Building Products,Q1,2019,2019-05-03 20:03:06,0.03,0.72,0.25,1.0
+BG,Bunge Global SA,Consumer Staples,Agricultural Products & Services,Q1,2019,2019-05-09 02:11:04,0.058,0.713,0.23,1.0
+CDNS,Cadence Design Systems,Information Technology,Application Software,Q1,2019,2019-04-22 20:25:09,0.012,0.723,0.265,1.0
+CZR,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming,Q1,2019,2019-05-04 17:00:00,0.027,0.759,0.214,1.0
+CPT,Camden Property Trust,Real Estate,Multi-Family Residential REITs,Q1,2019,2019-05-03 16:37:15,0.033,0.736,0.231,1.0
+CPB,Campbell Soup Company,Consumer Staples,Packaged Foods & Meats,Q1,2019,2018-11-20 14:35:57,0.042,0.759,0.198,1.0
+COF,Capital One,Financials,Consumer Finance,Q1,2019,2019-04-25 22:18:07,0.019,0.741,0.241,1.0
+CAH,Cardinal Health,Health Care,Health Care Distributors,Q1,2019,2018-11-08 14:06:15,0.023,0.754,0.223,1.0
+KMX,CarMax,Consumer Discretionary,Automotive Retail,Q1,2019,2018-06-22 11:58:06,0.02,0.75,0.229,1.0
+CCL,Carnival,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2019,2019-03-26 13:28:05,0.028,0.752,0.22,1.0
+CTLT,Catalent,Health Care,Pharmaceuticals,Q1,2019,2018-11-06 14:24:19,0.026,0.789,0.185,1.0
+CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,Q1,2019,2019-04-24 20:19:10,0.034,0.755,0.212,1.0
+CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data,Q1,2019,2019-05-03 15:38:04,0.027,0.762,0.21,1.0
+CBRE,CBRE Group,Real Estate,Real Estate Services,Q1,2019,2019-05-08 12:55:10,0.01,0.736,0.254,1.0
+CDW,CDW,Information Technology,Technology Distributors,Q1,2019,2019-05-01 14:30:09,0.02,0.714,0.266,1.0
+CE,Celanese,Materials,Specialty Chemicals,Q1,2019,2019-04-23 16:40:10,0.03,0.732,0.238,1.0
+COR,Cencora,Health Care,Health Care Distributors,Q1,2019,2019-04-25 17:00:00,0.014,0.796,0.19,1.0
+CNC,Centene Corporation,Health Care,Managed Health Care,Q1,2019,2019-04-23 15:38:15,0.022,0.743,0.234,1.0
+CNP,CenterPoint Energy,Utilities,Multi-Utilities,Q1,2019,2019-05-09 00:00:00,0.03,0.79,0.18,1.0
+CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals,Q1,2019,2019-05-02 15:30:09,0.031,0.776,0.193,1.0
+CHRW,CH Robinson,Industrials,Air Freight & Logistics,Q1,2019,2019-05-01 13:18:19,0.015,0.754,0.231,1.0
+CRL,Charles River Laboratories,Health Care,Life Sciences Tools & Services,Q1,2019,2019-05-07 17:00:00,0.028,0.754,0.218,1.0
+CHTR,Charter Communications,Communication Services,Cable & Satellite,Q1,2019,2019-04-30 17:00:00,0.026,0.759,0.215,1.0
+CVX,Chevron Corporation,Energy,Integrated Oil & Gas,Q1,2019,2019-04-26 15:50:18,0.03,0.724,0.246,1.0
+CMG,Chipotle Mexican Grill,Consumer Discretionary,Restaurants,Q1,2019,2019-04-24 23:03:09,0.014,0.743,0.243,1.0
+CB,Chubb Limited,Financials,Property & Casualty Insurance,Q1,2019,2019-05-01 14:28:08,0.074,0.722,0.204,0.9999
+CHD,Church & Dwight,Consumer Staples,Household Products,Q1,2019,2019-05-02 16:31:21,0.037,0.73,0.233,1.0
+CI,Cigna,Health Care,Health Care Services,Q1,2019,2019-05-02 14:12:08,0.022,0.743,0.235,1.0
+CINF,Cincinnati Financial,Financials,Property & Casualty Insurance,Q1,2019,2019-04-25 15:41:21,0.055,0.725,0.22,0.9999
+CTAS,Cintas,Industrials,Diversified Support Services,Q1,2019,2018-09-25 21:19:03,0.035,0.723,0.242,1.0
+CSCO,Cisco,Information Technology,Communications Equipment,Q1,2019,2018-11-14 21:06:08,0.017,0.737,0.246,1.0
+C,Citigroup,Financials,Diversified Banks,Q1,2019,2019-04-15 18:07:08,0.021,0.716,0.263,1.0
+CFG,Citizens Financial Group,Financials,Regional Banks,Q1,2019,2019-04-18 17:00:00,0.024,0.706,0.27,1.0
+CLX,Clorox,Consumer Staples,Household Products,Q1,2019,2018-10-31 19:22:17,0.028,0.71,0.262,1.0
+CME,CME Group,Financials,Financial Exchanges & Data,Q1,2019,2019-05-01 15:09:08,0.025,0.722,0.252,1.0
+CMS,CMS Energy,Utilities,Multi-Utilities,Q1,2019,2019-04-25 12:30:13,0.026,0.757,0.217,1.0
+KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q1,2019,2019-04-23 14:24:06,0.026,0.711,0.263,1.0
+CTSH,Cognizant,Information Technology,IT Consulting & Other Services,Q1,2019,2019-05-03 17:00:00,0.027,0.718,0.255,1.0
+CL,Colgate-Palmolive,Consumer Staples,Household Products,Q1,2019,2019-04-26 16:09:07,0.033,0.693,0.273,1.0
+CMCSA,Comcast,Communication Services,Cable & Satellite,Q1,2019,2019-04-25 14:32:10,0.015,0.735,0.249,1.0
+CMA,Comerica,Financials,Diversified Banks,Q1,2019,2019-04-16 14:46:09,0.03,0.727,0.244,1.0
+CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,Q1,2019,2018-09-27 15:32:04,0.033,0.746,0.221,1.0
+COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,Q1,2019,2019-04-30 18:39:14,0.029,0.724,0.247,1.0
+STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,Q1,2019,2018-06-29 17:07:08,0.044,0.715,0.241,1.0
+COO,CooperCompanies,Health Care,Health Care Supplies,Q1,2019,2019-03-06 00:03:04,0.027,0.692,0.282,1.0
+CPRT,Copart,Industrials,Diversified Support Services,Q1,2019,2018-11-21 16:44:08,0.049,0.754,0.197,1.0
+GLW,Corning Inc.,Information Technology,Electronic Components,Q1,2019,2019-04-30 14:31:03,0.027,0.711,0.262,1.0
+CPAY,Corpay,Financials,Transaction & Payment Processing Services,Q1,2019,2019-05-07 00:00:00,0.022,0.778,0.2,1.0
+CSGP,CoStar Group,Real Estate,Real Estate Services,Q1,2019,2019-04-23 21:46:18,0.022,0.757,0.221,1.0
+COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,Q1,2019,2018-12-14 17:00:00,0.034,0.793,0.173,1.0
+CTRA,Coterra,Energy,Oil & Gas Exploration & Production,Q1,2019,2019-04-26 14:18:18,0.021,0.706,0.274,1.0
+CCI,Crown Castle,Real Estate,Telecom Tower REITs,Q1,2019,2019-04-18 16:58:08,0.024,0.744,0.232,1.0
+CSX,CSX,Industrials,Rail Transportation,Q1,2019,2019-04-16 23:46:19,0.031,0.695,0.274,1.0
+CMI,Cummins,Industrials,Construction Machinery & Heavy Transportation Equipment,Q1,2019,2019-01-29 14:28:09,0.021,0.74,0.239,1.0
+CVS,CVS Health,Health Care,Health Care Services,Q1,2019,2019-05-01 11:38:05,0.017,0.733,0.25,1.0
+DHR,Danaher Corporation,Health Care,Life Sciences Tools & Services,Q1,2019,2019-04-18 13:54:09,0.026,0.717,0.257,1.0
+DRI,Darden Restaurants,Consumer Discretionary,Restaurants,Q1,2019,2018-09-20 15:36:04,0.018,0.718,0.263,1.0
+DVA,DaVita Inc.,Health Care,Health Care Services,Q1,2019,2019-05-07 22:46:06,0.049,0.726,0.225,1.0
+DAY,Dayforce,Industrials,Human Resource & Employment Services,Q1,2019,2019-05-01 00:00:00,0.032,0.779,0.189,1.0
+DECK,Deckers Brands,Consumer Discretionary,Footwear,Q1,2019,2018-07-26 22:53:17,0.019,0.72,0.262,1.0
+DE,John Deere,Industrials,Agricultural & Farm Machinery,Q1,2019,2019-02-15 15:43:07,0.044,0.77,0.186,1.0
+DAL,Delta Air Lines,Industrials,Passenger Airlines,Q1,2019,2019-04-10 16:38:09,0.019,0.695,0.286,1.0
+DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,Q1,2019,2019-05-01 18:36:24,0.017,0.72,0.263,1.0
+DXCM,Dexcom,Health Care,Health Care Equipment,Q1,2019,2019-05-02 02:29:08,0.03,0.738,0.231,1.0
+FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production,Q1,2019,2019-05-08 17:00:00,0.027,0.745,0.228,1.0
+DLR,Digital Realty,Real Estate,Data Center REITs,Q1,2019,2019-04-26 02:11:09,0.035,0.778,0.186,1.0
+DFS,Discover Financial,Financials,Consumer Finance,Q1,2019,2019-04-26 17:00:00,0.021,0.724,0.254,1.0
+DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,Q1,2019,2018-05-31 00:00:00,0.023,0.728,0.249,1.0
+DLTR,Dollar Tree,Consumer Staples,Consumer Staples Merchandise Retail,Q1,2019,2018-05-31 00:00:00,0.028,0.784,0.188,1.0
+D,Dominion Energy,Utilities,Multi-Utilities,Q1,2019,2019-05-03 17:02:07,0.028,0.749,0.223,1.0
+DPZ,Domino's,Consumer Discretionary,Restaurants,Q1,2019,2019-04-24 16:38:05,0.024,0.712,0.263,1.0
+DOV,Dover Corporation,Industrials,Industrial Machinery & Supplies & Components,Q1,2019,2019-04-18 16:35:10,0.031,0.738,0.232,1.0
+DOW,Dow Inc.,Materials,Commodity Chemicals,Q1,2019,2019-05-02 00:00:00,0.03,0.797,0.173,1.0
+DHI,DR Horton,Consumer Discretionary,Homebuilding,Q1,2019,2019-01-25 15:18:04,0.03,0.736,0.234,1.0
+DTE,DTE Energy,Utilities,Multi-Utilities,Q1,2019,2019-04-24 13:39:07,0.012,0.741,0.247,1.0
+DUK,Duke Energy,Utilities,Electric Utilities,Q1,2019,2019-05-09 14:16:53,0.017,0.733,0.25,1.0
+DD,DuPont,Materials,Specialty Chemicals,Q1,2019,2019-05-02 12:46:19,0.033,0.74,0.227,1.0
+EMN,Eastman Chemical Company,Materials,Specialty Chemicals,Q1,2019,2019-04-26 15:29:06,0.05,0.715,0.235,1.0
+ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,Q1,2019,2019-04-30 20:02:10,0.03,0.724,0.246,1.0
+EBAY,eBay,Consumer Discretionary,Broadline Retail,Q1,2019,2019-04-23 21:04:11,0.021,0.742,0.238,1.0
+ECL,Ecolab,Materials,Specialty Chemicals,Q1,2019,2019-04-30 16:31:49,0.026,0.723,0.251,1.0
+EIX,Edison International,Utilities,Electric Utilities,Q1,2019,2019-04-30 23:33:06,0.068,0.76,0.173,0.9999
+EW,Edwards Lifesciences,Health Care,Health Care Equipment,Q1,2019,2019-04-23 21:27:06,0.035,0.701,0.264,1.0
+EA,Electronic Arts,Communication Services,Interactive Home Entertainment,Q1,2019,2018-07-26 21:47:11,0.031,0.747,0.222,1.0
+ELV,Elevance Health,Health Care,Managed Health Care,Q1,2019,2019-04-24 14:31:08,0.021,0.699,0.28,1.0
+LLY,Eli Lilly and Company,Health Care,Pharmaceuticals,Q1,2019,2019-04-30 16:09:07,0.035,0.729,0.236,1.0
+EMR,Emerson Electric,Industrials,Electrical Components & Equipment,Q1,2019,2019-02-05 22:32:06,0.024,0.791,0.185,1.0
+ENPH,Enphase,Information Technology,Semiconductor Materials & Equipment,Q1,2019,2019-04-30 23:06:08,0.037,0.753,0.209,1.0
+ETR,Entergy,Utilities,Electric Utilities,Q1,2019,2019-05-01 16:23:09,0.029,0.733,0.237,1.0
+EOG,EOG Resources,Energy,Oil & Gas Exploration & Production,Q1,2019,2019-05-03 17:37:09,0.028,0.702,0.27,1.0
+EPAM,EPAM Systems,Information Technology,IT Consulting & Other Services,Q1,2019,2019-05-09 17:46:22,0.029,0.697,0.274,1.0
+EQT,EQT Corporation,Energy,Oil & Gas Exploration & Production,Q1,2019,2019-04-25 23:34:07,0.059,0.698,0.243,1.0
+EFX,Equifax,Industrials,Research & Consulting Services,Q1,2019,2019-05-10 15:53:09,0.023,0.726,0.251,1.0
+EQIX,Equinix,Real Estate,Data Center REITs,Q1,2019,2019-05-01 22:52:09,0.019,0.76,0.221,1.0
+EQR,Equity Residential,Real Estate,Multi-Family Residential REITs,Q1,2019,2019-05-01 16:57:06,0.037,0.718,0.245,1.0
+ESS,Essex Property Trust,Real Estate,Multi-Family Residential REITs,Q1,2019,2019-04-25 18:40:09,0.036,0.753,0.211,1.0
+EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,Q1,2019,2018-10-31 14:29:25,0.02,0.674,0.307,1.0
+ETSY,Etsy,Consumer Discretionary,Broadline Retail,Q1,2019,2019-05-09 00:43:06,0.013,0.704,0.282,1.0
+EVRG,Evergy,Utilities,Electric Utilities,Q1,2019,2019-05-12 13:01:02,0.036,0.755,0.209,0.9999
+ES,Eversource,Utilities,Electric Utilities,Q1,2019,2019-05-02 22:48:05,0.029,0.768,0.203,0.9999
+EXC,Exelon,Utilities,Electric Utilities,Q1,2019,2019-05-02 15:49:07,0.027,0.734,0.239,1.0
+EXPE,Expedia Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2019,2019-05-02 23:53:09,0.02,0.735,0.245,1.0
+EXR,Extra Space Storage,Real Estate,Self-Storage REITs,Q1,2019,2019-05-02 03:24:17,0.036,0.759,0.205,0.9999
+XOM,ExxonMobil,Energy,Integrated Oil & Gas,Q1,2019,2019-04-26 17:11:22,0.033,0.717,0.249,1.0
+FFIV,"F5, Inc.",Information Technology,Communications Equipment,Q1,2019,2019-01-23 19:56:11,0.023,0.767,0.21,1.0
+FDS,FactSet,Financials,Financial Exchanges & Data,Q1,2019,2018-12-18 15:30:05,0.027,0.721,0.253,1.0
+FICO,Fair Isaac,Information Technology,Application Software,Q1,2019,2019-01-30 22:39:03,0.021,0.775,0.204,0.9999
+FAST,Fastenal,Industrials,Trading Companies & Distributors,Q1,2019,2019-04-11 16:49:08,0.051,0.708,0.241,1.0
+FRT,Federal Realty,Real Estate,Retail REITs,Q1,2019,2019-05-03 17:09:08,0.027,0.745,0.228,1.0
+FDX,FedEx,Industrials,Air Freight & Logistics,Q1,2019,2018-09-17 19:18:04,0.032,0.737,0.231,1.0
+FIS,Fidelity National Information Services,Financials,Transaction & Payment Processing Services,Q1,2019,2019-04-30 17:00:00,0.018,0.697,0.285,1.0
+FITB,Fifth Third Bank,Financials,Diversified Banks,Q1,2019,2019-04-23 16:24:09,0.031,0.748,0.221,1.0
+FSLR,First Solar,Information Technology,Semiconductors,Q1,2019,2019-05-02 20:14:04,0.036,0.775,0.189,1.0
+FE,FirstEnergy,Utilities,Electric Utilities,Q1,2019,2019-04-24 17:41:27,0.034,0.747,0.219,1.0
+FI,Fiserv,Financials,Transaction & Payment Processing Services,Q1,2019,2019-05-11 17:00:00,0.014,0.809,0.177,0.9999
+FMC,FMC Corporation,Materials,Fertilizers & Agricultural Chemicals,Q1,2019,2019-05-07 12:38:04,0.029,0.759,0.212,1.0
+F,Ford Motor Company,Consumer Discretionary,Automobile Manufacturers,Q1,2019,2019-04-25 21:49:13,0.028,0.712,0.261,1.0
+FTNT,Fortinet,Information Technology,Systems Software,Q1,2019,2019-05-02 23:46:37,0.018,0.72,0.262,1.0
+FTV,Fortive,Industrials,Industrial Machinery & Supplies & Components,Q1,2019,2019-04-26 00:06:12,0.025,0.717,0.258,1.0
+BEN,Franklin Templeton,Financials,Asset Management & Custody Banks,Q1,2019,2019-01-30 16:40:08,0.038,0.709,0.253,1.0
+FCX,Freeport-McMoRan,Materials,Copper,Q1,2019,2019-04-25 19:25:07,0.039,0.764,0.197,1.0
+GRMN,Garmin,Consumer Discretionary,Consumer Electronics,Q1,2019,2019-05-01 15:41:33,0.024,0.706,0.27,1.0
+IT,Gartner,Information Technology,IT Consulting & Other Services,Q1,2019,2019-05-07 12:56:15,0.02,0.757,0.223,1.0
+GE,GE Aerospace,Industrials,Aerospace & Defense,Q1,2019,2019-04-30 16:16:31,0.036,0.747,0.217,1.0
+GEN,Gen Digital,Information Technology,Systems Software,Q1,2019,2018-08-02 23:19:10,0.019,0.797,0.184,1.0
+GNRC,Generac,Industrials,Electrical Components & Equipment,Q1,2019,2019-05-02 17:39:08,0.023,0.747,0.23,1.0
+GD,General Dynamics,Industrials,Aerospace & Defense,Q1,2019,2019-04-24 14:53:22,0.051,0.7,0.249,0.9999
+GIS,General Mills,Consumer Staples,Packaged Foods & Meats,Q1,2019,2018-09-18 14:44:06,0.024,0.74,0.236,1.0
+GM,General Motors,Consumer Discretionary,Automobile Manufacturers,Q1,2019,2019-04-30 15:44:09,0.028,0.746,0.226,1.0
+GPC,Genuine Parts Company,Consumer Discretionary,Distributors,Q1,2019,2019-04-18 14:53:08,0.021,0.725,0.254,1.0
+GILD,Gilead Sciences,Health Care,Biotechnology,Q1,2019,2019-05-02 22:09:07,0.02,0.741,0.24,1.0
+GPN,Global Payments,Financials,Transaction & Payment Processing Services,Q1,2019,2019-05-05 12:47:08,0.019,0.787,0.194,1.0
+GL,Globe Life,Financials,Life & Health Insurance,Q1,2019,2019-04-18 15:39:08,0.018,0.774,0.208,0.9999
+GS,Goldman Sachs,Financials,Investment Banking & Brokerage,Q1,2019,2019-04-15 16:11:18,0.033,0.771,0.197,1.0
+HAL,Halliburton,Energy,Oil & Gas Equipment & Services,Q1,2019,2019-04-22 14:23:17,0.032,0.743,0.225,1.0
+HIG,Hartford (The),Financials,Property & Casualty Insurance,Q1,2019,2019-05-02 17:00:00,0.043,0.735,0.223,1.0
+HAS,Hasbro,Consumer Discretionary,Leisure Products,Q1,2019,2019-04-23 12:53:06,0.028,0.721,0.251,1.0
+HCA,HCA Healthcare,Health Care,Health Care Facilities,Q1,2019,2019-04-30 16:50:05,0.022,0.71,0.268,1.0
+DOC,Healthpeak,Real Estate,Health Care REITs,Q1,2019,2019-05-01 15:03:08,0.03,0.732,0.238,1.0
+HSIC,Henry Schein,Health Care,Health Care Distributors,Q1,2019,2019-05-07 17:14:10,0.018,0.742,0.24,1.0
+HSY,Hershey's,Consumer Staples,Packaged Foods & Meats,Q1,2019,2019-04-25 15:09:09,0.032,0.701,0.267,1.0
+HES,Hess Corporation,Energy,Integrated Oil & Gas,Q1,2019,2019-04-25 15:43:10,0.033,0.784,0.183,0.9999
+HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2019,2019-02-21 23:14:08,0.024,0.723,0.253,1.0
+HLT,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2019,2019-05-02 17:00:00,0.019,0.726,0.255,1.0
+HOLX,Hologic,Health Care,Health Care Equipment,Q1,2019,2019-01-30 21:44:05,0.025,0.74,0.235,1.0
+HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,Q1,2019,2019-05-21 15:00:06,0.043,0.747,0.21,1.0
+HON,Honeywell,Industrials,Industrial Conglomerates,Q1,2019,2019-04-18 17:00:00,0.037,0.712,0.252,1.0
+HRL,Hormel Foods,Consumer Staples,Packaged Foods & Meats,Q1,2019,2019-02-21 16:01:09,0.031,0.748,0.221,1.0
+HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,Q1,2019,2019-05-02 16:01:36,0.026,0.733,0.241,1.0
+HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2019,2019-02-27 00:00:00,0.031,0.746,0.223,1.0
+HUBB,Hubbell Incorporated,Industrials,Industrial Machinery & Supplies & Components,Q1,2019,2019-04-30 17:32:06,0.026,0.707,0.267,1.0
+HUM,Humana,Health Care,Managed Health Care,Q1,2019,2019-05-01 13:56:28,0.031,0.722,0.247,1.0
+HBAN,Huntington Bancshares,Financials,Regional Banks,Q1,2019,2019-04-25 15:26:27,0.029,0.727,0.244,1.0
+HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,Q1,2019,2019-05-02 17:00:00,0.045,0.751,0.204,1.0
+IBM,IBM,Information Technology,IT Consulting & Other Services,Q1,2019,2019-04-16 20:53:08,0.025,0.742,0.233,1.0
+IEX,IDEX Corporation,Industrials,Industrial Machinery & Supplies & Components,Q1,2019,2019-04-26 16:28:09,0.042,0.752,0.206,1.0
+IDXX,Idexx Laboratories,Health Care,Health Care Equipment,Q1,2019,2019-05-01 15:43:07,0.024,0.688,0.288,1.0
+ITW,Illinois Tool Works,Industrials,Industrial Machinery & Supplies & Components,Q1,2019,2019-04-25 15:39:14,0.024,0.742,0.234,1.0
+ILMN,Illumina,Health Care,Life Sciences Tools & Services,Q1,2019,2019-04-25 23:56:27,0.026,0.801,0.172,1.0
+INCY,Incyte,Health Care,Biotechnology,Q1,2019,2019-04-30 13:46:30,0.04,0.769,0.191,1.0
+IR,Ingersoll Rand,Industrials,Industrial Machinery & Supplies & Components,Q1,2019,2019-05-03 22:51:18,0.028,0.717,0.255,1.0
+PODD,Insulet,Health Care,Health Care Equipment,Q1,2019,2019-05-02 21:10:21,0.018,0.722,0.261,1.0
+INTC,Intel,Information Technology,Semiconductors,Q1,2019,2019-04-25 22:12:06,0.054,0.759,0.187,1.0
+ICE,Intercontinental Exchange,Financials,Financial Exchanges & Data,Q1,2019,2019-05-02 14:28:06,0.025,0.746,0.229,1.0
+IFF,International Flavors & Fragrances,Materials,Specialty Chemicals,Q1,2019,2019-05-08 17:00:00,0.019,0.74,0.241,1.0
+IP,International Paper,Materials,Paper & Plastic Packaging Products & Materials,Q1,2019,2019-04-25 17:43:07,0.037,0.755,0.208,1.0
+IPG,Interpublic Group of Companies (The),Communication Services,Advertising,Q1,2019,2019-04-26 14:32:10,0.022,0.719,0.26,1.0
+INTU,Intuit,Information Technology,Application Software,Q1,2019,2018-11-19 20:18:05,0.018,0.743,0.239,1.0
+ISRG,Intuitive Surgical,Health Care,Health Care Equipment,Q1,2019,2019-04-18 20:29:07,0.025,0.753,0.222,1.0
+IVZ,Invesco,Financials,Asset Management & Custody Banks,Q1,2019,2019-04-25 18:32:09,0.022,0.733,0.245,1.0
+INVH,Invitation Homes,Real Estate,Single-Family Residential REITs,Q1,2019,2019-05-07 17:46:18,0.025,0.711,0.264,1.0
+IQV,IQVIA,Health Care,Life Sciences Tools & Services,Q1,2019,2019-05-01 20:10:05,0.019,0.711,0.27,1.0
+IRM,Iron Mountain,Real Estate,Other Specialized REITs,Q1,2019,2019-04-25 15:08:08,0.029,0.774,0.198,1.0
+JBHT,J.B. Hunt,Industrials,Cargo Ground Transportation,Q1,2019,2019-04-16 17:00:00,0.035,0.757,0.208,1.0
+JBL,Jabil,Information Technology,Electronic Manufacturing Services,Q1,2019,2018-12-18 20:36:15,0.016,0.699,0.285,1.0
+JKHY,Jack Henry & Associates,Financials,Transaction & Payment Processing Services,Q1,2019,2018-11-07 14:44:07,0.012,0.775,0.213,1.0
+J,Jacobs Solutions,Industrials,Construction & Engineering,Q1,2019,2019-02-06 16:54:08,0.021,0.731,0.248,1.0
+JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,Q1,2019,2019-04-16 14:21:20,0.028,0.714,0.258,1.0
+JCI,Johnson Controls,Industrials,Building Products,Q1,2019,2019-02-01 17:00:00,0.02,0.713,0.268,1.0
+JPM,JPMorgan Chase,Financials,Diversified Banks,Q1,2019,2019-04-12 18:22:08,0.04,0.739,0.221,1.0
+JNPR,Juniper Networks,Information Technology,Communications Equipment,Q1,2019,2019-04-25 23:01:20,0.024,0.724,0.252,1.0
+K,Kellanova,Consumer Staples,Packaged Foods & Meats,Q1,2019,2019-05-02 13:30:07,0.031,0.708,0.261,1.0
+KDP,Keurig Dr Pepper,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q1,2019,2019-05-09 15:11:11,0.027,0.734,0.238,1.0
+KEY,KeyCorp,Financials,Regional Banks,Q1,2019,2019-04-18 16:10:08,0.033,0.721,0.246,1.0
+KEYS,Keysight,Information Technology,Electronic Equipment & Instruments,Q1,2019,2019-02-21 22:37:07,0.024,0.716,0.259,1.0
+KMB,Kimberly-Clark,Consumer Staples,Household Products,Q1,2019,2019-04-22 17:31:09,0.016,0.688,0.295,1.0
+KIM,Kimco Realty,Real Estate,Retail REITs,Q1,2019,2019-05-02 15:44:05,0.039,0.726,0.235,1.0
+KMI,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,Q1,2019,2019-04-17 22:51:18,0.039,0.748,0.213,1.0
+KLAC,KLA Corporation,Information Technology,Semiconductor Materials & Equipment,Q1,2019,2018-10-29 23:45:04,0.023,0.781,0.196,1.0
+KR,Kroger,Consumer Staples,Food Retail,Q1,2019,2018-06-21 00:00:00,0.02,0.752,0.229,1.0
+LH,LabCorp,Health Care,Health Care Services,Q1,2019,2019-04-30 14:22:08,0.031,0.731,0.238,1.0
+LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,Q1,2019,2018-10-16 20:30:06,0.024,0.71,0.266,1.0
+LW,Lamb Weston,Consumer Staples,Packaged Foods & Meats,Q1,2019,2018-10-02 15:26:05,0.048,0.714,0.237,1.0
+LVS,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,Q1,2019,2019-04-17 22:13:08,0.048,0.681,0.271,1.0
+LDOS,Leidos,Industrials,Diversified Support Services,Q1,2019,2019-04-30 15:04:08,0.035,0.721,0.244,1.0
+LEN,Lennar,Consumer Discretionary,Homebuilding,Q1,2019,2019-03-27 18:52:05,0.038,0.761,0.201,1.0
+LIN,Linde plc,Materials,Industrial Gases,Q1,2019,2019-05-10 16:21:21,0.037,0.749,0.214,1.0
+LYV,Live Nation Entertainment,Communication Services,Movies & Entertainment,Q1,2019,2019-05-03 17:00:00,0.017,0.742,0.241,1.0
+LKQ,LKQ Corporation,Consumer Discretionary,Distributors,Q1,2019,2019-04-25 14:11:25,0.045,0.745,0.21,1.0
+LMT,Lockheed Martin,Industrials,Aerospace & Defense,Q1,2019,2019-04-23 17:00:00,0.038,0.73,0.232,1.0
+L,Loews Corporation,Financials,Multi-line Insurance,Q1,2019,2019-04-29 13:23:12,0.031,0.728,0.241,1.0
+LOW,Lowe's,Consumer Discretionary,Home Improvement Retail,Q1,2019,2018-05-23 00:00:00,0.026,0.708,0.266,1.0
+LULU,Lululemon Athletica,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q1,2019,2019-06-12 00:00:00,0.02,0.728,0.252,1.0
+LYB,LyondellBasell,Materials,Specialty Chemicals,Q1,2019,2019-04-26 15:50:15,0.05,0.758,0.191,1.0
+MTB,M&T Bank,Financials,Regional Banks,Q1,2019,2019-04-15 18:22:08,0.044,0.77,0.186,1.0
+MRO,Marathon Oil,Energy,Oil & Gas Exploration & Production,Q1,2019,2019-05-02 13:26:18,0.026,0.701,0.273,1.0
+MPC,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing,Q1,2019,2019-05-08 16:13:20,0.032,0.773,0.195,1.0
+MKTX,MarketAxess,Financials,Financial Exchanges & Data,Q1,2019,2019-04-24 13:35:08,0.022,0.743,0.236,1.0
+MAR,Marriott International,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2019,2019-05-10 19:59:06,0.032,0.72,0.248,1.0
+MMC,Marsh McLennan,Financials,Insurance Brokers,Q1,2019,2019-04-25 14:44:10,0.045,0.699,0.256,1.0
+MLM,Martin Marietta Materials,Materials,Construction Materials,Q1,2019,2019-04-30 19:18:07,0.027,0.725,0.248,1.0
+MAS,Masco,Industrials,Building Products,Q1,2019,2019-04-25 13:09:05,0.035,0.745,0.22,1.0
+MA,Mastercard,Financials,Transaction & Payment Processing Services,Q1,2019,2019-04-30 15:23:10,0.021,0.762,0.217,1.0
+MTCH,Match Group,Communication Services,Interactive Media & Services,Q1,2019,2019-05-08 12:39:20,0.012,0.753,0.234,1.0
+MKC,McCormick & Company,Consumer Staples,Packaged Foods & Meats,Q1,2019,2019-03-26 17:00:00,0.019,0.714,0.267,1.0
+MCD,McDonald's,Consumer Discretionary,Restaurants,Q1,2019,2019-04-30 18:02:10,0.02,0.709,0.271,1.0
+MCK,McKesson Corporation,Health Care,Health Care Distributors,Q1,2019,2018-07-26 12:27:22,0.024,0.744,0.232,1.0
+MDT,Medtronic,Health Care,Health Care Equipment,Q1,2019,2018-08-21 13:18:05,0.026,0.693,0.282,1.0
+MRK,Merck & Co.,Health Care,Pharmaceuticals,Q1,2019,2019-04-30 15:31:40,0.055,0.703,0.242,1.0
+META,Meta Platforms,Communication Services,Interactive Media & Services,Q1,2019,2019-04-24 22:41:35,0.028,0.728,0.244,1.0
+MET,MetLife,Financials,Life & Health Insurance,Q1,2019,2019-05-02 15:27:07,0.034,0.72,0.246,1.0
+MTD,Mettler Toledo,Health Care,Life Sciences Tools & Services,Q1,2019,2019-05-10 00:39:09,0.023,0.713,0.264,1.0
+MGM,MGM Resorts,Consumer Discretionary,Casinos & Gaming,Q1,2019,2019-04-29 22:24:06,0.017,0.753,0.231,1.0
+MCHP,Microchip Technology,Information Technology,Semiconductors,Q1,2019,2018-08-10 17:00:00,0.048,0.761,0.191,1.0
+MU,Micron Technology,Information Technology,Semiconductors,Q1,2019,2018-12-18 23:13:06,0.046,0.727,0.228,1.0
+MSFT,Microsoft,Information Technology,Systems Software,Q1,2019,2018-10-24 21:25:23,0.018,0.695,0.287,1.0
+MAA,Mid-America Apartment Communities,Real Estate,Multi-Family Residential REITs,Q1,2019,2019-05-02 17:00:00,0.027,0.758,0.216,1.0
+MRNA,Moderna,Health Care,Biotechnology,Q1,2019,2019-05-09 01:12:15,0.027,0.793,0.179,1.0
+MHK,Mohawk Industries,Consumer Discretionary,Home Furnishings,Q1,2019,2019-04-26 15:11:20,0.042,0.759,0.199,1.0
+MOH,Molina Healthcare,Health Care,Managed Health Care,Q1,2019,2019-04-30 15:13:13,0.026,0.724,0.25,1.0
+TAP,Molson Coors Beverage Company,Consumer Staples,Brewers,Q1,2019,2019-05-01 17:24:08,0.017,0.74,0.244,1.0
+MDLZ,Mondelez International,Consumer Staples,Packaged Foods & Meats,Q1,2019,2019-05-01 17:00:00,0.034,0.68,0.285,1.0
+MPWR,Monolithic Power Systems,Information Technology,Semiconductors,Q1,2019,2019-05-05 17:00:00,0.045,0.757,0.199,0.9999
+MNST,Monster Beverage,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q1,2019,2019-05-03 17:00:00,0.026,0.757,0.217,1.0
+MCO,Moody's Corporation,Financials,Financial Exchanges & Data,Q1,2019,2019-04-24 18:27:08,0.055,0.739,0.206,1.0
+MS,Morgan Stanley,Financials,Investment Banking & Brokerage,Q1,2019,2019-02-26 16:01:08,0.027,0.745,0.229,1.0
+MOS,Mosaic Company (The),Materials,Fertilizers & Agricultural Chemicals,Q1,2019,2019-05-07 15:21:30,0.039,0.787,0.175,1.0
+MSI,Motorola Solutions,Information Technology,Communications Equipment,Q1,2019,2019-05-02 21:36:08,0.027,0.779,0.194,1.0
+MSCI,MSCI,Financials,Financial Exchanges & Data,Q1,2019,2019-05-02 19:05:28,0.023,0.72,0.258,1.0
+NDAQ,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,Q1,2019,2019-04-24 13:06:22,0.018,0.741,0.241,1.0
+NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2019,2018-08-16 00:46:05,0.014,0.729,0.257,1.0
+NFLX,Netflix,Communication Services,Movies & Entertainment,Q1,2019,2019-04-16 22:28:18,0.016,0.73,0.253,1.0
+NEM,Newmont,Materials,Gold,Q1,2019,2019-04-25 17:00:00,0.025,0.752,0.223,1.0
+NWSA,News Corp (Class A),Communication Services,Publishing,Q1,2019,2018-11-07 20:56:21,0.023,0.773,0.204,1.0
+NEE,NextEra Energy,Utilities,Multi-Utilities,Q1,2019,2019-04-23 15:24:20,0.023,0.746,0.232,1.0
+NKE,"Nike, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q1,2019,2018-09-25 22:27:06,0.023,0.708,0.269,1.0
+NI,NiSource,Utilities,Multi-Utilities,Q1,2019,2019-05-01 17:09:09,0.028,0.755,0.217,1.0
+NDSN,Nordson Corporation,Industrials,Industrial Machinery & Supplies & Components,Q1,2019,2019-02-21 17:00:00,0.015,0.767,0.217,1.0
+NSC,Norfolk Southern Railway,Industrials,Rail Transportation,Q1,2019,2019-04-24 15:05:05,0.019,0.742,0.239,1.0
+NTRS,Northern Trust,Financials,Asset Management & Custody Banks,Q1,2019,2019-04-23 18:15:08,0.037,0.736,0.227,1.0
+NOC,Northrop Grumman,Industrials,Aerospace & Defense,Q1,2019,2019-04-24 16:35:07,0.036,0.696,0.268,1.0
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2019,2019-05-09 16:36:53,0.014,0.734,0.252,1.0
+NRG,NRG Energy,Utilities,Independent Power Producers & Energy Traders,Q1,2019,2019-05-02 15:36:29,0.025,0.757,0.218,1.0
+NUE,Nucor,Materials,Steel,Q1,2019,2019-04-23 19:25:08,0.041,0.742,0.217,1.0
+NVDA,Nvidia,Information Technology,Semiconductors,Q1,2019,2018-05-10 22:23:11,0.024,0.767,0.209,1.0
+NXPI,NXP Semiconductors,Information Technology,Semiconductors,Q1,2019,2019-04-30 14:17:07,0.023,0.738,0.239,1.0
+ORLY,O'Reilly Auto Parts,Consumer Discretionary,Automotive Retail,Q1,2019,2019-04-25 17:49:09,0.033,0.767,0.201,1.0
+OXY,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,Q1,2019,2019-05-07 17:00:00,0.022,0.745,0.233,1.0
+ODFL,Old Dominion,Industrials,Cargo Ground Transportation,Q1,2019,2019-04-25 16:30:09,0.028,0.723,0.249,1.0
+OMC,Omnicom Group,Communication Services,Advertising,Q1,2019,2019-04-16 16:18:06,0.031,0.773,0.196,1.0
+ON,ON Semiconductor,Information Technology,Semiconductors,Q1,2019,2019-04-29 15:05:57,0.029,0.751,0.22,1.0
+OKE,ONEOK,Energy,Oil & Gas Storage & Transportation,Q1,2019,2019-05-01 14:43:06,0.027,0.799,0.174,0.9999
+ORCL,Oracle Corporation,Information Technology,Application Software,Q1,2019,2018-09-17 00:00:00,0.017,0.768,0.216,1.0
+PCAR,Paccar,Industrials,Construction Machinery & Heavy Transportation Equipment,Q1,2019,2019-04-30 15:31:30,0.028,0.726,0.247,1.0
+PKG,Packaging Corporation of America,Materials,Paper & Plastic Packaging Products & Materials,Q1,2019,2019-04-25 17:00:00,0.038,0.777,0.185,1.0
+PANW,Palo Alto Networks,Information Technology,Systems Software,Q1,2019,2018-11-29 20:41:07,0.022,0.749,0.229,1.0
+PARA,Paramount Global,Communication Services,Movies & Entertainment,Q1,2019,2019-05-02 23:32:07,0.019,0.751,0.23,1.0
+PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components,Q1,2019,2018-11-01 15:16:00,0.018,0.74,0.242,1.0
+PAYX,Paychex,Industrials,Human Resource & Employment Services,Q1,2019,2018-10-02 17:04:07,0.027,0.725,0.248,1.0
+PAYC,Paycom,Industrials,Human Resource & Employment Services,Q1,2019,2019-04-30 21:16:14,0.025,0.746,0.229,1.0
+PYPL,PayPal,Financials,Transaction & Payment Processing Services,Q1,2019,2019-04-24 22:24:06,0.014,0.731,0.254,1.0
+PNR,Pentair,Industrials,Industrial Machinery & Supplies & Components,Q1,2019,2019-04-17 14:35:07,0.041,0.753,0.206,1.0
+PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q1,2019,2019-04-17 19:42:08,0.019,0.673,0.308,1.0
+PFE,Pfizer,Health Care,Pharmaceuticals,Q1,2019,2019-04-30 14:11:21,0.04,0.7,0.26,1.0
+PM,Philip Morris International,Consumer Staples,Tobacco,Q1,2019,2019-04-18 15:18:06,0.023,0.734,0.243,1.0
+PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,Q1,2019,2019-04-30 18:16:21,0.015,0.817,0.168,0.9999
+PNW,Pinnacle West,Utilities,Multi-Utilities,Q1,2019,2019-05-02 17:00:00,0.04,0.757,0.203,0.9999
+PNC,PNC Financial Services,Financials,Regional Banks,Q1,2019,2019-04-12 17:00:00,0.067,0.703,0.23,1.0
+POOL,Pool Corporation,Consumer Discretionary,Distributors,Q1,2019,2019-04-18 16:33:06,0.029,0.723,0.248,1.0
+PPG,PPG Industries,Materials,Specialty Chemicals,Q1,2019,2019-04-18 21:33:08,0.034,0.745,0.221,1.0
+PPL,PPL Corporation,Utilities,Electric Utilities,Q1,2019,2019-05-02 16:21:26,0.029,0.772,0.2,0.9999
+PFG,Principal Financial Group,Financials,Life & Health Insurance,Q1,2019,2019-04-26 16:26:11,0.021,0.708,0.27,1.0
+PG,Procter & Gamble,Consumer Staples,Personal Care Products,Q1,2019,2018-10-19 14:08:04,0.036,0.669,0.295,1.0
+PGR,Progressive Corporation,Financials,Property & Casualty Insurance,Q1,2019,2019-05-03 01:10:04,0.046,0.74,0.214,1.0
+PLD,Prologis,Real Estate,Industrial REITs,Q1,2019,2019-04-25 21:29:05,0.026,0.741,0.233,1.0
+PRU,Prudential Financial,Financials,Life & Health Insurance,Q1,2019,2019-05-02 15:55:04,0.032,0.708,0.26,1.0
+PEG,Public Service Enterprise Group,Utilities,Electric Utilities,Q1,2019,2019-05-02 17:00:00,0.025,0.757,0.217,1.0
+PTC,PTC,Information Technology,Application Software,Q1,2019,2019-01-23 22:42:04,0.021,0.776,0.203,1.0
+PSA,Public Storage,Real Estate,Self-Storage REITs,Q1,2019,2019-05-03 01:16:42,0.02,0.747,0.234,1.0
+PHM,PulteGroup,Consumer Discretionary,Homebuilding,Q1,2019,2019-04-23 14:51:23,0.023,0.736,0.241,1.0
+QRVO,Qorvo,Information Technology,Semiconductors,Q1,2019,2018-08-02 00:17:16,0.027,0.744,0.229,1.0
+PWR,Quanta Services,Industrials,Construction & Engineering,Q1,2019,2019-05-02 16:12:05,0.022,0.742,0.235,1.0
+QCOM,Qualcomm,Information Technology,Semiconductors,Q1,2019,2019-01-30 22:25:04,0.04,0.746,0.214,1.0
+DGX,Quest Diagnostics,Health Care,Health Care Services,Q1,2019,2019-04-23 15:38:07,0.033,0.713,0.254,1.0
+RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q1,2019,2018-07-31 14:39:14,0.024,0.732,0.244,1.0
+RJF,Raymond James,Financials,Investment Banking & Brokerage,Q1,2019,2019-01-24 14:01:03,0.042,0.747,0.21,1.0
+RTX,RTX Corporation,Industrials,Aerospace & Defense,Q1,2019,2019-04-25 15:36:24,0.04,0.767,0.193,1.0
+O,Realty Income,Real Estate,Retail REITs,Q1,2019,2019-05-03 00:48:06,0.028,0.766,0.206,1.0
+REG,Regency Centers,Real Estate,Retail REITs,Q1,2019,2019-05-03 13:54:10,0.029,0.724,0.247,1.0
+REGN,Regeneron,Health Care,Biotechnology,Q1,2019,2019-05-07 17:00:00,0.044,0.739,0.217,1.0
+RF,Regions Financial Corporation,Financials,Regional Banks,Q1,2019,2019-04-18 18:40:08,0.032,0.707,0.261,1.0
+RSG,Republic Services,Industrials,Environmental & Facilities Services,Q1,2019,2019-04-26 17:00:00,0.032,0.718,0.25,1.0
+RMD,ResMed,Health Care,Health Care Equipment,Q1,2019,2018-10-25 21:47:10,0.02,0.707,0.273,1.0
+RHI,Robert Half,Industrials,Human Resource & Employment Services,Q1,2019,2019-04-23 23:18:06,0.044,0.793,0.163,0.9999
+ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,Q1,2019,2019-01-29 15:17:06,0.02,0.736,0.244,1.0
+ROL,"Rollins, Inc.",Industrials,Environmental & Facilities Services,Q1,2019,2019-04-24 14:44:04,0.033,0.724,0.243,1.0
+ROP,Roper Technologies,Information Technology,Electronic Equipment & Instruments,Q1,2019,2019-04-25 22:58:12,0.044,0.725,0.231,1.0
+ROST,Ross Stores,Consumer Discretionary,Apparel Retail,Q1,2019,2018-05-24 00:00:00,0.025,0.78,0.195,0.9999
+RCL,Royal Caribbean Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q1,2019,2019-05-01 13:51:34,0.03,0.687,0.283,1.0
+SPGI,S&P Global,Financials,Financial Exchanges & Data,Q1,2019,2019-05-02 13:29:05,0.028,0.739,0.233,1.0
+CRM,Salesforce,Information Technology,Application Software,Q1,2019,2018-05-29 20:53:04,0.015,0.754,0.231,1.0
+SBAC,SBA Communications,Real Estate,Telecom Tower REITs,Q1,2019,2019-04-29 22:59:09,0.025,0.749,0.225,1.0
+SLB,Schlumberger,Energy,Oil & Gas Equipment & Services,Q1,2019,2019-04-18 14:26:18,0.026,0.738,0.235,1.0
+STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2019,2018-11-02 11:20:50,0.038,0.74,0.222,1.0
+SRE,Sempra Energy,Utilities,Multi-Utilities,Q1,2019,2019-05-07 15:58:19,0.032,0.747,0.221,1.0
+NOW,ServiceNow,Information Technology,Systems Software,Q1,2019,2019-04-24 21:27:06,0.017,0.743,0.24,1.0
+SHW,Sherwin-Williams,Materials,Specialty Chemicals,Q1,2019,2019-04-23 16:14:09,0.03,0.712,0.258,1.0
+SPG,Simon Property Group,Real Estate,Retail REITs,Q1,2019,2019-04-30 15:41:31,0.05,0.732,0.218,1.0
+SWKS,Skyworks Solutions,Information Technology,Semiconductors,Q1,2019,2019-02-05 21:41:08,0.025,0.731,0.244,1.0
+SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,Q1,2019,2018-08-21 14:15:08,0.036,0.722,0.241,1.0
+SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,Q1,2019,2019-04-18 14:34:04,0.042,0.697,0.261,1.0
+SO,Southern Company,Utilities,Electric Utilities,Q1,2019,2019-05-01 15:19:08,0.025,0.764,0.211,1.0
+LUV,Southwest Airlines,Industrials,Passenger Airlines,Q1,2019,2019-04-27 14:00:11,0.035,0.75,0.215,1.0
+SWK,Stanley Black & Decker,Industrials,Industrial Machinery & Supplies & Components,Q1,2019,2019-04-24 14:35:04,0.022,0.721,0.257,1.0
+SBUX,Starbucks,Consumer Discretionary,Restaurants,Q1,2019,2019-01-25 00:47:14,0.015,0.732,0.253,1.0
+STT,State Street Corporation,Financials,Asset Management & Custody Banks,Q1,2019,2019-04-23 16:13:05,0.025,0.75,0.224,1.0
+STLD,Steel Dynamics,Materials,Steel,Q1,2019,2019-04-22 19:47:08,0.03,0.77,0.2,1.0
+STE,Steris,Health Care,Health Care Equipment,Q1,2019,2018-08-08 12:47:25,0.032,0.768,0.2,1.0
+SYK,Stryker Corporation,Health Care,Health Care Equipment,Q1,2019,2019-04-25 23:03:13,0.026,0.717,0.257,1.0
+SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2019,2018-11-16 10:47:06,0.02,0.763,0.217,0.9999
+SYF,Synchrony Financial,Financials,Consumer Finance,Q1,2019,2019-04-18 13:04:07,0.015,0.728,0.256,1.0
+SNPS,Synopsys,Information Technology,Application Software,Q1,2019,2019-02-20 23:06:18,0.026,0.712,0.262,1.0
+SYY,Sysco,Consumer Staples,Food Distributors,Q1,2019,2018-11-05 17:25:09,0.039,0.733,0.228,1.0
+TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services,Q1,2019,2019-04-25 23:33:07,0.032,0.738,0.231,1.0
+TTWO,Take-Two Interactive,Communication Services,Interactive Home Entertainment,Q1,2019,2018-08-02 00:00:00,0.038,0.711,0.251,1.0
+TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q1,2019,2018-10-30 13:39:08,0.025,0.731,0.244,1.0
+TRGP,Targa Resources,Energy,Oil & Gas Storage & Transportation,Q1,2019,2019-05-07 17:26:22,0.023,0.778,0.199,1.0
+TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,Q1,2019,2018-05-23 00:00:00,0.018,0.732,0.25,1.0
+TEL,TE Connectivity,Information Technology,Electronic Manufacturing Services,Q1,2019,2019-01-23 12:33:11,0.038,0.768,0.194,1.0
+TDY,Teledyne Technologies,Information Technology,Electronic Equipment & Instruments,Q1,2019,2019-04-24 16:08:07,0.03,0.766,0.204,0.9999
+TFX,Teleflex,Health Care,Health Care Equipment,Q1,2019,2019-05-03 18:14:07,0.024,0.732,0.244,1.0
+TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,Q1,2019,2019-04-25 00:40:09,0.031,0.761,0.208,1.0
+TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,Q1,2019,2019-04-25 03:30:47,0.034,0.73,0.236,1.0
+TXN,Texas Instruments,Information Technology,Semiconductors,Q1,2019,2019-04-23 20:01:18,0.038,0.757,0.205,0.9999
+TXT,Textron,Industrials,Aerospace & Defense,Q1,2019,2019-04-17 14:59:08,0.025,0.744,0.231,1.0
+TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,Q1,2019,2019-04-24 13:16:00,0.016,0.72,0.263,1.0
+TJX,TJX Companies,Consumer Discretionary,Apparel Retail,Q1,2019,2018-05-22 16:39:06,0.017,0.713,0.269,1.0
+TSCO,Tractor Supply,Consumer Discretionary,Other Specialty Retail,Q1,2019,2019-04-25 17:06:44,0.02,0.709,0.27,1.0
+TT,Trane Technologies,Industrials,Building Products,Q1,2019,2019-04-30 00:00:00,0.026,0.731,0.242,1.0
+TDG,TransDigm Group,Industrials,Aerospace & Defense,Q1,2019,2019-02-05 18:01:10,0.025,0.783,0.192,1.0
+TRV,Travelers Companies (The),Financials,Property & Casualty Insurance,Q1,2019,2019-04-18 16:01:34,0.052,0.747,0.2,1.0
+TRMB,Trimble Inc.,Information Technology,Electronic Equipment & Instruments,Q1,2019,2019-05-01 20:53:07,0.056,0.751,0.193,1.0
+TFC,Truist,Financials,Regional Banks,Q1,2019,2019-04-18 13:51:15,0.023,0.73,0.247,1.0
+TYL,Tyler Technologies,Information Technology,Application Software,Q1,2019,2019-05-03 13:39:07,0.018,0.735,0.247,1.0
+TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,Q1,2019,2019-02-07 15:31:27,0.034,0.719,0.247,1.0
+USB,U.S. Bank,Financials,Diversified Banks,Q1,2019,2019-04-17 15:41:23,0.03,0.705,0.264,1.0
+UBER,Uber,Industrials,Passenger Ground Transportation,Q1,2019,2019-05-30 23:18:08,0.023,0.701,0.276,1.0
+UDR,"UDR, Inc.",Real Estate,Multi-Family Residential REITs,Q1,2019,2019-05-01 19:38:06,0.029,0.761,0.211,1.0
+ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,Q1,2019,2018-05-31 00:00:00,0.018,0.717,0.265,1.0
+UNP,Union Pacific Corporation,Industrials,Rail Transportation,Q1,2019,2019-04-18 17:17:07,0.041,0.731,0.228,1.0
+UAL,United Airlines Holdings,Industrials,Passenger Airlines,Q1,2019,2019-04-17 17:00:00,0.022,0.721,0.257,1.0
+UPS,United Parcel Service,Industrials,Air Freight & Logistics,Q1,2019,2019-04-25 15:49:05,0.016,0.703,0.281,1.0
+URI,United Rentals,Industrials,Trading Companies & Distributors,Q1,2019,2019-04-18 19:05:09,0.022,0.744,0.234,1.0
+UNH,UnitedHealth Group,Health Care,Managed Health Care,Q1,2019,2019-04-16 18:58:00,0.025,0.706,0.269,1.0
+UHS,Universal Health Services,Health Care,Health Care Facilities,Q1,2019,2019-04-26 15:08:07,0.045,0.75,0.205,1.0
+VLO,Valero Energy,Energy,Oil & Gas Refining & Marketing,Q1,2019,2019-04-25 14:14:22,0.05,0.748,0.203,1.0
+VTR,Ventas,Real Estate,Health Care REITs,Q1,2019,2019-04-26 14:41:15,0.02,0.697,0.283,1.0
+VRSN,Verisign,Information Technology,Internet Services & Infrastructure,Q1,2019,2019-04-25 21:17:09,0.029,0.739,0.231,0.9999
+VRSK,Verisk,Industrials,Research & Consulting Services,Q1,2019,2019-05-01 23:40:10,0.026,0.722,0.251,1.0
+VZ,Verizon,Communication Services,Integrated Telecommunication Services,Q1,2019,2019-04-23 15:21:13,0.021,0.754,0.225,1.0
+VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,Q1,2019,2019-05-01 17:00:00,0.029,0.744,0.227,1.0
+VTRS,Viatris,Health Care,Pharmaceuticals,Q1,2019,2019-05-07 15:58:26,0.025,0.784,0.191,1.0
+VICI,Vici Properties,Real Estate,Hotel & Resort REITs,Q1,2019,2019-05-02 16:50:05,0.02,0.753,0.227,1.0
+V,Visa Inc.,Financials,Transaction & Payment Processing Services,Q1,2019,2019-01-30 21:49:08,0.034,0.774,0.192,1.0
+VST,Vistra,Utilities,Electric Utilities,Q1,2019,2019-05-03 12:41:28,0.032,0.757,0.211,1.0
+VMC,Vulcan Materials Company,Materials,Construction Materials,Q1,2019,2019-05-03 02:59:09,0.032,0.708,0.26,1.0
+WRB,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,Q1,2019,2019-04-23 21:07:08,0.076,0.686,0.238,1.0
+GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,Q1,2019,2019-04-22 15:42:06,0.037,0.727,0.236,1.0
+WAB,Wabtec,Industrials,Construction Machinery & Heavy Transportation Equipment,Q1,2019,2019-04-25 16:52:09,0.016,0.741,0.243,1.0
+WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,Q1,2019,2018-12-20 17:00:00,0.026,0.723,0.251,1.0
+WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,Q1,2019,2018-05-30 16:39:06,0.022,0.738,0.239,0.9999
+DIS,Walt Disney Company (The),Communication Services,Movies & Entertainment,Q1,2019,2019-02-05 22:01:19,0.036,0.756,0.208,1.0
+WBD,Warner Bros. Discovery,Communication Services,Broadcasting,Q1,2019,2019-05-02 16:00:18,0.023,0.707,0.27,1.0
+WM,Waste Management,Industrials,Environmental & Facilities Services,Q1,2019,2019-04-25 17:27:08,0.038,0.71,0.252,1.0
+WAT,Waters Corporation,Health Care,Life Sciences Tools & Services,Q1,2019,2019-04-23 15:07:14,0.026,0.724,0.25,1.0
+WEC,WEC Energy Group,Utilities,Electric Utilities,Q1,2019,2019-04-25 18:46:23,0.016,0.743,0.241,1.0
+WFC,Wells Fargo,Financials,Diversified Banks,Q1,2019,2019-04-12 19:02:06,0.042,0.746,0.212,1.0
+WELL,Welltower,Real Estate,Health Care REITs,Q1,2019,2019-04-30 14:28:08,0.021,0.752,0.227,1.0
+WST,West Pharmaceutical Services,Health Care,Health Care Supplies,Q1,2019,2019-04-26 17:00:00,0.023,0.742,0.235,1.0
+WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals",Q1,2019,2018-10-25 22:27:13,0.043,0.763,0.194,1.0
+WRK,WestRock,Materials,Paper & Plastic Packaging Products & Materials,Q1,2019,2019-01-31 14:43:07,0.028,0.751,0.221,1.0
+WY,Weyerhaeuser,Real Estate,Timber REITs,Q1,2019,2019-04-26 16:05:09,0.045,0.784,0.171,1.0
+WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,Q1,2019,2019-05-03 00:45:10,0.032,0.75,0.218,1.0
+WTW,Willis Towers Watson,Financials,Insurance Brokers,Q1,2019,2019-05-01 00:00:00,0.02,0.749,0.231,1.0
+WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,Q1,2019,2019-05-09 23:05:11,0.028,0.762,0.209,0.9999
+XEL,Xcel Energy,Utilities,Multi-Utilities,Q1,2019,2019-04-25 14:58:08,0.026,0.721,0.253,0.9999
+XYL,Xylem Inc.,Industrials,Industrial Machinery & Supplies & Components,Q1,2019,2019-05-04 16:02:07,0.037,0.74,0.223,1.0
+YUM,Yum! Brands,Consumer Discretionary,Restaurants,Q1,2019,2019-05-01 11:52:08,0.019,0.691,0.291,1.0
+ZBRA,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,Q1,2019,2019-04-30 17:00:00,0.019,0.711,0.269,1.0
+ZBH,Zimmer Biomet,Health Care,Health Care Equipment,Q1,2019,2019-04-26 13:46:25,0.026,0.704,0.27,1.0
+ZTS,Zoetis,Health Care,Pharmaceuticals,Q1,2019,2019-05-02 14:27:08,0.024,0.729,0.247,1.0
