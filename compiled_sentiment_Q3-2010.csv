@@ -1,0 +1,217 @@
+ticker,company,sector,sub-sector,quarter,year,date,score-neg,score-neu,score-pos,score-compound
+MMM,3M,Industrials,Industrial Conglomerates,Q3,2010,2010-10-28 17:00:00,0.03,0.748,0.223,1.0
+ABT,Abbott,Health Care,Health Care Equipment,Q3,2010,2010-05-05 21:52:08,0.037,0.741,0.221,0.9999
+ACN,Accenture,Information Technology,IT Consulting & Other Services,Q3,2010,2010-06-24 22:18:12,0.03,0.744,0.226,1.0
+ADBE,Adobe Inc.,Information Technology,Application Software,Q3,2010,2010-09-22 17:00:00,0.019,0.763,0.218,1.0
+AES,AES Corporation,Utilities,Independent Power Producers & Energy Traders,Q3,2010,2010-11-07 20:58:20,0.042,0.758,0.2,1.0
+APD,Air Products and Chemicals,Materials,Industrial Gases,Q3,2010,2010-07-22 18:05:28,0.021,0.749,0.23,1.0
+AKAM,Akamai,Information Technology,Internet Services & Infrastructure,Q3,2010,2010-10-27 22:05:14,0.031,0.746,0.222,1.0
+ARE,Alexandria Real Estate Equities,Real Estate,Office REITs,Q3,2010,2010-11-03 21:10:36,0.039,0.736,0.225,1.0
+ALGN,Align Technology,Health Care,Health Care Supplies,Q3,2010,2010-10-21 22:38:16,0.043,0.784,0.173,1.0
+ALL,Allstate,Financials,Property & Casualty Insurance,Q3,2010,2010-10-28 21:32:24,0.056,0.708,0.236,1.0
+GOOG,Alphabet Inc. (Class C),Communication Services,Interactive Media & Services,Q3,2010,2010-10-15 17:00:00,0.021,0.737,0.242,1.0
+MO,Altria,Consumer Staples,Tobacco,Q3,2010,2010-10-20 13:05:42,0.022,0.751,0.227,1.0
+AMZN,Amazon,Consumer Discretionary,Broadline Retail,Q3,2010,2010-10-22 17:00:00,0.024,0.705,0.271,1.0
+AAL,American Airlines Group,Industrials,Passenger Airlines,Q3,2010,2010-10-20 21:14:16,0.039,0.718,0.243,1.0
+AEP,American Electric Power,Utilities,Electric Utilities,Q3,2010,2010-10-19 16:44:25,0.037,0.756,0.207,1.0
+AXP,American Express,Financials,Consumer Finance,Q3,2010,2010-10-26 05:15:57,0.031,0.76,0.21,1.0
+AMT,American Tower,Real Estate,Telecom Tower REITs,Q3,2010,2010-11-05 14:05:12,0.014,0.788,0.197,1.0
+AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks,Q3,2010,2010-10-28 13:11:26,0.028,0.726,0.246,1.0
+AMGN,Amgen,Health Care,Biotechnology,Q3,2010,2010-10-26 05:15:58,0.021,0.797,0.182,1.0
+APH,Amphenol,Information Technology,Electronic Components,Q3,2010,2010-10-20 18:46:15,0.031,0.734,0.235,1.0
+APA,APA Corporation,Energy,Oil & Gas Exploration & Production,Q3,2010,2010-11-06 00:05:12,0.038,0.782,0.179,1.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",Q3,2010,2010-07-20 22:42:13,0.037,0.742,0.221,1.0
+ADM,Archer-Daniels-Midland,Consumer Staples,Agricultural Products & Services,Q3,2010,2010-05-04 20:25:19,0.045,0.798,0.157,1.0
+AIZ,Assurant,Financials,Multi-line Insurance,Q3,2010,2010-10-28 14:47:18,0.065,0.701,0.234,1.0
+T,AT&T,Communication Services,Integrated Telecommunication Services,Q3,2010,2010-10-21 17:00:00,0.025,0.76,0.215,1.0
+ADSK,Autodesk,Information Technology,Application Software,Q3,2010,2009-11-18 15:00:22,0.026,0.807,0.167,0.9999
+ADP,Automatic Data Processing,Industrials,Human Resource & Employment Services,Q3,2010,2010-04-27 17:41:10,0.038,0.741,0.22,1.0
+AZO,AutoZone,Consumer Discretionary,Automotive Retail,Q3,2010,2010-05-25 12:39:09,0.039,0.721,0.24,1.0
+BKR,Baker Hughes,Energy,Oil & Gas Equipment & Services,Q3,2010,2010-11-01 15:05:12,0.034,0.786,0.18,1.0
+BALL,Ball Corporation,Materials,"Metal, Glass & Plastic Containers",Q3,2010,2010-10-28 18:05:13,0.018,0.771,0.211,1.0
+BK,Bank of New York Mellon,Financials,Asset Management & Custody Banks,Q3,2010,2010-10-19 15:25:36,0.036,0.693,0.271,1.0
+BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,Other Specialty Retail,Q3,2010,2010-11-18 14:47:22,0.02,0.711,0.269,1.0
+BAX,Baxter International,Health Care,Health Care Equipment,Q3,2010,2010-10-21 17:00:00,0.03,0.74,0.231,1.0
+BDX,Becton Dickinson,Health Care,Health Care Equipment,Q3,2010,2010-07-30 01:20:46,0.039,0.752,0.21,1.0
+BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,Q3,2010,2009-12-15 16:35:19,0.041,0.696,0.263,1.0
+BIIB,Biogen,Health Care,Biotechnology,Q3,2010,2010-10-26 17:05:12,0.031,0.764,0.205,1.0
+BLK,BlackRock,Financials,Asset Management & Custody Banks,Q3,2010,2010-10-20 16:26:21,0.043,0.738,0.219,1.0
+BX,Blackstone,Financials,Asset Management & Custody Banks,Q3,2010,2010-11-02 19:30:37,0.026,0.785,0.19,0.9999
+BKNG,Booking Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q3,2010,2010-11-08 20:15:26,0.049,0.714,0.238,1.0
+BSX,Boston Scientific,Health Care,Health Care Equipment,Q3,2010,2010-10-20 00:22:24,0.033,0.767,0.2,1.0
+BMY,Bristol Myers Squibb,Health Care,Pharmaceuticals,Q3,2010,2010-10-26 17:05:12,0.038,0.76,0.201,1.0
+AVGO,Broadcom Inc.,Information Technology,Semiconductors,Q3,2010,2010-10-26 22:05:15,0.025,0.783,0.193,1.0
+BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,Q3,2010,2010-05-10 13:20:23,0.026,0.741,0.233,1.0
+BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,Q3,2010,2010-03-10 16:44:10,0.022,0.753,0.226,1.0
+CPB,Campbell Soup Company,Consumer Staples,Packaged Foods & Meats,Q3,2010,2010-05-24 12:40:24,0.034,0.718,0.248,1.0
+CAH,Cardinal Health,Health Care,Health Care Distributors,Q3,2010,2010-04-29 17:40:27,0.032,0.765,0.203,1.0
+KMX,CarMax,Consumer Discretionary,Automotive Retail,Q3,2010,2009-12-18 13:57:07,0.03,0.765,0.206,1.0
+CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,Q3,2010,2010-10-22 04:20:24,0.035,0.777,0.188,1.0
+CBRE,CBRE Group,Real Estate,Real Estate Services,Q3,2010,2010-10-27 17:52:20,0.032,0.753,0.215,1.0
+CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals,Q3,2010,2010-11-05 15:05:22,0.036,0.783,0.181,1.0
+CHRW,CH Robinson,Industrials,Air Freight & Logistics,Q3,2010,2010-10-26 21:05:12,0.043,0.745,0.212,1.0
+CHTR,Charter Communications,Communication Services,Cable & Satellite,Q3,2010,2010-11-04 16:05:20,0.035,0.786,0.178,1.0
+CVX,Chevron Corporation,Energy,Integrated Oil & Gas,Q3,2010,2010-10-29 17:00:00,0.031,0.761,0.208,1.0
+CB,Chubb Limited,Financials,Property & Casualty Insurance,Q3,2010,2010-10-26 05:15:57,0.062,0.755,0.183,1.0
+CI,Cigna,Health Care,Health Care Services,Q3,2010,2010-10-29 16:05:22,0.027,0.75,0.223,1.0
+CTAS,Cintas,Industrials,Diversified Support Services,Q3,2010,2010-03-18 23:10:28,0.066,0.724,0.21,1.0
+CSCO,Cisco,Information Technology,Communications Equipment,Q3,2010,2010-05-13 04:05:24,0.02,0.769,0.211,1.0
+CLX,Clorox,Consumer Staples,Household Products,Q3,2010,2010-05-04 04:29:44,0.037,0.737,0.227,1.0
+CME,CME Group,Financials,Financial Exchanges & Data,Q3,2010,2010-10-28 14:05:13,0.024,0.752,0.224,1.0
+KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q3,2010,2010-10-19 17:32:21,0.016,0.696,0.288,1.0
+CTSH,Cognizant,Information Technology,IT Consulting & Other Services,Q3,2010,2010-11-01 14:05:18,0.023,0.798,0.179,1.0
+CL,Colgate-Palmolive,Consumer Staples,Household Products,Q3,2010,2010-10-28 19:05:12,0.025,0.751,0.224,1.0
+CMCSA,Comcast,Communication Services,Cable & Satellite,Q3,2010,2010-10-27 14:04:21,0.024,0.738,0.238,1.0
+CMA,Comerica,Financials,Diversified Banks,Q3,2010,2010-10-20 14:52:23,0.04,0.721,0.239,1.0
+CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,Q3,2010,2010-03-25 16:00:49,0.023,0.718,0.259,1.0
+COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,Q3,2010,2010-10-27 17:05:18,0.03,0.786,0.184,1.0
+ICE,Intercontinental Exchange,Financials,Financial Exchanges & Data,Q3,2010,2010-11-01 15:39:25,0.03,0.738,0.232,1.0
+IP,International Paper,Materials,Paper & Plastic Packaging Products & Materials,Q3,2010,2010-10-27 16:05:24,0.035,0.772,0.192,1.0
+IPG,Interpublic Group of Companies (The),Communication Services,Advertising,Q3,2010,2010-10-29 14:05:14,0.022,0.735,0.243,1.0
+INTU,Intuit,Information Technology,Application Software,Q3,2010,2010-05-21 00:05:18,0.02,0.752,0.228,1.0
+IVZ,Invesco,Financials,Asset Management & Custody Banks,Q3,2010,2010-10-25 15:26:33,0.025,0.749,0.227,1.0
+IRM,Iron Mountain,Real Estate,Other Specialized REITs,Q3,2010,2010-10-28 13:05:15,0.039,0.701,0.26,1.0
+JBL,Jabil,Information Technology,Electronic Manufacturing Services,Q3,2010,2010-06-23 00:20:29,0.028,0.73,0.242,1.0
+J,Jacobs Solutions,Industrials,Construction & Engineering,Q3,2010,2010-07-27 17:05:33,0.045,0.745,0.21,1.0
+JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,Q3,2010,2010-10-19 17:04:27,0.052,0.767,0.182,1.0
+JCI,Johnson Controls,Industrials,Building Products,Q3,2010,2010-07-23 17:00:00,0.034,0.779,0.186,1.0
+JPM,JPMorgan Chase,Financials,Diversified Banks,Q3,2010,2010-10-13 17:32:22,0.055,0.784,0.161,1.0
+JNPR,Juniper Networks,Information Technology,Communications Equipment,Q3,2010,2010-10-19 23:17:17,0.025,0.786,0.189,1.0
+K,Kellanova,Consumer Staples,Packaged Foods & Meats,Q3,2010,2010-11-02 14:05:14,0.044,0.717,0.238,1.0
+KEY,KeyCorp,Financials,Regional Banks,Q3,2010,2010-10-22 17:00:00,0.026,0.771,0.203,1.0
+KMB,Kimberly-Clark,Consumer Staples,Household Products,Q3,2010,2010-10-26 18:05:18,0.049,0.758,0.193,1.0
+KMI,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,Q3,2010,2010-11-03 23:32:21,0.037,0.768,0.195,1.0
+KLAC,KLA Corporation,Information Technology,Semiconductor Materials & Equipment,Q3,2010,2010-04-29 21:24:12,0.026,0.756,0.218,1.0
+KR,Kroger,Consumer Staples,Food Retail,Q3,2010,2010-12-02 16:10:39,0.044,0.723,0.233,1.0
+LHX,L3Harris,Industrials,Aerospace & Defense,Q3,2010,2010-04-28 23:58:11,0.026,0.786,0.187,0.9999
+LH,LabCorp,Health Care,Health Care Services,Q3,2010,2010-10-21 16:16:22,0.042,0.742,0.216,1.0
+LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,Q3,2010,2010-04-21 22:16:00,0.025,0.743,0.231,1.0
+LVS,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,Q3,2010,2010-10-30 21:29:18,0.053,0.765,0.181,1.0
+LDOS,Leidos,Industrials,Diversified Support Services,Q3,2010,2009-12-09 00:17:07,0.043,0.737,0.22,1.0
+LKQ,LKQ Corporation,Consumer Discretionary,Distributors,Q3,2010,2010-10-30 14:00:34,0.049,0.748,0.203,1.0
+LMT,Lockheed Martin,Industrials,Aerospace & Defense,Q3,2010,2010-10-19 19:16:23,0.036,0.75,0.214,1.0
+LOW,Lowe's,Consumer Discretionary,Home Improvement Retail,Q3,2010,2010-11-15 13:13:29,0.035,0.737,0.228,1.0
+LULU,Lululemon Athletica,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q3,2010,2010-12-09 14:47:27,0.025,0.747,0.228,1.0
+MTB,M&T Bank,Financials,Regional Banks,Q3,2010,2010-10-20 17:00:00,0.031,0.775,0.194,1.0
+MRO,Marathon Oil,Energy,Oil & Gas Exploration & Production,Q3,2010,2010-11-02 22:05:18,0.035,0.774,0.19,1.0
+MKTX,MarketAxess,Financials,Financial Exchanges & Data,Q3,2010,2010-10-27 13:39:34,0.02,0.771,0.209,1.0
+MAR,Marriott International,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q3,2010,2010-10-28 20:05:12,0.028,0.773,0.199,1.0
+MMC,Marsh McLennan,Financials,Insurance Brokers,Q3,2010,2010-11-10 15:32:28,0.029,0.729,0.242,1.0
+MAS,Masco,Industrials,Building Products,Q3,2010,2010-10-26 14:05:37,0.041,0.787,0.172,1.0
+MA,Mastercard,Financials,Transaction & Payment Processing Services,Q3,2010,2010-11-02 16:05:16,0.028,0.784,0.189,1.0
+MKC,McCormick & Company,Consumer Staples,Packaged Foods & Meats,Q3,2010,2010-09-30 13:15:23,0.027,0.743,0.23,1.0
+MCD,McDonald's,Consumer Discretionary,Restaurants,Q3,2010,2010-10-26 05:18:39,0.021,0.752,0.227,1.0
+MCK,McKesson Corporation,Health Care,Health Care Distributors,Q3,2010,2010-01-26 23:02:09,0.056,0.717,0.227,1.0
+MDT,Medtronic,Health Care,Health Care Equipment,Q3,2010,2010-02-23 17:00:00,0.039,0.738,0.223,1.0
+MRK,Merck & Co.,Health Care,Pharmaceuticals,Q3,2010,2010-10-29 17:00:00,0.032,0.751,0.217,1.0
+MET,MetLife,Financials,Life & Health Insurance,Q3,2010,2010-10-29 13:05:14,0.044,0.761,0.195,1.0
+MCHP,Microchip Technology,Information Technology,Semiconductors,Q3,2010,2010-02-04 17:15:15,0.038,0.762,0.2,1.0
+MU,Micron Technology,Information Technology,Semiconductors,Q3,2010,2010-06-28 23:20:29,0.027,0.765,0.208,1.0
+MSFT,Microsoft,Information Technology,Systems Software,Q3,2010,2010-04-23 17:00:00,0.017,0.773,0.209,1.0
+MHK,Mohawk Industries,Consumer Discretionary,Home Furnishings,Q3,2010,2010-11-05 15:58:19,0.043,0.786,0.171,1.0
+MOH,Molina Healthcare,Health Care,Managed Health Care,Q3,2010,2010-10-26 22:39:17,0.035,0.753,0.212,1.0
+MDLZ,Mondelez International,Consumer Staples,Packaged Foods & Meats,Q3,2010,2010-11-04 21:05:14,0.022,0.757,0.221,1.0
+MPWR,Monolithic Power Systems,Information Technology,Semiconductors,Q3,2010,2010-11-03 21:56:19,0.044,0.792,0.164,0.9999
+MNST,Monster Beverage,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q3,2010,2010-11-04 21:42:22,0.038,0.763,0.199,1.0
+MCO,Moody's Corporation,Financials,Financial Exchanges & Data,Q3,2010,2010-10-28 18:58:16,0.047,0.747,0.206,1.0
+MS,Morgan Stanley,Financials,Investment Banking & Brokerage,Q3,2010,2010-10-21 17:00:00,0.039,0.744,0.217,1.0
+MOS,Mosaic Company (The),Materials,Fertilizers & Agricultural Chemicals,Q3,2010,2010-04-02 02:46:21,0.033,0.814,0.153,0.9999
+NDAQ,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,Q3,2010,2010-10-29 15:05:12,0.025,0.737,0.237,1.0
+NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals",Q3,2010,2010-02-17 23:07:11,0.036,0.744,0.22,1.0
+NFLX,Netflix,Communication Services,Movies & Entertainment,Q3,2010,2010-10-21 00:29:14,0.026,0.822,0.151,0.9999
+NEM,Newmont,Materials,Gold,Q3,2010,2010-11-01 01:23:17,0.026,0.808,0.166,1.0
+NKE,"Nike, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q3,2010,2010-03-18 01:47:09,0.042,0.684,0.274,1.0
+NI,NiSource,Utilities,Multi-Utilities,Q3,2010,2010-10-29 13:51:20,0.02,0.753,0.227,0.9999
+NSC,Norfolk Southern Railway,Industrials,Rail Transportation,Q3,2010,2010-10-27 22:05:14,0.024,0.77,0.205,1.0
+NOC,Northrop Grumman,Industrials,Aerospace & Defense,Q3,2010,2010-10-27 17:05:17,0.031,0.757,0.212,1.0
+NRG,NRG Energy,Utilities,Independent Power Producers & Energy Traders,Q3,2010,2010-11-04 17:00:00,0.035,0.746,0.219,1.0
+NVDA,Nvidia,Information Technology,Semiconductors,Q3,2010,2009-11-06 00:13:08,0.045,0.771,0.184,1.0
+ORLY,O'Reilly Auto Parts,Consumer Discretionary,Automotive Retail,Q3,2010,2010-10-28 22:39:15,0.034,0.75,0.216,1.0
+OXY,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,Q3,2010,2010-10-19 19:04:27,0.034,0.766,0.2,1.0
+ON,ON Semiconductor,Information Technology,Semiconductors,Q3,2010,2010-11-03 20:05:11,0.031,0.81,0.16,0.9999
+ORCL,Oracle Corporation,Information Technology,Application Software,Q3,2010,2010-03-25 22:40:22,0.026,0.791,0.183,1.0
+PCAR,Paccar,Industrials,Construction Machinery & Heavy Transportation Equipment,Q3,2010,2010-10-26 17:05:11,0.026,0.748,0.226,1.0
+PARA,Paramount Global,Communication Services,Movies & Entertainment,Q3,2010,2010-11-04 21:05:13,0.026,0.742,0.232,1.0
+PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components,Q3,2010,2010-04-20 15:46:11,0.027,0.743,0.23,1.0
+PAYX,Paychex,Industrials,Human Resource & Employment Services,Q3,2010,2010-03-25 18:02:10,0.049,0.733,0.218,1.0
+PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q3,2010,2010-10-07 12:47:35,0.021,0.724,0.255,1.0
+PFE,Pfizer,Health Care,Pharmaceuticals,Q3,2010,2010-11-02 17:00:00,0.037,0.793,0.17,0.9999
+PNW,Pinnacle West,Utilities,Multi-Utilities,Q3,2010,2010-10-28 17:37:21,0.027,0.747,0.225,1.0
+POOL,Pool Corporation,Consumer Discretionary,Distributors,Q3,2010,2010-10-21 15:16:23,0.025,0.739,0.235,0.9999
+PG,Procter & Gamble,Consumer Staples,Personal Care Products,Q3,2010,2010-04-30 01:45:18,0.037,0.707,0.256,1.0
+PGR,Progressive Corporation,Financials,Property & Casualty Insurance,Q3,2010,2010-11-09 13:44:25,0.029,0.754,0.217,1.0
+PLD,Prologis,Real Estate,Industrial REITs,Q3,2010,2010-10-31 17:00:00,0.035,0.787,0.177,1.0
+PRU,Prudential Financial,Financials,Life & Health Insurance,Q3,2010,2010-11-05 04:05:13,0.028,0.774,0.198,1.0
+PEG,Public Service Enterprise Group,Utilities,Electric Utilities,Q3,2010,2010-10-27 17:38:17,0.027,0.785,0.187,1.0
+PTC,PTC,Information Technology,Application Software,Q3,2010,2010-07-28 14:12:15,0.021,0.724,0.255,1.0
+PSA,Public Storage,Real Estate,Self-Storage REITs,Q3,2010,2010-11-05 19:09:37,0.038,0.769,0.193,1.0
+PHM,PulteGroup,Consumer Discretionary,Homebuilding,Q3,2010,2010-11-03 23:28:17,0.04,0.781,0.179,1.0
+QRVO,Qorvo,Information Technology,Semiconductors,Q3,2010,2010-01-27 07:34:08,0.034,0.776,0.191,1.0
+PWR,Quanta Services,Industrials,Construction & Engineering,Q3,2010,2010-11-03 16:05:15,0.041,0.788,0.17,1.0
+DGX,Quest Diagnostics,Health Care,Health Care Services,Q3,2010,2010-10-20 22:16:16,0.047,0.764,0.189,1.0
+RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q3,2010,2010-02-03 12:29:09,0.031,0.762,0.207,1.0
+RJF,Raymond James,Financials,Investment Banking & Brokerage,Q3,2010,2010-07-22 17:00:00,0.035,0.755,0.21,1.0
+RTX,RTX Corporation,Industrials,Aerospace & Defense,Q3,2010,2010-10-28 15:05:15,0.036,0.784,0.18,1.0
+O,Realty Income,Real Estate,Retail REITs,Q3,2010,2010-10-28 22:44:19,0.025,0.782,0.193,0.9999
+RF,Regions Financial Corporation,Financials,Regional Banks,Q3,2010,2010-10-26 23:24:17,0.061,0.753,0.186,1.0
+RSG,Republic Services,Industrials,Environmental & Facilities Services,Q3,2010,2010-11-05 17:00:00,0.051,0.736,0.213,1.0
+RHI,Robert Half,Industrials,Human Resource & Employment Services,Q3,2010,2010-10-22 11:01:22,0.043,0.792,0.165,0.9999
+ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,Q3,2010,2010-07-28 11:07:14,0.021,0.757,0.222,1.0
+ROL,"Rollins, Inc.",Industrials,Environmental & Facilities Services,Q3,2010,2010-10-27 18:07:17,0.029,0.722,0.249,1.0
+ROP,Roper Technologies,Information Technology,Electronic Equipment & Instruments,Q3,2010,2010-10-26 05:15:59,0.027,0.765,0.208,1.0
+RCL,Royal Caribbean Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q3,2010,2010-10-26 15:05:09,0.029,0.768,0.202,1.0
+SPGI,S&P Global,Financials,Financial Exchanges & Data,Q3,2010,2010-10-26 17:00:00,0.034,0.774,0.192,1.0
+CRM,Salesforce,Information Technology,Application Software,Q3,2010,2009-11-17 21:26:07,0.017,0.763,0.22,1.0
+STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals",Q3,2010,2010-04-21 00:02:09,0.033,0.756,0.21,1.0
+SHW,Sherwin-Williams,Materials,Specialty Chemicals,Q3,2010,2010-10-26 23:35:24,0.037,0.773,0.19,1.0
+SPG,Simon Property Group,Real Estate,Retail REITs,Q3,2010,2010-11-01 17:05:21,0.042,0.758,0.2,1.0
+SWKS,Skyworks Solutions,Information Technology,Semiconductors,Q3,2010,2010-07-23 02:09:13,0.026,0.762,0.212,1.0
+SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,Q3,2010,2010-02-24 13:54:09,0.023,0.766,0.212,1.0
+SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,Q3,2010,2010-10-22 16:55:20,0.052,0.703,0.244,1.0
+SO,Southern Company,Utilities,Electric Utilities,Q3,2010,2010-10-27 19:05:11,0.035,0.782,0.183,1.0
+LUV,Southwest Airlines,Industrials,Passenger Airlines,Q3,2010,2010-10-21 18:30:26,0.028,0.773,0.198,1.0
+SBUX,Starbucks,Consumer Discretionary,Restaurants,Q3,2010,2010-07-21 23:55:30,0.011,0.736,0.254,1.0
+STT,State Street Corporation,Financials,Asset Management & Custody Banks,Q3,2010,2010-10-19 19:04:29,0.033,0.744,0.223,1.0
+STLD,Steel Dynamics,Materials,Steel,Q3,2010,2010-10-19 17:10:52,0.043,0.75,0.207,1.0
+SYK,Stryker Corporation,Health Care,Health Care Equipment,Q3,2010,2010-10-19 23:00:35,0.038,0.741,0.221,1.0
+SYY,Sysco,Consumer Staples,Food Distributors,Q3,2010,2010-05-03 17:25:17,0.026,0.769,0.206,1.0
+TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services,Q3,2010,2010-11-04 16:05:23,0.018,0.783,0.199,1.0
+TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q3,2010,2010-04-20 11:46:10,0.032,0.785,0.184,1.0
+TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,Q3,2010,2010-11-17 17:02:26,0.032,0.727,0.241,1.0
+TEL,TE Connectivity,Information Technology,Electronic Manufacturing Services,Q3,2010,2010-07-22 16:26:13,0.029,0.775,0.196,1.0
+TDY,Teledyne Technologies,Information Technology,Electronic Equipment & Instruments,Q3,2010,2010-10-30 04:10:28,0.025,0.792,0.184,0.9999
+TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,Q3,2010,2010-10-28 16:18:29,0.033,0.793,0.173,1.0
+TXN,Texas Instruments,Information Technology,Semiconductors,Q3,2010,2010-10-26 05:16:00,0.032,0.788,0.18,1.0
+TXT,Textron,Industrials,Aerospace & Defense,Q3,2010,2010-10-20 12:54:36,0.031,0.78,0.188,1.0
+TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,Q3,2010,2010-10-26 20:05:09,0.031,0.774,0.195,1.0
+TJX,TJX Companies,Consumer Discretionary,Apparel Retail,Q3,2010,2009-11-18 15:01:08,0.029,0.724,0.247,1.0
+TRV,Travelers Companies (The),Financials,Property & Casualty Insurance,Q3,2010,2010-10-21 14:12:35,0.054,0.732,0.214,1.0
+TFC,Truist,Financials,Regional Banks,Q3,2010,2010-10-21 16:33:23,0.037,0.713,0.25,1.0
+USB,U.S. Bank,Financials,Diversified Banks,Q3,2010,2010-10-20 14:10:50,0.036,0.735,0.229,1.0
+UNP,Union Pacific Corporation,Industrials,Rail Transportation,Q3,2010,2010-10-21 14:45:33,0.049,0.717,0.234,1.0
+URI,United Rentals,Industrials,Trading Companies & Distributors,Q3,2010,2010-10-20 16:27:31,0.041,0.738,0.221,1.0
+VLO,Valero Energy,Energy,Oil & Gas Refining & Marketing,Q3,2010,2010-10-26 18:05:19,0.03,0.793,0.177,1.0
+VTR,Ventas,Real Estate,Health Care REITs,Q3,2010,2010-11-05 16:53:17,0.025,0.719,0.256,1.0
+VRSN,Verisign,Information Technology,Internet Services & Infrastructure,Q3,2010,2010-10-28 22:05:14,0.024,0.806,0.17,0.9999
+VZ,Verizon,Communication Services,Integrated Telecommunication Services,Q3,2010,2010-10-22 11:58:17,0.022,0.753,0.225,1.0
+VTRS,Viatris,Health Care,Pharmaceuticals,Q3,2010,2010-10-26 22:05:14,0.035,0.767,0.197,1.0
+V,Visa Inc.,Financials,Transaction & Payment Processing Services,Q3,2010,2010-07-29 03:58:21,0.034,0.786,0.18,1.0
+VMC,Vulcan Materials Company,Materials,Construction Materials,Q3,2010,2010-11-02 16:05:17,0.055,0.78,0.165,1.0
+WRB,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,Q3,2010,2010-10-26 13:40:53,0.066,0.743,0.191,0.9979
+WAB,Wabtec,Industrials,Construction Machinery & Heavy Transportation Equipment,Q3,2010,2010-10-27 17:22:23,0.036,0.75,0.215,1.0
+WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,Q3,2010,2010-06-22 12:40:31,0.041,0.755,0.204,1.0
+WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,Q3,2010,2009-11-12 15:33:08,0.039,0.721,0.24,1.0
+WM,Waste Management,Industrials,Environmental & Facilities Services,Q3,2010,2010-10-30 07:52:17,0.053,0.736,0.211,1.0
+WAT,Waters Corporation,Health Care,Life Sciences Tools & Services,Q3,2010,2010-10-26 14:12:27,0.032,0.758,0.21,1.0
+WEC,WEC Energy Group,Utilities,Electric Utilities,Q3,2010,2010-10-26 20:45:24,0.022,0.787,0.191,1.0
+WFC,Wells Fargo,Financials,Diversified Banks,Q3,2010,2010-10-20 16:40:35,0.041,0.754,0.205,1.0
+WELL,Welltower,Real Estate,Health Care REITs,Q3,2010,2010-11-05 19:55:31,0.031,0.712,0.257,0.9999
+WST,West Pharmaceutical Services,Health Care,Health Care Supplies,Q3,2010,2010-11-02 12:33:25,0.029,0.762,0.209,1.0
+WRK,WestRock,Materials,Paper & Plastic Packaging Products & Materials,Q3,2010,2010-10-27 17:05:19,0.021,0.724,0.255,1.0
+WY,Weyerhaeuser,Real Estate,Timber REITs,Q3,2010,2010-10-29 16:05:23,0.041,0.792,0.167,1.0
+WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,Q3,2010,2010-10-28 17:08:21,0.049,0.701,0.249,1.0
+WTW,Willis Towers Watson,Financials,Insurance Brokers,Q3,2010,2010-10-31 18:24:22,0.026,0.715,0.258,1.0
+WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,Q3,2010,2010-11-03 01:05:10,0.063,0.728,0.209,1.0
+XEL,Xcel Energy,Utilities,Multi-Utilities,Q3,2010,2010-10-28 12:05:29,0.017,0.756,0.226,0.9999
+YUM,Yum! Brands,Consumer Discretionary,Restaurants,Q3,2010,2010-10-06 13:50:38,0.016,0.742,0.242,1.0
+ZBH,Zimmer Biomet,Health Care,Health Care Equipment,Q3,2010,2010-10-28 13:05:16,0.035,0.761,0.204,1.0
