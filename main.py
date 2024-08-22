@@ -115,7 +115,7 @@ def average_sentiments(quarter='1', year=2024):
 # average_sentiments()
 
 
-for i in np.arange(3,4,1):
+for i in np.arange(4,5,1):
     for j in np.arange(2010,2020,1):
         get_sentiment_allsp500(quarter=i,year=j)
         
