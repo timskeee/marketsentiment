@@ -1,0 +1,448 @@
+ticker,company,sector,sub-sector,quarter,year,date,score-neg,score-neu,score-pos,score-compound
+MMM,3M,Industrials,Industrial Conglomerates,Q4,2012,2013-01-24 17:00:00,0.024,0.731,0.246,1.0
+AOS,A. O. Smith,Industrials,Building Products,Q4,2012,2013-01-24 15:26:04,0.019,0.758,0.223,1.0
+ABT,Abbott,Health Care,Health Care Equipment,Q4,2012,2013-01-23 17:00:00,0.021,0.746,0.233,1.0
+ACN,Accenture,Information Technology,IT Consulting & Other Services,Q4,2012,2012-09-27 19:20:04,0.023,0.76,0.217,1.0
+ADBE,Adobe Inc.,Information Technology,Application Software,Q4,2012,2012-12-13 22:10:07,0.008,0.78,0.212,1.0
+AMD,Advanced Micro Devices,Information Technology,Semiconductors,Q4,2012,2012-04-25 22:20:06,0.033,0.764,0.203,1.0
+AES,AES Corporation,Utilities,Independent Power Producers & Energy Traders,Q4,2012,2013-02-27 15:10:09,0.023,0.791,0.186,1.0
+AFL,Aflac,Financials,Life & Health Insurance,Q4,2012,2013-02-06 10:58:02,0.044,0.723,0.233,1.0
+A,Agilent Technologies,Health Care,Life Sciences Tools & Services,Q4,2012,2012-11-19 21:50:04,0.04,0.774,0.186,1.0
+APD,Air Products and Chemicals,Materials,Industrial Gases,Q4,2012,2012-10-19 14:10:05,0.047,0.767,0.186,1.0
+AKAM,Akamai,Information Technology,Internet Services & Infrastructure,Q4,2012,2013-02-06 20:30:07,0.03,0.742,0.228,1.0
+ALB,Albemarle Corporation,Materials,Specialty Chemicals,Q4,2012,2013-01-23 14:45:02,0.039,0.749,0.212,1.0
+ARE,Alexandria Real Estate Equities,Real Estate,Office REITs,Q4,2012,2013-02-07 22:09:01,0.024,0.762,0.214,1.0
+ALGN,Align Technology,Health Care,Health Care Supplies,Q4,2012,2013-01-30 23:15:04,0.03,0.746,0.224,1.0
+LNT,Alliant Energy,Utilities,Electric Utilities,Q4,2012,2013-02-14 16:38:02,0.027,0.78,0.193,1.0
+ALL,Allstate,Financials,Property & Casualty Insurance,Q4,2012,2013-02-07 15:10:06,0.049,0.752,0.199,1.0
+GOOGL,Alphabet Inc. (Class A),Communication Services,Interactive Media & Services,Q4,2012,2013-01-23 17:00:00,0.022,0.726,0.252,1.0
+GOOG,Alphabet Inc. (Class C),Communication Services,Interactive Media & Services,Q4,2012,2013-01-23 17:00:00,0.022,0.726,0.252,1.0
+MO,Altria,Consumer Staples,Tobacco,Q4,2012,2013-01-31 13:16:03,0.028,0.747,0.225,1.0
+AMZN,Amazon,Consumer Discretionary,Broadline Retail,Q4,2012,2013-01-30 17:00:00,0.023,0.742,0.235,1.0
+AMCR,Amcor,Materials,Paper & Plastic Packaging Products & Materials,Q4,2012,2013-01-31 14:10:12,0.045,0.774,0.181,1.0
+AEE,Ameren,Utilities,Multi-Utilities,Q4,2012,2013-02-20 14:50:36,0.033,0.778,0.189,1.0
+AAL,American Airlines Group,Industrials,Passenger Airlines,Q4,2012,2013-01-23 17:30:03,0.028,0.766,0.206,1.0
+AEP,American Electric Power,Utilities,Electric Utilities,Q4,2012,2013-02-15 14:40:12,0.022,0.758,0.219,1.0
+AXP,American Express,Financials,Consumer Finance,Q4,2012,2013-01-17 20:50:03,0.025,0.776,0.199,1.0
+AIG,American International Group,Financials,Multi-line Insurance,Q4,2012,2013-02-22 11:14:07,0.069,0.708,0.222,1.0
+AMT,American Tower,Real Estate,Telecom Tower REITs,Q4,2012,2013-02-26 13:20:07,0.016,0.791,0.193,1.0
+AWK,American Water Works,Utilities,Water Utilities,Q4,2012,2013-02-27 13:10:21,0.017,0.761,0.222,1.0
+AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks,Q4,2012,2013-01-31 14:40:07,0.027,0.765,0.208,1.0
+AME,Ametek,Industrials,Electrical Components & Equipment,Q4,2012,2013-01-24 13:07:05,0.026,0.724,0.25,1.0
+AMGN,Amgen,Health Care,Biotechnology,Q4,2012,2013-01-23 19:07:05,0.021,0.797,0.182,0.9999
+APH,Amphenol,Information Technology,Electronic Components,Q4,2012,2013-01-17 17:40:05,0.018,0.754,0.228,1.0
+ADI,Analog Devices,Information Technology,Semiconductors,Q4,2012,2012-07-26 21:50:07,0.033,0.784,0.184,1.0
+ANSS,Ansys,Information Technology,Application Software,Q4,2012,2013-02-28 14:50:10,0.027,0.758,0.215,1.0
+AON,Aon,Financials,Insurance Brokers,Q4,2012,2013-02-01 13:40:07,0.027,0.72,0.253,1.0
+APA,APA Corporation,Energy,Oil & Gas Exploration & Production,Q4,2012,2013-02-14 18:03:04,0.033,0.774,0.192,1.0
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",Q4,2012,2012-10-25 21:33:03,0.025,0.768,0.207,1.0
+AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,Q4,2012,2012-11-15 21:00:06,0.031,0.752,0.217,1.0
+ACGL,Arch Capital Group,Financials,Property & Casualty Insurance,Q4,2012,2013-02-12 17:13:02,0.048,0.765,0.187,1.0
+ADM,Archer-Daniels-Midland,Consumer Staples,Agricultural Products & Services,Q4,2012,2012-07-31 13:20:03,0.044,0.788,0.169,1.0
+AJG,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,Q4,2012,2013-01-30 12:20:05,0.037,0.743,0.219,1.0
+AIZ,Assurant,Financials,Multi-line Insurance,Q4,2012,2013-02-07 11:38:02,0.07,0.737,0.193,1.0
+T,AT&T,Communication Services,Integrated Telecommunication Services,Q4,2012,2013-01-25 17:00:00,0.023,0.718,0.259,1.0
+ATO,Atmos Energy,Utilities,Gas Utilities,Q4,2012,2012-11-08 15:04:01,0.034,0.701,0.265,1.0
+ADSK,Autodesk,Information Technology,Application Software,Q4,2012,2012-02-23 22:30:06,0.013,0.773,0.214,1.0
+AZO,AutoZone,Consumer Discretionary,Automotive Retail,Q4,2012,2012-09-19 14:40:05,0.04,0.749,0.212,1.0
+AVB,AvalonBay Communities,Real Estate,Multi-Family Residential REITs,Q4,2012,2013-01-31 17:30:07,0.034,0.783,0.183,1.0
+AVY,Avery Dennison,Materials,Paper & Plastic Packaging Products & Materials,Q4,2012,2013-01-30 17:50:05,0.021,0.745,0.233,1.0
+AXON,Axon Enterprise,Industrials,Aerospace & Defense,Q4,2012,2013-02-21 17:45:06,0.032,0.762,0.205,1.0
+BKR,Baker Hughes,Energy,Oil & Gas Equipment & Services,Q4,2012,2013-01-23 13:10:20,0.049,0.741,0.211,1.0
+BALL,Ball Corporation,Materials,"Metal, Glass & Plastic Containers",Q4,2012,2013-01-31 15:20:04,0.027,0.784,0.189,1.0
+BAC,Bank of America,Financials,Diversified Banks,Q4,2012,2013-01-17 13:28:04,0.049,0.762,0.19,1.0
+BK,Bank of New York Mellon,Financials,Asset Management & Custody Banks,Q4,2012,2013-01-16 13:30:03,0.033,0.738,0.23,1.0
+BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,Other Specialty Retail,Q4,2012,2012-02-23 13:50:13,0.018,0.765,0.218,1.0
+BAX,Baxter International,Health Care,Health Care Equipment,Q4,2012,2013-01-24 17:00:00,0.022,0.767,0.211,1.0
+BDX,Becton Dickinson,Health Care,Health Care Equipment,Q4,2012,2012-11-07 11:50:08,0.031,0.765,0.205,1.0
+BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,Q4,2012,2012-03-29 17:00:04,0.018,0.735,0.247,1.0
+BIO,Bio-Rad,Health Care,Life Sciences Tools & Services,Q4,2012,2013-02-26 21:10:17,0.016,0.773,0.211,1.0
+BIIB,Biogen,Health Care,Biotechnology,Q4,2012,2013-01-28 13:30:11,0.029,0.772,0.199,1.0
+BLK,BlackRock,Financials,Asset Management & Custody Banks,Q4,2012,2013-01-17 15:10:06,0.032,0.759,0.209,1.0
+BX,Blackstone,Financials,Asset Management & Custody Banks,Q4,2012,2013-01-31 17:00:00,0.041,0.733,0.226,1.0
+BA,Boeing,Industrials,Aerospace & Defense,Q4,2012,2013-01-30 12:36:05,0.034,0.756,0.21,0.9999
+BKNG,Booking Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q4,2012,2013-02-26 18:47:02,0.0,0.977,0.023,0.6369
+BWA,BorgWarner,Consumer Discretionary,Automotive Parts & Equipment,Q4,2012,2013-02-14 15:51:12,0.033,0.775,0.192,1.0
+BXP,Boston Properties,Real Estate,Office REITs,Q4,2012,2013-01-30 17:00:02,0.035,0.802,0.163,1.0
+BSX,Boston Scientific,Health Care,Health Care Equipment,Q4,2012,2013-01-29 18:41:45,0.03,0.756,0.214,1.0
+BMY,Bristol Myers Squibb,Health Care,Pharmaceuticals,Q4,2012,2013-01-24 12:54:01,0.031,0.73,0.239,1.0
+AVGO,Broadcom Inc.,Information Technology,Semiconductors,Q4,2012,2012-11-29 23:18:02,0.035,0.798,0.167,1.0
+BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,Q4,2012,2012-08-09 16:21:05,0.02,0.72,0.26,1.0
+BRO,Brown & Brown,Financials,Insurance Brokers,Q4,2012,2013-02-04 12:30:07,0.032,0.792,0.175,1.0
+BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,Q4,2012,2012-06-06 15:00:04,0.026,0.743,0.231,1.0
+BLDR,Builders FirstSource,Industrials,Building Products,Q4,2012,2013-02-22 13:40:18,0.045,0.759,0.196,0.9999
+BG,Bunge Global SA,Consumer Staples,Agricultural Products & Services,Q4,2012,2013-02-07 14:20:22,0.056,0.755,0.189,1.0
+CDNS,Cadence Design Systems,Information Technology,Application Software,Q4,2012,2013-01-30 00:00:00,0.019,0.742,0.24,1.0
+CZR,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming,Q4,2012,2013-02-25 21:20:08,0.039,0.767,0.194,1.0
+CPT,Camden Property Trust,Real Estate,Multi-Family Residential REITs,Q4,2012,2013-02-01 18:11:04,0.035,0.753,0.212,1.0
+CPB,Campbell Soup Company,Consumer Staples,Packaged Foods & Meats,Q4,2012,2012-09-04 14:00:10,0.033,0.77,0.197,1.0
+COF,Capital One,Financials,Consumer Finance,Q4,2012,2013-01-17 22:50:04,0.027,0.745,0.227,1.0
+CAH,Cardinal Health,Health Care,Health Care Distributors,Q4,2012,2012-08-02 13:20:10,0.025,0.769,0.205,1.0
+KMX,CarMax,Consumer Discretionary,Automotive Retail,Q4,2012,2012-04-05 14:40:06,0.028,0.781,0.191,1.0
+CCL,Carnival,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q4,2012,2012-12-20 15:20:06,0.035,0.787,0.178,1.0
+CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,Q4,2012,2013-01-28 15:36:02,0.016,0.863,0.121,0.9977
+CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data,Q4,2012,2013-02-08 15:00:06,0.021,0.757,0.221,1.0
+CBRE,CBRE Group,Real Estate,Real Estate Services,Q4,2012,2013-02-06 20:10:16,0.024,0.766,0.21,1.0
+CE,Celanese,Materials,Specialty Chemicals,Q4,2012,2013-01-29 18:40:36,0.022,0.755,0.224,1.0
+COR,Cencora,Health Care,Health Care Distributors,Q4,2012,2013-02-22 17:00:00,0.018,0.789,0.194,1.0
+CNC,Centene Corporation,Health Care,Managed Health Care,Q4,2012,2013-02-05 16:16:05,0.038,0.803,0.159,1.0
+CNP,CenterPoint Energy,Utilities,Multi-Utilities,Q4,2012,2013-02-27 16:00:04,0.027,0.761,0.212,1.0
+CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals,Q4,2012,2013-02-20 13:20:07,0.044,0.771,0.185,1.0
+CHRW,CH Robinson,Industrials,Air Freight & Logistics,Q4,2012,2013-02-05 21:10:05,0.028,0.764,0.208,1.0
+CRL,Charles River Laboratories,Health Care,Life Sciences Tools & Services,Q4,2012,2013-02-14 15:15:48,0.028,0.748,0.224,1.0
+CHTR,Charter Communications,Communication Services,Cable & Satellite,Q4,2012,2013-01-31 13:20:22,0.034,0.775,0.191,1.0
+CVX,Chevron Corporation,Energy,Integrated Oil & Gas,Q4,2012,2013-02-01 17:00:00,0.031,0.748,0.221,1.0
+CMG,Chipotle Mexican Grill,Consumer Discretionary,Restaurants,Q4,2012,2013-02-05 20:23:02,0.023,0.773,0.204,1.0
+CB,Chubb Limited,Financials,Property & Casualty Insurance,Q4,2012,2013-01-30 14:40:11,0.05,0.777,0.173,1.0
+CHD,Church & Dwight,Consumer Staples,Household Products,Q4,2012,2013-02-05 20:14:02,0.035,0.697,0.268,1.0
+CI,Cigna,Health Care,Health Care Services,Q4,2012,2013-02-07 14:40:16,0.026,0.744,0.23,1.0
+CINF,Cincinnati Financial,Financials,Property & Casualty Insurance,Q4,2012,2013-02-07 17:17:02,0.074,0.686,0.24,1.0
+CTAS,Cintas,Industrials,Diversified Support Services,Q4,2012,2012-07-16 21:00:06,0.049,0.767,0.185,1.0
+CSCO,Cisco,Information Technology,Communications Equipment,Q4,2012,2012-08-15 19:20:05,0.029,0.723,0.248,1.0
+C,Citigroup,Financials,Diversified Banks,Q4,2012,2013-01-17 14:11:04,0.025,0.794,0.181,1.0
+CFG,Citizens Financial Group,Financials,Regional Banks,Q4,2012,2013-02-01 18:00:00,0.018,0.794,0.188,0.9999
+CLX,Clorox,Consumer Staples,Household Products,Q4,2012,2012-08-02 20:50:05,0.037,0.765,0.198,1.0
+CME,CME Group,Financials,Financial Exchanges & Data,Q4,2012,2013-02-05 22:50:09,0.025,0.782,0.193,1.0
+CMS,CMS Energy,Utilities,Multi-Utilities,Q4,2012,2013-02-21 13:31:04,0.016,0.746,0.238,1.0
+KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q4,2012,2013-02-12 13:27:06,0.016,0.731,0.253,1.0
+CTSH,Cognizant,Information Technology,IT Consulting & Other Services,Q4,2012,2013-02-07 12:20:06,0.016,0.778,0.206,1.0
+CL,Colgate-Palmolive,Consumer Staples,Household Products,Q4,2012,2013-01-31 16:10:06,0.038,0.741,0.221,1.0
+CMCSA,Comcast,Communication Services,Cable & Satellite,Q4,2012,2013-02-13 10:28:05,0.01,0.713,0.277,1.0
+CMA,Comerica,Financials,Diversified Banks,Q4,2012,2013-01-16 12:50:03,0.024,0.759,0.216,1.0
+CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,Q4,2012,2012-06-21 14:10:06,0.028,0.742,0.23,1.0
+COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,Q4,2012,2013-01-31 12:18:03,0.029,0.76,0.211,1.0
+STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,Q4,2012,2012-04-05 16:00:05,0.025,0.755,0.22,1.0
+COO,CooperCompanies,Health Care,Health Care Supplies,Q4,2012,2012-12-06 23:01:03,0.048,0.758,0.193,1.0
+CPRT,Copart,Industrials,Diversified Support Services,Q4,2012,2012-09-26 17:00:00,0.024,0.764,0.213,0.9999
+GLW,Corning Inc.,Information Technology,Electronic Components,Q4,2012,2013-01-29 12:39:03,0.053,0.766,0.18,1.0
+CPAY,Corpay,Financials,Transaction & Payment Processing Services,Q4,2012,2013-02-07 00:00:00,0.019,0.804,0.177,1.0
+CSGP,CoStar Group,Real Estate,Real Estate Services,Q4,2012,2013-02-28 17:40:03,0.026,0.784,0.19,1.0
+COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,Q4,2012,2012-10-10 13:24:04,0.029,0.81,0.161,1.0
+CTRA,Coterra,Energy,Oil & Gas Exploration & Production,Q4,2012,2013-02-19 17:00:12,0.038,0.763,0.199,1.0
+CCI,Crown Castle,Real Estate,Telecom Tower REITs,Q4,2012,2013-01-24 14:20:54,0.018,0.8,0.182,1.0
+CSX,CSX,Industrials,Rail Transportation,Q4,2012,2013-01-23 12:39:02,0.035,0.836,0.129,0.9987
+CMI,Cummins,Industrials,Construction Machinery & Heavy Transportation Equipment,Q4,2012,2012-11-14 14:20:07,0.043,0.789,0.168,1.0
+CVS,CVS Health,Health Care,Health Care Services,Q4,2012,2013-02-06 17:00:00,0.026,0.759,0.215,1.0
+DHR,Danaher Corporation,Health Care,Life Sciences Tools & Services,Q4,2012,2013-01-29 13:00:19,0.031,0.757,0.212,1.0
+DRI,Darden Restaurants,Consumer Discretionary,Restaurants,Q4,2012,2012-06-22 15:00:06,0.025,0.773,0.201,1.0
+DVA,DaVita Inc.,Health Care,Health Care Services,Q4,2012,2013-02-14 18:40:07,0.045,0.763,0.191,1.0
+DECK,Deckers Brands,Consumer Discretionary,Footwear,Q4,2012,2013-02-28 22:10:20,0.034,0.777,0.189,1.0
+DE,John Deere,Industrials,Agricultural & Farm Machinery,Q4,2012,2012-11-21 15:06:03,0.042,0.747,0.211,1.0
+DAL,Delta Air Lines,Industrials,Passenger Airlines,Q4,2012,2013-01-22 15:09:03,0.037,0.733,0.23,1.0
+DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,Q4,2012,2013-02-20 14:40:06,0.016,0.814,0.17,0.9999
+DXCM,Dexcom,Health Care,Health Care Equipment,Q4,2012,2013-02-21 21:21:03,0.024,0.786,0.19,1.0
+FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production,Q4,2012,2013-02-26 17:00:00,0.029,0.769,0.201,1.0
+DLR,Digital Realty,Real Estate,Data Center REITs,Q4,2012,2013-02-15 19:32:02,0.023,0.783,0.194,1.0
+DFS,Discover Financial,Financials,Consumer Finance,Q4,2012,2012-12-20 15:50:07,0.023,0.754,0.223,1.0
+DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,Q4,2012,2012-03-22 00:00:00,0.027,0.762,0.21,1.0
+DLTR,Dollar Tree,Consumer Staples,Consumer Staples Merchandise Retail,Q4,2012,2013-02-27 13:00:25,0.027,0.752,0.221,1.0
+D,Dominion Energy,Utilities,Multi-Utilities,Q4,2012,2013-01-31 14:10:13,0.022,0.803,0.174,0.9999
+DPZ,Domino's,Consumer Discretionary,Restaurants,Q4,2012,2013-02-28 15:20:18,0.016,0.741,0.243,1.0
+DOV,Dover Corporation,Industrials,Industrial Machinery & Supplies & Components,Q4,2012,2013-01-24 14:52:03,0.021,0.748,0.231,1.0
+DOW,Dow Inc.,Materials,Commodity Chemicals,Q4,2012,2013-01-31 17:00:00,0.045,0.73,0.225,1.0
+DHI,DR Horton,Consumer Discretionary,Homebuilding,Q4,2012,2012-11-12 16:10:48,0.037,0.767,0.197,1.0
+DTE,DTE Energy,Utilities,Multi-Utilities,Q4,2012,2013-02-20 12:10:10,0.016,0.775,0.209,1.0
+DUK,Duke Energy,Utilities,Electric Utilities,Q4,2012,2013-02-13 12:19:05,0.0,0.674,0.326,0.9974
+DD,DuPont,Materials,Specialty Chemicals,Q4,2012,2013-01-31 15:49:01,0.044,0.734,0.222,1.0
+EMN,Eastman Chemical Company,Materials,Specialty Chemicals,Q4,2012,2013-02-01 15:00:05,0.029,0.762,0.21,1.0
+ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,Q4,2012,2013-02-05 15:43:03,0.0,0.902,0.098,0.8689
+EBAY,eBay,Consumer Discretionary,Broadline Retail,Q4,2012,2013-01-16 20:30:04,0.024,0.756,0.22,1.0
+ECL,Ecolab,Materials,Specialty Chemicals,Q4,2012,2013-02-26 17:50:04,0.033,0.709,0.258,1.0
+EIX,Edison International,Utilities,Electric Utilities,Q4,2012,2013-02-26 21:20:14,0.023,0.784,0.193,1.0
+EW,Edwards Lifesciences,Health Care,Health Care Equipment,Q4,2012,2013-02-04 00:00:00,0.029,0.756,0.215,1.0
+EA,Electronic Arts,Communication Services,Interactive Home Entertainment,Q4,2012,2012-05-07 21:50:06,0.05,0.737,0.213,1.0
+ELV,Elevance Health,Health Care,Managed Health Care,Q4,2012,2013-01-23 12:50:12,0.032,0.771,0.197,1.0
+LLY,Eli Lilly and Company,Health Care,Pharmaceuticals,Q4,2012,2013-01-29 11:17:07,0.046,0.73,0.224,1.0
+EMR,Emerson Electric,Industrials,Electrical Components & Equipment,Q4,2012,2012-11-06 20:30:10,0.045,0.759,0.195,1.0
+ENPH,Enphase,Information Technology,Semiconductor Materials & Equipment,Q4,2012,2013-02-26 20:50:12,0.04,0.745,0.215,0.9999
+ETR,Entergy,Utilities,Electric Utilities,Q4,2012,2013-02-08 15:40:38,0.032,0.776,0.192,1.0
+EOG,EOG Resources,Energy,Oil & Gas Exploration & Production,Q4,2012,2013-02-14 12:15:07,0.049,0.738,0.214,1.0
+EPAM,EPAM Systems,Information Technology,IT Consulting & Other Services,Q4,2012,2013-02-28 18:20:16,0.026,0.769,0.205,1.0
+EQT,EQT Corporation,Energy,Oil & Gas Exploration & Production,Q4,2012,2013-01-24 13:40:16,0.04,0.795,0.164,0.9999
+EFX,Equifax,Industrials,Research & Consulting Services,Q4,2012,2013-02-07 14:20:20,0.028,0.758,0.214,1.0
+EQIX,Equinix,Real Estate,Data Center REITs,Q4,2012,2013-02-13 21:20:03,0.025,0.779,0.196,1.0
+EQR,Equity Residential,Real Estate,Multi-Family Residential REITs,Q4,2012,2013-02-06 15:20:09,0.042,0.759,0.2,1.0
+ESS,Essex Property Trust,Real Estate,Multi-Family Residential REITs,Q4,2012,2013-02-01 18:25:03,0.027,0.75,0.223,1.0
+EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,Q4,2012,2012-08-14 16:40:07,0.019,0.727,0.254,1.0
+EG,Everest Re,Financials,Reinsurance,Q4,2012,2013-02-07 16:40:11,0.042,0.711,0.247,1.0
+ES,Eversource,Utilities,Electric Utilities,Q4,2012,2013-02-20 13:10:29,0.031,0.779,0.19,1.0
+EXC,Exelon,Utilities,Electric Utilities,Q4,2012,2013-02-07 14:56:00,0.0,0.977,0.023,0.8225
+EXPE,Expedia Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q4,2012,2013-02-05 20:30:07,0.022,0.75,0.228,1.0
+EXR,Extra Space Storage,Real Estate,Self-Storage REITs,Q4,2012,2013-02-22 18:04:05,0.016,0.768,0.217,1.0
+XOM,ExxonMobil,Energy,Integrated Oil & Gas,Q4,2012,2013-02-01 14:10:19,0.039,0.785,0.176,1.0
+FFIV,"F5, Inc.",Information Technology,Communications Equipment,Q4,2012,2012-10-24 23:02:02,0.025,0.753,0.223,1.0
+FDS,FactSet,Financials,Financial Exchanges & Data,Q4,2012,2012-09-25 16:12:03,0.028,0.77,0.203,1.0
+FICO,Fair Isaac,Information Technology,Application Software,Q4,2012,2012-11-01 18:40:05,0.022,0.769,0.209,0.9999
+FAST,Fastenal,Industrials,Trading Companies & Distributors,Q4,2012,2013-01-17 14:50:06,0.025,0.785,0.19,1.0
+FRT,Federal Realty,Real Estate,Retail REITs,Q4,2012,2013-02-13 17:52:02,0.027,0.751,0.222,1.0
+FDX,FedEx,Industrials,Air Freight & Logistics,Q4,2012,2012-06-19 12:10:06,0.025,0.764,0.211,1.0
+FITB,Fifth Third Bank,Financials,Diversified Banks,Q4,2012,2013-01-17 14:40:09,0.03,0.755,0.215,1.0
+FSLR,First Solar,Information Technology,Semiconductors,Q4,2012,2013-02-26 19:21:04,0.035,0.813,0.152,0.9997
+FE,FirstEnergy,Utilities,Electric Utilities,Q4,2012,2013-02-25 17:20:05,0.031,0.746,0.223,1.0
+FMC,FMC Corporation,Materials,Fertilizers & Agricultural Chemicals,Q4,2012,2013-02-07 18:00:09,0.032,0.777,0.19,1.0
+F,Ford Motor Company,Consumer Discretionary,Automobile Manufacturers,Q4,2012,2013-01-29 18:40:14,0.0,0.934,0.066,0.9698
+FTNT,Fortinet,Information Technology,Systems Software,Q4,2012,2013-01-30 23:45:10,0.02,0.714,0.266,1.0
+BEN,Franklin Templeton,Financials,Asset Management & Custody Banks,Q4,2012,2012-10-25 19:20:03,0.042,0.752,0.206,1.0
+FCX,Freeport-McMoRan,Materials,Copper,Q4,2012,2013-01-22 12:38:04,0.039,0.786,0.174,1.0
+GRMN,Garmin,Consumer Discretionary,Consumer Electronics,Q4,2012,2013-02-20 13:50:05,0.038,0.758,0.205,1.0
+IT,Gartner,Information Technology,IT Consulting & Other Services,Q4,2012,2013-02-07 19:10:08,0.026,0.742,0.232,1.0
+GE,GE Aerospace,Industrials,Aerospace & Defense,Q4,2012,2013-01-18 13:19:02,0.023,0.745,0.232,1.0
+GEN,Gen Digital,Information Technology,Systems Software,Q4,2012,2012-05-02 20:50:04,0.015,0.791,0.195,1.0
+GNRC,Generac,Industrials,Electrical Components & Equipment,Q4,2012,2013-02-14 15:36:02,0.024,0.741,0.236,1.0
+GD,General Dynamics,Industrials,Aerospace & Defense,Q4,2012,2013-01-23 15:10:05,0.042,0.785,0.173,1.0
+GIS,General Mills,Consumer Staples,Packaged Foods & Meats,Q4,2012,2012-06-27 14:00:42,0.015,0.747,0.238,1.0
+GM,General Motors,Consumer Discretionary,Automobile Manufacturers,Q4,2012,2013-02-14 12:17:04,0.021,0.75,0.229,1.0
+GPC,Genuine Parts Company,Consumer Discretionary,Distributors,Q4,2012,2013-02-19 15:20:06,0.031,0.746,0.223,1.0
+GILD,Gilead Sciences,Health Care,Biotechnology,Q4,2012,2013-02-04 18:40:05,0.033,0.766,0.201,1.0
+GPN,Global Payments,Financials,Transaction & Payment Processing Services,Q4,2012,2012-07-26 21:30:03,0.026,0.765,0.209,1.0
+GL,Globe Life,Financials,Life & Health Insurance,Q4,2012,2013-02-05 17:46:05,0.027,0.761,0.213,1.0
+GS,Goldman Sachs,Financials,Investment Banking & Brokerage,Q4,2012,2013-01-16 15:00:08,0.041,0.742,0.217,1.0
+HAL,Halliburton,Energy,Oil & Gas Equipment & Services,Q4,2012,2013-01-25 13:31:03,0.036,0.742,0.223,1.0
+HIG,Hartford (The),Financials,Property & Casualty Insurance,Q4,2012,2013-02-05 15:40:10,0.061,0.725,0.213,1.0
+HAS,Hasbro,Consumer Discretionary,Leisure Products,Q4,2012,2013-02-07 21:00:06,0.026,0.773,0.201,1.0
+HCA,HCA Healthcare,Health Care,Health Care Facilities,Q4,2012,2013-02-05 17:00:00,0.024,0.781,0.195,1.0
+DOC,Healthpeak,Real Estate,Health Care REITs,Q4,2012,2013-02-12 00:00:00,0.033,0.756,0.211,1.0
+HSIC,Henry Schein,Health Care,Health Care Distributors,Q4,2012,2013-02-13 15:00:09,0.027,0.742,0.231,1.0
+HSY,Hershey's,Consumer Staples,Packaged Foods & Meats,Q4,2012,2013-01-31 13:00:07,0.015,0.755,0.229,1.0
+HES,Hess Corporation,Energy,Integrated Oil & Gas,Q4,2012,2013-01-30 14:00:12,0.028,0.778,0.194,1.0
+HOLX,Hologic,Health Care,Health Care Equipment,Q4,2012,2012-11-12 23:00:03,0.037,0.781,0.182,1.0
+HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,Q4,2012,2013-02-26 12:30:32,0.032,0.758,0.211,1.0
+HON,Honeywell,Industrials,Industrial Conglomerates,Q4,2012,2013-01-25 13:50:06,0.029,0.752,0.219,1.0
+HRL,Hormel Foods,Consumer Staples,Packaged Foods & Meats,Q4,2012,2012-11-20 12:10:04,0.021,0.753,0.227,1.0
+HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,Q4,2012,2013-02-21 15:40:10,0.035,0.764,0.201,1.0
+HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",Q4,2012,2012-05-01 23:20:07,0.042,0.766,0.192,1.0
+HUBB,Hubbell Incorporated,Industrials,Industrial Machinery & Supplies & Components,Q4,2012,2013-01-24 13:29:07,0.022,0.732,0.246,1.0
+HUM,Humana,Health Care,Managed Health Care,Q4,2012,2013-02-04 14:00:36,0.033,0.776,0.191,1.0
+HBAN,Huntington Bancshares,Financials,Regional Banks,Q4,2012,2013-01-17 13:00:10,0.035,0.75,0.216,1.0
+HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,Q4,2012,2013-02-27 13:20:17,0.039,0.793,0.167,1.0
+IBM,IBM,Information Technology,IT Consulting & Other Services,Q4,2012,2013-01-22 20:12:03,0.017,0.77,0.213,0.9981
+IEX,IDEX Corporation,Industrials,Industrial Machinery & Supplies & Components,Q4,2012,2013-02-05 12:52:05,0.025,0.75,0.224,1.0
+IDXX,Idexx Laboratories,Health Care,Health Care Equipment,Q4,2012,2013-01-29 18:40:29,0.023,0.774,0.203,1.0
+ITW,Illinois Tool Works,Industrials,Industrial Machinery & Supplies & Components,Q4,2012,2013-01-29 18:41:44,0.028,0.798,0.175,1.0
+ILMN,Illumina,Health Care,Life Sciences Tools & Services,Q4,2012,2013-01-28 22:00:24,0.028,0.79,0.182,1.0
+INCY,Incyte,Health Care,Biotechnology,Q4,2012,2013-02-14 13:04:16,0.041,0.749,0.211,1.0
+IR,Ingersoll Rand,Industrials,Industrial Machinery & Supplies & Components,Q4,2012,2013-02-01 14:14:05,0.03,0.755,0.215,1.0
+PODD,Insulet,Health Care,Health Care Equipment,Q4,2012,2013-02-28 00:57:01,0.037,0.742,0.221,1.0
+INTC,Intel,Information Technology,Semiconductors,Q4,2012,2013-01-17 20:17:04,0.03,0.768,0.201,1.0
+ICE,Intercontinental Exchange,Financials,Financial Exchanges & Data,Q4,2012,2013-02-06 13:10:09,0.035,0.729,0.237,1.0
+IFF,International Flavors & Fragrances,Materials,Specialty Chemicals,Q4,2012,2013-02-07 16:10:21,0.027,0.676,0.297,1.0
+IP,International Paper,Materials,Paper & Plastic Packaging Products & Materials,Q4,2012,2013-01-29 18:41:40,0.036,0.783,0.181,1.0
+IPG,Interpublic Group of Companies (The),Communication Services,Advertising,Q4,2012,2013-02-22 13:10:08,0.027,0.724,0.25,1.0
+INTU,Intuit,Information Technology,Application Software,Q4,2012,2012-08-21 22:10:04,0.013,0.782,0.206,1.0
+ISRG,Intuitive Surgical,Health Care,Health Care Equipment,Q4,2012,2013-01-22 19:05:05,0.031,0.799,0.17,1.0
+IVZ,Invesco,Financials,Asset Management & Custody Banks,Q4,2012,2013-01-31 18:30:06,0.03,0.748,0.221,1.0
+IRM,Iron Mountain,Real Estate,Other Specialized REITs,Q4,2012,2013-02-28 13:50:02,0.026,0.753,0.221,1.0
+JBL,Jabil,Information Technology,Electronic Manufacturing Services,Q4,2012,2012-09-25 22:57:02,0.032,0.757,0.211,1.0
+JKHY,Jack Henry & Associates,Financials,Transaction & Payment Processing Services,Q4,2012,2012-08-15 00:00:00,0.035,0.753,0.212,0.9999
+J,Jacobs Solutions,Industrials,Construction & Engineering,Q4,2012,2012-11-13 15:40:07,0.026,0.743,0.231,1.0
+JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,Q4,2012,2013-01-22 13:40:03,0.027,0.729,0.244,1.0
+JCI,Johnson Controls,Industrials,Building Products,Q4,2012,2012-10-30 16:10:03,0.04,0.787,0.173,1.0
+JPM,JPMorgan Chase,Financials,Diversified Banks,Q4,2012,2013-01-16 14:18:00,0.033,0.786,0.181,1.0
+JNPR,Juniper Networks,Information Technology,Communications Equipment,Q4,2012,2013-01-24 21:20:06,0.028,0.736,0.237,1.0
+K,Kellanova,Consumer Staples,Packaged Foods & Meats,Q4,2012,2013-02-05 16:40:04,0.022,0.721,0.257,1.0
+KEY,KeyCorp,Financials,Regional Banks,Q4,2012,2013-01-24 14:10:26,0.015,0.763,0.222,1.0
+KMB,Kimberly-Clark,Consumer Staples,Household Products,Q4,2012,2013-01-25 13:25:05,0.03,0.714,0.257,1.0
+KIM,Kimco Realty,Real Estate,Retail REITs,Q4,2012,2013-02-06 14:50:09,0.031,0.765,0.204,1.0
+KMI,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,Q4,2012,2013-01-16 00:00:00,0.037,0.731,0.231,1.0
+KLAC,KLA Corporation,Information Technology,Semiconductor Materials & Equipment,Q4,2012,2012-07-26 20:40:04,0.03,0.817,0.153,0.9999
+KR,Kroger,Consumer Staples,Food Retail,Q4,2012,2012-03-01 00:00:00,0.033,0.718,0.248,1.0
+LHX,L3Harris,Industrials,Aerospace & Defense,Q4,2012,2012-07-31 12:40:05,0.023,0.759,0.218,1.0
+LH,LabCorp,Health Care,Health Care Services,Q4,2012,2013-02-08 13:20:03,0.031,0.773,0.195,1.0
+LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,Q4,2012,2012-07-25 21:10:04,0.026,0.778,0.196,1.0
+LVS,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,Q4,2012,2013-01-30 22:10:06,0.025,0.763,0.212,1.0
+LDOS,Leidos,Industrials,Diversified Support Services,Q4,2012,2012-03-20 20:40:35,0.022,0.725,0.253,1.0
+LEN,Lennar,Consumer Discretionary,Homebuilding,Q4,2012,2013-01-15 15:40:06,0.052,0.758,0.191,1.0
+LYV,Live Nation Entertainment,Communication Services,Movies & Entertainment,Q4,2012,2013-02-26 19:50:05,0.027,0.783,0.19,0.9999
+LKQ,LKQ Corporation,Consumer Discretionary,Distributors,Q4,2012,2013-02-28 15:10:17,0.057,0.784,0.16,0.9999
+LMT,Lockheed Martin,Industrials,Aerospace & Defense,Q4,2012,2013-01-24 17:46:08,0.032,0.757,0.21,1.0
+L,Loews Corporation,Financials,Multi-line Insurance,Q4,2012,2013-02-11 14:30:29,0.038,0.773,0.189,0.9999
+LOW,Lowe's,Consumer Discretionary,Home Improvement Retail,Q4,2012,2012-02-27 00:00:00,0.039,0.736,0.225,1.0
+LULU,Lululemon Athletica,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q4,2012,2013-03-21 00:00:00,0.04,0.804,0.156,0.9999
+LYB,LyondellBasell,Materials,Specialty Chemicals,Q4,2012,2013-02-01 17:07:04,0.037,0.745,0.218,1.0
+MTB,M&T Bank,Financials,Regional Banks,Q4,2012,2013-01-16 17:00:00,0.038,0.788,0.174,1.0
+MRO,Marathon Oil,Energy,Oil & Gas Exploration & Production,Q4,2012,2013-02-06 16:36:04,0.03,0.718,0.252,1.0
+MPC,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing,Q4,2012,2013-01-30 14:17:02,0.046,0.735,0.219,1.0
+MKTX,MarketAxess,Financials,Financial Exchanges & Data,Q4,2012,2013-01-30 16:12:01,0.017,0.76,0.223,1.0
+MAR,Marriott International,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q4,2012,2013-02-07 15:50:04,0.035,0.761,0.204,1.0
+MMC,Marsh McLennan,Financials,Insurance Brokers,Q4,2012,2013-02-12 12:00:59,0.02,0.768,0.212,1.0
+MLM,Martin Marietta Materials,Materials,Construction Materials,Q4,2012,2013-02-12 16:12:05,0.027,0.767,0.206,1.0
+MAS,Masco,Industrials,Building Products,Q4,2012,2013-02-12 12:50:26,0.025,0.766,0.209,1.0
+MA,Mastercard,Financials,Transaction & Payment Processing Services,Q4,2012,2013-01-31 13:17:05,0.002,0.862,0.135,0.9982
+MKC,McCormick & Company,Consumer Staples,Packaged Foods & Meats,Q4,2012,2013-01-24 12:50:13,0.036,0.765,0.198,1.0
+MCD,McDonald's,Consumer Discretionary,Restaurants,Q4,2012,2013-01-23 15:47:05,0.016,0.843,0.141,0.9982
+MCK,McKesson Corporation,Health Care,Health Care Distributors,Q4,2012,2012-04-30 21:10:03,0.022,0.751,0.227,1.0
+MDT,Medtronic,Health Care,Health Care Equipment,Q4,2012,2012-05-22 17:00:00,0.029,0.728,0.243,1.0
+MRK,Merck & Co.,Health Care,Pharmaceuticals,Q4,2012,2013-02-01 17:00:00,0.036,0.762,0.201,1.0
+META,Meta Platforms,Communication Services,Interactive Media & Services,Q4,2012,2013-01-30 22:08:02,0.0,0.98,0.02,0.5859
+MET,MetLife,Financials,Life & Health Insurance,Q4,2012,2013-02-14 12:50:13,0.046,0.793,0.161,1.0
+MTD,Mettler Toledo,Health Care,Life Sciences Tools & Services,Q4,2012,2013-02-06 23:18:03,0.031,0.739,0.23,1.0
+MGM,MGM Resorts,Consumer Discretionary,Casinos & Gaming,Q4,2012,2013-02-20 15:40:22,0.019,0.745,0.236,1.0
+MCHP,Microchip Technology,Information Technology,Semiconductors,Q4,2012,2012-05-02 15:30:00,0.034,0.778,0.187,1.0
+MU,Micron Technology,Information Technology,Semiconductors,Q4,2012,2012-09-27 20:40:03,0.036,0.778,0.186,1.0
+MSFT,Microsoft,Information Technology,Systems Software,Q4,2012,2012-07-20 17:00:00,0.017,0.765,0.217,1.0
+MAA,Mid-America Apartment Communities,Real Estate,Multi-Family Residential REITs,Q4,2012,2013-02-07 16:17:05,0.041,0.713,0.247,1.0
+MHK,Mohawk Industries,Consumer Discretionary,Home Furnishings,Q4,2012,2013-02-22 15:30:07,0.031,0.772,0.198,1.0
+MOH,Molina Healthcare,Health Care,Managed Health Care,Q4,2012,2013-02-07 20:20:08,0.02,0.778,0.202,1.0
+TAP,Molson Coors Beverage Company,Consumer Staples,Brewers,Q4,2012,2013-02-14 21:00:00,0.022,0.812,0.166,0.9994
+MDLZ,Mondelez International,Consumer Staples,Packaged Foods & Meats,Q4,2012,2013-02-13 20:59:04,0.036,0.729,0.235,1.0
+MPWR,Monolithic Power Systems,Information Technology,Semiconductors,Q4,2012,2013-02-06 23:36:02,0.025,0.754,0.221,1.0
+MNST,Monster Beverage,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q4,2012,2013-02-27 21:30:07,0.047,0.762,0.191,1.0
+MCO,Moody's Corporation,Financials,Financial Exchanges & Data,Q4,2012,2013-02-08 14:40:10,0.046,0.773,0.181,1.0
+MS,Morgan Stanley,Financials,Investment Banking & Brokerage,Q4,2012,2013-01-18 17:00:00,0.034,0.763,0.203,1.0
+MOS,Mosaic Company (The),Materials,Fertilizers & Agricultural Chemicals,Q4,2012,2012-07-17 11:50:06,0.051,0.786,0.163,0.9999
+MSI,Motorola Solutions,Information Technology,Communications Equipment,Q4,2012,2013-01-23 12:30:13,0.025,0.768,0.207,1.0
+MSCI,MSCI,Financials,Financial Exchanges & Data,Q4,2012,2013-02-07 16:00:52,0.048,0.774,0.177,1.0
+NDAQ,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,Q4,2012,2013-01-31 13:40:10,0.023,0.723,0.253,1.0
+NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals",Q4,2012,2012-05-23 22:00:02,0.043,0.771,0.186,1.0
+NFLX,Netflix,Communication Services,Movies & Entertainment,Q4,2012,2013-01-23 20:29:01,0.026,0.72,0.254,1.0
+NEM,Newmont,Materials,Gold,Q4,2012,2013-02-15 15:57:00,0.023,0.751,0.226,1.0
+NWSA,News Corp (Class A),Communication Services,Publishing,Q4,2012,2012-08-08 22:50:05,0.02,0.764,0.216,1.0
+NWS,News Corp (Class B),Communication Services,Publishing,Q4,2012,2012-08-08 22:50:05,0.02,0.764,0.216,1.0
+NEE,NextEra Energy,Utilities,Multi-Utilities,Q4,2012,2013-01-29 18:41:45,0.027,0.753,0.22,1.0
+NKE,"Nike, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q4,2012,2012-06-28 20:50:06,0.034,0.712,0.254,1.0
+NI,NiSource,Utilities,Multi-Utilities,Q4,2012,2013-02-19 12:02:34,0.013,0.782,0.205,1.0
+NDSN,Nordson Corporation,Industrials,Industrial Machinery & Supplies & Components,Q4,2012,2012-12-14 17:00:00,0.023,0.744,0.233,1.0
+NSC,Norfolk Southern Railway,Industrials,Rail Transportation,Q4,2012,2013-01-22 21:10:04,0.036,0.781,0.183,1.0
+NTRS,Northern Trust,Financials,Asset Management & Custody Banks,Q4,2012,2013-01-16 16:00:13,0.028,0.772,0.2,1.0
+NOC,Northrop Grumman,Industrials,Aerospace & Defense,Q4,2012,2013-01-30 16:30:02,0.035,0.753,0.212,1.0
+NRG,NRG Energy,Utilities,Independent Power Producers & Energy Traders,Q4,2012,2013-02-27 15:01:39,0.033,0.767,0.2,1.0
+NUE,Nucor,Materials,Steel,Q4,2012,2013-01-29 18:41:40,0.029,0.745,0.226,1.0
+NVDA,Nvidia,Information Technology,Semiconductors,Q4,2012,2012-02-15 21:20:03,0.049,0.775,0.176,1.0
+NXPI,NXP Semiconductors,Information Technology,Semiconductors,Q4,2012,2013-01-31 14:45:04,0.046,0.7,0.254,1.0
+ORLY,O'Reilly Auto Parts,Consumer Discretionary,Automotive Retail,Q4,2012,2013-02-07 16:00:50,0.038,0.733,0.228,1.0
+OXY,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,Q4,2012,2013-01-31 16:50:09,0.042,0.809,0.149,1.0
+ODFL,Old Dominion,Industrials,Cargo Ground Transportation,Q4,2012,2013-02-07 19:30:05,0.03,0.773,0.198,1.0
+OMC,Omnicom Group,Communication Services,Advertising,Q4,2012,2013-02-12 12:30:07,0.026,0.761,0.213,1.0
+ON,ON Semiconductor,Information Technology,Semiconductors,Q4,2012,2013-02-07 11:50:05,0.023,0.8,0.178,1.0
+OKE,ONEOK,Energy,Oil & Gas Storage & Transportation,Q4,2012,2013-02-26 15:16:04,0.048,0.734,0.218,1.0
+ORCL,Oracle Corporation,Information Technology,Application Software,Q4,2012,2012-06-19 14:50:08,0.021,0.761,0.218,1.0
+PCAR,Paccar,Industrials,Construction Machinery & Heavy Transportation Equipment,Q4,2012,2013-01-31 16:10:04,0.018,0.765,0.218,1.0
+PKG,Packaging Corporation of America,Materials,Paper & Plastic Packaging Products & Materials,Q4,2012,2013-01-22 14:40:22,0.032,0.802,0.167,1.0
+PARA,Paramount Global,Communication Services,Movies & Entertainment,Q4,2012,2013-02-14 21:20:03,0.014,0.761,0.225,1.0
+PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components,Q4,2012,2012-08-04 17:00:00,0.028,0.748,0.225,1.0
+PAYX,Paychex,Industrials,Human Resource & Employment Services,Q4,2012,2012-06-28 17:00:05,0.022,0.765,0.213,1.0
+PNR,Pentair,Industrials,Industrial Machinery & Supplies & Components,Q4,2012,2013-01-29 18:40:15,0.022,0.763,0.214,1.0
+PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Q4,2012,2013-02-14 11:21:02,0.0,1.0,0.0,0.0
+PFE,Pfizer,Health Care,Pharmaceuticals,Q4,2012,2013-01-30 17:00:00,0.029,0.739,0.232,1.0
+PCG,PG&E Corporation,Utilities,Multi-Utilities,Q4,2012,2013-02-21 16:50:20,0.033,0.79,0.177,1.0
+PM,Philip Morris International,Consumer Staples,Tobacco,Q4,2012,2013-02-07 16:02:05,0.021,0.732,0.247,0.9999
+PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,Q4,2012,2013-01-30 17:00:00,0.068,0.726,0.206,1.0
+PNW,Pinnacle West,Utilities,Multi-Utilities,Q4,2012,2013-02-22 15:10:16,0.027,0.778,0.195,1.0
+PNC,PNC Financial Services,Financials,Regional Banks,Q4,2012,2013-01-17 14:40:10,0.023,0.781,0.196,1.0
+POOL,Pool Corporation,Consumer Discretionary,Distributors,Q4,2012,2013-02-14 16:20:08,0.036,0.747,0.217,1.0
+PPG,PPG Industries,Materials,Specialty Chemicals,Q4,2012,2013-01-14 14:20:06,0.025,0.786,0.189,1.0
+PPL,PPL Corporation,Utilities,Electric Utilities,Q4,2012,2013-02-14 14:10:12,0.022,0.799,0.18,1.0
+PFG,Principal Financial Group,Financials,Life & Health Insurance,Q4,2012,2013-02-01 14:50:07,0.018,0.762,0.22,1.0
+PG,Procter & Gamble,Consumer Staples,Personal Care Products,Q4,2012,2012-08-03 17:00:00,0.022,0.708,0.27,1.0
+PGR,Progressive Corporation,Financials,Property & Casualty Insurance,Q4,2012,2013-02-28 14:10:04,0.045,0.768,0.187,1.0
+PLD,Prologis,Real Estate,Industrial REITs,Q4,2012,2013-01-31 20:53:01,0.028,0.76,0.212,1.0
+PRU,Prudential Financial,Financials,Life & Health Insurance,Q4,2012,2013-02-07 16:10:19,0.043,0.782,0.175,1.0
+PEG,Public Service Enterprise Group,Utilities,Electric Utilities,Q4,2012,2013-02-21 15:50:12,0.03,0.801,0.169,1.0
+PTC,PTC,Information Technology,Application Software,Q4,2012,2012-11-01 12:20:08,0.035,0.76,0.205,1.0
+PSA,Public Storage,Real Estate,Self-Storage REITs,Q4,2012,2013-02-22 15:10:15,0.02,0.836,0.144,0.9999
+PHM,PulteGroup,Consumer Discretionary,Homebuilding,Q4,2012,2013-01-31 14:00:38,0.034,0.755,0.211,1.0
+QRVO,Qorvo,Information Technology,Semiconductors,Q4,2012,2012-04-24 22:50:05,0.022,0.792,0.186,1.0
+PWR,Quanta Services,Industrials,Construction & Engineering,Q4,2012,2013-02-21 14:30:15,0.037,0.777,0.186,1.0
+QCOM,Qualcomm,Information Technology,Semiconductors,Q4,2012,2012-11-07 22:00:08,0.023,0.812,0.165,1.0
+DGX,Quest Diagnostics,Health Care,Health Care Services,Q4,2012,2013-01-23 12:20:08,0.03,0.761,0.209,1.0
+RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q4,2012,2012-05-22 13:00:03,0.025,0.745,0.23,1.0
+RJF,Raymond James,Financials,Investment Banking & Brokerage,Q4,2012,2012-10-26 17:00:00,0.028,0.791,0.181,1.0
+RTX,RTX Corporation,Industrials,Aerospace & Defense,Q4,2012,2013-01-24 14:00:56,0.024,0.783,0.193,1.0
+O,Realty Income,Real Estate,Retail REITs,Q4,2012,2013-02-14 20:20:04,0.016,0.798,0.187,1.0
+REG,Regency Centers,Real Estate,Retail REITs,Q4,2012,2013-01-31 18:30:04,0.031,0.755,0.214,1.0
+REGN,Regeneron,Health Care,Biotechnology,Q4,2012,2013-02-14 13:53:03,0.017,0.795,0.188,1.0
+RF,Regions Financial Corporation,Financials,Regional Banks,Q4,2012,2013-01-22 14:50:11,0.028,0.756,0.216,1.0
+RSG,Republic Services,Industrials,Environmental & Facilities Services,Q4,2012,2013-02-08 17:00:00,0.033,0.772,0.194,1.0
+RMD,ResMed,Health Care,Health Care Equipment,Q4,2012,2012-08-02 23:50:02,0.028,0.77,0.201,1.0
+RVTY,Revvity,Health Care,Health Care Equipment,Q4,2012,2013-02-01 17:00:00,0.025,0.772,0.203,1.0
+RHI,Robert Half,Industrials,Human Resource & Employment Services,Q4,2012,2013-01-29 20:30:02,0.043,0.791,0.167,1.0
+ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,Q4,2012,2012-11-05 12:30:10,0.037,0.746,0.216,1.0
+ROL,"Rollins, Inc.",Industrials,Environmental & Facilities Services,Q4,2012,2013-01-23 00:00:00,0.035,0.729,0.236,1.0
+ROP,Roper Technologies,Information Technology,Electronic Equipment & Instruments,Q4,2012,2013-01-28 12:22:04,0.024,0.749,0.226,1.0
+ROST,Ross Stores,Consumer Discretionary,Apparel Retail,Q4,2012,2012-03-15 00:00:00,0.024,0.756,0.22,1.0
+RCL,Royal Caribbean Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Q4,2012,2013-02-04 13:50:25,0.035,0.778,0.187,1.0
+SPGI,S&P Global,Financials,Financial Exchanges & Data,Q4,2012,2013-02-12 17:00:00,0.061,0.733,0.206,1.0
+CRM,Salesforce,Information Technology,Application Software,Q4,2012,2012-02-23 21:00:06,0.023,0.781,0.196,1.0
+SBAC,SBA Communications,Real Estate,Telecom Tower REITs,Q4,2012,2013-02-22 14:50:05,0.028,0.781,0.191,1.0
+SLB,Schlumberger,Energy,Oil & Gas Equipment & Services,Q4,2012,2013-01-18 13:00:06,0.036,0.766,0.198,1.0
+STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals",Q4,2012,2012-07-30 20:30:06,0.04,0.758,0.202,1.0
+SRE,Sempra Energy,Utilities,Multi-Utilities,Q4,2012,2013-02-26 17:00:07,0.021,0.791,0.188,1.0
+SHW,Sherwin-Williams,Materials,Specialty Chemicals,Q4,2012,2013-01-31 17:10:03,0.028,0.789,0.182,1.0
+SPG,Simon Property Group,Real Estate,Retail REITs,Q4,2012,2013-02-04 16:50:10,0.025,0.77,0.205,1.0
+SWKS,Skyworks Solutions,Information Technology,Semiconductors,Q4,2012,2012-11-01 23:30:10,0.024,0.779,0.197,1.0
+SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,Q4,2012,2012-06-07 18:30:05,0.024,0.77,0.206,1.0
+SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,Q4,2012,2013-02-07 14:40:17,0.03,0.751,0.219,1.0
+SO,Southern Company,Utilities,Electric Utilities,Q4,2012,2013-01-30 18:06:02,0.0,0.988,0.012,0.6369
+LUV,Southwest Airlines,Industrials,Passenger Airlines,Q4,2012,2013-01-24 16:20:13,0.023,0.767,0.21,1.0
+SWK,Stanley Black & Decker,Industrials,Industrial Machinery & Supplies & Components,Q4,2012,2013-01-24 14:40:09,0.022,0.75,0.228,1.0
+SBUX,Starbucks,Consumer Discretionary,Restaurants,Q4,2012,2012-11-01 19:56:01,0.015,0.741,0.244,1.0
+STT,State Street Corporation,Financials,Asset Management & Custody Banks,Q4,2012,2013-01-18 14:10:06,0.022,0.776,0.202,1.0
+STLD,Steel Dynamics,Materials,Steel,Q4,2012,2013-01-29 18:41:41,0.029,0.775,0.196,1.0
+STE,Steris,Health Care,Health Care Equipment,Q4,2012,2012-05-08 00:00:00,0.038,0.764,0.198,1.0
+SYK,Stryker Corporation,Health Care,Health Care Equipment,Q4,2012,2013-01-23 22:40:03,0.037,0.749,0.215,1.0
+SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",Q4,2012,2012-08-08 23:51:01,0.049,0.738,0.213,1.0
+SNPS,Synopsys,Information Technology,Application Software,Q4,2012,2012-12-05 21:30:06,0.015,0.764,0.22,1.0
+SYY,Sysco,Consumer Staples,Food Distributors,Q4,2012,2012-08-13 15:00:07,0.036,0.754,0.21,1.0
+TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services,Q4,2012,2013-02-26 13:20:05,0.028,0.785,0.187,1.0
+TTWO,Take-Two Interactive,Communication Services,Interactive Home Entertainment,Q4,2012,2012-05-22 00:00:00,0.043,0.729,0.228,1.0
+TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",Q4,2012,2012-07-31 13:00:04,0.019,0.795,0.186,1.0
+TRGP,Targa Resources,Energy,Oil & Gas Storage & Transportation,Q4,2012,2013-02-14 17:39:01,0.018,0.767,0.216,1.0
+TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,Q4,2012,2012-02-23 00:00:00,0.029,0.734,0.237,1.0
+TEL,TE Connectivity,Information Technology,Electronic Manufacturing Services,Q4,2012,2012-11-05 11:48:05,0.039,0.749,0.212,1.0
+TDY,Teledyne Technologies,Information Technology,Electronic Equipment & Instruments,Q4,2012,2013-01-24 18:00:00,0.016,0.805,0.179,1.0
+TFX,Teleflex,Health Care,Health Care Equipment,Q4,2012,2013-02-21 11:50:27,0.037,0.78,0.183,1.0
+TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,Q4,2012,2013-01-24 14:40:10,0.025,0.798,0.178,1.0
+TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,Q4,2012,2013-02-20 20:45:13,0.033,0.715,0.252,1.0
+TXN,Texas Instruments,Information Technology,Semiconductors,Q4,2012,2013-01-22 22:50:02,0.055,0.802,0.143,0.9999
+TXT,Textron,Industrials,Aerospace & Defense,Q4,2012,2013-01-23 14:00:10,0.03,0.792,0.178,1.0
+TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,Q4,2012,2013-02-04 21:00:08,0.027,0.781,0.192,1.0
+TJX,TJX Companies,Consumer Discretionary,Apparel Retail,Q4,2012,2012-02-22 16:40:04,0.02,0.746,0.234,1.0
+TSCO,Tractor Supply,Consumer Discretionary,Other Specialty Retail,Q4,2012,2013-01-30 21:58:02,0.039,0.766,0.195,1.0
+TT,Trane Technologies,Industrials,Building Products,Q4,2012,2013-02-01 00:00:00,0.027,0.769,0.204,1.0
+TDG,TransDigm Group,Industrials,Aerospace & Defense,Q4,2012,2012-11-16 11:34:03,0.037,0.737,0.226,1.0
+TRV,Travelers Companies (The),Financials,Property & Casualty Insurance,Q4,2012,2013-01-22 13:10:11,0.064,0.754,0.182,1.0
+TRMB,Trimble Inc.,Information Technology,Electronic Equipment & Instruments,Q4,2012,2013-02-05 22:54:02,0.025,0.761,0.214,1.0
+TFC,Truist,Financials,Regional Banks,Q4,2012,2013-01-17 13:40:05,0.032,0.731,0.237,1.0
+TYL,Tyler Technologies,Information Technology,Application Software,Q4,2012,2013-02-07 12:33:02,0.014,0.773,0.214,1.0
+TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,Q4,2012,2012-11-19 16:20:03,0.028,0.755,0.217,1.0
+USB,U.S. Bank,Financials,Diversified Banks,Q4,2012,2013-01-16 13:00:06,0.038,0.762,0.2,1.0
+UDR,"UDR, Inc.",Real Estate,Multi-Family Residential REITs,Q4,2012,2013-02-05 15:50:13,0.036,0.739,0.225,1.0
+ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,Q4,2012,2013-03-14 00:00:00,0.019,0.742,0.239,1.0
+UNP,Union Pacific Corporation,Industrials,Rail Transportation,Q4,2012,2013-01-24 16:00:51,0.043,0.74,0.216,1.0
+UAL,United Airlines Holdings,Industrials,Passenger Airlines,Q4,2012,2013-01-24 16:30:10,0.034,0.721,0.245,1.0
+UPS,United Parcel Service,Industrials,Air Freight & Logistics,Q4,2012,2013-01-31 13:04:03,0.054,0.753,0.192,0.9999
+URI,United Rentals,Industrials,Trading Companies & Distributors,Q4,2012,2013-01-24 17:27:03,0.028,0.736,0.236,1.0
+UHS,Universal Health Services,Health Care,Health Care Facilities,Q4,2012,2013-03-01 12:40:20,0.049,0.787,0.164,0.9999
+VLO,Valero Energy,Energy,Oil & Gas Refining & Marketing,Q4,2012,2013-01-29 18:40:40,0.057,0.741,0.202,1.0
+VTR,Ventas,Real Estate,Health Care REITs,Q4,2012,2013-02-15 15:00:19,0.021,0.75,0.229,1.0
+VRSN,Verisign,Information Technology,Internet Services & Infrastructure,Q4,2012,2013-01-24 20:30:07,0.021,0.776,0.203,1.0
+VRSK,Verisk,Industrials,Research & Consulting Services,Q4,2012,2013-02-27 12:40:06,0.028,0.744,0.227,1.0
+VZ,Verizon,Communication Services,Integrated Telecommunication Services,Q4,2012,2013-01-22 12:11:05,0.0,0.973,0.027,0.4939
+VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,Q4,2012,2013-01-29 21:36:01,0.022,0.792,0.186,1.0
+VTRS,Viatris,Health Care,Pharmaceuticals,Q4,2012,2013-02-27 23:50:16,0.021,0.759,0.22,1.0
+V,Visa Inc.,Financials,Transaction & Payment Processing Services,Q4,2012,2012-10-31 21:20:04,0.028,0.759,0.213,1.0
+VMC,Vulcan Materials Company,Materials,Construction Materials,Q4,2012,2013-03-07 13:10:09,0.019,0.775,0.206,0.9999
+WRB,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,Q4,2012,2013-01-29 18:40:06,0.071,0.717,0.211,0.9999
+GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,Q4,2012,2013-01-24 09:30:08,0.037,0.776,0.186,0.9998
+WAB,Wabtec,Industrials,Construction Machinery & Heavy Transportation Equipment,Q4,2012,2013-02-19 18:40:07,0.02,0.769,0.212,1.0
+WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,Q4,2012,2012-09-28 12:40:05,0.026,0.752,0.222,1.0
+WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,Q4,2012,2012-02-21 13:50:03,0.037,0.715,0.247,1.0
+DIS,Walt Disney Company (The),Communication Services,Movies & Entertainment,Q4,2012,2012-11-08 21:20:06,0.027,0.769,0.204,1.0
+WBD,Warner Bros. Discovery,Communication Services,Broadcasting,Q4,2012,2013-02-14 14:00:09,0.022,0.723,0.255,1.0
+WM,Waste Management,Industrials,Environmental & Facilities Services,Q4,2012,2013-02-14 11:51:04,0.041,0.732,0.227,1.0
+WAT,Waters Corporation,Health Care,Life Sciences Tools & Services,Q4,2012,2013-01-22 12:10:16,0.035,0.743,0.222,1.0
+WEC,WEC Energy Group,Utilities,Electric Utilities,Q4,2012,2013-01-30 20:10:03,0.025,0.796,0.179,1.0
+WFC,Wells Fargo,Financials,Diversified Banks,Q4,2012,2013-01-11 16:56:04,0.035,0.73,0.235,1.0
+WELL,Welltower,Real Estate,Health Care REITs,Q4,2012,2013-02-26 14:30:04,0.027,0.75,0.223,1.0
+WST,West Pharmaceutical Services,Health Care,Health Care Supplies,Q4,2012,2013-02-21 13:10:05,0.02,0.785,0.195,1.0
+WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals",Q4,2012,2012-07-25 20:10:03,0.03,0.763,0.207,1.0
+WRK,WestRock,Materials,Paper & Plastic Packaging Products & Materials,Q4,2012,2012-11-02 00:00:00,0.04,0.778,0.182,1.0
+WY,Weyerhaeuser,Real Estate,Timber REITs,Q4,2012,2013-01-25 14:40:05,0.034,0.789,0.177,1.0
+WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,Q4,2012,2013-02-21 15:10:48,0.028,0.776,0.195,1.0
+WTW,Willis Towers Watson,Financials,Insurance Brokers,Q4,2012,2013-02-13 00:00:00,0.02,0.723,0.258,1.0
+WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,Q4,2012,2013-01-31 22:20:05,0.029,0.748,0.223,1.0
+XEL,Xcel Energy,Utilities,Multi-Utilities,Q4,2012,2013-01-31 14:10:10,0.034,0.772,0.194,1.0
+XYL,Xylem Inc.,Industrials,Industrial Machinery & Supplies & Components,Q4,2012,2013-02-07 16:09:03,0.033,0.75,0.217,1.0
+YUM,Yum! Brands,Consumer Discretionary,Restaurants,Q4,2012,2013-02-05 14:02:01,0.022,0.959,0.018,-0.0258
+ZBRA,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,Q4,2012,2013-02-12 14:16:04,0.028,0.73,0.242,1.0
+ZBH,Zimmer Biomet,Health Care,Health Care Equipment,Q4,2012,2013-01-31 14:20:08,0.025,0.759,0.217,1.0
